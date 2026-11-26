@@ -1,0 +1,871 @@
+[
+  {
+    "id": "05-001",
+    "modulo": 5,
+    "titulo": "María, la Mamá de Jesús",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Conocer a María como la Madre de Jesús y nuestra Madre del cielo.",
+    "materiales": [
+      "Una imagen de la Virgen María"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la imagen y pregunta: ¿Quién es ella? ¿Qué sabemos de María?",
+      "Cuenta que Dios eligió a María para ser la mamá de Jesús, y ella lo cuidó con mucho amor.",
+      "Pregunta: ¿Qué hace una mamá? Cuida, abraza, enseña, escucha.",
+      "Explica que María hace lo mismo con nosotros desde el cielo.",
+      "Cada niño dice una cosa que quiere contarle a María."
+    ],
+    "para_los_mas_pequenos": "Que solo saluden a María con la mano y una sonrisa.",
+    "para_los_mayores": "Que comparen a María con sus propias mamás o abuelas.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 43",
+      "mensaje": "Isabel dijo: ¿Quién soy yo para que la madre de mi Señor venga a visitarme?"
+    },
+    "mensaje_final": "María es la Mamá de Jesús y mi Mamá."
+  },
+  {
+    "id": "05-002",
+    "modulo": 5,
+    "titulo": "El Canto de María",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Conocer el Magníficat, el canto de alegría y alabanza de María.",
+    "materiales": [
+      "Hojas con frases del Magníficat en lenguaje sencillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que, al visitar a Isabel, María cantó de alegría alabando a Dios.",
+      "Lee algunas frases: «Mi alma alaba al Señor, mi espíritu se alegra en Dios, mi Salvador».",
+      "En grupos pequeños, elijan una frase y pónganle una melodía sencilla o ritmo de palmas.",
+      "Cada grupo canta su frase y todos juntos forman el «canto de María».",
+      "Conversen: ¿Por qué estaba tan feliz María? ¿Por qué podemos alabar nosotros a Dios?"
+    ],
+    "para_los_mas_pequenos": "Que repitan solo la primera frase con palmas.",
+    "para_los_mayores": "Que escriban su propio canto de alabanza con tres frases.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 46-47",
+      "mensaje": "María dijo: Mi alma alaba al Señor y mi espíritu se alegra en Dios."
+    },
+    "mensaje_final": "Con María, alabo a Dios."
+  },
+  {
+    "id": "05-003",
+    "modulo": 5,
+    "titulo": "El Cofre del Corazón de María",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender de María a guardar en el corazón lo que Dios nos dice.",
+    "materiales": [
+      "Cajitas pequeñas",
+      "Papel de colores",
+      "Pegamento",
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que María guardaba en su corazón todo lo que pasaba con Jesús y lo pensaba en silencio.",
+      "Cada niño decora una cajita con forma o dibujos de corazón.",
+      "En papelitos, escriben o dibujan cosas bonitas que Dios hizo en su vida.",
+      "Guardan los papelitos en la cajita.",
+      "Anímalos a agregar uno nuevo cada semana."
+    ],
+    "para_los_mas_pequenos": "Que guarden un dibujo y tú escribes una palabra.",
+    "para_los_mayores": "Que escriban también una frase del Evangelio que quieren guardar.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 19",
+      "mensaje": "María guardaba todas estas cosas en su corazón."
+    },
+    "mensaje_final": "Guardo en mi corazón lo que Dios hace por mí."
+  },
+  {
+    "id": "05-004",
+    "modulo": 5,
+    "titulo": "Una Corona de Flores para María",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Expresar el cariño a María ofreciéndole flores y buenas acciones.",
+    "materiales": [
+      "Un aro de cartulina",
+      "Flores de papel de colores",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que muchas familias regalan flores a María para demostrarle su amor.",
+      "Cada niño decora una o dos flores de papel.",
+      "En el centro de cada flor, escriben o dibujan una buena acción que ofrecen a María.",
+      "Peguen las flores en el aro formando una corona.",
+      "Coronen la imagen de María cantando o rezando juntos."
+    ],
+    "para_los_mas_pequenos": "Que peguen flores ya recortadas en el aro.",
+    "para_los_mayores": "Que escriban una pequeña oración a María en una cinta de la corona.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 48",
+      "mensaje": "Desde ahora todas las generaciones me llamarán feliz."
+    },
+    "mensaje_final": "Le regalo a María flores de amor."
+  },
+  {
+    "id": "05-005",
+    "modulo": 5,
+    "titulo": "Juan Diego y la Señora del Tepeyac",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer la aparición de la Virgen de Guadalupe a san Juan Diego.",
+    "materiales": [
+      "Una tela o manta (tilma)",
+      "Un manto azul con estrellas (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Juan Diego, un indígena humilde, caminaba por el cerro del Tepeyac en México cuando escuchó un canto hermoso.",
+      "Una niña es la Virgen; un niño es Juan Diego; otro es el obispo.",
+      "La Virgen le pide a Juan Diego que vaya con el obispo para construir una iglesia.",
+      "El obispo no le cree y le pide una señal. Juan Diego vuelve triste al cerro.",
+      "Conversen: María eligió a una persona sencilla; Dios ama a los humildes."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean los pájaros que cantan en el cerro.",
+    "para_los_mayores": "Que investiguen el año de la aparición (1531) y en qué país ocurrió.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 52",
+      "mensaje": "Dios levanta a los humildes."
+    },
+    "mensaje_final": "María ama a los humildes como Juan Diego."
+  },
+  {
+    "id": "05-006",
+    "modulo": 5,
+    "titulo": "Las Rosas en la Tilma",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar la señal de la Virgen de Guadalupe: rosas en invierno y su imagen en la tilma.",
+    "materiales": [
+      "Papel kraft o tela",
+      "Rosas de papel rojo y rosado",
+      "Pegamento",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que la Virgen pidió a Juan Diego recoger rosas en el cerro, aunque era invierno.",
+      "Cada niño recorta un rectángulo de papel kraft como la tilma.",
+      "Peguen rosas de papel en la tilma.",
+      "Cuenta que, al abrir la tilma ante el obispo, las rosas cayeron y apareció la imagen de la Virgen.",
+      "Dibujen la imagen de la Virgen en el centro de la tilma o peguen una estampa."
+    ],
+    "para_los_mas_pequenos": "Que peguen bolitas de papel rojo como rosas.",
+    "para_los_mayores": "Que describan los detalles de la imagen: manto de estrellas, manos juntas, la luna.",
+    "cita_biblica": {
+      "referencia": "Salmo 113, 7",
+      "mensaje": "Dios levanta del polvo al pobre."
+    },
+    "mensaje_final": "María deja señales de su amor."
+  },
+  {
+    "id": "05-007",
+    "modulo": 5,
+    "titulo": "¿No Estoy Yo Aquí, que Soy tu Madre?",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Confiar en María como Madre que nos cuida en las preocupaciones.",
+    "materiales": [
+      "Una imagen de la Virgen de Guadalupe"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Juan Diego estaba preocupado por su tío enfermo y la Virgen le dijo: «¿No estoy yo aquí, que soy tu Madre?».",
+      "Coloca la imagen en el centro y pide silencio.",
+      "Cada niño piensa en una preocupación y la entrega a María en su corazón.",
+      "Tú repites la frase de la Virgen para todo el grupo.",
+      "Terminen rezando juntos un Avemaría."
+    ],
+    "para_los_mas_pequenos": "Que digan juntos: «María, cuídame».",
+    "para_los_mayores": "Que escriban su preocupación en un papelito y lo dejen junto a la imagen.",
+    "cita_biblica": {
+      "referencia": "Juan 19, 27",
+      "mensaje": "Jesús dijo: Ahí tienes a tu madre."
+    },
+    "mensaje_final": "María está aquí y me cuida."
+  },
+  {
+    "id": "05-008",
+    "modulo": 5,
+    "titulo": "Mi Ángel de la Guarda",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que Dios nos regala un ángel que nos acompaña y protege.",
+    "materiales": [
+      "Platos de papel o cartulina",
+      "Lápices de colores",
+      "Pegamento",
+      "Algodón o papel blanco"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Dios da a cada persona un ángel de la guarda que la cuida.",
+      "Cada niño hace un ángel: el plato doblado como vestido, un círculo como cara y alas de papel o algodón.",
+      "Escriban en las alas: «Mi ángel me cuida».",
+      "Pongan un nombre a su ángel si quieren y cuenten dónde lo colocarán en casa.",
+      "Recen juntos la oración del Ángel de la Guarda."
+    ],
+    "para_los_mas_pequenos": "Que decoren un ángel ya recortado.",
+    "para_los_mayores": "Que escriban la oración del Ángel de la Guarda en el reverso.",
+    "cita_biblica": {
+      "referencia": "Salmo 91, 11",
+      "mensaje": "Dios mandará a sus ángeles para que te cuiden en todos tus caminos."
+    },
+    "mensaje_final": "Mi ángel de la guarda me acompaña siempre."
+  },
+  {
+    "id": "05-009",
+    "modulo": 5,
+    "titulo": "El Ángel Protector",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Vivir de forma divertida que nuestro ángel nos protege.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Elige a un niño como «el lobo» que intenta tocar a los demás.",
+      "Elige a otro como «ángel», que puede proteger.",
+      "Si el ángel toma de la mano a un niño, el lobo no puede tocarlo.",
+      "Cambien de lobo y de ángel cada cierto tiempo.",
+      "Conversen: así nos cuida nuestro ángel de la guarda de los peligros."
+    ],
+    "para_los_mas_pequenos": "Juega en un espacio pequeño y que caminen en lugar de correr.",
+    "para_los_mayores": "Que agreguen más ángeles y nombren de qué nos protegen (miedo, mentira, peligro).",
+    "cita_biblica": {
+      "referencia": "Éxodo 23, 20",
+      "mensaje": "Dios dijo: Envío un ángel delante de ti para cuidarte en el camino."
+    },
+    "mensaje_final": "Dios me protege por medio de mi ángel."
+  },
+  {
+    "id": "05-010",
+    "modulo": 5,
+    "titulo": "Miguel, Gabriel y Rafael",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer a los tres arcángeles y su misión en la Biblia.",
+    "materiales": [
+      "Tarjetas con: espada (Miguel), mensaje (Gabriel), camino (Rafael)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Biblia nombra a tres arcángeles: Miguel, que defiende; Gabriel, que anuncia; y Rafael, que acompaña y sana.",
+      "Forma tres grupos y entrega a cada uno una tarjeta.",
+      "Cada grupo prepara una escena corta: Miguel defendiendo el bien, Gabriel anunciando a María, Rafael acompañando a Tobías.",
+      "Representen las escenas y el resto adivina qué arcángel es.",
+      "Terminen diciendo: «San Miguel, San Gabriel, San Rafael, rueguen por nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que imiten con gestos: espada, trompeta, caminar.",
+    "para_los_mayores": "Que expliquen qué significa el nombre de cada arcángel.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 19",
+      "mensaje": "El ángel dijo: Yo soy Gabriel y Dios me envió a darte esta buena noticia."
+    },
+    "mensaje_final": "Los ángeles sirven a Dios y nos ayudan."
+  },
+  {
+    "id": "05-011",
+    "modulo": 5,
+    "titulo": "El Taller de San José",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer a San José como trabajador y protector de la Sagrada Familia.",
+    "materiales": [
+      "Bloques, cajas o palitos",
+      "Una caja de «herramientas» (de juguete o dibujadas)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que San José era carpintero y enseñó a Jesús a trabajar.",
+      "Forma equipos de «carpinteros».",
+      "Cada equipo construye con bloques algo útil: una mesa, una silla, una casa.",
+      "Presenten sus obras y expliquen para qué sirven.",
+      "Conversen: San José trabajaba con amor; ¿cómo ayudamos en casa con nuestro trabajo?"
+    ],
+    "para_los_mas_pequenos": "Que construyan juntos una torre o casa sencilla.",
+    "para_los_mayores": "Que piensen en un trabajo que pueden ofrecer a Dios esta semana.",
+    "cita_biblica": {
+      "referencia": "Mateo 13, 55",
+      "mensaje": "La gente decía de Jesús: ¿No es este el hijo del carpintero?"
+    },
+    "mensaje_final": "Con San José, trabajo con amor."
+  },
+  {
+    "id": "05-012",
+    "modulo": 5,
+    "titulo": "La Escoba de San Martín",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer a San Martín de Porres, que servía a todos con humildad y alegría.",
+    "materiales": [
+      "Una escoba",
+      "Bolitas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que San Martín de Porres vivió en Lima, Perú; era humilde, barría el convento y cuidaba a los enfermos y a los pobres.",
+      "Esparce bolitas de papel por el salón.",
+      "Por turnos, cada niño toma la escoba y barre una bolita hasta una caja diciendo: «Sirvo con alegría».",
+      "Cronometren cuánto tarda el grupo en limpiar todo.",
+      "Conversen: Martín hacía los trabajos sencillos con mucho amor. ¿Qué tarea sencilla podemos hacer con amor?"
+    ],
+    "para_los_mas_pequenos": "Que recojan las bolitas con las manos y canten.",
+    "para_los_mayores": "Que investiguen por qué lo llaman «Fray Escoba».",
+    "cita_biblica": {
+      "referencia": "Mateo 23, 11",
+      "mensaje": "El más grande entre ustedes será el que sirve a los demás."
+    },
+    "mensaje_final": "Sirvo a todos con alegría como San Martín."
+  },
+  {
+    "id": "05-013",
+    "modulo": 5,
+    "titulo": "Del Mismo Plato",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Aprender de San Martín de Porres a vivir en paz con todos.",
+    "materiales": [
+      "Un plato de plástico"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que se dice que San Martín logró que un perro, un gato y un ratón comieran juntos del mismo plato, sin pelear.",
+      "Tres niños hacen de perro, gato y ratón; al principio se gruñen y se persiguen.",
+      "Otro niño hace de San Martín: les habla con dulzura y les sirve en el mismo plato.",
+      "Los animales comen juntos tranquilos y el resto aplaude.",
+      "Conversen: ¿Con quién nos cuesta estar en paz? ¿Qué haría San Martín?"
+    ],
+    "para_los_mas_pequenos": "Que todos sean animales que aprenden a compartir.",
+    "para_los_mayores": "Que piensen en una situación de pelea en la escuela y cómo traer la paz.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 18",
+      "mensaje": "En lo que dependa de ustedes, vivan en paz con todos."
+    },
+    "mensaje_final": "Puedo ser constructor de paz."
+  },
+  {
+    "id": "05-014",
+    "modulo": 5,
+    "titulo": "Rosa de Lima, Flor de América",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer a Santa Rosa de Lima, primera santa de América, y su amor por los necesitados.",
+    "materiales": [
+      "Una rosa de papel o natural",
+      "Tarjetas con gestos de servicio"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santa Rosa vivió en Lima, Perú; rezaba mucho, trabajaba con sus manos para ayudar a su familia y cuidaba a los enfermos pobres en su casa.",
+      "Muestra la rosa y explica que su vida fue como una flor bella para Dios.",
+      "Pasa la rosa y cada niño dice una forma de ayudar a un enfermo o a alguien pobre.",
+      "Elijan juntos un gesto que puedan hacer como grupo.",
+      "Recen: «Santa Rosa de Lima, ruega por nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que digan una forma de ayudar en casa.",
+    "para_los_mayores": "Que comparen a Santa Rosa y San Martín, que vivieron en la misma ciudad y época.",
+    "cita_biblica": {
+      "referencia": "Mateo 25, 40",
+      "mensaje": "Jesús dijo: Lo que hicieron por uno de estos pequeños, lo hicieron por mí."
+    },
+    "mensaje_final": "Mi vida puede ser una flor para Dios."
+  },
+  {
+    "id": "05-015",
+    "modulo": 5,
+    "titulo": "Francisco, Repara mi Casa",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Conocer el llamado de San Francisco de Asís a reconstruir la Iglesia con amor.",
+    "materiales": [
+      "Cajas o bloques"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Francisco, rezando en una capilla en ruinas, escuchó a Jesús decirle: «Francisco, repara mi casa».",
+      "Cuenta que primero reparó la capilla con piedras, y luego entendió que Jesús le pedía renovar la Iglesia con su vida.",
+      "Dos equipos reconstruyen una «capilla» con los bloques pasándolos en cadena.",
+      "Al poner cada bloque, el niño dice cómo puede ayudar a su parroquia: cantar, servir, rezar.",
+      "Conversen: nosotros también reparamos la Iglesia cuando vivimos como Jesús."
+    ],
+    "para_los_mas_pequenos": "Que construyan juntos con tu ayuda.",
+    "para_los_mayores": "Que escriban en cada bloque una forma de ayudar a la parroquia.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 3, 9",
+      "mensaje": "Ustedes son edificio de Dios."
+    },
+    "mensaje_final": "Con mi vida, construyo la Iglesia."
+  },
+  {
+    "id": "05-016",
+    "modulo": 5,
+    "titulo": "El Hermano Lobo",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender de San Francisco a vencer el miedo y la violencia con bondad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que, según una antigua historia, un lobo asustaba al pueblo de Gubbio y San Francisco fue a hablarle con cariño.",
+      "Un niño es el lobo; otros son los habitantes asustados; otro es Francisco.",
+      "Francisco se acerca con calma, llama «hermano lobo» al lobo y le pide no hacer daño.",
+      "El lobo se tranquiliza y el pueblo promete darle de comer. Todos hacen las paces.",
+      "Conversen: la bondad puede cambiar el corazón de los demás."
+    ],
+    "para_los_mas_pequenos": "Que todos sean lobos que se calman cuando Francisco les habla.",
+    "para_los_mayores": "Que piensen cómo responder con bondad a alguien que los molesta.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 21",
+      "mensaje": "No te dejes vencer por el mal; vence el mal con el bien."
+    },
+    "mensaje_final": "Con bondad, venzo el mal."
+  },
+  {
+    "id": "05-017",
+    "modulo": 5,
+    "titulo": "El Caminito de Teresita",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir con Santa Teresita que podemos ser santos con pequeños gestos de amor.",
+    "materiales": [
+      "Piedritas o papelitos",
+      "Una caja"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santa Teresita del Niño Jesús decía que no hacía cosas grandes, sino cosas pequeñas con mucho amor.",
+      "Pregunta: ¿Qué cosas pequeñas podemos hacer con amor? Sonreír, compartir, obedecer sin quejarse.",
+      "Cada niño pone una piedrita en la caja por cada idea que dice.",
+      "Miren juntos cuántos «pasos» del caminito reunieron.",
+      "Elijan un pequeño gesto para ofrecer a Jesús cada día de la semana."
+    ],
+    "para_los_mas_pequenos": "Que pongan una piedrita y digan «Lo hago por Jesús».",
+    "para_los_mayores": "Que lleven una tarjeta para marcar sus pequeños gestos diarios.",
+    "cita_biblica": {
+      "referencia": "Lucas 16, 10",
+      "mensaje": "El que es fiel en lo pequeño también lo es en lo grande."
+    },
+    "mensaje_final": "Con pequeños gestos de amor me hago santo."
+  },
+  {
+    "id": "05-018",
+    "modulo": 5,
+    "titulo": "Lluvia de Rosas",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Pedir la intercesión de Santa Teresita por las personas que queremos.",
+    "materiales": [
+      "Pétalos o rosas de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santa Teresita prometió hacer caer desde el cielo una lluvia de rosas, es decir, de favores de Dios.",
+      "Entrega rosas de papel para que escriban el nombre de alguien por quien quieren rezar.",
+      "Lanzan todas las rosas al aire al mismo tiempo, como una lluvia.",
+      "Recogen una rosa que no sea la suya y rezan por esa persona.",
+      "Terminen: «Santa Teresita, ruega por nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que lancen pétalos sin escribir y tú nombras intenciones.",
+    "para_los_mayores": "Que escriban una petición concreta y una gracia.",
+    "cita_biblica": {
+      "referencia": "Santiago 5, 16",
+      "mensaje": "Recen unos por otros; la oración del justo tiene mucho poder."
+    },
+    "mensaje_final": "Rezo por los demás y Dios responde."
+  },
+  {
+    "id": "05-019",
+    "modulo": 5,
+    "titulo": "Gotas en el Océano",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender de Santa Teresa de Calcuta que cada acto de amor cuenta.",
+    "materiales": [
+      "Gotas de papel azul",
+      "Cartulina grande",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santa Teresa de Calcuta cuidaba a los más pobres y enfermos, y decía que lo que hacía era como una gota en el océano, pero que el océano sería menos sin esa gota.",
+      "Cada niño recibe varias gotas de papel y escribe en cada una un acto de amor.",
+      "Peguen todas las gotas en la cartulina formando un gran mar.",
+      "Lean juntos el «océano de amor» del grupo.",
+      "Recen por las personas pobres y enfermas."
+    ],
+    "para_los_mas_pequenos": "Que dibujen un corazón en la gota y la peguen.",
+    "para_los_mayores": "Que propongan un proyecto de servicio real para el grupo.",
+    "cita_biblica": {
+      "referencia": "1 Juan 3, 18",
+      "mensaje": "No amemos solo con palabras, sino con obras."
+    },
+    "mensaje_final": "Cada gota de amor cuenta."
+  },
+  {
+    "id": "05-020",
+    "modulo": 5,
+    "titulo": "Don Bosco, Amigo de los Niños",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Conocer a San Juan Bosco, que acercaba a los niños a Dios con alegría y juegos.",
+    "materiales": [
+      "Una pelota"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que San Juan Bosco era un sacerdote que reunía a los niños de la calle, jugaba con ellos y les enseñaba a amar a Dios.",
+      "Jueguen un juego de pelota sencillo en círculo, pasándola a quien no la haya recibido.",
+      "En cada pase, quien recibe dice una cosa que lo hace feliz.",
+      "Al final, explica que Don Bosco decía que la santidad consiste en estar muy alegres.",
+      "Terminen con una oración breve dando gracias por el juego y la amistad."
+    ],
+    "para_los_mas_pequenos": "Rueden la pelota sentados en el suelo.",
+    "para_los_mayores": "Que propongan cómo incluir en el juego a quien siempre queda solo.",
+    "cita_biblica": {
+      "referencia": "Filipenses 4, 4",
+      "mensaje": "Estén siempre alegres en el Señor."
+    },
+    "mensaje_final": "Ser santo es estar alegre con Jesús."
+  },
+  {
+    "id": "05-021",
+    "modulo": 5,
+    "titulo": "Domingo Savio, Niño Santo",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que los niños también pueden ser santos.",
+    "materiales": [
+      "Una tarjeta con la frase «Antes morir que pecar»"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santo Domingo Savio fue alumno de Don Bosco y quería ser santo desde pequeño.",
+      "Muestra su frase favorita y explica que significa que lo más importante era no ofender a Dios.",
+      "Cuenta que ayudaba a sus compañeros, los defendía y rezaba con alegría.",
+      "Pregunta: ¿Qué haría Domingo Savio en nuestra escuela?",
+      "Cada niño elige una acción para imitarlo esta semana."
+    ],
+    "para_los_mas_pequenos": "Explica con sencillez: «Domingo quería ser muy amigo de Jesús».",
+    "para_los_mayores": "Que escriban su propio lema para ser santos.",
+    "cita_biblica": {
+      "referencia": "1 Timoteo 4, 12",
+      "mensaje": "Que nadie te menosprecie por ser joven; sé ejemplo para los demás."
+    },
+    "mensaje_final": "Yo también puedo ser santo."
+  },
+  {
+    "id": "05-022",
+    "modulo": 5,
+    "titulo": "La Autopista al Cielo",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer a San Carlo Acutis y su amor por Jesús en la Eucaristía.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que San Carlo Acutis fue un joven de nuestro tiempo, que amaba la computación y usó internet para hablar de los milagros eucarísticos.",
+      "Explica su frase: «La Eucaristía es mi autopista al cielo».",
+      "Cada niño dibuja una carretera que va desde su casa hasta el cielo.",
+      "En el camino, dibujan señales: Misa, oración, perdón, ayudar.",
+      "Conversen: ¿Qué nos acerca a Jesús cada semana?"
+    ],
+    "para_los_mas_pequenos": "Que dibujen una carretera con una iglesia y un corazón.",
+    "para_los_mayores": "Que diseñen una publicación digital (en papel) para invitar a amigos a Misa.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 51",
+      "mensaje": "Jesús dijo: Yo soy el pan vivo bajado del cielo."
+    },
+    "mensaje_final": "La Eucaristía es mi camino al cielo."
+  },
+  {
+    "id": "05-023",
+    "modulo": 5,
+    "titulo": "Los Pastorcitos de Fátima",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Conocer a Francisco y Jacinta, niños santos que rezaban por la paz.",
+    "materiales": [
+      "Una imagen de la Virgen",
+      "Ovejitas de papel (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Francisco, Jacinta y su prima Lucía eran pastorcitos en Portugal, y la Virgen les pidió rezar mucho por la paz.",
+      "Explica que Francisco y Jacinta son santos, aunque eran niños.",
+      "Siéntense en el suelo como los pastorcitos con sus ovejas.",
+      "Recen juntos un Avemaría por la paz en el mundo y en sus familias.",
+      "Cada niño dice el nombre de un lugar o persona que necesita paz."
+    ],
+    "para_los_mas_pequenos": "Que repitan contigo «María, danos la paz».",
+    "para_los_mayores": "Que investiguen en qué año ocurrieron las apariciones (1917).",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 9",
+      "mensaje": "Felices los que trabajan por la paz."
+    },
+    "mensaje_final": "Los niños también rezan por la paz del mundo."
+  },
+  {
+    "id": "05-024",
+    "modulo": 5,
+    "titulo": "José Gregorio, Médico de los Pobres",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer a San José Gregorio Hernández, médico venezolano que servía a los enfermos pobres.",
+    "materiales": [
+      "Un maletín o bolsa",
+      "Vendas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que José Gregorio fue un médico de Venezuela que atendía gratis a los pobres y hasta les compraba las medicinas.",
+      "Un niño hace de José Gregorio con su maletín; otros son enfermos que esperan.",
+      "Él visita a cada enfermo, lo escucha, lo «cura» con vendas y reza con él.",
+      "Los enfermos agradecen y bendicen al doctor.",
+      "Conversen: ¿Cómo podemos cuidar a un enfermo de nuestra familia?"
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean los pacientes que se alegran.",
+    "para_los_mayores": "Que escriban una tarjeta para un enfermo conocido.",
+    "cita_biblica": {
+      "referencia": "Mateo 25, 36",
+      "mensaje": "Jesús dijo: Estuve enfermo y ustedes me visitaron."
+    },
+    "mensaje_final": "Cuidar a un enfermo es cuidar a Jesús."
+  },
+  {
+    "id": "05-025",
+    "modulo": 5,
+    "titulo": "Mónica, la Mamá que Rezaba",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir con Santa Mónica el valor de rezar con paciencia por nuestra familia.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Santa Mónica rezó muchos años por su hijo Agustín para que conociera a Jesús, y Dios escuchó su oración.",
+      "Explica que Agustín llegó a ser un gran santo.",
+      "Pide a los niños que piensen en alguien de su familia que necesita oración.",
+      "Cada uno dice en voz alta o en silencio: «Jesús, te pido por...».",
+      "Terminen rezando juntos: «Santa Mónica, ruega por nuestras familias»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo el nombre de la persona.",
+    "para_los_mayores": "Que se comprometan a rezar por esa persona toda la semana.",
+    "cita_biblica": {
+      "referencia": "Lucas 18, 1",
+      "mensaje": "Jesús enseñó que hay que rezar siempre, sin desanimarse."
+    },
+    "mensaje_final": "Mi oración por mi familia es muy valiosa."
+  },
+  {
+    "id": "05-026",
+    "modulo": 5,
+    "titulo": "¿Cómo se Llama mi Santo?",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que muchos tienen nombre de santo y que los santos son nuestros amigos.",
+    "materiales": [
+      "Tarjetas con nombres de santos",
+      "Una lista de santos con breve historia (para la catequista)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Alguien tiene nombre de santo? (José, María, Juan, Teresa, Francisco...).",
+      "Cada niño dice su nombre y, si coincide con un santo, cuéntale algo breve de ese santo.",
+      "Quienes no tengan nombre de santo eligen un santo amigo de una tarjeta.",
+      "Formen parejas para contarse quién es su santo.",
+      "Terminen: «Todos los santos, rueguen por nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo su nombre y tú nombras al santo.",
+    "para_los_mayores": "Que investiguen en casa la historia de su santo patrono.",
+    "cita_biblica": {
+      "referencia": "Hebreos 12, 1",
+      "mensaje": "Estamos rodeados de una gran nube de testigos."
+    },
+    "mensaje_final": "Los santos son mis amigos del cielo."
+  },
+  {
+    "id": "05-027",
+    "modulo": 5,
+    "titulo": "Bingo de los Santos",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Repasar de forma divertida a los santos que conocimos.",
+    "materiales": [
+      "Cartones de bingo con nombres o dibujos de santos",
+      "Fichas o botones"
+    ],
+    "preparacion": "Prepara cartones con 9 santos cada uno, combinados de forma distinta.",
+    "pasos": [
+      "Reparte un cartón y fichas a cada niño.",
+      "Lee una pista: «Barría el convento y cuidaba a los pobres en Lima».",
+      "Quien tenga a ese santo (Martín de Porres) pone una ficha.",
+      "El primero en completar una línea grita «¡Santo!» y cuenta algo de cada santo de su línea.",
+      "Sigan hasta completar el cartón."
+    ],
+    "para_los_mas_pequenos": "Usa dibujos y di el nombre del santo directamente.",
+    "para_los_mayores": "Que inventen ellos las pistas para el siguiente juego.",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 16",
+      "mensaje": "Que su luz brille para que vean sus buenas obras."
+    },
+    "mensaje_final": "Quiero vivir como los santos."
+  },
+  {
+    "id": "05-028",
+    "modulo": 5,
+    "titulo": "Todos los Santos, Rueguen por Nosotros",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender a pedir la ayuda de los santos con un canto de letanía.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que una letanía es una oración donde nombramos a los santos y respondemos «ruega por nosotros».",
+      "Canta o di un nombre: «Santa María», y los niños responden cantando: «Ruega por nosotros».",
+      "Sigue con santos conocidos: San José, San Martín, Santa Rosa, San Francisco, Santa Teresita.",
+      "Cada niño puede agregar el nombre de su santo favorito.",
+      "Terminen todos juntos: «Todos los santos de Dios, rueguen por nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que respondan solo «¡Ruega por nosotros!».",
+    "para_los_mayores": "Que uno dirija la letanía como solista.",
+    "cita_biblica": {
+      "referencia": "Apocalipsis 7, 9",
+      "mensaje": "Vi una multitud enorme de todas las naciones que alababa a Dios."
+    },
+    "mensaje_final": "Los santos rezan conmigo desde el cielo."
+  },
+  {
+    "id": "05-029",
+    "modulo": 5,
+    "titulo": "La Letanía de Mi Grupo",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que todos estamos llamados a ser santos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que los santos fueron personas como nosotros que amaron mucho a Dios.",
+      "Explica que Dios llama a todos a ser santos: ¡también a nosotros!",
+      "Canten una letanía con los nombres del grupo: «[Nombre], llamado a ser santo», y todos responden: «¡Aleluya!».",
+      "Que cada uno diga después de su nombre una virtud que quiere vivir.",
+      "Terminen con un gran aplauso para los «futuros santos»."
+    ],
+    "para_los_mas_pequenos": "Que solo respondan «¡Aleluya!» aplaudiendo.",
+    "para_los_mayores": "Que escriban su propia «biografía de santo» en tres frases.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 1, 16",
+      "mensaje": "Dios dice: Sean santos, porque yo soy santo."
+    },
+    "mensaje_final": "Dios me llama a ser santo."
+  },
+  {
+    "id": "05-030",
+    "modulo": 5,
+    "titulo": "Saludo a la Virgen con Flores",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Ofrecer a María nuestro cariño con un gesto sencillo y una oración.",
+    "materiales": [
+      "Flores de papel o naturales",
+      "Una imagen de la Virgen María"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la imagen de María en un lugar especial.",
+      "Entrega una flor a cada niño.",
+      "Por turnos, se acercan, dejan su flor y dicen: «María, Madre mía, te quiero».",
+      "Cuando todos hayan pasado, recen juntos un Avemaría.",
+      "Terminen cantando un canto mariano conocido por el grupo."
+    ],
+    "para_los_mas_pequenos": "Que dejen la flor tomados de tu mano.",
+    "para_los_mayores": "Que preparen una intención para cada flor.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 28",
+      "mensaje": "El ángel dijo: Alégrate, llena de gracia, el Señor está contigo."
+    },
+    "mensaje_final": "Le regalo mi cariño a María."
+  }
+]
