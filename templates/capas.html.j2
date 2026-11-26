@@ -1,0 +1,58 @@
+{% macro medalla() -%}
+<div class="medalla">
+  {{ ilus.medalla }}
+  <div class="txt">
+    <span class="ic icon">{{ ilus_mini_caliz }}</span>
+    <small>Ideal para</small>
+    <strong>Primera<br>Comunión</strong>
+  </div>
+</div>
+{%- endmacro %}
+
+{% if 1 in variants %}
+<section class="page capa v1" id="capa-v1">
+  <div class="frame-costura"></div>
+  <div class="top">
+    <div class="kicker">Material para catequistas</div>
+    <h1 class="titulo">Catequesis <span class="viva">Viva</span></h1>
+    <div class="sub"><b>+500</b> Dinámicas para Niños</div>
+  </div>
+  <div class="ilus">{{ ilus.ninos_ronda }}</div>
+  {{ medalla() }}
+  <div class="bottom">
+    <div class="linea">Encuentros listos para catequistas, mamás y maestras</div>
+    <div class="tag">Tu encuentro de catequesis listo en minutos: niños atentos, alegres y cerca de Jesús.</div>
+  </div>
+</section>
+{% endif %}
+
+{% if 2 in variants %}
+<section class="page capa v2" id="capa-v2">
+  <div class="arco">
+    <div class="sol"></div>
+    <div class="ilus">{{ ilus.ninos_ronda_sinfondo }}</div>
+  </div>
+  {{ medalla() }}
+  <div class="texto">
+    <h1 class="titulo">Catequesis <span class="viva">Viva</span></h1>
+    <div class="sub"><b>+500</b> Dinámicas para Niños</div>
+    <div class="divisor"></div>
+    <div class="linea">Encuentros listos para catequistas, mamás y maestras</div>
+  </div>
+</section>
+{% endif %}
+
+{% if 3 in variants %}
+<section class="page capa v3" id="capa-v3">
+  <div class="head">
+    <div class="kicker">Material para catequistas</div>
+    <h1 class="titulo">Catequesis<br><span class="viva">Viva</span></h1>
+    <div class="sub"><b>+500</b> Dinámicas para Niños</div>
+    <p class="tagline">Tu encuentro de catequesis listo en minutos: niños atentos, alegres y cerca de Jesús.</p>
+  </div>
+  {{ medalla() }}
+  <div class="colina"></div>
+  <div class="ilus">{{ ilus.ninos_ronda_sinfondo }}</div>
+  <div class="faixa"><span class="linea">Encuentros listos para catequistas, mamás y maestras</span></div>
+</section>
+{% endif %}

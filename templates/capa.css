@@ -1,0 +1,134 @@
+/* ============================ CAPAS ============================ */
+.capa { background: var(--bege-fundo); }
+.capa .ilus svg, .capa .medalla svg { width: 100%; height: 100%; display: block; }
+
+.capa .titulo {
+  font-family: var(--font-titulo);
+  font-weight: 600;
+  color: var(--cafe);
+  line-height: 0.95;
+  letter-spacing: -0.01em;
+}
+.capa .titulo .viva { color: #C9704F; }
+.capa .sub {
+  font-family: var(--font-titulo);
+  font-weight: 500;
+  color: var(--cafe);
+}
+.capa .sub b { font-weight: 700; color: #C9704F; }
+.capa .linea {
+  font-family: var(--font-corpo);
+  font-weight: 700;
+  color: var(--cafe);
+}
+.capa .kicker {
+  font-family: var(--font-titulo);
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--cafe-suave);
+  font-size: 11pt;
+}
+
+/* Medalha */
+.medalla { position: absolute; }
+.medalla .txt {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center;
+  font-family: var(--font-titulo);
+  color: var(--cafe);
+  line-height: 1.05;
+}
+.medalla .txt small { font-size: 10pt; font-weight: 500; letter-spacing: 0.08em; text-transform: uppercase; }
+.medalla .txt strong { font-size: 13.5pt; font-weight: 600; margin-top: 3px; }
+.medalla .txt .ic { width: 22px; height: 22px; margin-bottom: 2px; }
+
+.frame-costura {
+  position: absolute; inset: 0.32in;
+  border: 2.5px dashed var(--bege-escuro);
+  border-radius: 28px;
+  pointer-events: none;
+}
+
+/* ---------- V1: clássica centrada ---------- */
+.capa.v1 .frame-costura { inset: 0.35in; }
+.capa.v1 .top { position: absolute; top: 0.95in; left: 0; right: 0; text-align: center; }
+.capa.v1 .titulo { font-size: 74pt; margin-top: 14px; }
+.capa.v1 .sub {
+  display: inline-block; margin-top: 18px;
+  font-size: 23pt;
+  background: var(--creme);
+  border: 2.5px solid var(--bege-escuro);
+  border-radius: 999px;
+  padding: 6px 30px 8px;
+}
+.capa.v1 .ilus { position: absolute; left: 0.55in; right: 0.55in; top: 4.05in; height: 5.05in; }
+.capa.v1 .medalla { width: 1.8in; height: 1.8in; left: 0.62in; top: 3.55in; transform: rotate(-8deg); }
+.capa.v1 .bottom {
+  position: absolute; bottom: 0.78in; left: 0.8in; right: 0.8in; text-align: center;
+}
+.capa.v1 .linea { font-size: 15.5pt; }
+.capa.v1 .tag { font-size: 12pt; color: var(--cafe-suave); margin-top: 6px; font-style: italic; }
+
+/* ---------- V2: janela em arco ---------- */
+.capa.v2 { background: var(--bege-fundo); }
+.capa.v2 .arco {
+  position: absolute; left: 0.9in; right: 0.9in; top: 0.75in; height: 6.2in;
+  background: var(--creme);
+  border-radius: 3.4in 3.4in 32px 32px;
+  border: 3px solid var(--cafe);
+  box-shadow: 0 0 0 10px var(--bege-medio), 0 0 0 12.5px var(--cafe);
+  overflow: hidden;
+}
+.capa.v2 .arco::after {
+  content: ""; position: absolute; inset: 12px;
+  border: 2.5px dashed var(--bege-escuro);
+  border-radius: 3.3in 3.3in 22px 22px;
+}
+.capa.v2 .arco .sol {
+  position: absolute; left: 50%; top: 0.9in; width: 4.6in; height: 4.6in;
+  transform: translateX(-50%);
+  border-radius: 50%; background: #F7EBD0;
+}
+.capa.v2 .ilus { position: absolute; left: 0.1in; right: 0.1in; bottom: 0.2in; height: 4.9in; }
+.capa.v2 .medalla { width: 1.8in; height: 1.8in; right: 0.5in; top: 5.85in; transform: rotate(-8deg); }
+.capa.v2 .texto { position: absolute; top: 7.65in; left: 0.7in; right: 0.7in; text-align: center; }
+.capa.v2 .titulo { font-size: 70pt; }
+.capa.v2 .sub { font-size: 24pt; margin-top: 10px; }
+.capa.v2 .divisor { margin: 14px auto 12px; width: 2.4in; border-top: 2.5px dashed var(--bege-escuro); position: relative; }
+.capa.v2 .divisor::after {
+  content: "✦"; position: absolute; left: 50%; top: -13px; transform: translateX(-50%);
+  background: var(--bege-fundo); padding: 0 10px; color: #E2B45A; font-size: 15pt;
+}
+.capa.v2 .linea { font-size: 14.5pt; }
+
+/* ---------- V3: editorial ---------- */
+.capa.v3 { background: var(--bege-fundo); }
+.capa.v3 .head { position: absolute; top: 0.85in; left: 0.85in; right: 0.85in; }
+.capa.v3 .titulo { font-size: 78pt; line-height: 0.9; margin-top: 14px; }
+.capa.v3 .sub { font-size: 25pt; margin-top: 18px; }
+.capa.v3 .tagline {
+  margin-top: 14px; max-width: 4.4in;
+  font-size: 13pt; line-height: 1.45; color: var(--cafe-suave);
+}
+.capa.v3 .medalla { width: 1.9in; height: 1.9in; right: 0.9in; top: 2.55in; transform: rotate(10deg); }
+.capa.v3 .colina {
+  position: absolute; left: -0.5in; right: -0.5in; bottom: 0.95in; height: 3.6in;
+  background: #E4ECDF;
+  border-top: 3px solid var(--cafe);
+  border-radius: 50% 50% 0 0 / 1.3in 1.3in 0 0;
+}
+.capa.v3 .colina::after {
+  content: ""; position: absolute; left: 0.5in; right: 0.5in; top: 12px; height: 2in;
+  border-top: 2.5px dashed var(--salvia);
+  border-radius: 50% 50% 0 0 / 1.2in 1.2in 0 0;
+}
+.capa.v3 .ilus { position: absolute; left: 0.5in; right: 0.5in; bottom: 1.05in; height: 5.1in; }
+.capa.v3 .faixa {
+  position: absolute; left: 0; right: 0; bottom: 0; height: 0.95in;
+  background: var(--cafe);
+  display: flex; align-items: center; justify-content: center;
+}
+.capa.v3 .faixa .linea { color: var(--creme); font-size: 15pt; letter-spacing: 0.02em; }
+.capa.v3 .faixa .linea::before, .capa.v3 .faixa .linea::after { content: " ✦ "; color: #E2B45A; }

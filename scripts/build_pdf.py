@@ -105,11 +105,26 @@ def build_sample():
     render_pdf(html, "muestra", png_pages=[], scale=2)
 
 
+def build_covers():
+    env = make_env()
+    html_body = env.get_template("capas.html.j2").render(
+        variants=[1, 2, 3], ilus_mini_caliz=env.globals["ilus"]["caliz_mini"])
+    html = env.get_template("base.html.j2").render(body=html_body, title="Capas")
+    render_pdf(html, "capas", png_pages=[], scale=2)
+    import shutil
+    for i in (1, 2, 3):
+        shutil.copy(OUT / "capas_png" / f"p{i:03d}.png", OUT / f"capa_v{i}.png")
+    print("Capas: output/capa_v1.png, capa_v2.png, capa_v3.png")
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", action="store_true")
+    ap.add_argument("--covers", action="store_true")
     a = ap.parse_args()
     if a.sample:
         build_sample()
+    elif a.covers:
+        build_covers()
     else:
         print("Build completo ainda não implementado (etapa 6).")
