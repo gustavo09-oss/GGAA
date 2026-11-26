@@ -1,0 +1,2307 @@
+[
+  {
+    "id": "04-001",
+    "modulo": 4,
+    "titulo": "El Sí de María",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el anuncio del ángel a María y aprender a decir «sí» a Dios.",
+    "materiales": [
+      "Una tela blanca o azul",
+      "Alas de papel (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el ángel Gabriel visitó a María en Nazaret y le anunció que sería la mamá de Jesús.",
+      "Elige a una niña para ser María y a un niño para ser el ángel Gabriel.",
+      "El ángel saluda: «¡Alégrate, María, llena de gracia, el Señor está contigo!».",
+      "María responde: «Aquí está la servidora del Señor, que se haga en mí lo que has dicho».",
+      "Conversen: ¿Qué cosas nos pide Dios hoy? ¿Cómo podemos decirle «sí»?"
+    ],
+    "para_los_mas_pequenos": "Que todos repitan juntos el saludo del ángel.",
+    "para_los_mayores": "Que escriban un «sí» concreto que quieren darle a Dios esta semana.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 38",
+      "mensaje": "María dijo: Aquí está la servidora del Señor, que se haga en mí lo que has dicho."
+    },
+    "mensaje_final": "Yo también quiero decir «sí» a Dios."
+  },
+  {
+    "id": "04-002",
+    "modulo": 4,
+    "titulo": "María Visita a Isabel",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que María llevó a Jesús a otros y fue a servir a su prima.",
+    "materiales": [
+      "Un bolso o canasta de viaje"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que María, al saber que su prima Isabel esperaba un bebé, fue rápido a ayudarla.",
+      "Una niña es María y camina con su canasta; otra es Isabel que la espera en su casa.",
+      "Al encontrarse, se abrazan e Isabel dice: «¡Bendita tú entre las mujeres!».",
+      "María responde con alegría: «Mi alma alaba al Señor».",
+      "Conversen: ¿A quién podemos visitar o ayudar esta semana?"
+    ],
+    "para_los_mas_pequenos": "Que todos hagan el viaje con María cantando.",
+    "para_los_mayores": "Que preparen una lista de personas que podrían necesitar una visita.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 42",
+      "mensaje": "Isabel dijo a María: ¡Bendita tú entre las mujeres!"
+    },
+    "mensaje_final": "Llevo a Jesús cuando ayudo a los demás."
+  },
+  {
+    "id": "04-003",
+    "modulo": 4,
+    "titulo": "El Sueño de San José",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer a San José como hombre justo que confió en Dios y cuidó de Jesús y María.",
+    "materiales": [
+      "Una almohada o cojín"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que José estaba preocupado y un ángel le habló en sueños: «No tengas miedo de recibir a María».",
+      "Un niño se acuesta sobre el cojín como José y otro hace de ángel.",
+      "José se despierta y hace lo que Dios le pidió sin dudar.",
+      "Pregunta: ¿Cómo era José? Trabajador, obediente, protector.",
+      "Cada niño piensa en alguien que lo cuida como José cuidó a Jesús y reza por esa persona."
+    ],
+    "para_los_mas_pequenos": "Que todos «duerman» y despierten cuando el ángel les toque el hombro.",
+    "para_los_mayores": "Que escriban una oración a San José por sus familias.",
+    "cita_biblica": {
+      "referencia": "Mateo 1, 24",
+      "mensaje": "Cuando José despertó, hizo lo que el ángel del Señor le había mandado."
+    },
+    "mensaje_final": "San José, cuida de mi familia."
+  },
+  {
+    "id": "04-004",
+    "modulo": 4,
+    "titulo": "Belén, el Lugar Sencillo",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Contemplar con asombro que Jesús nació pobre y sencillo por amor a nosotros.",
+    "materiales": [
+      "Cajas pequeñas",
+      "Paja o papel picado amarillo",
+      "Plastilina",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que en Belén no había lugar en la posada y Jesús nació en un establo.",
+      "Cada niño decora una cajita como establo sencillo.",
+      "Con plastilina modelen a María, José y el niño Jesús acostado en un comedero con paja.",
+      "Coloquen sus establos juntos formando un pueblito de Belén.",
+      "Conversen: Jesús eligió nacer pobre para estar cerca de todos."
+    ],
+    "para_los_mas_pequenos": "Que modelen solo al niño Jesús y lo pongan sobre la paja.",
+    "para_los_mayores": "Que agreguen animales y escriban una oración al niño Jesús.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 7",
+      "mensaje": "María dio a luz a su hijo, lo envolvió en pañales y lo acostó en un comedero."
+    },
+    "mensaje_final": "Jesús vino al mundo por amor a mí."
+  },
+  {
+    "id": "04-005",
+    "modulo": 4,
+    "titulo": "Los Pastores Corren a Ver",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que los primeros en visitar a Jesús fueron personas sencillas que escucharon a los ángeles.",
+    "materiales": [
+      "Ovejitas de papel",
+      "Una estrella de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Los niños son pastores que duermen en el campo con sus ovejas de papel.",
+      "Haz de ángel y anuncia: «¡Les traigo una gran alegría: ha nacido el Salvador!».",
+      "Los pastores despiertan y buscan la estrella escondida en el salón.",
+      "Al encontrarla, se arrodillan alrededor y dicen: «¡Gloria a Dios!».",
+      "Explica que Dios se alegra con los corazones sencillos."
+    ],
+    "para_los_mas_pequenos": "Que caminen junto a ti siguiendo la estrella que llevas en la mano.",
+    "para_los_mayores": "Que cada pastor diga qué regalo le llevaría a Jesús.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 10-11",
+      "mensaje": "El ángel dijo: Les traigo una gran alegría, ha nacido el Salvador."
+    },
+    "mensaje_final": "Jesús es la gran alegría para todos."
+  },
+  {
+    "id": "04-006",
+    "modulo": 4,
+    "titulo": "El Canto de los Ángeles",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Alabar a Dios como los ángeles que anunciaron el nacimiento de Jesús.",
+    "materiales": [
+      "Alas de papel o cintas blancas (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que muchos ángeles cantaban en el cielo cuando nació Jesús.",
+      "Enseña la frase: «Gloria a Dios en el cielo, y en la tierra paz a los que Él ama».",
+      "Divide al grupo en dos coros: uno canta «Gloria a Dios» y otro responde «¡y paz en la tierra!».",
+      "Agreguen movimientos: brazos arriba para el cielo, manos al corazón para la paz.",
+      "Canten todos juntos con alegría."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «¡Gloria!» levantando los brazos.",
+    "para_los_mayores": "Que inventen una melodía propia para la frase.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 14",
+      "mensaje": "Gloria a Dios en el cielo, y en la tierra paz a los que Él ama."
+    },
+    "mensaje_final": "Mi voz se une a la de los ángeles."
+  },
+  {
+    "id": "04-007",
+    "modulo": 4,
+    "titulo": "Simeón Espera a Jesús",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir en Simeón la alegría de esperar y encontrar a Jesús.",
+    "materiales": [
+      "Un muñeco o cobija doblada"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que María y José llevaron a Jesús al templo, y el anciano Simeón, que esperaba al Salvador, lo tomó en brazos.",
+      "Pasen el muñeco de mano en mano con mucho cuidado, como si fuera Jesús.",
+      "Quien lo recibe dice: «Jesús, me alegra encontrarte».",
+      "Pregunta: ¿Cómo se habrá sentido Simeón después de esperar tanto?",
+      "Conversen: ¿Dónde encontramos hoy a Jesús? En la Misa, en la oración, en los demás."
+    ],
+    "para_los_mas_pequenos": "Que solo abracen al muñeco con cariño y lo pasen.",
+    "para_los_mayores": "Que piensen en los ancianos que conocen y cómo pueden alegrarlos.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 30",
+      "mensaje": "Simeón dijo: Mis ojos han visto al Salvador."
+    },
+    "mensaje_final": "¡Qué alegría encontrar a Jesús!"
+  },
+  {
+    "id": "04-008",
+    "modulo": 4,
+    "titulo": "La Familia que Huyó a Egipto",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que José protegió a Jesús y a María, y valorar la protección de nuestra familia.",
+    "materiales": [
+      "Un bulto o mochila",
+      "Sillas como obstáculos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que un ángel avisó a José que el niño corría peligro, y la familia viajó de noche a Egipto.",
+      "En grupos de tres, un niño es José, otro María y otro lleva al «niño Jesús» (el bulto).",
+      "Recorren el camino de obstáculos en silencio y con cuidado, sin que el bulto se caiga.",
+      "Al llegar a «Egipto», descansan y dan gracias a Dios.",
+      "Conversen: ¿Quién nos protege en casa? Recen por los niños que deben dejar su hogar."
+    ],
+    "para_los_mas_pequenos": "Que hagan el recorrido todos juntos como una gran familia.",
+    "para_los_mayores": "Que piensen en familias migrantes y cómo podemos ayudarlas.",
+    "cita_biblica": {
+      "referencia": "Mateo 2, 14",
+      "mensaje": "José se levantó de noche, tomó al niño y a su madre y partió a Egipto."
+    },
+    "mensaje_final": "Dios protege a mi familia."
+  },
+  {
+    "id": "04-009",
+    "modulo": 4,
+    "titulo": "Jesús Crece en Nazaret",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús fue niño como nosotros, obediente y trabajador.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús creció en Nazaret ayudando a José en el taller de carpintería y aprendiendo de María.",
+      "Pide a los niños que dibujen a Jesús niño haciendo algo: jugando, ayudando, rezando, aprendiendo.",
+      "Que dibujen al lado lo que ellos hacen en su casa.",
+      "Compartan los dibujos comparando a Jesús niño con ellos.",
+      "Explica que Jesús nos entiende porque también fue niño."
+    ],
+    "para_los_mas_pequenos": "Que dibujen a Jesús niño jugando con ellos.",
+    "para_los_mayores": "Que escriban tres cosas que Jesús hacía y que ellos pueden imitar.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 52",
+      "mensaje": "Jesús crecía en sabiduría, en estatura y en gracia ante Dios y la gente."
+    },
+    "mensaje_final": "Jesús fue niño como yo."
+  },
+  {
+    "id": "04-010",
+    "modulo": 4,
+    "titulo": "Perdido y Hallado en el Templo",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer cómo María y José buscaron a Jesús y lo encontraron en la casa de su Padre.",
+    "materiales": [
+      "Una imagen pequeña de Jesús"
+    ],
+    "preparacion": "Esconde la imagen en un lugar del salón que represente el templo (un rincón con una cruz o una Biblia).",
+    "pasos": [
+      "Cuenta que, a los doce años, Jesús se quedó en el templo y María y José lo buscaron tres días.",
+      "Los niños buscan la imagen por todo el salón como María y José.",
+      "Quien la encuentre dice: «¡Está en la casa de su Padre!».",
+      "Lee la respuesta de Jesús: «¿No sabían que debo estar en la casa de mi Padre?».",
+      "Conversen: ¿Cuál es la casa de Dios? ¿Qué hacemos allí?"
+    ],
+    "para_los_mas_pequenos": "Den pistas de «frío» y «caliente».",
+    "para_los_mayores": "Que expliquen por qué Jesús llamaba «Padre» a Dios.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 49",
+      "mensaje": "Jesús dijo: ¿No sabían que debo estar en la casa de mi Padre?"
+    },
+    "mensaje_final": "Siempre puedo encontrar a Jesús en la casa de Dios."
+  },
+  {
+    "id": "04-011",
+    "modulo": 4,
+    "titulo": "Juan Prepara el Camino",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer a Juan Bautista, que preparó al pueblo para recibir a Jesús.",
+    "materiales": [
+      "Cojines o papeles como obstáculos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Juan vivía en el desierto y decía: «¡Preparen el camino del Señor!».",
+      "Esparce obstáculos en el salón: son cosas que no dejan llegar a Jesús (egoísmo, mentira, pelea).",
+      "Los niños retiran los obstáculos diciendo una buena acción por cada uno: «Quito la pelea con un abrazo».",
+      "Cuando el camino esté limpio, todos caminan por él cantando.",
+      "Explica que preparamos el corazón para Jesús cuando hacemos el bien."
+    ],
+    "para_los_mas_pequenos": "Que solo recojan los obstáculos y los pongan en una caja.",
+    "para_los_mayores": "Que escriban en cada obstáculo lo que no deja pasar a Jesús.",
+    "cita_biblica": {
+      "referencia": "Marcos 1, 3",
+      "mensaje": "Una voz grita en el desierto: Preparen el camino del Señor."
+    },
+    "mensaje_final": "Preparo mi corazón para Jesús."
+  },
+  {
+    "id": "04-012",
+    "modulo": 4,
+    "titulo": "El Bautismo en el Río Jordán",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer el bautismo de Jesús y descubrir que Dios Padre lo presentó como su Hijo amado.",
+    "materiales": [
+      "Una tela azul",
+      "Una paloma de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Extiende la tela azul en el suelo como el río Jordán.",
+      "Un niño es Juan Bautista y otro es Jesús, que entra al río.",
+      "Juan derrama un poco de «agua» simbólica con las manos sobre Jesús.",
+      "Un niño baja la paloma desde arriba mientras tú dices la voz del Padre: «Este es mi Hijo amado».",
+      "Explica que en nuestro Bautismo, Dios también nos dijo: «Tú eres mi hijo amado»."
+    ],
+    "para_los_mas_pequenos": "Que todos sostengan la tela y la muevan como un río.",
+    "para_los_mayores": "Que comparen el bautismo de Jesús con su propio Bautismo.",
+    "cita_biblica": {
+      "referencia": "Mateo 3, 17",
+      "mensaje": "Una voz del cielo dijo: Este es mi Hijo amado, en quien me complazco."
+    },
+    "mensaje_final": "Soy hijo amado de Dios."
+  },
+  {
+    "id": "04-013",
+    "modulo": 4,
+    "titulo": "La Paloma y la Voz del Cielo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar que el Espíritu Santo bajó sobre Jesús en su bautismo y también vive en nosotros.",
+    "materiales": [
+      "Platos de papel o cartulina blanca",
+      "Tijeras de punta redonda",
+      "Hilo",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que en el bautismo de Jesús el Espíritu Santo bajó como una paloma.",
+      "Ayuda a los niños a dibujar y recortar una paloma en cartulina.",
+      "En sus alas escriben: «Eres mi hijo amado».",
+      "Átenle un hilo para colgarla en casa.",
+      "Recen juntos: «Espíritu Santo, vive en mi corazón»."
+    ],
+    "para_los_mas_pequenos": "Entrega palomas ya recortadas para decorar.",
+    "para_los_mayores": "Que escriban en la otra ala el día de su Bautismo, si lo saben.",
+    "cita_biblica": {
+      "referencia": "Lucas 3, 22",
+      "mensaje": "El Espíritu Santo bajó sobre Jesús en forma de paloma."
+    },
+    "mensaje_final": "El Espíritu Santo vive en mí."
+  },
+  {
+    "id": "04-014",
+    "modulo": 4,
+    "titulo": "Jesús Vence la Tentación",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender de Jesús a decir «no» a lo que nos aleja de Dios.",
+    "materiales": [
+      "Tarjetas con situaciones de tentación"
+    ],
+    "preparacion": "Escribe situaciones como: «Ves una galleta que no es tuya», «Te dicen que copies en el examen».",
+    "pasos": [
+      "Cuenta que Jesús estuvo en el desierto y el demonio lo tentó, pero Jesús respondió con la Palabra de Dios.",
+      "Lee una situación y pide a los niños que digan cómo responderían.",
+      "Practiquen una respuesta firme y amable: «No, eso no es bueno».",
+      "Explica que la oración y la Palabra de Dios nos dan fuerza.",
+      "Terminen pidiendo a Jesús fuerza para elegir el bien."
+    ],
+    "para_los_mas_pequenos": "Usa situaciones sencillas con dibujos y respuestas de sí o no.",
+    "para_los_mayores": "Que escriban una frase de la Biblia que les dé fuerza.",
+    "cita_biblica": {
+      "referencia": "Mateo 4, 4",
+      "mensaje": "Jesús respondió: No solo de pan vive el hombre, sino de toda palabra de Dios."
+    },
+    "mensaje_final": "Con Jesús, puedo decir no al mal."
+  },
+  {
+    "id": "04-015",
+    "modulo": 4,
+    "titulo": "Pescadores de Personas",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Conocer el llamado de los primeros discípulos y descubrir que Jesús también nos llama.",
+    "materiales": [
+      "Una red hecha con una sábana o los brazos unidos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús vio a Pedro y Andrés pescando y les dijo: «Síganme y los haré pescadores de personas».",
+      "Dos niños forman la «red» tomados de la mano.",
+      "Los demás son peces que nadan por el salón; la red intenta atraparlos.",
+      "Cada pez atrapado se une a la red, que crece cada vez más.",
+      "Explica que los discípulos invitan a otros a conocer a Jesús, ¡como esta red que crece!"
+    ],
+    "para_los_mas_pequenos": "Que la red camine despacio y los peces se dejen atrapar.",
+    "para_los_mayores": "Que cada pez atrapado diga cómo puede invitar a alguien a conocer a Jesús.",
+    "cita_biblica": {
+      "referencia": "Mateo 4, 19",
+      "mensaje": "Jesús dijo: Síganme y los haré pescadores de personas."
+    },
+    "mensaje_final": "Jesús me invita a seguirlo."
+  },
+  {
+    "id": "04-016",
+    "modulo": 4,
+    "titulo": "Los Nombres de los Doce",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender los nombres de los doce apóstoles que Jesús eligió.",
+    "materiales": [
+      "Tarjetas con los nombres de los apóstoles"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús subió al monte a rezar y luego eligió a doce amigos para estar con Él.",
+      "Reparte las tarjetas entre los niños.",
+      "Enseña un ritmo de palmas y canten los nombres: «Pedro y Andrés, Santiago y Juan...».",
+      "Cuando se nombre su apóstol, el niño se pone de pie.",
+      "Repitan cada vez más rápido y terminen diciendo: «¡Y yo también soy amigo de Jesús!»."
+    ],
+    "para_los_mas_pequenos": "Aprendan solo cuatro nombres: Pedro, Andrés, Santiago y Juan.",
+    "para_los_mayores": "Que intenten decir los doce de memoria sin tarjetas.",
+    "cita_biblica": {
+      "referencia": "Marcos 3, 14",
+      "mensaje": "Jesús eligió a doce para que estuvieran con Él."
+    },
+    "mensaje_final": "Jesús me eligió para ser su amigo."
+  },
+  {
+    "id": "04-017",
+    "modulo": 4,
+    "titulo": "Mateo Deja su Mesa",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús llama a todos, también a quienes otros rechazan.",
+    "materiales": [
+      "Una mesa pequeña",
+      "Monedas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Mateo cobraba impuestos y la gente no lo quería, pero Jesús lo miró y le dijo: «Sígueme».",
+      "Un niño es Mateo, sentado contando monedas; otros niños pasan y lo miran con enojo.",
+      "Otro niño es Jesús, que se acerca con cariño y lo invita.",
+      "Mateo deja las monedas y sigue a Jesús, feliz.",
+      "Conversen: ¿Hay alguien en el grupo o la escuela a quien nadie invita? ¿Cómo podemos incluirlo?"
+    ],
+    "para_los_mas_pequenos": "Que todos sean la gente que luego también sigue a Jesús.",
+    "para_los_mayores": "Que escriban el diálogo entre Jesús y Mateo.",
+    "cita_biblica": {
+      "referencia": "Mateo 9, 9",
+      "mensaje": "Jesús vio a Mateo y le dijo: Sígueme. Él se levantó y lo siguió."
+    },
+    "mensaje_final": "Jesús llama a todos, también a mí."
+  },
+  {
+    "id": "04-018",
+    "modulo": 4,
+    "titulo": "Agua que se Volvió Vino",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer el primer milagro de Jesús y la intercesión de María.",
+    "materiales": [
+      "Seis vasos o jarras",
+      "Papel rojo o violeta"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que en una boda en Caná se acabó el vino y María le dijo a Jesús: «No tienen vino».",
+      "Varios niños son invitados a la fiesta; uno es María, otro Jesús, otros los servidores.",
+      "María dice a los servidores: «Hagan lo que Él les diga».",
+      "Los servidores llenan las jarras de «agua» y, al servirlas, sacan el papel rojo: ¡es vino!",
+      "Explica que María nos lleva siempre a Jesús y que Jesús se preocupa por nuestras alegrías."
+    ],
+    "para_los_mas_pequenos": "Que todos sean invitados que celebran y aplauden.",
+    "para_los_mayores": "Que piensen qué le pedirían a María que le diga a Jesús por ellos.",
+    "cita_biblica": {
+      "referencia": "Juan 2, 5",
+      "mensaje": "María dijo a los servidores: Hagan lo que Él les diga."
+    },
+    "mensaje_final": "María me enseña a hacer lo que Jesús dice."
+  },
+  {
+    "id": "04-019",
+    "modulo": 4,
+    "titulo": "Hagan lo que Él Diga",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Aprender a escuchar y obedecer a Jesús, como María pidió en Caná.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda la frase de María en Caná: «Hagan lo que Él les diga».",
+      "Juega a «Jesús dice»: cuando la orden empieza con «Jesús dice», los niños la cumplen (Jesús dice: abraza a un amigo).",
+      "Si la orden no empieza con «Jesús dice», no deben moverse.",
+      "Usa órdenes que sean gestos buenos: compartir, saludar, rezar, sonreír.",
+      "Conversen: ¿Qué nos dice Jesús en el Evangelio que hagamos?"
+    ],
+    "para_los_mas_pequenos": "Usa pocas órdenes y repítelas despacio.",
+    "para_los_mayores": "Que un niño dirija el juego con órdenes de buenas acciones.",
+    "cita_biblica": {
+      "referencia": "Juan 14, 15",
+      "mensaje": "Jesús dijo: Si me aman, cumplirán mis mandamientos."
+    },
+    "mensaje_final": "Escucho a Jesús y hago lo que me dice."
+  },
+  {
+    "id": "04-020",
+    "modulo": 4,
+    "titulo": "La Red Llena de Peces",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la pesca milagrosa y aprender a confiar en la palabra de Jesús.",
+    "materiales": [
+      "Malla de bolsa de frutas o lana",
+      "Peces de cartulina",
+      "Lápices de colores",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Pedro pescó toda la noche sin éxito y, cuando Jesús le dijo dónde echar la red, se llenó de peces.",
+      "Cada niño decora varios peces de cartulina.",
+      "Peguen los peces sobre la malla o dentro de una red dibujada.",
+      "En un pez especial, escriban: «Confío en tu palabra, Jesús».",
+      "Conversen: ¿Cuándo nos cuesta confiar en lo que Jesús nos dice?"
+    ],
+    "para_los_mas_pequenos": "Que peguen peces ya recortados en la red.",
+    "para_los_mayores": "Que escriban en cada pez algo que Jesús hace en su vida.",
+    "cita_biblica": {
+      "referencia": "Lucas 5, 5",
+      "mensaje": "Pedro dijo: Maestro, porque tú lo dices, echaré las redes."
+    },
+    "mensaje_final": "Confío en la palabra de Jesús."
+  },
+  {
+    "id": "04-021",
+    "modulo": 4,
+    "titulo": "Jesús Lee en la Sinagoga",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir la misión de Jesús: traer buenas noticias a los pobres y sanar a los que sufren.",
+    "materiales": [
+      "Un rollo de papel (hoja enrollada) con el texto de Isaías adaptado"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús, en la sinagoga de Nazaret, tomó el libro del profeta Isaías y leyó en voz alta.",
+      "Un niño desenrolla el papel y lee: «El Espíritu del Señor está sobre mí; me envió a dar buenas noticias a los pobres».",
+      "Pregunta: ¿A quiénes vino a ayudar Jesús? Pobres, enfermos, tristes, presos.",
+      "Conversen: ¿Quiénes necesitan hoy una buena noticia en nuestro barrio?",
+      "Cada niño piensa cómo puede ser «buena noticia» para alguien esta semana."
+    ],
+    "para_los_mas_pequenos": "Lee tú el rollo y que ellos repitan la primera frase.",
+    "para_los_mayores": "Que escriban su propia «misión» en un rollito de papel.",
+    "cita_biblica": {
+      "referencia": "Lucas 4, 18",
+      "mensaje": "Jesús leyó: El Espíritu del Señor me envió a dar buenas noticias a los pobres."
+    },
+    "mensaje_final": "Puedo ser una buena noticia para otros."
+  },
+  {
+    "id": "04-022",
+    "modulo": 4,
+    "titulo": "La Suegra de Pedro se Levanta",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús sana y que, cuando somos ayudados, también servimos a los demás.",
+    "materiales": [
+      "Una manta",
+      "Una bandeja con vasos de plástico"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que la suegra de Pedro tenía fiebre y Jesús la tomó de la mano y la levantó.",
+      "Una niña se acuesta tapada con la manta; otro niño hace de Jesús.",
+      "Jesús la toma de la mano y ella se levanta sana.",
+      "Enseguida ella toma la bandeja y sirve a todos.",
+      "Conversen: cuando Jesús nos ayuda, nos dan ganas de ayudar a otros."
+    ],
+    "para_los_mas_pequenos": "Que todos sean los discípulos que se alegran.",
+    "para_los_mayores": "Que piensen en alguien enfermo y cómo pueden servirle.",
+    "cita_biblica": {
+      "referencia": "Marcos 1, 31",
+      "mensaje": "Jesús la tomó de la mano, la levantó y ella comenzó a servirles."
+    },
+    "mensaje_final": "Jesús me levanta para que yo ayude."
+  },
+  {
+    "id": "04-023",
+    "modulo": 4,
+    "titulo": "Amigos que Abren el Techo",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Descubrir que los amigos que llevan a otros a Jesús hacen algo muy grande.",
+    "materiales": [
+      "Una sábana o manta resistente"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que cuatro amigos llevaron a un paralítico hasta Jesús y, como no podían entrar, abrieron el techo.",
+      "Un niño se acuesta en la manta; cuatro amigos la sostienen por las puntas a poca altura.",
+      "Los demás forman una multitud apretada que no deja pasar.",
+      "Los amigos rodean la multitud y bajan la manta frente a Jesús (otro niño).",
+      "Jesús dice: «Levántate y anda». El niño se levanta y todos aplauden."
+    ],
+    "para_los_mas_pequenos": "Que los cuatro amigos arrastren la manta suavemente por el suelo.",
+    "para_los_mayores": "Que piensen a quién pueden «llevar» a Jesús con su ejemplo o invitación.",
+    "cita_biblica": {
+      "referencia": "Marcos 2, 4-5",
+      "mensaje": "Abrieron el techo y bajaron al paralítico. Jesús vio la fe de sus amigos."
+    },
+    "mensaje_final": "Puedo llevar a mis amigos a Jesús."
+  },
+  {
+    "id": "04-024",
+    "modulo": 4,
+    "titulo": "La Camilla de Papel",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar la fe de los amigos del paralítico con una manualidad.",
+    "materiales": [
+      "Palitos de helado",
+      "Tela o papel",
+      "Pegamento",
+      "Figuras de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda la historia del paralítico bajado por el techo.",
+      "Hagan una camilla pegando dos palitos con un trozo de tela.",
+      "Dibujen y recorten cuatro amigos y al hombre en la camilla.",
+      "Escriban en la camilla: «Te llevo a Jesús».",
+      "Cada niño piensa en un amigo por quien rezará esta semana."
+    ],
+    "para_los_mas_pequenos": "Que peguen la tela en los palitos con tu ayuda.",
+    "para_los_mayores": "Que escriban el nombre de los cuatro amigos como si fueran sus amigos reales.",
+    "cita_biblica": {
+      "referencia": "Lucas 5, 20",
+      "mensaje": "Al ver su fe, Jesús dijo: Amigo, tus pecados te son perdonados."
+    },
+    "mensaje_final": "Rezo por mis amigos y los llevo a Jesús."
+  },
+  {
+    "id": "04-025",
+    "modulo": 4,
+    "titulo": "Si Quieres, Puedes Sanarme",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender del leproso a pedir a Jesús con confianza y humildad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que un leproso, rechazado por todos, se arrodilló ante Jesús y le dijo: «Si quieres, puedes sanarme».",
+      "Explica que Jesús lo tocó y lo sanó, aunque nadie se le acercaba.",
+      "Invita a los niños a arrodillarse en silencio.",
+      "Cada uno dice en su corazón: «Jesús, si quieres, puedes sanar...» (a alguien de su familia, su tristeza).",
+      "Terminen diciendo juntos: «Jesús, confío en ti»."
+    ],
+    "para_los_mas_pequenos": "Que repitan contigo la frase del leproso.",
+    "para_los_mayores": "Que piensen en alguien que está solo o rechazado y recen por él.",
+    "cita_biblica": {
+      "referencia": "Marcos 1, 41",
+      "mensaje": "Jesús, con compasión, lo tocó y le dijo: Quiero, queda limpio."
+    },
+    "mensaje_final": "Jesús me escucha y me ama."
+  },
+  {
+    "id": "04-026",
+    "modulo": 4,
+    "titulo": "La Fe del Centurión",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir la fe del centurión, cuyas palabras repetimos en cada Misa.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que un soldado romano pidió a Jesús que sanara a su sirviente y le dijo que bastaba una palabra suya.",
+      "Lee la frase del centurión: «Señor, no soy digno de que entres en mi casa, pero una palabra tuya bastará».",
+      "Explica que en la Misa decimos algo muy parecido antes de comulgar.",
+      "Practiquen juntos la respuesta de la Misa: «Señor, no soy digno de que entres en mi casa, pero una palabra tuya bastará para sanarme».",
+      "Conversen: ¿Por qué es importante tener fe como el centurión?"
+    ],
+    "para_los_mas_pequenos": "Que aprendan solo «Señor, no soy digno».",
+    "para_los_mayores": "Que expliquen con sus palabras lo que significa la frase.",
+    "cita_biblica": {
+      "referencia": "Mateo 8, 8",
+      "mensaje": "El centurión dijo: Señor, basta que digas una palabra y mi sirviente sanará."
+    },
+    "mensaje_final": "Con una palabra, Jesús puede sanarme."
+  },
+  {
+    "id": "04-027",
+    "modulo": 4,
+    "titulo": "La Viuda de Naín",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús siente compasión por los que sufren y les devuelve la alegría.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús vio a una mamá viuda que lloraba por su único hijo, que había muerto.",
+      "Lee que Jesús le dijo: «No llores», y devolvió la vida al joven y se lo entregó a su madre.",
+      "Pregunta: ¿Qué sintió Jesús al ver a la mamá llorar? Compasión.",
+      "Explica que compasión es sentir el dolor del otro y ayudarlo.",
+      "Piensen en alguien que está triste y elijan un gesto para consolarlo."
+    ],
+    "para_los_mas_pequenos": "Que hagan caritas tristes y luego felices mientras cuentas la historia.",
+    "para_los_mayores": "Que escriban un mensaje de consuelo para alguien que sufre.",
+    "cita_biblica": {
+      "referencia": "Lucas 7, 13",
+      "mensaje": "Al verla, Jesús sintió compasión y le dijo: No llores."
+    },
+    "mensaje_final": "Jesús consuela a los que están tristes."
+  },
+  {
+    "id": "04-028",
+    "modulo": 4,
+    "titulo": "¡Silencio, Viento! ¡Calma, Mar!",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús tiene poder sobre la naturaleza y que podemos confiar en Él cuando tenemos miedo.",
+    "materiales": [
+      "Una sábana o tela grande",
+      "Una pelota liviana o un bollito de papel"
+    ],
+    "preparacion": "Despeja un espacio amplio en el salón para que los niños puedan sostener la tela en círculo.",
+    "pasos": [
+      "Cuenta brevemente cómo Jesús dormía en la barca y se levantó una gran tormenta mientras los discípulos tenían mucho miedo.",
+      "Pide a los niños que sostengan la tela por los bordes, formando el «mar», y coloca la pelota en el centro como si fuera la barca.",
+      "Di «¡Viene el viento!» y que todos agiten la tela con fuerza sin dejar caer la barca.",
+      "Cuando digas «¡Jesús dice: silencio, calma!», todos se quedan quietos al instante y la tela queda lisa.",
+      "Repite varias veces y termina preguntando: ¿Qué cosas nos dan miedo? ¿Cómo nos ayuda saber que Jesús está con nosotros?"
+    ],
+    "para_los_mas_pequenos": "Haz la tormenta más corta y deja que un niño diga la frase de Jesús en voz alta.",
+    "para_los_mayores": "Que cada uno nombre un «viento» de su vida (un miedo o problema) antes de calmar la tela.",
+    "cita_biblica": {
+      "referencia": "Marcos 4, 35-41",
+      "mensaje": "Jesús se levantó, habló al viento y al mar, y todo quedó en calma."
+    },
+    "mensaje_final": "Cuando tengo miedo, Jesús está en mi barca."
+  },
+  {
+    "id": "04-029",
+    "modulo": 4,
+    "titulo": "Pedro Camina sobre el Agua",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender a mantener la mirada en Jesús cuando tenemos miedo o dudas.",
+    "materiales": [
+      "Hojas de papel como piedras",
+      "Una tela azul (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús caminaba sobre el agua y Pedro también lo intentó, pero tuvo miedo y comenzó a hundirse.",
+      "Coloca hojas en el suelo como un camino sobre el «mar».",
+      "Un niño es Jesús al final del camino; los demás cruzan pisando solo las hojas y mirando a Jesús.",
+      "Si alguien se distrae y pisa fuera, dice «¡Señor, sálvame!» y Jesús lo toma de la mano.",
+      "Conversen: ¿Qué nos ayuda a no hundirnos en los problemas? Mirar a Jesús y confiar."
+    ],
+    "para_los_mas_pequenos": "Que crucen tomados de la mano de un compañero.",
+    "para_los_mayores": "Que en cada hoja nombren algo que los distrae de Jesús.",
+    "cita_biblica": {
+      "referencia": "Mateo 14, 30-31",
+      "mensaje": "Pedro gritó: ¡Señor, sálvame! Jesús le tendió la mano."
+    },
+    "mensaje_final": "Si miro a Jesús, no me hundo."
+  },
+  {
+    "id": "04-030",
+    "modulo": 4,
+    "titulo": "Cinco Panes y Dos Peces",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Descubrir que, cuando compartimos lo poco que tenemos, Jesús hace grandes cosas.",
+    "materiales": [
+      "Una canasta",
+      "Cinco panes y dos peces de papel",
+      "Muchos panes de papel escondidos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que una gran multitud seguía a Jesús y tenía hambre.",
+      "Un niño ofrece su canasta con cinco panes y dos peces de papel.",
+      "Jesús (otro niño) levanta la canasta, da gracias a Dios y la entrega a los discípulos.",
+      "Los discípulos reparten y, mágicamente, sacas más panes escondidos hasta que todos reciben.",
+      "Conversen: ¿Qué pequeño regalo podemos compartir para que Jesús lo multiplique?"
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean la multitud que recibe los panes.",
+    "para_los_mayores": "Que recojan los panes sobrantes en doce canastas como en el Evangelio.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 9",
+      "mensaje": "Aquí hay un niño con cinco panes y dos peces."
+    },
+    "mensaje_final": "Lo poco que comparto, Jesús lo hace grande."
+  },
+  {
+    "id": "04-031",
+    "modulo": 4,
+    "titulo": "El Niño que Compartió",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar la generosidad del niño que entregó su comida a Jesús.",
+    "materiales": [
+      "Una bolsa de papel con un dibujo de panes y peces"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que el milagro empezó porque un niño compartió su comida.",
+      "Pasa la bolsa de mano en mano.",
+      "Quien la tiene dice algo que puede compartir: «Puedo compartir mis colores», «mi tiempo».",
+      "El grupo responde: «¡Jesús lo multiplica!».",
+      "Elijan juntos un gesto para compartir en el próximo encuentro."
+    ],
+    "para_los_mas_pequenos": "Que muestren un objeto que traen y digan «lo comparto».",
+    "para_los_mayores": "Que piensen cómo compartir con alguien que no conocen.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 11",
+      "mensaje": "Jesús tomó los panes, dio gracias y los repartió a todos."
+    },
+    "mensaje_final": "Un niño como yo puede ayudar a Jesús."
+  },
+  {
+    "id": "04-032",
+    "modulo": 4,
+    "titulo": "Talitá Kum, ¡Levántate!",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que Jesús da la vida y escucha a los papás que le piden con fe.",
+    "materiales": [
+      "Una manta"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jairo pidió a Jesús que sanara a su hija, pero en el camino le dijeron que ya había muerto.",
+      "Jesús le dijo: «No tengas miedo, solamente ten fe».",
+      "Una niña se acuesta; los demás lloran a su alrededor.",
+      "Jesús la toma de la mano y dice: «Talitá kum», que significa «niña, levántate». Ella se levanta.",
+      "Jesús pide que le den de comer. Conversen: ¿Por qué Jesús cuida también los pequeños detalles?"
+    ],
+    "para_los_mas_pequenos": "Que todos se levanten juntos cuando Jesús diga «Talitá kum».",
+    "para_los_mayores": "Que expliquen qué significa «solamente ten fe».",
+    "cita_biblica": {
+      "referencia": "Marcos 5, 41",
+      "mensaje": "Jesús la tomó de la mano y le dijo: Niña, ¡levántate!"
+    },
+    "mensaje_final": "Jesús me dice: no tengas miedo, ten fe."
+  },
+  {
+    "id": "04-033",
+    "modulo": 4,
+    "titulo": "Tocar el Manto de Jesús",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Conocer la fe de la mujer que tocó el manto de Jesús y fue sanada.",
+    "materiales": [
+      "Una tela o manto"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que una mujer enferma pensó: «Si toco aunque sea su manto, quedaré sana».",
+      "Un niño es Jesús con el manto; camina entre la multitud apretada.",
+      "Por turnos, un niño se acerca con cuidado y toca el borde del manto.",
+      "Jesús se da vuelta: «¿Quién me tocó?». El niño responde y Jesús le dice: «Tu fe te ha salvado».",
+      "Conversen: ¿Cómo podemos «tocar» a Jesús hoy? En la oración, en la Eucaristía."
+    ],
+    "para_los_mas_pequenos": "Que todos toquen el manto mientras Jesús camina despacio.",
+    "para_los_mayores": "Que digan qué le piden a Jesús al tocar el manto.",
+    "cita_biblica": {
+      "referencia": "Marcos 5, 34",
+      "mensaje": "Jesús dijo: Hija, tu fe te ha salvado; vete en paz."
+    },
+    "mensaje_final": "Con fe me acerco a Jesús."
+  },
+  {
+    "id": "04-034",
+    "modulo": 4,
+    "titulo": "Dejen que los Niños Vengan",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que Jesús ama a los niños y siempre tiene tiempo para ellos.",
+    "materiales": [
+      "Una silla especial para «Jesús»"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que los discípulos querían alejar a los niños, pero Jesús dijo: «Dejen que los niños vengan a mí».",
+      "Coloca la silla al frente; tú o un niño mayor hace de Jesús.",
+      "Algunos niños hacen de discípulos que «bloquean» el paso con los brazos.",
+      "Cuando Jesús dice la frase, los discípulos se apartan y todos los niños corren a sentarse alrededor de Jesús.",
+      "Jesús bendice a cada uno con la mano en la cabeza."
+    ],
+    "para_los_mas_pequenos": "Que se acerquen caminando tomados de la mano.",
+    "para_los_mayores": "Que expliquen qué quiso decir Jesús con ser como niños.",
+    "cita_biblica": {
+      "referencia": "Marcos 10, 14",
+      "mensaje": "Jesús dijo: Dejen que los niños vengan a mí, no se lo impidan."
+    },
+    "mensaje_final": "Jesús siempre tiene tiempo para mí."
+  },
+  {
+    "id": "04-035",
+    "modulo": 4,
+    "titulo": "Jesús me Bendice",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Recibir la bendición de Jesús con alegría y confianza.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda cómo Jesús abrazaba y bendecía a los niños.",
+      "Invita a los niños a cerrar los ojos e imaginar que están sentados junto a Jesús.",
+      "Pasa por cada niño, pon suavemente tu mano sobre su cabeza y di: «[Nombre], Jesús te bendice y te ama».",
+      "El niño responde: «Amén».",
+      "Terminen con un abrazo grupal y la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que mantengan los ojos abiertos si se sienten más tranquilos.",
+    "para_los_mayores": "Que bendigan después a su compañero con la misma frase.",
+    "cita_biblica": {
+      "referencia": "Marcos 10, 16",
+      "mensaje": "Jesús abrazaba a los niños y los bendecía poniendo sus manos sobre ellos."
+    },
+    "mensaje_final": "Jesús me bendice y me abraza."
+  },
+  {
+    "id": "04-036",
+    "modulo": 4,
+    "titulo": "El Agua Viva del Pozo",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el encuentro de Jesús con la samaritana y descubrir que Él nos da agua viva.",
+    "materiales": [
+      "Vasos de papel",
+      "Papel azul",
+      "Lápices",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús, cansado, pidió agua a una mujer junto a un pozo y le habló del «agua viva» que da vida eterna.",
+      "Cada niño decora un vaso de papel como un pozo con piedritas dibujadas.",
+      "Dentro del vaso ponen gotas de papel azul con palabras: amor, perdón, alegría, paz.",
+      "Expliquen que esa agua viva es la gracia de Dios que Jesús nos regala.",
+      "Conversen: la samaritana corrió a contar a todos sobre Jesús; ¿a quién se lo contamos nosotros?"
+    ],
+    "para_los_mas_pequenos": "Que peguen gotas azules sin escribir y tú nombras cada una.",
+    "para_los_mayores": "Que escriban una pregunta que le harían a Jesús junto al pozo.",
+    "cita_biblica": {
+      "referencia": "Juan 4, 14",
+      "mensaje": "Jesús dijo: El que beba del agua que yo le daré, nunca más tendrá sed."
+    },
+    "mensaje_final": "Jesús me da agua viva."
+  },
+  {
+    "id": "04-037",
+    "modulo": 4,
+    "titulo": "Nicodemo Visita de Noche",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús responde nuestras preguntas y nos habla del gran amor de Dios.",
+    "materiales": [
+      "Una linterna",
+      "Una lámpara o vela apagada"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Apaga la luz o cierra las cortinas y enciende la linterna.",
+      "Cuenta que Nicodemo fue a ver a Jesús de noche porque tenía muchas preguntas.",
+      "Lee lo que Jesús le dijo: «Dios amó tanto al mundo que entregó a su Hijo único».",
+      "Invita a los niños a hacer preguntas sobre Jesús o la fe; respóndelas con sencillez.",
+      "Enciende la luz y explica: Jesús es la luz que responde nuestras dudas."
+    ],
+    "para_los_mas_pequenos": "Que digan solo qué sienten cuando está oscuro y cuando hay luz.",
+    "para_los_mayores": "Que aprendan de memoria Juan 3, 16 con sus palabras.",
+    "cita_biblica": {
+      "referencia": "Juan 3, 16",
+      "mensaje": "Dios amó tanto al mundo que entregó a su Hijo único para que tengamos vida."
+    },
+    "mensaje_final": "Dios me ama tanto que me dio a Jesús."
+  },
+  {
+    "id": "04-038",
+    "modulo": 4,
+    "titulo": "Felices los que...",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Conocer las Bienaventuranzas como el camino de felicidad que Jesús enseñó.",
+    "materiales": [
+      "Carteles con palabras: humildes, mansos, misericordiosos, limpios de corazón, pacíficos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús subió a un monte y enseñó cómo ser verdaderamente felices.",
+      "Muestra un cartel y canta con un ritmo sencillo: «Felices los que trabajan por la paz».",
+      "Los niños repiten con un gesto para cada palabra (manos juntas para paz, mano en el corazón para limpios de corazón).",
+      "Sigue con cada cartel.",
+      "Pregunta: ¿Cuál es la más fácil y cuál la más difícil para ti?"
+    ],
+    "para_los_mas_pequenos": "Usa solo dos bienaventuranzas con gestos claros.",
+    "para_los_mayores": "Que escriban un ejemplo de la vida real para cada una.",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 9",
+      "mensaje": "Felices los que trabajan por la paz, porque serán llamados hijos de Dios."
+    },
+    "mensaje_final": "Jesús me enseña a ser feliz."
+  },
+  {
+    "id": "04-039",
+    "modulo": 4,
+    "titulo": "Marta y María Reciben a Jesús",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir la importancia de escuchar a Jesús en medio de nuestras ocupaciones.",
+    "materiales": [
+      "Una escoba",
+      "Platos y vasos de plástico",
+      "Un cojín"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús visitó la casa de Marta y María: Marta estaba muy ocupada y María se sentó a escucharlo.",
+      "Una niña es Marta y se mueve de un lado a otro con la escoba y los platos.",
+      "Otra niña es María, sentada en el cojín a los pies de Jesús.",
+      "Marta se queja y Jesús responde con cariño: «María eligió la mejor parte».",
+      "Conversen: ¿Tenemos tiempo para escuchar a Jesús cada día? ¿Cuándo?"
+    ],
+    "para_los_mas_pequenos": "Que todos imiten a Marta corriendo y luego a María sentada en calma.",
+    "para_los_mayores": "Que hagan un horario con un momento diario para rezar.",
+    "cita_biblica": {
+      "referencia": "Lucas 10, 41-42",
+      "mensaje": "Jesús dijo: Marta, te preocupas por muchas cosas; María eligió la mejor parte."
+    },
+    "mensaje_final": "Hago tiempo para escuchar a Jesús."
+  },
+  {
+    "id": "04-040",
+    "modulo": 4,
+    "titulo": "Uno Volvió a Dar Gracias",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender a ser agradecidos con Jesús como el leproso que regresó.",
+    "materiales": [
+      "Diez figuras de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús sanó a diez leprosos, pero solo uno volvió a darle gracias.",
+      "Coloca las diez figuras en el suelo y aparta nueve.",
+      "Pregunta: ¿Dónde están los otros nueve? ¿Por qué no volvieron?",
+      "Cada niño dice una gracia a Jesús: «Jesús, gracias porque...».",
+      "Terminen cantando o diciendo juntos: «¡Gracias, Jesús!»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Gracias, Jesús, por mi familia».",
+    "para_los_mayores": "Que escriban una carta corta de agradecimiento a Jesús.",
+    "cita_biblica": {
+      "referencia": "Lucas 17, 15-16",
+      "mensaje": "Uno de ellos, al verse sano, volvió alabando a Dios y le dio gracias."
+    },
+    "mensaje_final": "Siempre vuelvo a dar gracias a Jesús."
+  },
+  {
+    "id": "04-041",
+    "modulo": 4,
+    "titulo": "¡Effetá, Ábrete!",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús abre nuestros oídos para escuchar y nuestra boca para alabar.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que le llevaron a Jesús un hombre que no podía oír ni hablar bien, y Jesús le dijo: «¡Effetá!», que significa «¡Ábrete!».",
+      "Los niños se tapan los oídos mientras tú dices palabras en voz baja; ellos intentan adivinarlas.",
+      "Cuando digas «¡Effetá!», se destapan los oídos y repiten fuerte lo que escuchan.",
+      "Alterna varias veces con palabras como «Jesús», «amor», «gracias».",
+      "Explica que en el Bautismo el sacerdote también dijo «Effetá» para que escuchemos la Palabra de Dios."
+    ],
+    "para_los_mas_pequenos": "Usa palabras muy cortas y gestos para ayudar.",
+    "para_los_mayores": "Que piensen qué cosas no nos dejan escuchar a Dios.",
+    "cita_biblica": {
+      "referencia": "Marcos 7, 34",
+      "mensaje": "Jesús miró al cielo y le dijo: ¡Effetá!, que significa ¡Ábrete!"
+    },
+    "mensaje_final": "Jesús, abre mis oídos para escucharte."
+  },
+  {
+    "id": "04-042",
+    "modulo": 4,
+    "titulo": "Bartimeo Grita más Fuerte",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender de Bartimeo a insistir en la oración y a seguir a Jesús.",
+    "materiales": [
+      "Un manto o tela",
+      "Un pañuelo para los ojos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Bartimeo era ciego y pedía limosna junto al camino de Jericó.",
+      "Un niño es Bartimeo, sentado con el manto y los ojos tapados; los demás son la multitud.",
+      "Cuando Jesús pasa, Bartimeo grita: «¡Jesús, ten compasión de mí!». La multitud le dice que se calle, pero él grita más fuerte.",
+      "Jesús lo llama; Bartimeo tira el manto, se acerca y recupera la vista (se quita el pañuelo).",
+      "Bartimeo sigue a Jesús por el camino. Conversen: ¿Qué le pediríamos a Jesús con insistencia?"
+    ],
+    "para_los_mas_pequenos": "Que todos griten juntos la oración de Bartimeo.",
+    "para_los_mayores": "Que expliquen por qué Bartimeo dejó su manto.",
+    "cita_biblica": {
+      "referencia": "Marcos 10, 47",
+      "mensaje": "Bartimeo gritaba: ¡Jesús, Hijo de David, ten compasión de mí!"
+    },
+    "mensaje_final": "No me canso de llamar a Jesús."
+  },
+  {
+    "id": "04-043",
+    "modulo": 4,
+    "titulo": "Barro en los Ojos",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús es la luz que nos ayuda a ver con los ojos del corazón.",
+    "materiales": [
+      "Un pañuelo",
+      "Una imagen de Jesús"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús puso barro en los ojos de un ciego de nacimiento y le dijo que se lavara; el hombre volvió viendo.",
+      "Pide a un voluntario que se tape los ojos e intente describir la imagen de Jesús.",
+      "Luego se destapa y la describe viéndola.",
+      "Explica que hay otra forma de ver: con el corazón, descubriendo el amor de Dios.",
+      "Conversen: ¿Qué cosas buenas no vemos a veces? Personas que nos ayudan, regalos de Dios."
+    ],
+    "para_los_mas_pequenos": "Que jueguen a describir objetos con los ojos tapados y destapados.",
+    "para_los_mayores": "Que escriban una oración: «Jesús, ayúdame a ver...».",
+    "cita_biblica": {
+      "referencia": "Juan 9, 25",
+      "mensaje": "El hombre dijo: Yo era ciego y ahora veo."
+    },
+    "mensaje_final": "Jesús es la luz de mis ojos."
+  },
+  {
+    "id": "04-044",
+    "modulo": 4,
+    "titulo": "Zaqueo se Sube al Árbol",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que Jesús busca a cada persona y que su amor cambia el corazón.",
+    "materiales": [
+      "Una silla firme para el «árbol» (con supervisión)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Zaqueo era pequeño de estatura y se subió a un árbol para ver a Jesús.",
+      "Los niños forman una multitud alta (de puntillas y con brazos arriba).",
+      "Un niño es Zaqueo; se para con cuidado sobre la silla sostenida por ti.",
+      "Jesús (otro niño) pasa, mira hacia arriba y dice: «¡Zaqueo, baja pronto, hoy me quedo en tu casa!».",
+      "Zaqueo baja feliz. Conversen: ¿Qué hizo Zaqueo después? Devolvió lo que había quitado y compartió."
+    ],
+    "para_los_mas_pequenos": "Que Zaqueo esté de pie sobre un cojín en el suelo.",
+    "para_los_mayores": "Que imaginen y digan qué conversaron Jesús y Zaqueo en la casa.",
+    "cita_biblica": {
+      "referencia": "Lucas 19, 5",
+      "mensaje": "Jesús dijo: Zaqueo, baja pronto, porque hoy debo quedarme en tu casa."
+    },
+    "mensaje_final": "Jesús me busca y quiere estar en mi casa."
+  },
+  {
+    "id": "04-045",
+    "modulo": 4,
+    "titulo": "El Corazón Nuevo de Zaqueo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que encontrarse con Jesús nos ayuda a cambiar y reparar el mal.",
+    "materiales": [
+      "Árbol dibujado en cartulina",
+      "Hojas de papel verde",
+      "Lápices",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que Zaqueo, después de encontrarse con Jesús, prometió devolver y compartir.",
+      "Entrega hojas verdes para que cada niño escriba o dibuje algo bueno que quiere cambiar o reparar.",
+      "Peguen las hojas en el árbol de Zaqueo.",
+      "Lean algunas hojas en voz alta.",
+      "Terminen con una oración: «Jesús, cambia mi corazón»."
+    ],
+    "para_los_mas_pequenos": "Que dibujen caritas felices en las hojas y las peguen.",
+    "para_los_mayores": "Que escriban un compromiso concreto de reparación.",
+    "cita_biblica": {
+      "referencia": "Lucas 19, 8",
+      "mensaje": "Zaqueo dijo: Daré la mitad de mis bienes a los pobres."
+    },
+    "mensaje_final": "Con Jesús, mi corazón cambia."
+  },
+  {
+    "id": "04-046",
+    "modulo": 4,
+    "titulo": "Luz en el Monte",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la Transfiguración y descubrir la gloria de Jesús, el Hijo amado.",
+    "materiales": [
+      "Cartulina",
+      "Papel amarillo o dorado",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús subió a un monte con Pedro, Santiago y Juan, y su rostro brilló como el sol y sus vestidos se volvieron blancos como la luz.",
+      "Cada niño dibuja un monte y a Jesús en la cima.",
+      "Alrededor de Jesús peguen rayos de papel amarillo.",
+      "Escriban abajo: «Este es mi Hijo amado, escúchenlo».",
+      "Conversen: Pedro quería quedarse allí; ¿cuándo nos sentimos tan cerca de Jesús?"
+    ],
+    "para_los_mas_pequenos": "Que peguen rayos de colores alrededor de una figura ya dibujada.",
+    "para_los_mayores": "Que agreguen a Moisés y Elías hablando con Jesús.",
+    "cita_biblica": {
+      "referencia": "Mateo 17, 5",
+      "mensaje": "Una voz dijo desde la nube: Este es mi Hijo amado, escúchenlo."
+    },
+    "mensaje_final": "Escucho a Jesús, el Hijo amado."
+  },
+  {
+    "id": "04-047",
+    "modulo": 4,
+    "titulo": "¡Lázaro, Sal Fuera!",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que Jesús es la resurrección y la vida, y que llora con sus amigos.",
+    "materiales": [
+      "Papel higiénico o tela blanca (vendas)",
+      "Una sábana como entrada de la tumba"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Lázaro, amigo de Jesús, murió, y Jesús lloró con sus hermanas Marta y María.",
+      "Un niño es Lázaro, envuelto suavemente en vendas (sin tapar la cara) detrás de la sábana.",
+      "Marta y María lloran; Jesús llega y dice: «Yo soy la resurrección y la vida».",
+      "Jesús grita: «¡Lázaro, sal fuera!». Lázaro sale y los demás le quitan las vendas.",
+      "Conversen: Jesús llora con nosotros y nos da vida nueva."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean la gente que se alegra y quita las vendas.",
+    "para_los_mayores": "Que aprendan la frase de Jesús y expliquen qué significa.",
+    "cita_biblica": {
+      "referencia": "Juan 11, 25",
+      "mensaje": "Jesús dijo: Yo soy la resurrección y la vida."
+    },
+    "mensaje_final": "Jesús es mi amigo y me da vida."
+  },
+  {
+    "id": "04-048",
+    "modulo": 4,
+    "titulo": "Jesús Reza de Madrugada",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender de Jesús a comenzar el día hablando con Dios Padre.",
+    "materiales": [
+      "Una vela apagada o una lamparita"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús se levantaba muy temprano y se iba a un lugar tranquilo a rezar.",
+      "Pide a los niños que se «despierten» estirándose como en la mañana.",
+      "Enseña una oración corta para empezar el día: «Buenos días, Dios Padre, este día es para ti».",
+      "Repítanla juntos con las manos abiertas.",
+      "Anímalos a rezarla al despertar durante la semana."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Buenos días, Dios».",
+    "para_los_mayores": "Que escriban su propia oración de la mañana.",
+    "cita_biblica": {
+      "referencia": "Marcos 1, 35",
+      "mensaje": "Muy de madrugada, Jesús se levantó y fue a un lugar solitario a rezar."
+    },
+    "mensaje_final": "Empiezo cada día con Dios."
+  },
+  {
+    "id": "04-049",
+    "modulo": 4,
+    "titulo": "¡Hosana al que Viene!",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer la entrada de Jesús en Jerusalén y aclamarlo como Rey humilde.",
+    "materiales": [
+      "Hojas de papel verde recortadas como ramas",
+      "Una tela o mantos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús entró en Jerusalén montado en un burrito y la gente lo recibía con alegría.",
+      "Entrega ramas de papel a los niños y forma dos filas como un camino.",
+      "Un niño hace de Jesús y camina despacio entre las filas.",
+      "Los niños agitan las ramas y cantan: «¡Hosana, hosana, bendito el que viene en nombre del Señor!».",
+      "Explica que Jesús es un Rey que viene con humildad y paz."
+    ],
+    "para_los_mas_pequenos": "Que agiten las ramas mientras tú cantas.",
+    "para_los_mayores": "Que expliquen por qué Jesús eligió un burrito y no un caballo.",
+    "cita_biblica": {
+      "referencia": "Mateo 21, 9",
+      "mensaje": "La gente gritaba: ¡Hosana! ¡Bendito el que viene en nombre del Señor!"
+    },
+    "mensaje_final": "Jesús es mi Rey de paz."
+  },
+  {
+    "id": "04-050",
+    "modulo": 4,
+    "titulo": "Mi Casa es Casa de Oración",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que el templo es un lugar sagrado para encontrarse con Dios.",
+    "materiales": [
+      "Una imagen de una iglesia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús encontró vendedores haciendo negocios en el templo y los sacó diciendo: «Mi casa es casa de oración».",
+      "Pregunta: ¿Para qué vamos a la iglesia? ¿Cómo nos comportamos allí?",
+      "Hagan una lista: hablar bajito, saludar a Jesús, rezar, escuchar.",
+      "Explica que nuestro corazón también es casa de Dios.",
+      "Practiquen juntos cómo entrar a la iglesia: persignarse y hacer una genuflexión o inclinación."
+    ],
+    "para_los_mas_pequenos": "Que practiquen solo la señal de la cruz y el silencio.",
+    "para_los_mayores": "Que piensen qué cosas «ensucian» el templo de su corazón.",
+    "cita_biblica": {
+      "referencia": "Mateo 21, 13",
+      "mensaje": "Jesús dijo: Mi casa será llamada casa de oración."
+    },
+    "mensaje_final": "Cuido la casa de Dios y mi corazón."
+  },
+  {
+    "id": "04-051",
+    "modulo": 4,
+    "titulo": "Las Dos Moneditas",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que Dios valora lo que damos con amor, aunque sea poco.",
+    "materiales": [
+      "Monedas de papel",
+      "Una caja como alcancía del templo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús vio a una viuda pobre echar dos moneditas en la alcancía del templo.",
+      "Reparte monedas de papel: a algunos muchas, a otros pocas.",
+      "Cada niño deposita lo que quiera y dice por qué.",
+      "Lee lo que dijo Jesús: «Ella dio más que todos, porque dio todo lo que tenía».",
+      "Conversen: ¿Qué podemos dar a Dios además de dinero? Tiempo, ayuda, oración."
+    ],
+    "para_los_mas_pequenos": "Que todos echen una moneda y digan «Para ti, Jesús».",
+    "para_los_mayores": "Que calculen cuánto «dio» cada uno en proporción a lo que tenía.",
+    "cita_biblica": {
+      "referencia": "Marcos 12, 43",
+      "mensaje": "Jesús dijo: Esta viuda pobre dio más que todos los demás."
+    },
+    "mensaje_final": "Dios mira mi corazón cuando doy."
+  },
+  {
+    "id": "04-052",
+    "modulo": 4,
+    "titulo": "Jesús Lava los Pies",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Comprender que Jesús nos enseña a servir a los demás con humildad.",
+    "materiales": [
+      "Una palangana con un poco de agua",
+      "Una toalla"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que en la Última Cena Jesús se arrodilló y lavó los pies de sus discípulos.",
+      "Un niño es Jesús; otros son discípulos sentados.",
+      "Jesús echa un poco de agua sobre las manos o los pies de cada uno y los seca.",
+      "Pedro (otro niño) dice: «¡Tú no me lavarás los pies!», y Jesús le explica que es un signo de amor.",
+      "Conversen: Jesús dijo: «Hagan ustedes lo mismo». ¿Cómo podemos servir en casa?"
+    ],
+    "para_los_mas_pequenos": "Que laven solo las manos, con mucho cuidado.",
+    "para_los_mayores": "Que hagan una lista de servicios concretos para la semana.",
+    "cita_biblica": {
+      "referencia": "Juan 13, 14-15",
+      "mensaje": "Jesús dijo: Les di ejemplo para que hagan lo mismo que yo hice."
+    },
+    "mensaje_final": "Sirvo a los demás como Jesús."
+  },
+  {
+    "id": "04-053",
+    "modulo": 4,
+    "titulo": "Manos que Sirven",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar el ejemplo de Jesús que sirve con un compromiso concreto.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda el lavatorio de los pies y el mandato de servir.",
+      "Cada niño dibuja el contorno de su mano en la cartulina y la recorta.",
+      "En cada dedo escribe o dibuja un servicio: poner la mesa, ordenar, ayudar a un hermano.",
+      "Compartan sus manos con el grupo.",
+      "Llévenlas a casa y marquen cada servicio que cumplan durante la semana."
+    ],
+    "para_los_mas_pequenos": "Que dibujen un servicio en la palma con tu ayuda.",
+    "para_los_mayores": "Que incluyan un servicio para alguien fuera de su familia.",
+    "cita_biblica": {
+      "referencia": "Marcos 10, 45",
+      "mensaje": "Jesús vino a servir y a dar su vida por todos."
+    },
+    "mensaje_final": "Mis manos sirven como las de Jesús."
+  },
+  {
+    "id": "04-054",
+    "modulo": 4,
+    "titulo": "La Mesa de la Última Cena",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la Última Cena, en la que Jesús compartió con sus amigos y nos dejó el regalo de la Eucaristía.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores",
+      "Figuras de papel de Jesús y los apóstoles"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que antes de morir Jesús cenó con sus amigos, tomó el pan y el vino y dijo: «Esto es mi Cuerpo... esta es mi Sangre».",
+      "Cada niño dibuja una mesa larga en la hoja.",
+      "Peguen o dibujen a Jesús en el centro y a los doce apóstoles alrededor.",
+      "Dibujen el pan y el cáliz sobre la mesa.",
+      "Explica que en cada Misa Jesús vuelve a darse a nosotros en la Eucaristía."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo a Jesús con el pan y el cáliz.",
+    "para_los_mayores": "Que escriban debajo las palabras de Jesús en la Última Cena.",
+    "cita_biblica": {
+      "referencia": "Lucas 22, 19",
+      "mensaje": "Jesús tomó el pan, dio gracias y dijo: Esto es mi Cuerpo, que se entrega por ustedes."
+    },
+    "mensaje_final": "Jesús se quedó con nosotros en la Eucaristía."
+  },
+  {
+    "id": "04-055",
+    "modulo": 4,
+    "titulo": "Velen Conmigo",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Acompañar a Jesús en su oración en el huerto y aprender a confiar en el Padre.",
+    "materiales": [
+      "Una vela apagada o lámpara pequeña"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús rezó en el huerto de los Olivos, triste, y pidió a sus amigos que lo acompañaran, pero se durmieron.",
+      "Pide a los niños que se sienten en silencio, «acompañando» a Jesús.",
+      "Lee despacio la oración de Jesús: «Padre, que no se haga mi voluntad, sino la tuya».",
+      "Cada niño repite la oración en voz baja.",
+      "Conversen: ¿Cómo podemos acompañar a Jesús? Rezando, visitándolo en el Sagrario."
+    ],
+    "para_los_mas_pequenos": "Que hagan un minuto de silencio con las manos juntas.",
+    "para_los_mayores": "Que piensen en algo difícil que ponen en manos del Padre.",
+    "cita_biblica": {
+      "referencia": "Lucas 22, 42",
+      "mensaje": "Jesús rezó: Padre, que no se haga mi voluntad, sino la tuya."
+    },
+    "mensaje_final": "Acompaño a Jesús con mi oración."
+  },
+  {
+    "id": "04-056",
+    "modulo": 4,
+    "titulo": "Pedro y el Canto del Gallo",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que Jesús perdona a Pedro y nos perdona cuando nos arrepentimos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Pedro dijo que nunca dejaría a Jesús, pero esa noche, por miedo, dijo tres veces que no lo conocía.",
+      "Un niño es Pedro; tres niños le preguntan: «¿Tú eres amigo de Jesús?».",
+      "Pedro responde: «No lo conozco». Al tercer «no», otro niño canta como gallo: «¡Kikirikí!».",
+      "Pedro recuerda las palabras de Jesús y llora arrepentido.",
+      "Explica que Jesús resucitado perdonó a Pedro. ¡Jesús siempre nos da otra oportunidad!"
+    ],
+    "para_los_mas_pequenos": "Que todos hagan el canto del gallo juntos.",
+    "para_los_mayores": "Que piensen cuándo nos da vergüenza decir que somos amigos de Jesús.",
+    "cita_biblica": {
+      "referencia": "Lucas 22, 61-62",
+      "mensaje": "Jesús miró a Pedro; Pedro recordó y lloró arrepentido."
+    },
+    "mensaje_final": "Jesús me perdona y me da otra oportunidad."
+  },
+  {
+    "id": "04-057",
+    "modulo": 4,
+    "titulo": "Unidos a la Vid",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que unidos a Jesús damos frutos de amor.",
+    "materiales": [
+      "Una cuerda o lana larga",
+      "Racimos de uvas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee las palabras de Jesús: «Yo soy la vid y ustedes las ramas».",
+      "Un niño en el centro sostiene la cuerda (la vid); los demás toman la cuerda formando ramas.",
+      "Canten: «Unidos a Jesús damos fruto, unidos a Jesús hay amor».",
+      "Mientras cantan, cada niño cuelga en la cuerda un racimo con un fruto: paciencia, ayuda, alegría.",
+      "Pregunta: ¿Qué pasa con una rama que se separa? Se seca. Por eso rezamos y vamos a Misa."
+    ],
+    "para_los_mas_pequenos": "Que sostengan la cuerda y canten mientras tú cuelgas los racimos.",
+    "para_los_mayores": "Que escriban en su racimo un fruto concreto que darán esta semana.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 5",
+      "mensaje": "Jesús dijo: Yo soy la vid y ustedes las ramas; quien permanece en mí da mucho fruto."
+    },
+    "mensaje_final": "Unido a Jesús doy buenos frutos."
+  },
+  {
+    "id": "04-058",
+    "modulo": 4,
+    "titulo": "Jesús, Luz del Mundo",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Proclamar con alegría que Jesús ilumina nuestra vida.",
+    "materiales": [
+      "Linternas o estrellas de papel amarillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee la frase de Jesús: «Yo soy la luz del mundo».",
+      "Apaga la luz y enciende una linterna o levanta una estrella.",
+      "Canten con una melodía sencilla: «Jesús es mi luz, Jesús es mi luz, Él brilla en mi corazón».",
+      "A cada repetición, otro niño enciende su luz o levanta su estrella, hasta que todo el salón «brille».",
+      "Explica que cuando seguimos a Jesús, nosotros también iluminamos a otros."
+    ],
+    "para_los_mas_pequenos": "Que todos levanten sus estrellas a la vez.",
+    "para_los_mayores": "Que digan una forma concreta de ser luz para alguien.",
+    "cita_biblica": {
+      "referencia": "Juan 8, 12",
+      "mensaje": "Jesús dijo: Yo soy la luz del mundo; el que me sigue no camina en la oscuridad."
+    },
+    "mensaje_final": "Jesús ilumina mi camino."
+  },
+  {
+    "id": "04-059",
+    "modulo": 4,
+    "titulo": "Camino, Verdad y Vida",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús es el camino seguro hacia el Padre.",
+    "materiales": [
+      "Huellas de papel",
+      "Tarjetas con señales (amor, verdad, perdón, egoísmo, mentira)"
+    ],
+    "preparacion": "Arma dos caminos con huellas: uno con tarjetas de virtudes y otro con tarjetas de lo que nos aleja de Dios.",
+    "pasos": [
+      "Lee la frase de Jesús: «Yo soy el camino, la verdad y la vida».",
+      "Los niños recorren ambos caminos leyendo las tarjetas.",
+      "Al final del camino de las virtudes hay una imagen de Jesús; el otro termina en un «callejón sin salida».",
+      "Conversen: ¿Por qué Jesús es el camino seguro?",
+      "Cada niño elige una virtud para practicar esta semana."
+    ],
+    "para_los_mas_pequenos": "Que recorran solo el camino bueno tomados de la mano.",
+    "para_los_mayores": "Que inventen nuevas tarjetas para cada camino.",
+    "cita_biblica": {
+      "referencia": "Juan 14, 6",
+      "mensaje": "Jesús dijo: Yo soy el camino, la verdad y la vida."
+    },
+    "mensaje_final": "Jesús es mi camino."
+  },
+  {
+    "id": "04-060",
+    "modulo": 4,
+    "titulo": "Simón Ayuda con la Cruz",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que ayudar a quien sufre es ayudar a Jesús.",
+    "materiales": [
+      "Una cruz de cartón liviana"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta con sencillez que Jesús cargaba la cruz muy cansado y unos soldados pidieron a Simón de Cirene que lo ayudara.",
+      "Un niño hace de Jesús y lleva la cruz caminando despacio.",
+      "Otro niño es Simón: se acerca y la carga junto con Jesús.",
+      "Repitan con varios niños haciendo de Simón.",
+      "Conversen: ¿Quién lleva hoy una «cruz» pesada (enfermedad, tristeza)? ¿Cómo podemos ayudarlo?"
+    ],
+    "para_los_mas_pequenos": "Que todos ayuden a llevar la cruz juntos unos pasos.",
+    "para_los_mayores": "Que piensen en una persona concreta a quien ayudar esta semana.",
+    "cita_biblica": {
+      "referencia": "Lucas 23, 26",
+      "mensaje": "Tomaron a Simón de Cirene y le pusieron la cruz para que la llevara detrás de Jesús."
+    },
+    "mensaje_final": "Cuando ayudo a alguien, ayudo a Jesús."
+  },
+  {
+    "id": "04-061",
+    "modulo": 4,
+    "titulo": "Padre, Perdónalos",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Contemplar el amor de Jesús que perdona incluso en la cruz.",
+    "materiales": [
+      "Una cruz sencilla"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la cruz en el centro y pide silencio.",
+      "Explica con suavidad que Jesús murió en la cruz por amor a nosotros y, desde allí, rezó: «Padre, perdónalos».",
+      "Invita a cada niño a pensar en alguien a quien le cuesta perdonar.",
+      "Rezan en silencio: «Jesús, ayúdame a perdonar a...».",
+      "Terminen diciendo juntos: «Gracias, Jesús, por tu amor tan grande»."
+    ],
+    "para_los_mas_pequenos": "Que solo digan «Gracias, Jesús, por amarme».",
+    "para_los_mayores": "Que escriban en un papelito el nombre y lo dejen junto a la cruz.",
+    "cita_biblica": {
+      "referencia": "Lucas 23, 34",
+      "mensaje": "Jesús decía: Padre, perdónalos, porque no saben lo que hacen."
+    },
+    "mensaje_final": "Jesús me enseña a perdonar."
+  },
+  {
+    "id": "04-062",
+    "modulo": 4,
+    "titulo": "Acuérdate de Mí",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús siempre acoge a quien se arrepiente con sinceridad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que junto a Jesús había dos hombres crucificados; uno se burlaba y el otro le pidió: «Jesús, acuérdate de mí».",
+      "Lee la respuesta de Jesús: «Hoy estarás conmigo en el paraíso».",
+      "Pregunta: ¿Qué hizo diferente el segundo hombre? Reconoció su error y confió.",
+      "Explica que nunca es tarde para volver a Jesús.",
+      "Recen juntos: «Jesús, acuérdate de mí»."
+    ],
+    "para_los_mas_pequenos": "Que repitan la oración con las manos en el corazón.",
+    "para_los_mayores": "Que comparen esta historia con la confesión.",
+    "cita_biblica": {
+      "referencia": "Lucas 23, 42-43",
+      "mensaje": "Dijo: Jesús, acuérdate de mí. Jesús respondió: Hoy estarás conmigo en el paraíso."
+    },
+    "mensaje_final": "Jesús, acuérdate de mí."
+  },
+  {
+    "id": "04-063",
+    "modulo": 4,
+    "titulo": "María Junto a la Cruz",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que Jesús nos dio a María como Madre.",
+    "materiales": [
+      "Una imagen de la Virgen María"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que María se quedó junto a la cruz de Jesús, con el apóstol Juan.",
+      "Lee que Jesús le dijo a Juan: «Ahí tienes a tu madre».",
+      "Explica que desde ese momento María es también nuestra Madre.",
+      "Pasen la imagen de mano en mano; cada niño dice: «María, eres mi Madre».",
+      "Terminen rezando juntos un Avemaría."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «María, te quiero».",
+    "para_los_mayores": "Que piensen en qué momentos pueden pedir ayuda a su Madre del cielo.",
+    "cita_biblica": {
+      "referencia": "Juan 19, 27",
+      "mensaje": "Jesús dijo al discípulo: Ahí tienes a tu madre."
+    },
+    "mensaje_final": "María es mi Madre."
+  },
+  {
+    "id": "04-064",
+    "modulo": 4,
+    "titulo": "La Cruz Llena de Amor",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que la cruz es signo del gran amor de Jesús por nosotros.",
+    "materiales": [
+      "Cruces de cartulina",
+      "Corazones pequeños de papel",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la cruz nos recuerda que Jesús dio su vida por amor.",
+      "Entrega a cada niño una cruz de cartulina.",
+      "Decórenla pegando corazones pequeños.",
+      "En el centro, escriban: «Jesús me ama».",
+      "Llévenla a casa para colocarla en un lugar de oración."
+    ],
+    "para_los_mas_pequenos": "Que peguen corazones en una cruz con su nombre ya escrito.",
+    "para_los_mayores": "Que escriban en cada corazón una persona por quien Jesús dio la vida.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 13",
+      "mensaje": "Nadie tiene amor más grande que el que da la vida por sus amigos."
+    },
+    "mensaje_final": "La cruz me dice: Jesús me ama."
+  },
+  {
+    "id": "04-065",
+    "modulo": 4,
+    "titulo": "¡No Está Aquí, Resucitó!",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Vivir la alegría de la Resurrección de Jesús.",
+    "materiales": [
+      "Una caja o tela como sepulcro",
+      "Tarjetas con la frase «¡Resucitó!»"
+    ],
+    "preparacion": "Esconde tarjetas con la palabra «¡Resucitó!» por todo el salón.",
+    "pasos": [
+      "Cuenta que las mujeres fueron al sepulcro el domingo temprano y lo encontraron vacío.",
+      "Muestra la caja vacía: «¿Dónde está Jesús?».",
+      "Los niños buscan las tarjetas escondidas.",
+      "Cada vez que alguien encuentra una, grita: «¡Jesús resucitó!» y todos aplauden.",
+      "Explica que Jesús venció a la muerte y está vivo para siempre."
+    ],
+    "para_los_mas_pequenos": "Que busquen en parejas o con tu ayuda.",
+    "para_los_mayores": "Que lean en la Biblia el relato del sepulcro vacío.",
+    "cita_biblica": {
+      "referencia": "Lucas 24, 6",
+      "mensaje": "El ángel dijo: No está aquí, ha resucitado."
+    },
+    "mensaje_final": "¡Jesús está vivo!"
+  },
+  {
+    "id": "04-066",
+    "modulo": 4,
+    "titulo": "Las Mujeres del Domingo",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer a las primeras testigas de la Resurrección y anunciar la buena noticia.",
+    "materiales": [
+      "Frascos o vasos (perfumes)",
+      "Una tela blanca para el ángel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que María Magdalena y otras mujeres llevaron perfumes al sepulcro.",
+      "Varias niñas caminan tristes con sus frascos.",
+      "Un niño vestido de ángel les dice: «¿Por qué buscan entre los muertos al que está vivo?».",
+      "Las mujeres corren a avisar a los apóstoles: «¡Jesús resucitó!».",
+      "Conversen: ¿A quién podemos contarle que Jesús está vivo?"
+    ],
+    "para_los_mas_pequenos": "Que todos corran a avisar con los brazos en alto.",
+    "para_los_mayores": "Que escriban lo que dirían a los apóstoles.",
+    "cita_biblica": {
+      "referencia": "Lucas 24, 5-6",
+      "mensaje": "¿Por qué buscan entre los muertos al que está vivo? ¡Resucitó!"
+    },
+    "mensaje_final": "Anuncio que Jesús está vivo."
+  },
+  {
+    "id": "04-067",
+    "modulo": 4,
+    "titulo": "María Magdalena, Llamada por su Nombre",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús resucitado nos conoce y nos llama por nuestro nombre.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que María Magdalena lloraba junto al sepulcro y no reconoció a Jesús, hasta que Él la llamó: «¡María!».",
+      "Una niña es María, de espaldas, llorando; un niño es Jesús.",
+      "Jesús pregunta: «¿Por qué lloras?». Ella no lo reconoce.",
+      "Jesús dice su nombre y ella se da vuelta feliz: «¡Maestro!».",
+      "Luego Jesús dice el nombre de cada niño del grupo y ellos responden: «¡Maestro!»."
+    ],
+    "para_los_mas_pequenos": "Que respondan con una sonrisa cuando escuchan su nombre.",
+    "para_los_mayores": "Que expliquen por qué María lo reconoció al oír su nombre.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 16",
+      "mensaje": "Jesús le dijo: ¡María! Ella se volvió y le dijo: ¡Maestro!"
+    },
+    "mensaje_final": "Jesús resucitado me llama por mi nombre."
+  },
+  {
+    "id": "04-068",
+    "modulo": 4,
+    "titulo": "Aleluya, Jesús Vive",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Celebrar con canto y alegría que Jesús resucitó.",
+    "materiales": [
+      "Cintas o pañuelos de colores (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que «Aleluya» significa «alaben a Dios» y es el grito de alegría de los cristianos.",
+      "Enseña un canto sencillo: «Aleluya, aleluya, Jesús vive, aleluya».",
+      "Agreguen movimientos: aplausos, saltos, brazos arriba.",
+      "Canten en ronda girando y agitando las cintas.",
+      "Terminen con un gran «¡Jesús vive!»."
+    ],
+    "para_los_mas_pequenos": "Que solo digan «¡Aleluya!» saltando.",
+    "para_los_mayores": "Que inventen estrofas nuevas: «venció a la muerte, aleluya».",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 6",
+      "mensaje": "No está aquí, resucitó, tal como lo había dicho."
+    },
+    "mensaje_final": "¡Aleluya! Jesús vive."
+  },
+  {
+    "id": "04-069",
+    "modulo": 4,
+    "titulo": "Caminando a Emaús",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús camina con nosotros aunque a veces no lo reconozcamos.",
+    "materiales": [
+      "Un pan de papel",
+      "Cinta para marcar un camino"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que dos discípulos caminaban tristes hacia Emaús y Jesús se unió a ellos, pero no lo reconocieron.",
+      "Los niños caminan en parejas por el camino marcado, contando algo triste o preocupante.",
+      "Tú te unes a cada pareja y caminas con ellos escuchando.",
+      "Al final del camino, partes el pan de papel y los niños dicen: «¡Es Jesús!».",
+      "Explica que lo reconocieron al partir el pan, como hoy en la Misa."
+    ],
+    "para_los_mas_pequenos": "Que todos caminen contigo en una sola fila.",
+    "para_los_mayores": "Que comparen el camino de Emaús con las partes de la Misa.",
+    "cita_biblica": {
+      "referencia": "Lucas 24, 30-31",
+      "mensaje": "Jesús tomó el pan, lo partió y ellos lo reconocieron."
+    },
+    "mensaje_final": "Jesús camina conmigo."
+  },
+  {
+    "id": "04-070",
+    "modulo": 4,
+    "titulo": "Tomás Quiere Ver",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a creer en Jesús aunque no lo veamos con los ojos.",
+    "materiales": [
+      "Una caja cerrada con un objeto dentro"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la caja y di: «Aquí hay algo bonito; ¿me creen?».",
+      "Cuenta que Tomás no estaba cuando Jesús se apareció y dijo: «Si no lo veo, no lo creo».",
+      "Cuenta que Jesús volvió y le dijo: «Felices los que creen sin haber visto».",
+      "Abre la caja y conversen: ¿Cómo sabemos que Jesús está con nosotros aunque no lo vemos?",
+      "Recen juntos la frase de Tomás: «¡Señor mío y Dios mío!»."
+    ],
+    "para_los_mas_pequenos": "Que repitan la frase de Tomás con las manos juntas.",
+    "para_los_mayores": "Que expliquen cuándo se dice esa frase en la Misa (en la elevación).",
+    "cita_biblica": {
+      "referencia": "Juan 20, 29",
+      "mensaje": "Jesús dijo: Felices los que creen sin haber visto."
+    },
+    "mensaje_final": "Creo en Jesús aunque no lo vea."
+  },
+  {
+    "id": "04-071",
+    "modulo": 4,
+    "titulo": "El Desayuno a la Orilla del Lago",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús resucitado cuida de sus amigos y comparte la mesa con ellos.",
+    "materiales": [
+      "Una tela azul",
+      "Peces y panes de papel",
+      "Una «fogata» de papel rojo y amarillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que los discípulos pescaron toda la noche sin nada y, al amanecer, un hombre en la orilla les dijo dónde echar la red.",
+      "Los niños en la «barca» echan la red y sacan muchos peces de papel.",
+      "Juan grita: «¡Es el Señor!». Todos llegan a la orilla, donde Jesús preparó una fogata con pan y pescado.",
+      "Jesús (otro niño) reparte el pan y los peces a cada uno.",
+      "Conversen: Jesús resucitado sigue cuidando a sus amigos; ¿cómo nos cuida hoy?"
+    ],
+    "para_los_mas_pequenos": "Que todos sean pescadores que sacan peces de la tela.",
+    "para_los_mayores": "Que reconozcan en qué se parece esta escena a la multiplicación de los panes.",
+    "cita_biblica": {
+      "referencia": "Juan 21, 12",
+      "mensaje": "Jesús les dijo: Vengan a desayunar."
+    },
+    "mensaje_final": "Jesús resucitado me cuida cada día."
+  },
+  {
+    "id": "04-072",
+    "modulo": 4,
+    "titulo": "Pedro, ¿Me Amas?",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que Jesús renueva su amistad con nosotros y nos pide amarlo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús resucitado desayunó con sus amigos junto al lago y preguntó tres veces a Pedro: «¿Me amas?».",
+      "Explica que Pedro lo había negado tres veces, y ahora Jesús le dio la oportunidad de decir tres veces que lo amaba.",
+      "Haz la pregunta a cada niño: «[Nombre], ¿amas a Jesús?».",
+      "El niño responde: «Sí, Señor, tú sabes que te quiero».",
+      "Terminen pidiendo a Jesús amarlo cada día más."
+    ],
+    "para_los_mas_pequenos": "Que respondan todos juntos la frase.",
+    "para_los_mayores": "Que digan cómo muestran su amor a Jesús.",
+    "cita_biblica": {
+      "referencia": "Juan 21, 17",
+      "mensaje": "Pedro le dijo: Señor, tú lo sabes todo; tú sabes que te quiero."
+    },
+    "mensaje_final": "Jesús, tú sabes que te quiero."
+  },
+  {
+    "id": "04-073",
+    "modulo": 4,
+    "titulo": "Jesús Sube al Cielo",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la Ascensión y la promesa de Jesús de estar siempre con nosotros.",
+    "materiales": [
+      "Vasos de papel",
+      "Algodón",
+      "Figura de Jesús de papel",
+      "Pegamento",
+      "Palito o pajita"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús, después de resucitar, subió al cielo ante sus discípulos y prometió estar siempre con ellos.",
+      "Peguen algodón alrededor del borde de un vaso puesto boca abajo, como una nube.",
+      "Peguen la figura de Jesús en un palito que pase por un agujero del vaso.",
+      "Al subir el palito, Jesús «sube» a la nube.",
+      "Recen: «Jesús, gracias por estar siempre conmigo»."
+    ],
+    "para_los_mas_pequenos": "Que peguen solo el algodón y la figura ya preparada.",
+    "para_los_mayores": "Que escriban la promesa de Jesús en el vaso.",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 20",
+      "mensaje": "Jesús dijo: Yo estoy con ustedes todos los días, hasta el fin del mundo."
+    },
+    "mensaje_final": "Jesús está conmigo todos los días."
+  },
+  {
+    "id": "04-074",
+    "modulo": 4,
+    "titulo": "Vayan y Cuenten a Todos",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que Jesús nos envía a anunciar su amor.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que antes de subir al cielo, Jesús envió a sus amigos a todo el mundo a contar la buena noticia.",
+      "Susurra al oído de un niño: «Jesús te ama».",
+      "Ese niño lo susurra al siguiente, como un teléfono, hasta que llega al último.",
+      "El último lo dice en voz alta: «¡Jesús te ama!».",
+      "Conversen: así se comparte la fe, de persona en persona. ¿A quién se lo contamos?"
+    ],
+    "para_los_mas_pequenos": "Que lo digan en voz normal pasándolo de uno a otro.",
+    "para_los_mayores": "Que el mensaje sea una frase más larga del Evangelio.",
+    "cita_biblica": {
+      "referencia": "Marcos 16, 15",
+      "mensaje": "Jesús dijo: Vayan por todo el mundo y anuncien la Buena Noticia."
+    },
+    "mensaje_final": "Cuento a todos que Jesús los ama."
+  },
+  {
+    "id": "04-075",
+    "modulo": 4,
+    "titulo": "La Línea de la Vida de Jesús",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 25,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar en orden los principales momentos de la vida de Jesús.",
+    "materiales": [
+      "Papel largo o cuerda",
+      "Tarjetas con escenas (anunciación, nacimiento, bautismo, milagros, cena, cruz, resurrección, ascensión)",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Reparte las tarjetas entre los niños para que las coloreen.",
+      "Pide que ordenen las escenas en la línea del tiempo desde el principio hasta el final.",
+      "Cada niño explica brevemente su escena al colocarla.",
+      "Corrijan juntos el orden si hace falta.",
+      "Lean la línea completa como la «historia de amor» de Jesús."
+    ],
+    "para_los_mas_pequenos": "Que coloreen y tú ayudes a ordenar con preguntas sencillas.",
+    "para_los_mayores": "Que agreguen escenas que recuerden y no estaban en las tarjetas.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 31",
+      "mensaje": "Esto se escribió para que crean que Jesús es el Hijo de Dios."
+    },
+    "mensaje_final": "Conozco la historia de amor de Jesús."
+  },
+  {
+    "id": "04-076",
+    "modulo": 4,
+    "titulo": "Memoria de los Milagros",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 16 niños",
+    "objetivo": "Repasar los milagros de Jesús con un juego de memoria.",
+    "materiales": [
+      "Pares de tarjetas con dibujos de milagros (agua y vino, panes, tormenta, ciego, paralítico, Lázaro)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca las tarjetas boca abajo sobre la mesa.",
+      "Por turnos, cada niño da vuelta dos tarjetas buscando el par.",
+      "Si encuentra un par, cuenta el milagro que representa y se queda con las tarjetas.",
+      "Si no, las vuelve a poner boca abajo y sigue otro.",
+      "Al final, conversen: ¿Qué milagro les gusta más y por qué?"
+    ],
+    "para_los_mas_pequenos": "Usa pocos pares (cuatro) con dibujos grandes.",
+    "para_los_mayores": "Que digan la cita bíblica de cada milagro o el lugar donde ocurrió.",
+    "cita_biblica": {
+      "referencia": "Juan 21, 25",
+      "mensaje": "Jesús hizo muchas otras cosas; si se escribieran, no cabrían en todos los libros."
+    },
+    "mensaje_final": "Jesús hace maravillas por amor."
+  },
+  {
+    "id": "04-077",
+    "modulo": 4,
+    "titulo": "¿Qué Milagro Soy?",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar los milagros de Jesús representándolos con mímica.",
+    "materiales": [
+      "Papelitos con nombres de milagros"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos equipos.",
+      "Un niño saca un papelito y representa el milagro con mímica, sin hablar.",
+      "Su equipo tiene un minuto para adivinarlo.",
+      "Si aciertan, ganan un punto y cuentan qué pasó en ese milagro.",
+      "Terminen diciendo: «¡Jesús es poderoso y bueno!»."
+    ],
+    "para_los_mas_pequenos": "Que representen en grupo y tú des pistas.",
+    "para_los_mayores": "Que expliquen qué enseña cada milagro sobre Jesús.",
+    "cita_biblica": {
+      "referencia": "Mateo 11, 5",
+      "mensaje": "Los ciegos ven, los cojos caminan y a los pobres se les anuncia la buena noticia."
+    },
+    "mensaje_final": "Jesús tiene poder y amor."
+  },
+  {
+    "id": "04-078",
+    "modulo": 4,
+    "titulo": "El Mapa de los Caminos de Jesús",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Ubicar los lugares donde vivió y caminó Jesús.",
+    "materiales": [
+      "Un mapa sencillo de Tierra Santa dibujado",
+      "Tarjetas con lugares (Belén, Nazaret, río Jordán, Caná, lago de Galilea, Jerusalén)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el mapa y señala los lugares principales.",
+      "Lee una pista: «Aquí nació Jesús» o «Aquí convirtió el agua en vino».",
+      "Un niño coloca la tarjeta correcta sobre el mapa.",
+      "Continúen hasta completar todos los lugares.",
+      "Conversen: Jesús caminó por lugares reales y hoy camina por nuestras calles."
+    ],
+    "para_los_mas_pequenos": "Usa dibujos para cada lugar (estrella, casa, río).",
+    "para_los_mayores": "Que marquen con una línea el recorrido de Jesús de Nazaret a Jerusalén.",
+    "cita_biblica": {
+      "referencia": "Mateo 4, 23",
+      "mensaje": "Jesús recorría toda Galilea enseñando y sanando a la gente."
+    },
+    "mensaje_final": "Jesús caminó por la tierra para estar cerca de nosotros."
+  },
+  {
+    "id": "04-079",
+    "modulo": 4,
+    "titulo": "Carta a Mi Amigo Jesús",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Expresar la amistad con Jesús de forma personal.",
+    "materiales": [
+      "Hojas decoradas",
+      "Sobres",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda los momentos de la vida de Jesús que conocieron en este módulo.",
+      "Entrega una hoja para escribir o dibujar una carta a Jesús.",
+      "Pueden contarle qué les gustó de su vida, darle gracias o pedirle algo.",
+      "Guarden las cartas en sobres decorados.",
+      "Coloquen las cartas a los pies de una cruz o una imagen de Jesús y recen juntos."
+    ],
+    "para_los_mas_pequenos": "Que dibujen a Jesús y a ellos juntos.",
+    "para_los_mayores": "Que escriban qué milagro les gustaría que Jesús hiciera hoy en el mundo.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 15",
+      "mensaje": "Jesús dijo: Ya no los llamo siervos, sino amigos."
+    },
+    "mensaje_final": "Jesús es mi mejor amigo."
+  },
+  {
+    "id": "04-080",
+    "modulo": 4,
+    "titulo": "Las Manos de Jesús",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Recordar todo lo bueno que hicieron las manos de Jesús e imitarlo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué hacían las manos de Jesús? Sanaban, bendecían, partían el pan, abrazaban.",
+      "Enseña un canto con ritmo: «Las manos de Jesús sanaban, las manos de Jesús bendecían».",
+      "Por cada acción, hagan un gesto con las manos.",
+      "Cambien el canto a: «Mis manos van a ayudar, mis manos van a compartir».",
+      "Terminen juntando las manos en oración."
+    ],
+    "para_los_mas_pequenos": "Que hagan los gestos mientras tú cantas.",
+    "para_los_mayores": "Que inventen nuevas estrofas con acciones de su vida diaria.",
+    "cita_biblica": {
+      "referencia": "Marcos 6, 2",
+      "mensaje": "La gente decía: ¡Qué maravillas hacen sus manos!"
+    },
+    "mensaje_final": "Mis manos pueden hacer el bien como Jesús."
+  }
+]
