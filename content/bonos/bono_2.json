@@ -1,6 +1,369 @@
 {
   "parabolas": [
     {
+      "n": 1,
+      "titulo": "El Sembrador",
+      "referencia": "Mateo 13, 1-9",
+      "historia": [
+        "Un día, Jesús estaba a la orilla del lago y se juntó tanta gente para escucharlo que tuvo que subirse a una barca. Desde allí, les contó esta historia:",
+        "Un sembrador salió a su campo con una bolsa llena de semillas. Caminaba y, con la mano, las lanzaba a un lado y a otro, ¡fiu, fiu!, como quien reparte un regalo.",
+        "Algunas semillas cayeron en el camino, donde la tierra estaba dura. Enseguida vinieron los pájaros, ¡pío, pío!, y se las comieron todas.",
+        "Otras cayeron entre piedras, donde había muy poquita tierra. Las semillas brotaron rápido, pero como no podían echar raíces, cuando salió el sol fuerte se secaron.",
+        "Otras cayeron entre espinas. Las plantitas empezaron a crecer, pero las espinas crecieron también, las rodearon y no las dejaron respirar.",
+        "Pero otras semillas cayeron en tierra buena: suave, con agua y con sol. Allí echaron raíces profundas, crecieron altas y dieron muchísimas espigas. ¡Algunas dieron treinta granos, otras sesenta y otras hasta cien!",
+        "Jesús terminó diciendo: «El que tenga oídos, que escuche».",
+        "Más tarde, sus amigos le preguntaron qué quería decir. Jesús les explicó que la semilla es la Palabra de Dios. A veces la escuchamos, pero se nos olvida enseguida, como la semilla del camino. A veces nos alegramos al escucharla, pero cuando algo cuesta, la abandonamos, como la semilla entre piedras. Otras veces otras cosas nos distraen tanto que la Palabra no puede crecer, como la semilla entre espinas.",
+        "Pero cuando abrimos el corazón, la escuchamos con atención y la cuidamos, nuestro corazón es como la tierra buena. Allí la Palabra de Dios crece y da frutos de amor, de paz y de alegría para nosotros y para los demás."
+      ],
+      "ensenanza": "Jesús quiere que nuestro corazón sea tierra buena. Cuando escuchamos la Palabra de Dios con atención y la ponemos en práctica, crece en nosotros y da frutos de amor.",
+      "preguntas": [
+        "¿En qué lugares cayeron las semillas? ¿Cuál fue el mejor?",
+        "¿Qué cosas nos distraen y no dejan crecer la Palabra de Dios en nosotros?",
+        "¿Qué fruto bueno te gustaría dar esta semana?"
+      ],
+      "actividad": {
+        "titulo": "Mi maceta de tierra buena",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "un vasito",
+          "algodón o tierra",
+          "semillas de lenteja"
+        ],
+        "pasos": [
+          "Cada niño pone algodón húmedo o tierra en su vasito.",
+          "Coloca unas semillas mientras dice: «Quiero ser tierra buena».",
+          "Escribe su nombre en el vaso y lo lleva a casa para regarlo cada día."
+        ]
+      },
+      "oracion": "Jesús, quiero que mi corazón sea tierra buena. Ayúdame a escuchar tu Palabra con atención y a cuidarla, para que crezca en mí y dé frutos de amor. Amén."
+    },
+    {
+      "n": 2,
+      "titulo": "La Semilla que Crece Sola",
+      "referencia": "Marcos 4, 26-29",
+      "historia": [
+        "Jesús quería explicar cómo crece el Reino de Dios, ese mundo lleno de amor que Él vino a traer. Entonces contó esta pequeña historia:",
+        "Un campesino tomó unas semillas y las sembró en su campo. Hizo su trabajo con cuidado: preparó la tierra, puso las semillas en los surcos y las cubrió.",
+        "Después se fue a su casa. Esa noche se acostó a dormir. Al día siguiente se levantó, trabajó en otras cosas, y por la noche volvió a dormir. Y así pasaron los días: noche y día, día y noche.",
+        "Mientras tanto, sin que el campesino se diera cuenta, algo maravilloso estaba pasando debajo de la tierra. La semilla se abría, echaba una raicita, y un día asomó una hojita verde. Después salió un tallo. Luego apareció una espiga. Y, por fin, la espiga se llenó de granos dorados.",
+        "El campesino no sabía cómo pasaba todo eso. Él no podía hacer crecer la planta tirando de ella ni gritándole: «¡Crece rápido!». La tierra, el agua y el sol, que Dios creó, hacían su trabajo en silencio.",
+        "Cuando el trigo estuvo listo, el campesino tomó su herramienta y fue a cosechar con mucha alegría. ¡Había mucho fruto!",
+        "Jesús dijo que el Reino de Dios es así. Nosotros hacemos nuestra parte: rezamos, escuchamos la Palabra, hacemos el bien. Pero quien hace crecer el amor en los corazones es Dios. A veces no vemos nada y nos parece que no pasa nada. Pero Dios está trabajando en silencio, como la semilla debajo de la tierra.",
+        "Por eso no tenemos que desanimarnos ni ser impacientes. Una buena acción, una oración, una palabra amable son semillas. Dios las hace crecer a su tiempo, y un día darán mucho fruto."
+      ],
+      "ensenanza": "Nosotros sembramos el bien y Dios lo hace crecer. Aunque no veamos resultados enseguida, Dios trabaja en silencio y a su tiempo todo da fruto.",
+      "preguntas": [
+        "¿Qué hacía el campesino mientras la semilla crecía?",
+        "¿Quién hacía crecer la semilla?",
+        "¿Qué semillas de bien puedes sembrar en tu casa esta semana?"
+      ],
+      "actividad": {
+        "titulo": "Paciencia de semilla",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Los niños se agachan hechos bolita en el suelo: son semillas.",
+          "Cuenta despacio los días: «Llega la noche… llega el día…». En cada paso, crecen un poquito.",
+          "Al final se ponen de pie con los brazos arriba como espigas llenas."
+        ]
+      },
+      "oracion": "Señor, gracias porque tú haces crecer el bien que sembramos. Dame paciencia para esperar y confianza para seguir sembrando amor cada día. Amén."
+    },
+    {
+      "n": 3,
+      "titulo": "El Grano de Mostaza",
+      "referencia": "Mateo 13, 31-32",
+      "historia": [
+        "Jesús miró a la gente que lo escuchaba. Eran personas sencillas: pescadores, campesinos, mamás con sus hijos. Quizás algunos pensaban: «Somos tan pocos y tan pequeños… ¿qué podemos hacer nosotros?». Entonces Jesús les contó esta historia.",
+        "—¿Han visto alguna vez una semilla de mostaza? —preguntó—. Es una de las semillas más pequeñas que existen. ¡Es tan chiquita como la punta de un lápiz! Si se te cae al suelo, casi no la puedes encontrar.",
+        "Un hombre tomó una de esas semillitas y la sembró en su huerta. Parecía que no iba a pasar nada. ¿Qué podía salir de algo tan diminuto?",
+        "Pero la semilla empezó a crecer. Echó raíces, sacó hojas, y siguió creciendo y creciendo. Se hizo más grande que todas las plantas de la huerta. ¡Llegó a ser como un árbol! Sus ramas eran tan fuertes y anchas que los pájaros venían a hacer allí sus nidos, a descansar y a cantar a la sombra.",
+        "Jesús dijo: «El Reino de Dios es así».",
+        "Cuando Jesús empezó, tenía solo doce amigos. Eran pocos y sencillos. Pero el amor de Dios que Él sembró en sus corazones fue creciendo y creciendo, hasta llegar a todos los países del mundo. Hoy somos millones los que conocemos a Jesús.",
+        "Lo mismo pasa con nosotros. Tal vez pensamos que somos pequeños y que lo que hacemos no importa. Pero un gesto pequeño de amor, como compartir tu merienda, decir «te perdono» o rezar por alguien, es como una semilla de mostaza. Dios lo hace crecer, y puede llegar a ser algo muy grande, donde muchos encuentren alegría y descanso, como los pájaros en las ramas.",
+        "Para Dios, nada pequeño hecho con amor es poca cosa."
+      ],
+      "ensenanza": "El Reino de Dios empieza pequeño y crece hasta ser muy grande. Nuestros gestos pequeños de amor, en las manos de Dios, pueden dar mucha alegría a los demás.",
+      "preguntas": [
+        "¿Cómo era la semilla de mostaza al principio? ¿Y al final?",
+        "¿Quiénes encontraban refugio en el árbol?",
+        "¿Qué gesto pequeño de amor puedes hacer hoy?"
+      ],
+      "actividad": {
+        "titulo": "El árbol que crece",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "una hoja grande",
+          "lápices de colores",
+          "papelitos verdes"
+        ],
+        "pasos": [
+          "Dibuja en una hoja grande un tronco con una semillita en la raíz.",
+          "Cada niño escribe o dibuja en un papelito verde un gesto pequeño de amor.",
+          "Pegan los papelitos como hojas del árbol y miran qué grande quedó."
+        ]
+      },
+      "oracion": "Jesús, aunque soy pequeño, quiero sembrar tu amor. Haz crecer mis gestos de cariño para que muchos encuentren alegría a mi lado. Amén."
+    },
+    {
+      "n": 4,
+      "titulo": "La Levadura",
+      "referencia": "Mateo 13, 33",
+      "historia": [
+        "Jesús conocía muy bien las cosas de la casa. Seguramente había visto muchas veces a su mamá, María, preparar el pan para la familia. Por eso un día contó una historia muy cortita, pero llena de sabor.",
+        "Una mujer quería hacer pan. Tomó una gran cantidad de harina, tanta que alcanzaba para alimentar a muchísimas personas. La puso en una vasija grande y le agregó agua.",
+        "Después tomó un poquito de levadura. La levadura es una masa pequeña que hace que el pan se infle y quede suave y esponjoso. Era muy poquita, comparada con toda esa harina. La mezcló con la masa y amasó y amasó con sus manos.",
+        "Luego tapó la vasija con un paño y la dejó descansar. ¿Y qué pasó? Al principio, nada. Pero poco a poco, sin hacer ruido, la levadura fue llegando a toda la masa. La masa empezó a crecer, a inflarse, hasta que toda estaba fermentada y lista para hornear. ¡Y salió un pan delicioso y calentito para todos!",
+        "Jesús dijo: «El Reino de Dios es como esa levadura».",
+        "¿Qué quería decir? Que el amor de Dios funciona así. No hace falta mucho ruido ni cosas grandes. Una persona que ama a Jesús, que es buena, alegre y servicial, puede cambiar todo a su alrededor. En la familia, en el salón de clase, en el barrio… su amor se va contagiando, poquito a poco, hasta que todos se sienten mejor.",
+        "Tú también puedes ser levadura. Cuando sonríes a alguien que está triste, cuando ayudas sin que te lo pidan, cuando no te burlas de nadie, estás mezclando el amor de Dios en la masa del mundo. Y aunque no lo veas, ese amor va haciendo crecer cosas buenas.",
+        "Un poquito de levadura puede hacer crecer mucha masa. Un poquito de amor puede cambiar un lugar entero."
+      ],
+      "ensenanza": "Un poco de levadura hace crecer toda la masa. Así, nuestro amor, aunque sea pequeño, puede contagiarse y transformar a la familia y a los amigos.",
+      "preguntas": [
+        "¿Qué hace la levadura en la masa del pan?",
+        "¿Cómo podemos ser levadura en nuestra casa o en la escuela?",
+        "¿Has visto a alguien que contagie alegría y bondad a los demás?"
+      ],
+      "actividad": {
+        "titulo": "Contagiar el bien",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Un niño es la «levadura» y toca suavemente el hombro de un compañero mientras le dice algo amable.",
+          "Ese compañero se convierte en levadura y hace lo mismo con otro.",
+          "Sigan hasta que todo el grupo esté «fermentado» de amabilidad."
+        ]
+      },
+      "oracion": "Jesús, quiero ser levadura de tu amor. Que mis palabras y mis acciones ayuden a que mi familia y mis amigos sean más felices. Amén."
+    },
+    {
+      "n": 5,
+      "titulo": "El Trigo y la Cizaña",
+      "referencia": "Mateo 13, 24-30",
+      "historia": [
+        "Un día, Jesús contó la historia de un campesino que sembró trigo bueno en su campo. Lo hizo con mucho cuidado, porque quería tener una buena cosecha para hacer pan.",
+        "Pero una noche, mientras todos dormían, llegó un enemigo a escondidas y sembró otra semilla en el mismo campo: una hierba mala llamada cizaña. La cizaña se parece mucho al trigo cuando es pequeña, pero no sirve para hacer pan.",
+        "Pasaron los días y las plantas empezaron a crecer. Cuando salieron las espigas, los trabajadores se dieron cuenta. Corrieron a decirle al dueño:",
+        "—Señor, ¿no sembraste semilla buena? ¿De dónde salió esta hierba mala?",
+        "—Esto lo hizo alguien que no me quiere —respondió el dueño.",
+        "—¿Quieres que vayamos a arrancarla ahora mismo? —preguntaron.",
+        "—No —dijo el dueño con calma—. Si arrancan la cizaña ahora, pueden arrancar también el trigo, porque sus raíces están juntas. Dejen que crezcan las dos hasta el día de la cosecha. Ese día separaremos con cuidado el trigo bueno y lo guardaremos en el granero.",
+        "Jesús contó esta historia para enseñarnos algo importante. En el mundo hay cosas buenas y cosas malas, a veces muy mezcladas. Y a veces nosotros quisiéramos que Dios arreglara todo enseguida y castigara a los que hacen mal.",
+        "Pero Dios es paciente. Él da tiempo a todos para cambiar y para crecer en el bien. No nos toca a nosotros juzgar ni decir quién es bueno o malo. Al final, Dios, que es justo y conoce los corazones, pondrá todo en su lugar, y el bien será guardado para siempre.",
+        "Nosotros, mientras tanto, cuidemos que en nuestro corazón crezca el trigo bueno: la bondad, la verdad y el amor."
+      ],
+      "ensenanza": "Dios es paciente y da tiempo a todos para cambiar. No nos toca juzgar a los demás, sino cuidar que en nuestro corazón crezca el bien.",
+      "preguntas": [
+        "¿Por qué el dueño no quiso arrancar la cizaña enseguida?",
+        "¿Por qué no nos toca a nosotros decir quién es bueno o malo?",
+        "¿Qué trigo bueno quieres cuidar en tu corazón?"
+      ],
+      "actividad": {
+        "titulo": "Trigo bueno en mi corazón",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "hojas",
+          "lápices de colores"
+        ],
+        "pasos": [
+          "Cada niño dibuja un corazón grande en una hoja.",
+          "Dentro dibuja espigas de trigo y escribe en cada una algo bueno: paciencia, verdad, ayuda.",
+          "Lo comparten en parejas y se dicen: «Dios cuida tu trigo bueno»."
+        ]
+      },
+      "oracion": "Dios Padre, gracias por tu paciencia conmigo. Ayúdame a no juzgar a los demás y a cuidar que crezca en mi corazón todo lo bueno. Amén."
+    },
+    {
+      "n": 6,
+      "titulo": "El Tesoro Escondido",
+      "referencia": "Mateo 13, 44",
+      "historia": [
+        "A todos los niños les gustan los tesoros. ¿Has jugado alguna vez a buscar un tesoro escondido? Jesús también contó una historia sobre un tesoro.",
+        "Había una vez un hombre que trabajaba en un campo que no era suyo. Todos los días cavaba la tierra para sembrar. Era un trabajo duro y cansado.",
+        "Un día, mientras cavaba, su pala chocó con algo duro: ¡clonc! El hombre se agachó, quitó la tierra con las manos y descubrió un cofre. Lo abrió con cuidado y… ¡estaba lleno de monedas de oro y joyas brillantes! Era un tesoro enorme, más grande de lo que jamás había imaginado.",
+        "El hombre se quedó con la boca abierta. Miró a un lado y al otro. Volvió a tapar el cofre con tierra, dejó todo como estaba y se fue corriendo a su casa con el corazón lleno de alegría.",
+        "Pero no hizo nada a escondidas. Llegó a su casa y vendió todo lo que tenía: sus muebles, sus animales, su ropa buena. Su familia y sus vecinos quizás pensaban: «¿Se volvió loco?». Pero él estaba feliz. Con ese dinero fue a ver al dueño y le compró el campo. ¡Ahora el campo y el tesoro eran suyos!",
+        "Jesús dijo: «El Reino de Dios es como ese tesoro».",
+        "¿Qué quería decir? Que conocer a Dios y ser su amigo es el tesoro más grande que existe. Vale más que todos los juguetes, todo el dinero y todas las cosas del mundo. Cuando alguien descubre cuánto lo ama Dios, se llena de una alegría tan grande que está dispuesto a dejar cualquier cosa para no perder esa amistad.",
+        "Tú ya conoces ese tesoro: es Jesús. Cuando rezas, cuando vas a Misa, cuando aprendes de Él, estás cuidando el tesoro más valioso de tu vida."
+      ],
+      "ensenanza": "Ser amigos de Dios es el tesoro más grande que existe. Vale más que cualquier cosa, y quien lo descubre se llena de alegría.",
+      "preguntas": [
+        "¿Qué sintió el hombre al encontrar el tesoro?",
+        "¿Por qué vendió todo lo que tenía?",
+        "¿Qué cosas valen más que todo el dinero del mundo?"
+      ],
+      "actividad": {
+        "titulo": "El cofre escondido",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "una cajita",
+          "un papel con un corazón y la palabra «Jesús»"
+        ],
+        "pasos": [
+          "Esconde la cajita con el papel dentro en algún lugar del salón.",
+          "Los niños la buscan con pistas de «frío» y «caliente».",
+          "Quien la encuentra la abre y lee: «Jesús es mi tesoro». Todos aplauden."
+        ]
+      },
+      "oracion": "Jesús, tú eres mi tesoro. Gracias por ser mi amigo. Ayúdame a cuidar tu amistad más que cualquier otra cosa. Amén."
+    },
+    {
+      "n": 7,
+      "titulo": "La Perla Preciosa",
+      "referencia": "Mateo 13, 45-46",
+      "historia": [
+        "Jesús contó otra historia muy parecida a la del tesoro, pero esta vez sobre un comerciante, un hombre que se dedicaba a comprar y vender perlas.",
+        "Las perlas son unas bolitas blancas y brillantes que nacen dentro de algunas conchas del mar. Son muy difíciles de encontrar, y por eso valen mucho. Este comerciante sabía muchísimo de perlas. Viajaba de pueblo en pueblo, de mercado en mercado, mirándolas con atención: unas eran pequeñas, otras tenían manchitas, otras no brillaban mucho.",
+        "Él buscaba algo especial. Soñaba con encontrar la perla más hermosa del mundo.",
+        "Un día, en un mercado lejano, un vendedor le mostró una perla que lo dejó sin palabras. Era grande, redonda, perfecta, y brillaba como la luna en el agua. El comerciante la miró y la volvió a mirar. Nunca había visto nada igual. Supo enseguida que era lo que había estado buscando toda su vida.",
+        "Pero era muy cara. Entonces regresó a su casa, vendió todas las otras perlas que tenía y todo lo que poseía. Con ese dinero volvió al mercado y compró la perla preciosa. ¡Estaba feliz! No le importaba haberse quedado sin nada más, porque tenía lo que más quería.",
+        "Jesús dijo: «El Reino de Dios es como esa perla».",
+        "Todas las personas buscamos ser felices. Buscamos en muchos lugares: en los juguetes, en los aplausos, en tener más cosas. Algunas de esas cosas son buenas, pero ninguna llena el corazón por completo.",
+        "La perla preciosa es Jesús. Cuando lo encontramos, descubrimos que su amor es lo más bonito que existe, y que todo lo demás puede quedar en segundo lugar. Con Jesús, el corazón brilla como esa perla."
+      ],
+      "ensenanza": "Jesús es la perla más valiosa. Todos buscamos ser felices, y la verdadera felicidad la encontramos en su amor.",
+      "preguntas": [
+        "¿Qué buscaba el comerciante?",
+        "¿Qué hizo cuando encontró la perla preciosa?",
+        "¿Dónde buscan las personas la felicidad? ¿Dónde la encontramos de verdad?"
+      ],
+      "actividad": {
+        "titulo": "Mi perla para Jesús",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "círculos de cartulina blanca",
+          "papel aluminio",
+          "pegamento"
+        ],
+        "pasos": [
+          "Cada niño forra su círculo con papel aluminio para que brille como una perla.",
+          "Detrás escribe: «Jesús es lo más valioso para mí».",
+          "Lo pegan en una concha dibujada en la pizarra o lo llevan a casa."
+        ]
+      },
+      "oracion": "Jesús, tú eres mi perla preciosa. Quiero buscarte siempre y ponerte en el primer lugar de mi corazón. Amén."
+    },
+    {
+      "n": 8,
+      "titulo": "La Red de Pesca",
+      "referencia": "Mateo 13, 47-50",
+      "historia": [
+        "Varios amigos de Jesús eran pescadores. Pedro, Andrés, Santiago y Juan sabían muy bien lo que era pasar la noche en el lago tirando las redes. Por eso entendieron enseguida esta historia que contó Jesús.",
+        "Unos pescadores salieron en su barca. Cuando estaban en medio del lago, tiraron al agua una red muy grande. La red se hundió, ¡plaf!, y empezó a juntar peces de todas clases: grandes y pequeños, plateados y oscuros, de muchos colores y formas.",
+        "Cuando la red estuvo llena, los pescadores tiraron de ella con fuerza: ¡uno, dos, tres! Remaron hasta la orilla y arrastraron la red sobre la arena. ¡Qué cantidad de peces!",
+        "Entonces se sentaron tranquilos y empezaron a separar. Los peces buenos los ponían en canastas para llevarlos al mercado. Los que no servían los dejaban a un lado.",
+        "Jesús explicó que algo parecido pasará al final de los tiempos. El amor de Dios es como esa red enorme que quiere juntar a todas las personas del mundo, sin dejar a nadie fuera. Dios invita a todos.",
+        "Y al final, Dios mirará los corazones. Él conoce muy bien a cada uno y es justo. Los que eligieron el amor y el bien estarán con Él para siempre, en una alegría que nunca termina. Los que dijeron «no» al amor se quedarán lejos de esa alegría, porque Dios respeta lo que cada uno elige.",
+        "Jesús no contó esta historia para asustarnos, sino para despertarnos. Es como cuando tu mamá te dice: «Mañana hay examen, ¡estudia!». Lo dice porque te quiere y quiere que te vaya bien.",
+        "La buena noticia es que hoy podemos elegir el bien. Cada día Dios nos ayuda, y si nos equivocamos, nos perdona cuando volvemos a Él. Él quiere que todos estemos en su canasta de peces buenos."
+      ],
+      "ensenanza": "Dios quiere reunir a todos en su amor. Cada día podemos elegir el bien, y Él nos ayuda y nos perdona para que estemos con Él para siempre.",
+      "preguntas": [
+        "¿Qué peces juntó la red?",
+        "¿Por qué Jesús nos cuenta esta historia? ¿Para asustarnos o para ayudarnos?",
+        "¿Qué podemos elegir hoy para estar cerca de Dios?"
+      ],
+      "actividad": {
+        "titulo": "La gran red",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "una sábana o una cuerda larga"
+        ],
+        "pasos": [
+          "Dos niños sostienen la sábana como una red; los demás son peces que nadan por el salón.",
+          "La red «atrapa» a los peces suavemente, uno por uno.",
+          "Cada pez atrapado dice algo bueno que elegirá hacer y se une a sostener la red."
+        ]
+      },
+      "oracion": "Señor, gracias porque quieres reunirnos a todos en tu amor. Ayúdame a elegir siempre el bien y a volver a ti cuando me equivoque. Amén."
+    },
+    {
+      "n": 9,
+      "titulo": "La Oveja Perdida",
+      "referencia": "Lucas 15, 4-7",
+      "historia": [
+        "Algunas personas se quejaban de Jesús porque se sentaba a comer con gente que se había portado mal. Decían: «¿Cómo puede ser amigo de esos?». Entonces Jesús les contó esta historia.",
+        "Había un pastor que tenía cien ovejas. Las conocía a todas por su nombre. Sabía cuál era la más traviesa, cuál la más dormilona y cuál la que siempre se quedaba atrás. Las cuidaba de día y de noche.",
+        "Una tarde, al llegar al corral, el pastor empezó a contarlas, como hacía siempre: «Noventa y siete, noventa y ocho, noventa y nueve…». ¡Faltaba una! Volvió a contar. Sí, faltaba una ovejita.",
+        "El pastor no dijo: «Bueno, tengo muchas, una más o una menos no importa». ¡No! Dejó a las noventa y nueve en un lugar seguro y salió a buscar a la que se había perdido.",
+        "Caminó por el monte, subió y bajó colinas, miró detrás de las piedras y entre los arbustos. Ya estaba oscureciendo, pero no se rindió. Gritaba su nombre una y otra vez.",
+        "De pronto, escuchó un «beee» muy débil. ¡Allí estaba! La ovejita se había enredado entre unas ramas y tenía miedo y frío. El pastor la liberó con cuidado, la abrazó y, lleno de alegría, se la puso sobre los hombros para llevarla a casa.",
+        "Al llegar, llamó a sus amigos y vecinos: —¡Vengan a celebrar conmigo! ¡Encontré a mi oveja que se había perdido!",
+        "Jesús dijo que así es Dios. Cada uno de nosotros es importante para Él. Si alguien se aleja o se equivoca, Dios no lo olvida ni lo deja solo: sale a buscarlo con amor. Y cuando alguien vuelve a Dios, ¡en el cielo hay una fiesta enorme!"
+      ],
+      "ensenanza": "Cada uno de nosotros es muy importante para Dios. Si nos alejamos, Él nos busca con amor y se alegra muchísimo cuando volvemos.",
+      "preguntas": [
+        "¿Cuántas ovejas tenía el pastor? ¿Cuántas se perdieron?",
+        "¿Por qué el pastor salió a buscar a una sola oveja?",
+        "¿Cómo te sientes al saber que eres muy importante para Dios?"
+      ],
+      "actividad": {
+        "titulo": "¿Dónde está la ovejita?",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "una oveja de papel o un muñeco"
+        ],
+        "pasos": [
+          "Un niño hace de pastor y sale del salón un momento.",
+          "Los demás esconden la oveja.",
+          "El pastor la busca guiado por «beee» suaves o fuertes según se acerque. Al encontrarla, todos celebran."
+        ]
+      },
+      "oracion": "Jesús, Buen Pastor, gracias porque me buscas siempre. Si alguna vez me alejo, ven a buscarme y llévame en tus hombros de vuelta a casa. Amén."
+    },
+    {
+      "n": 10,
+      "titulo": "La Moneda Perdida",
+      "referencia": "Lucas 15, 8-10",
+      "historia": [
+        "Después de contar la historia de la oveja perdida, Jesús contó otra, esta vez sobre una mujer y una moneda.",
+        "Una mujer tenía diez monedas de plata. Para ella eran muy valiosas, quizás eran todo lo que tenía ahorrado. Las guardaba con mucho cuidado en un lugar especial de su casa.",
+        "Un día, al contarlas, se dio cuenta de que tenía solo nueve. ¡Le faltaba una! Buscó en el lugar de siempre, pero no estaba. Se puso a pensar: «¿Dónde la habré dejado?».",
+        "Las casas de ese tiempo eran oscuras, con ventanas muy pequeñas y el suelo de tierra. Encontrar una moneda allí era muy difícil. Pero la mujer no se rindió.",
+        "Encendió una lámpara para ver mejor. Tomó una escoba y empezó a barrer toda la casa: debajo de la mesa, en los rincones, detrás de las vasijas, junto a la puerta. Barría despacio y miraba con mucha atención cada lugar, iluminando el suelo con su lámpara.",
+        "De repente, algo brilló en un rincón. ¡Clin! ¡Era su moneda! La mujer la tomó en la mano, la apretó contra el pecho y dio un grito de alegría.",
+        "Estaba tan contenta que salió corriendo a llamar a sus amigas y vecinas: —¡Alégrense conmigo! ¡Encontré la moneda que se me había perdido!",
+        "Y Jesús dijo: «Así también hay una gran alegría entre los ángeles de Dios cuando una persona vuelve a Él».",
+        "Para Dios, tú eres como esa moneda: muy valioso. No importa si te sientes pequeño o escondido en un rincón. Dios enciende su luz, te busca con paciencia y nunca deja de buscarte. Y cuando te encuentra y vuelves a su abrazo, el cielo entero hace fiesta."
+      ],
+      "ensenanza": "Para Dios somos muy valiosos. Él nos busca con paciencia, como la mujer buscó su moneda, y se alegra muchísimo cuando volvemos a Él.",
+      "preguntas": [
+        "¿Qué hizo la mujer para encontrar su moneda?",
+        "¿Quiénes se alegraron con ella?",
+        "¿Qué te hace sentir saber que eres valioso para Dios?"
+      ],
+      "actividad": {
+        "titulo": "Buscar con la lámpara",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "una moneda o ficha",
+          "una linterna"
+        ],
+        "pasos": [
+          "Oscurece un poco el salón y esconde la moneda.",
+          "Por turnos, los niños la buscan con la linterna, como la mujer con su lámpara.",
+          "Quien la encuentra dice: «¡Alégrense conmigo!» y todos aplauden."
+        ]
+      },
+      "oracion": "Dios mío, gracias porque para ti soy muy valioso. Gracias por buscarme con paciencia. Quiero estar siempre cerca de ti. Amén."
+    },
+    {
       "n": 11,
       "titulo": "El Hijo Pródigo",
       "referencia": "Lucas 15, 11-32",
@@ -24,7 +387,11 @@
         "titulo": "El camino de vuelta a casa",
         "tipo": "Juego",
         "minutos": 10,
-        "materiales": ["Hojas de papel", "cinta adhesiva", "un corazón de papel"],
+        "materiales": [
+          "hojas de papel",
+          "cinta adhesiva",
+          "un corazón de papel"
+        ],
         "pasos": [
           "Pega en el suelo un camino de hojas, de una pared a la otra. Al final coloca el corazón de papel: es la casa del papá.",
           "Un niño hace de hijo y empieza lejos; otro hace de papá y espera junto al corazón.",
@@ -33,6 +400,706 @@
         ]
       },
       "oracion": "Querido Papá Dios, gracias porque siempre me esperas. Cuando me equivoco, dame valor para volver a ti. Y ayúdame a alegrarme cuando otros vuelven también. Amén."
+    },
+    {
+      "n": 12,
+      "titulo": "El Buen Samaritano",
+      "referencia": "Lucas 10, 25-37",
+      "historia": [
+        "Un día, un maestro de la ley se acercó a Jesús y le preguntó: —¿Qué tengo que hacer para tener la vida eterna? Jesús le respondió que había que amar a Dios con todo el corazón y al prójimo como a uno mismo. Entonces el hombre preguntó: —¿Y quién es mi prójimo? Jesús le contestó con esta historia.",
+        "Un hombre iba de viaje por un camino solitario, de Jerusalén a Jericó. De pronto, unos ladrones lo atacaron, le quitaron todo lo que llevaba y lo dejaron tirado al costado del camino, muy lastimado.",
+        "Al rato pasó por allí un sacerdote. Vio al hombre herido… pero se cambió al otro lado del camino y siguió de largo. Después pasó otro hombre que trabajaba en el templo. También lo vio, y también siguió de largo, como si no hubiera visto nada.",
+        "Entonces llegó un samaritano. Los samaritanos y los judíos no se llevaban bien; casi no se hablaban. Pero este samaritano, cuando vio al hombre herido, sintió compasión en su corazón. Se bajó de su burro, se acercó, le limpió las heridas con aceite y vino, y se las vendó con cuidado.",
+        "Después lo subió a su propio burro y lo llevó a una posada. Allí lo cuidó toda la noche. Al día siguiente, antes de irse, le dio dinero al dueño de la posada y le dijo: —Cuídalo bien. Si gastas más, te lo pagaré cuando vuelva.",
+        "Jesús le preguntó al maestro de la ley: —¿Cuál de los tres se portó como prójimo del hombre herido?",
+        "—El que tuvo compasión de él —respondió.",
+        "—Pues ve y haz tú lo mismo —le dijo Jesús.",
+        "Ser prójimo es acercarse a quien sufre, sin importar quién sea, de dónde venga o si es nuestro amigo. Jesús quiere que tengamos un corazón que no pasa de largo."
+      ],
+      "ensenanza": "Nuestro prójimo es toda persona que necesita ayuda. Jesús nos pide no pasar de largo, sino acercarnos con compasión a quien sufre, aunque no sea nuestro amigo.",
+      "preguntas": [
+        "¿Por qué crees que el sacerdote y el otro hombre siguieron de largo?",
+        "¿Qué hizo el samaritano por el hombre herido?",
+        "¿A quién podrías ayudar tú esta semana?"
+      ],
+      "actividad": {
+        "titulo": "Vendas de amor",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "tiras de papel blanco",
+          "lápices"
+        ],
+        "pasos": [
+          "Cada niño recibe tres tiras de papel como vendas.",
+          "En cada tira escribe o dibuja una forma de ayudar a alguien que sufre: escuchar, compartir, acompañar.",
+          "Las pegan alrededor de un muñeco de papel dibujado en la pizarra para «curarlo» juntos."
+        ]
+      },
+      "oracion": "Jesús, dame un corazón que no pase de largo. Ayúdame a ver a quien sufre y a acercarme con cariño, como el buen samaritano. Amén."
+    },
+    {
+      "n": 13,
+      "titulo": "La Casa sobre la Roca",
+      "referencia": "Mateo 7, 24-27",
+      "historia": [
+        "Jesús terminó un día de enseñar en la montaña con una historia sobre dos constructores.",
+        "Había un hombre muy prudente que quería construir su casa. Antes de empezar, buscó un buen lugar y cavó hondo, hondo, hasta encontrar roca dura. Era un trabajo lento y cansado, ¡pero él sabía lo que hacía! Sobre esa roca levantó las paredes, puso el techo y terminó su casa. Era firme y segura.",
+        "Había otro hombre que también quería construir su casa. Pero tenía prisa. Pensó: «¿Para qué voy a cavar tanto? Aquí en la arena es más fácil y más rápido». Y construyó su casa sobre la arena, sin cimientos. En poco tiempo la tuvo lista y estaba muy contento.",
+        "Durante un tiempo, las dos casas parecían iguales. Las dos tenían paredes, techo, puertas y ventanas.",
+        "Pero un día llegó una gran tormenta. Llovió y llovió sin parar. Los ríos crecieron y el agua corrió con fuerza. Sopló un viento tan fuerte que silbaba: ¡fiuuuu!",
+        "El agua y el viento golpearon la casa construida sobre la roca, pero la casa no se cayó. Se quedó firme, porque tenía buenos cimientos. El hombre prudente y su familia estaban a salvo adentro.",
+        "Después, el agua y el viento golpearon la casa construida sobre la arena. La arena se deslizó con el agua y… ¡crac!, la casa se derrumbó por completo.",
+        "Jesús explicó: «El que escucha mis palabras y las pone en práctica es como el hombre prudente que construyó sobre la roca. El que las escucha pero no las pone en práctica es como el que construyó sobre la arena».",
+        "En la vida también hay tormentas: tristezas, problemas, peleas, miedos. Si nuestra vida está construida sobre Jesús y sus enseñanzas, podemos seguir firmes, porque Él es nuestra roca. No basta con escuchar: hay que vivir lo que Jesús nos enseña."
+      ],
+      "ensenanza": "Escuchar a Jesús y vivir lo que Él enseña es como construir la casa sobre roca. Así, cuando lleguen los problemas, seguiremos firmes.",
+      "preguntas": [
+        "¿Qué diferencia había entre las dos casas?",
+        "¿Qué tormentas puede haber en la vida de un niño?",
+        "¿Qué enseñanza de Jesús quieres poner en práctica esta semana?"
+      ],
+      "actividad": {
+        "titulo": "Torres firmes",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "vasos de plástico o bloques",
+          "un cartón"
+        ],
+        "pasos": [
+          "Por equipos, construyen una torre con vasos sobre el suelo y otra sobre un cartón que tú mueves suavemente.",
+          "Comparen cuál resiste mejor.",
+          "Concluyan juntos: «Jesús es nuestra roca firme»."
+        ]
+      },
+      "oracion": "Jesús, tú eres mi roca. Quiero construir mi vida sobre tus palabras, para estar firme cuando lleguen las tormentas. Amén."
+    },
+    {
+      "n": 14,
+      "titulo": "La Lámpara",
+      "referencia": "Marcos 4, 21-23",
+      "historia": [
+        "En tiempos de Jesús no había luz eléctrica. Cuando llegaba la noche, las casas quedaban a oscuras. Para poder ver, la gente usaba lámparas pequeñas de barro: les ponían aceite y una mecha, y las encendían con fuego. Daban una luz cálida y amarilla.",
+        "Un día, Jesús les hizo a sus amigos una pregunta un poco graciosa:",
+        "—A ver, díganme: cuando alguien enciende una lámpara, ¿la esconde debajo de un cajón o debajo de la cama?",
+        "Los amigos de Jesús seguramente se rieron. ¡Claro que no! Sería absurdo. Si pones la lámpara debajo de un cajón, nadie ve nada. Y si la pones debajo de la cama, ¡hasta puedes quemar las sábanas!",
+        "—Entonces —siguió Jesús—, ¿dónde se pone la lámpara?",
+        "—¡En un lugar alto! —habrán respondido—. Sobre una mesa o en un estante, para que alumbre toda la casa.",
+        "—Exactamente —dijo Jesús—. Una lámpara se enciende para que ilumine. Y no hay nada escondido que no vaya a ser descubierto. El que tenga oídos para oír, que escuche.",
+        "¿Qué quería decir Jesús con esto? Que la luz de Dios no es para guardarla en secreto. Jesús es la luz del mundo, y cuando lo conocemos, su luz se enciende dentro de nosotros. Esa luz no es para esconderla por vergüenza o por miedo, sino para compartirla.",
+        "¿Y cómo se comparte la luz de Jesús? Con nuestra manera de vivir. Cuando un niño es amable con el que está solo, cuando dice la verdad, cuando ayuda en casa sin quejarse, cuando reza con su familia, su luz brilla. Y los demás, al ver esa luz, descubren lo bueno que es Dios.",
+        "No tienes que ser grande ni hacer cosas extraordinarias. Una lámpara pequeña puede alumbrar toda una casa. Tu luz también."
+      ],
+      "ensenanza": "La luz de Jesús en nuestro corazón no es para esconderla, sino para compartirla. Cuando hacemos el bien, iluminamos a los demás.",
+      "preguntas": [
+        "¿Por qué no se esconde una lámpara debajo de la cama?",
+        "¿Cómo podemos hacer brillar la luz de Jesús?",
+        "¿A quién te gustaría iluminar con tu luz esta semana?"
+      ],
+      "actividad": {
+        "titulo": "Mi lámpara encendida",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "cartulina amarilla y marrón",
+          "tijeras",
+          "pegamento"
+        ],
+        "pasos": [
+          "Cada niño recorta una lámpara de cartulina marrón y una llama amarilla.",
+          "En la llama escribe una buena acción con la que hará brillar su luz.",
+          "Peguen todas las lámparas en una pared alta del salón, ¡bien a la vista!"
+        ]
+      },
+      "oracion": "Jesús, tú eres la luz del mundo. Enciende tu luz en mi corazón y ayúdame a no esconderla, sino a compartirla con todos. Amén."
+    },
+    {
+      "n": 15,
+      "titulo": "El Amigo que Pide de Noche",
+      "referencia": "Lucas 11, 5-8",
+      "historia": [
+        "Un día, los discípulos vieron a Jesús rezando y le pidieron: «Señor, enséñanos a orar». Jesús les enseñó el Padre Nuestro, y después les contó esta historia.",
+        "Imagínense que es medianoche. Todo el pueblo está a oscuras y en silencio. De repente, alguien toca a tu puerta: toc, toc, toc. Es un amigo que llega de un largo viaje, cansado y con hambre.",
+        "Tú lo recibes con alegría, pero vas a la cocina y… ¡oh, no! No tienes nada de comida para ofrecerle. Ni un pedacito de pan.",
+        "Entonces sales a la calle oscura y vas a la casa de otro amigo, que vive cerca. Tocas la puerta: toc, toc, toc.",
+        "—Amigo, préstame tres panes —le dices—. Llegó un amigo mío de viaje y no tengo nada para darle.",
+        "Desde adentro, tu amigo responde con voz de sueño: —¡No me molestes! La puerta ya está cerrada con llave, y mis hijos y yo estamos acostados. No puedo levantarme a dártelos.",
+        "Pero tú no te rindes. Sigues tocando: toc, toc, toc. —¡Por favor, amigo! ¡Lo necesito!",
+        "Jesús dijo: «Les aseguro que, aunque no se levante por ser su amigo, se levantará por la insistencia y le dará todo lo que necesita».",
+        "Y entonces Jesús explicó: —Pidan, y se les dará. Busquen, y encontrarán. Llamen, y se les abrirá la puerta.",
+        "Con esta historia, Jesús nos enseña a rezar con confianza y sin cansarnos. Dios no es como ese vecino dormilón. ¡Dios nunca está dormido para nosotros! Él es un Padre que nos escucha siempre, a cualquier hora, y le encanta que le contemos lo que necesitamos.",
+        "A veces no recibimos enseguida lo que pedimos, o recibimos algo distinto. Pero Dios siempre nos da lo que es mejor para nosotros, porque nos ama. Por eso, sigue pidiendo, sigue buscando, sigue tocando la puerta de Dios con tu oración."
+      ],
+      "ensenanza": "Jesús nos invita a rezar con confianza y sin cansarnos. Dios siempre nos escucha y nos da lo que es mejor para nosotros.",
+      "preguntas": [
+        "¿Qué necesitaba el hombre que tocó la puerta a medianoche?",
+        "¿Por qué el vecino finalmente le dio los panes?",
+        "¿Qué le quieres pedir a Dios con confianza?"
+      ],
+      "actividad": {
+        "titulo": "Toc, toc, Dios me escucha",
+        "tipo": "Oración",
+        "minutos": 5,
+        "materiales": [
+          "una puerta del salón o una caja"
+        ],
+        "pasos": [
+          "Los niños forman una fila frente a la puerta.",
+          "Cada uno toca suavemente tres veces y dice una petición: «Señor, te pido por…».",
+          "Después de cada petición, todos responden: «Dios siempre nos escucha»."
+        ]
+      },
+      "oracion": "Padre bueno, gracias porque siempre me escuchas. Enséñame a pedirte con confianza y a no cansarme de rezar. Amén."
+    },
+    {
+      "n": 16,
+      "titulo": "El Rico Insensato",
+      "referencia": "Lucas 12, 16-21",
+      "historia": [
+        "Un día, un hombre le pidió a Jesús que lo ayudara a pelear con su hermano por una herencia, es decir, por las cosas que les había dejado su papá. Jesús le dijo que tuviera cuidado con querer tener cada vez más cosas, porque la vida no depende de lo que uno tiene. Y contó esta historia.",
+        "Había un hombre rico que tenía unos campos muy grandes. Un año, sus campos dieron una cosecha enorme: trigo, uvas, aceitunas… ¡Había tanto que no sabía dónde guardarlo!",
+        "Entonces se puso a pensar: «¿Qué voy a hacer? Mis graneros son muy pequeños para tanta cosecha». Y después de pensar un rato, sonrió y dijo: «¡Ya sé! Voy a tirar mis graneros y voy a construir otros mucho más grandes. Allí guardaré todo mi trigo y todas mis cosas».",
+        "Y siguió pensando: «Después me diré a mí mismo: \"Ya tienes muchas cosas guardadas para muchos años. Descansa, come, bebe y diviértete\"».",
+        "Pero en todo ese plan, el hombre no pensó ni una sola vez en Dios. Tampoco pensó en compartir con los pobres de su pueblo que no tenían qué comer. Solo pensaba en él, en él y en él.",
+        "Entonces Dios le dijo: «¡Qué poco sabio eres! Esta misma noche termina tu vida. Y todo lo que guardaste, ¿para quién será?».",
+        "Jesús terminó diciendo: «Así le pasa al que junta tesoros para sí mismo, pero no es rico ante Dios».",
+        "¿Qué quiere decir ser «rico ante Dios»? Es tener el corazón lleno de amor, de generosidad y de amistad con Dios. Esas riquezas nadie nos las puede quitar y duran para siempre.",
+        "Las cosas que tenemos son buenas y nos sirven, pero no son lo más importante. Lo que de verdad nos hace felices es amar a Dios y compartir con los demás. Un corazón generoso es el tesoro más grande."
+      ],
+      "ensenanza": "Las cosas no son lo más importante. Jesús nos invita a ser ricos ante Dios: con un corazón generoso que ama y comparte.",
+      "preguntas": [
+        "¿Qué quería hacer el hombre rico con su cosecha?",
+        "¿De quiénes se olvidó el hombre rico?",
+        "¿Qué significa ser «rico ante Dios»?"
+      ],
+      "actividad": {
+        "titulo": "El granero que comparte",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "una caja",
+          "papelitos o fichas"
+        ],
+        "pasos": [
+          "Reparte a cada niño varias fichas: son su cosecha.",
+          "Pregunta: ¿Qué harías con tu cosecha? Los niños deciden si guardarlas todas o compartirlas.",
+          "Al final, cuenten cuántos compañeros se alegraron gracias a lo compartido."
+        ]
+      },
+      "oracion": "Señor, gracias por todo lo que me das. Ayúdame a no ser egoísta y a compartir con alegría, para que mi corazón sea rico ante ti. Amén."
+    },
+    {
+      "n": 17,
+      "titulo": "Los Siervos Vigilantes",
+      "referencia": "Lucas 12, 35-38",
+      "historia": [
+        "Jesús quería enseñarles a sus amigos a estar siempre preparados para recibirlo. Por eso les contó la historia de unos sirvientes que esperaban a su señor.",
+        "Había un hombre importante que se fue a una fiesta de bodas en otro pueblo. Las bodas en ese tiempo duraban muchas horas, y nadie sabía a qué hora iba a terminar. Quizás volvería en la noche, quizás a medianoche, ¡o quizás de madrugada!",
+        "Antes de irse, el señor dejó su casa a cargo de sus sirvientes. Y ellos querían recibirlo muy bien cuando volviera.",
+        "Algunos podrían haber pensado: «Seguro va a tardar mucho. Vamos a dormir un rato». Pero estos sirvientes eran diferentes. Se pusieron su ropa de trabajo, encendieron las lámparas de aceite y se quedaron despiertos junto a la puerta, atentos a cualquier ruido.",
+        "Pasaban las horas. Afuera estaba muy oscuro y todo el pueblo dormía. Pero ellos seguían allí, con las lámparas encendidas, esperando.",
+        "De pronto, escucharon pasos en el camino. ¡Toc, toc, toc! Era su señor. Los sirvientes abrieron la puerta enseguida, con alegría: —¡Bienvenido, señor! ¡Te estábamos esperando!",
+        "Y entonces pasó algo increíble, algo que nadie esperaba. El señor se puso un delantal, hizo sentar a sus sirvientes a la mesa y ¡él mismo comenzó a servirles la comida!",
+        "Jesús dijo: «Felices esos sirvientes a los que el señor encuentra despiertos cuando llega».",
+        "Jesús es como ese señor. Él viene a nuestra vida todos los días: en la oración, en la Misa, en las personas que necesitan ayuda. Y un día vendrá con toda su gloria. Estar despiertos no significa no dormir nunca, sino tener el corazón encendido de amor, haciendo el bien cada día. Y lo más bonito es que Jesús no viene a regañarnos, sino a servirnos y llenarnos de alegría."
+      ],
+      "ensenanza": "Jesús viene a nuestra vida cada día. Si tenemos el corazón despierto y encendido de amor, lo reconoceremos y Él nos llenará de alegría.",
+      "preguntas": [
+        "¿Qué hacían los sirvientes mientras esperaban a su señor?",
+        "¿Qué hizo el señor cuando llegó? ¿Por qué es sorprendente?",
+        "¿Cómo podemos tener el corazón despierto para Jesús?"
+      ],
+      "actividad": {
+        "titulo": "¿Llegó el señor?",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Los niños caminan por el salón haciendo tareas imaginarias.",
+          "Cuando escuchen tres golpecitos en la mesa, corren a la puerta y dicen: «¡Bienvenido, Señor!».",
+          "Quien llegue atento recibe un aplauso; repitan a distintos ritmos."
+        ]
+      },
+      "oracion": "Jesús, quiero tener mi corazón despierto y encendido de amor. Ven a mi vida cada día; aquí te espero con alegría. Amén."
+    },
+    {
+      "n": 18,
+      "titulo": "La Higuera sin Frutos",
+      "referencia": "Lucas 13, 6-9",
+      "historia": [
+        "Jesús contó una historia sobre un árbol llamado higuera. Las higueras dan unos frutos dulces y morados llamados higos, que a la gente de su tierra le gustaban mucho.",
+        "Un hombre tenía una higuera plantada en su viña. Un verano fue a buscar higos para comer… pero el árbol no tenía ni uno solo. «Bueno —pensó—, quizás el próximo año».",
+        "Al año siguiente volvió. Buscó entre las hojas, rama por rama. Nada. Ni un higo.",
+        "Al tercer año volvió otra vez, con su canasta lista. Y otra vez… nada. La higuera tenía muchas hojas verdes, pero ningún fruto.",
+        "Entonces el dueño llamó al jardinero que cuidaba la viña y le dijo: —Hace tres años que vengo a buscar higos y no encuentro ninguno. Córtala. ¿Para qué va a seguir ocupando la tierra?",
+        "Pero el jardinero quería mucho a ese árbol. Lo miró con cariño y le dijo al dueño: —Señor, déjala un año más. Yo voy a cavar alrededor de ella para que le llegue el agua, y le voy a poner abono para que la tierra esté más rica. Voy a cuidarla muchísimo. Si el año que viene da frutos, ¡qué bueno! Y si no, entonces la cortarás.",
+        "Jesús contó esta historia para enseñarnos que Dios es muy paciente con nosotros. Él espera que demos frutos: frutos de bondad, de ayuda, de perdón, de alegría.",
+        "A veces tardamos en cambiar. Seguimos peleando con los hermanos, desobedeciendo o siendo perezosos. Pero Dios no se cansa de nosotros. Como ese jardinero bueno, nos da otra oportunidad. Y no solo espera: nos ayuda. Nos da su Palabra, la oración, los sacramentos y personas buenas que nos cuidan, como abono para que crezcamos.",
+        "Esa nueva oportunidad es un regalo. Aprovechémosla para dar frutos dulces de amor."
+      ],
+      "ensenanza": "Dios es paciente y nos da nuevas oportunidades para cambiar. Además, nos ayuda a crecer para que demos frutos de amor.",
+      "preguntas": [
+        "¿Qué le pidió el jardinero al dueño de la higuera?",
+        "¿Qué frutos espera Dios de nosotros?",
+        "¿Quiénes son como el jardinero que te ayuda a crecer?"
+      ],
+      "actividad": {
+        "titulo": "Frutos dulces",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "un árbol dibujado en papel grande",
+          "círculos morados de papel",
+          "lápices"
+        ],
+        "pasos": [
+          "Dibuja una higuera grande sin frutos.",
+          "Cada niño escribe en un círculo morado un fruto bueno que quiere dar: obedecer, compartir, perdonar.",
+          "Los pegan en el árbol hasta que quede lleno de higos."
+        ]
+      },
+      "oracion": "Señor, gracias por tu paciencia conmigo y por todas las oportunidades que me das. Ayúdame a crecer y a dar frutos de amor. Amén."
+    },
+    {
+      "n": 19,
+      "titulo": "Los Primeros Puestos",
+      "referencia": "Lucas 14, 7-11",
+      "historia": [
+        "Un sábado, Jesús fue invitado a comer a la casa de un hombre importante. Había muchos invitados. Mientras llegaban, Jesús se fijó en algo: todos corrían a sentarse en los mejores lugares, los que estaban más cerca del dueño de la casa. Cada uno quería ser el más importante.",
+        "Entonces Jesús les contó una historia.",
+        "—Cuando alguien te invite a una boda, no corras a sentarte en el primer lugar. Imagínate que llega un invitado más importante que tú. Entonces el dueño de la fiesta se acercará y te dirá delante de todos: «Por favor, déjale este lugar a él». Y tú, con mucha vergüenza, tendrás que levantarte e irte al último asiento, mientras todos te miran.",
+        "Los invitados escuchaban en silencio. Algunos se pusieron colorados.",
+        "—En cambio —siguió Jesús—, cuando te inviten, ve y siéntate en el último lugar. Así, cuando llegue el que te invitó, te dirá: «Amigo, ven más adelante, siéntate aquí cerca de mí». Y eso será un honor para ti delante de todos los invitados.",
+        "Y Jesús terminó con una frase muy importante: «Porque el que se cree más importante será puesto abajo, y el que se hace pequeño será levantado».",
+        "¿Qué nos quiere enseñar Jesús? A ser humildes. Ser humilde no es pensar que no valemos nada. ¡Al contrario! Cada uno es valiosísimo para Dios. Ser humilde es no creerse mejor que los demás, no presumir, no empujar para ser siempre el primero.",
+        "En la fila del recreo, en los juegos, en la mesa de la casa, podemos dejar que otros pasen primero, escuchar en lugar de hablar todo el tiempo, alegrarnos cuando a otro le va bien. Jesús mismo, siendo Dios, se hizo pequeño y sirvió a todos. Quien lo imita, descubre una alegría muy grande."
+      ],
+      "ensenanza": "Jesús nos enseña a ser humildes: a no creernos mejores que los demás y a dejar que otros pasen primero. Dios levanta a los que se hacen pequeños.",
+      "preguntas": [
+        "¿Por qué los invitados corrían a los primeros lugares?",
+        "¿Qué significa ser humilde?",
+        "¿En qué momento puedes dejar que otro pase primero?"
+      ],
+      "actividad": {
+        "titulo": "El último será el primero",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sillas en fila"
+        ],
+        "pasos": [
+          "Coloca sillas en fila. Pide a los niños que se sienten donde quieran.",
+          "Invita a quien se sentó al final a pasar al primer lugar mientras dices: «Amigo, ven más adelante».",
+          "Repitan con otros niños y conversen sobre cómo se sintieron."
+        ]
+      },
+      "oracion": "Jesús, tú te hiciste pequeño para servirnos. Enséñame a ser humilde, a no presumir y a alegrarme cuando otros pasan primero. Amén."
+    },
+    {
+      "n": 20,
+      "titulo": "El Gran Banquete",
+      "referencia": "Lucas 14, 15-24",
+      "historia": [
+        "Estando en una comida, uno de los invitados dijo: «¡Qué felices serán los que coman en el Reino de Dios!». Entonces Jesús contó esta historia.",
+        "Un hombre preparó una cena enorme y muy especial. Había pan recién horneado, carne asada, frutas, dulces y jugos. Invitó a muchas personas, y todos dijeron que sí irían.",
+        "Cuando la comida estuvo lista, el hombre envió a su sirviente a avisar a los invitados: —¡Vengan, que ya está todo preparado!",
+        "Pero, uno por uno, todos empezaron a poner excusas. El primero dijo: —Compré un terreno y tengo que ir a verlo. Discúlpame. El segundo dijo: —Compré unos bueyes y quiero probarlos. Discúlpame. El tercero dijo: —Me acabo de casar, así que no puedo ir.",
+        "El sirviente volvió triste y le contó todo a su señor. El dueño de la casa se puso muy triste, porque había preparado la fiesta con mucho amor. Pero no quiso que la comida se perdiera ni que la mesa quedara vacía. Entonces le dijo al sirviente: —Sal rápido a las plazas y a las calles del pueblo, y trae a los pobres, a los que están enfermos, a los que no pueden caminar y a los que no pueden ver.",
+        "El sirviente lo hizo, y la casa empezó a llenarse de gente feliz que nunca había sido invitada a una fiesta así. Pero todavía quedaba lugar. —Ve también a los caminos de afuera del pueblo —dijo el señor— e invita a todos los que encuentres, ¡que se llene mi casa!",
+        "Jesús nos enseña que Dios prepara para nosotros una gran fiesta de amor y nos invita a todos, sin excepción. Nadie es demasiado pobre ni demasiado pequeño para ser invitado.",
+        "Lo triste sería decir que no por estar demasiado ocupados con otras cosas. Cada domingo, en la Misa, Dios nos invita a su mesa. ¡Aceptemos su invitación con alegría y ayudemos a que nadie se quede afuera!"
+      ],
+      "ensenanza": "Dios nos invita a todos a su gran fiesta de amor. No pongamos excusas: aceptemos su invitación con alegría y ayudemos a que nadie quede afuera.",
+      "preguntas": [
+        "¿Qué excusas pusieron los invitados?",
+        "¿A quiénes invitó después el dueño de la casa?",
+        "¿Cómo nos invita Dios hoy a su mesa?"
+      ],
+      "actividad": {
+        "titulo": "La mesa para todos",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "un mantel de papel",
+          "lápices de colores"
+        ],
+        "pasos": [
+          "Extiende un mantel de papel grande en el suelo.",
+          "Cada niño dibuja un plato y escribe el nombre de alguien a quien invitaría, especialmente quien está solo.",
+          "Terminen alrededor de la mesa dando gracias por la invitación de Dios."
+        ]
+      },
+      "oracion": "Señor, gracias por invitarme a tu mesa. No quiero poner excusas. Ayúdame a responder que sí y a invitar a otros a tu fiesta. Amén."
+    },
+    {
+      "n": 21,
+      "titulo": "El Rico y Lázaro",
+      "referencia": "Lucas 16, 19-31",
+      "historia": [
+        "Jesús contó una historia sobre dos hombres muy diferentes.",
+        "Uno era muy rico. Vivía en una casa enorme, se vestía con ropa finísima de color púrpura y todos los días hacía grandes banquetes con comida deliciosa. Tenía de todo y nunca le faltaba nada.",
+        "El otro se llamaba Lázaro y era muy pobre. Estaba enfermo y tenía heridas en la piel. Lázaro se quedaba sentado todos los días junto a la puerta de la casa del rico. Tenía tanta hambre que deseaba comer aunque fueran las migajas que caían de la mesa. Pero nadie le daba nada. Solo unos perros se le acercaban y le lamían las heridas.",
+        "El rico pasaba todos los días por esa puerta. Veía a Lázaro… pero era como si no lo viera. Nunca le ofreció un pan, ni una palabra, ni una ayuda.",
+        "Pasó el tiempo y los dos murieron. Lázaro fue llevado por los ángeles al lado de Abraham, el padre del pueblo de Dios, donde fue consolado y vivía feliz. Ya no tenía hambre ni dolor.",
+        "El rico, en cambio, se encontró lejos de Dios y de esa alegría, sufriendo mucho. Desde lejos vio a Lázaro feliz y pidió ayuda. Pero Abraham le recordó: —Tú tuviste muchas cosas buenas en la vida y no las compartiste. Elegiste vivir sin mirar al que sufría a tu puerta.",
+        "Entonces el rico pidió: —Por favor, manda a alguien a avisar a mis cinco hermanos, para que no les pase lo mismo. Abraham le respondió: —Ellos tienen la Palabra de Dios. Que la escuchen.",
+        "Jesús no contó esta historia para darnos miedo, sino para abrirnos los ojos. El rico no se alejó de Dios por tener dinero, sino porque su corazón se volvió frío y no vio al que necesitaba ayuda.",
+        "Hoy también hay muchos Lázaros cerca de nosotros: personas con hambre, solas o tristes. Jesús nos pide mirarlas, tener compasión y compartir. Todavía estamos a tiempo de abrir el corazón."
+      ],
+      "ensenanza": "Dios quiere que tengamos los ojos y el corazón abiertos a los que sufren. Compartir lo que tenemos con quien necesita nos acerca a Dios.",
+      "preguntas": [
+        "¿Qué hacía el rico mientras Lázaro estaba en su puerta?",
+        "¿Por qué el rico terminó lejos de Dios?",
+        "¿Quiénes son los Lázaros que están cerca de nosotros?"
+      ],
+      "actividad": {
+        "titulo": "Ojos que ven",
+        "tipo": "Reflexión",
+        "minutos": 10,
+        "materiales": [
+          "hojas",
+          "lápices"
+        ],
+        "pasos": [
+          "Cada niño dibuja unos ojos grandes en una hoja.",
+          "Alrededor escribe o dibuja a personas que necesitan ayuda en su barrio, escuela o familia.",
+          "Elijan juntos una acción concreta de ayuda para la semana."
+        ]
+      },
+      "oracion": "Jesús, abre mis ojos para ver a los que sufren y mi corazón para compartir con ellos. No quiero pasar de largo nunca. Amén."
+    },
+    {
+      "n": 22,
+      "titulo": "La Viuda que No se Rindió",
+      "referencia": "Lucas 18, 1-8",
+      "historia": [
+        "Jesús quería enseñar a sus amigos a rezar siempre, sin desanimarse. Por eso les contó esta historia.",
+        "En una ciudad había un juez. Un juez es la persona que decide quién tiene la razón cuando hay un problema. Pero este juez no era bueno: no le importaba Dios y tampoco le importaban las personas. Solo hacía lo que le daba la gana.",
+        "En esa misma ciudad vivía una viuda, una mujer cuyo esposo había muerto. Estaba sola y no tenía a nadie que la defendiera. Alguien la estaba tratando injustamente, quizás quería quitarle su casa o su dinero. Así que la mujer fue a ver al juez.",
+        "—Señor juez, por favor, hágame justicia contra el que me está perjudicando —le pidió.",
+        "Pero el juez ni la miró. —No tengo tiempo para ti —le dijo, y la mandó a su casa.",
+        "Al día siguiente, la viuda volvió. —Señor juez, hágame justicia, por favor.",
+        "Y al otro día, otra vez. Y al otro. Y al otro. Todos los días estaba allí, en la puerta del juez, pidiendo lo mismo con paciencia y con valor.",
+        "Por fin, el juez pensó: «Yo no respeto a Dios ni a nadie, pero esta mujer no deja de insistir. Voy a ayudarla, para que deje de venir todos los días y no me canse más». Y le hizo justicia.",
+        "Entonces Jesús dijo: «Si hasta un juez que no es bueno terminó ayudando a la viuda, ¿cómo no va a escuchar Dios a sus hijos, que le piden día y noche? ¡Dios es mucho mejor que ese juez! Él los ama y les responderá».",
+        "Jesús nos enseña a no cansarnos de rezar. A veces pedimos algo y parece que Dios tarda. Pero Dios siempre escucha, nos ama y sabe lo que es mejor para nosotros. Como esa viuda valiente, sigamos rezando con fe y sin rendirnos."
+      ],
+      "ensenanza": "Jesús nos enseña a rezar siempre, con fe y sin desanimarnos. Dios nos ama, nos escucha y responde a sus hijos.",
+      "preguntas": [
+        "¿Qué hacía la viuda todos los días?",
+        "¿En qué es diferente Dios del juez de la historia?",
+        "¿Por qué cosa quieres rezar con insistencia?"
+      ],
+      "actividad": {
+        "titulo": "La cadena de oración",
+        "tipo": "Oración",
+        "minutos": 10,
+        "materiales": [
+          "tiras de papel",
+          "cinta adhesiva"
+        ],
+        "pasos": [
+          "Cada niño escribe en una tira una intención por la que quiere rezar.",
+          "Unan las tiras formando una cadena larga.",
+          "Cuélguenla en el salón y recen por esas intenciones cada encuentro, sin rendirse."
+        ]
+      },
+      "oracion": "Padre bueno, te pido que me ayudes a rezar con fe y a no rendirme. Confío en que siempre me escuchas y me amas. Amén."
+    },
+    {
+      "n": 23,
+      "titulo": "El Fariseo y el Publicano",
+      "referencia": "Lucas 18, 9-14",
+      "historia": [
+        "Había algunas personas que se creían muy buenas y despreciaban a los demás. Para ellas, Jesús contó esta historia.",
+        "Dos hombres subieron al templo a rezar. Uno era fariseo: conocía muy bien la ley de Dios, cumplía todas las reglas y era muy respetado por la gente. El otro era publicano: cobraba impuestos para los romanos, y muchos publicanos se quedaban con dinero que no era suyo. Por eso la gente no los quería.",
+        "El fariseo se puso de pie, bien adelante, donde todos pudieran verlo. Levantó la cabeza y rezó así:",
+        "—Dios, te doy gracias porque no soy como los demás hombres: ladrones, mentirosos… ¡ni como ese publicano de allá atrás! Yo ayuno dos veces por semana y doy al templo una parte de todo lo que gano.",
+        "En realidad, el fariseo no estaba hablando con Dios. Estaba hablando de sí mismo, presumiendo de lo bueno que era y comparándose con otros.",
+        "El publicano, en cambio, se quedó atrás, en un rincón. No se atrevía ni a levantar los ojos al cielo. Se golpeaba suavemente el pecho y decía en voz baja:",
+        "—Dios mío, ten compasión de mí, que soy pecador.",
+        "Su oración era cortita, pero salía de lo más profundo de su corazón. Él sabía que se había equivocado y quería cambiar.",
+        "Jesús dijo: «Les aseguro que el publicano volvió a su casa perdonado por Dios, y el fariseo no. Porque el que se cree más que los demás será humillado, y el que se hace pequeño será levantado».",
+        "Dios no quiere que nos comparemos con los demás ni que presumamos de lo buenos que somos. Le gusta que le hablemos con sencillez y con un corazón sincero. Cuando reconocemos nuestros errores y le pedimos perdón con humildad, Dios nos abraza y nos llena de su paz."
+      ],
+      "ensenanza": "A Dios le gusta la oración humilde y sincera. No nos comparemos con los demás: reconozcamos nuestros errores y Dios nos perdonará.",
+      "preguntas": [
+        "¿Cómo rezaba el fariseo? ¿Y el publicano?",
+        "¿Por qué Dios escuchó al publicano?",
+        "¿Cómo podemos rezar con un corazón humilde?"
+      ],
+      "actividad": {
+        "titulo": "Dos maneras de rezar",
+        "tipo": "Teatro",
+        "minutos": 10,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Dos niños representan al fariseo (de pie, orgulloso) y al publicano (en un rincón, humilde).",
+          "El grupo adivina cuál oración le gusta más a Dios y por qué.",
+          "Todos juntos repiten con la mano en el pecho: «Dios mío, ten compasión de mí»."
+        ]
+      },
+      "oracion": "Dios mío, ten compasión de mí. Ayúdame a no presumir ni a compararme con nadie, y a hablarte siempre con un corazón sincero. Amén."
+    },
+    {
+      "n": 24,
+      "titulo": "Los Trabajadores de la Viña",
+      "referencia": "Mateo 20, 1-16",
+      "historia": [
+        "Jesús contó la historia de un hombre que tenía una viña, un campo lleno de uvas, y necesitaba trabajadores para cosecharlas.",
+        "Muy temprano en la mañana, cuando el sol apenas salía, el dueño fue a la plaza del pueblo. Allí había hombres esperando que alguien les diera trabajo. El dueño les dijo: —Vengan a trabajar a mi viña. Les pagaré una moneda de plata por el día. Ellos aceptaron felices y fueron a trabajar.",
+        "A media mañana, el dueño volvió a la plaza y vio a otros hombres sin trabajo. —Vayan ustedes también a mi viña, y les pagaré lo justo —les dijo. Y fueron.",
+        "Al mediodía volvió a salir, y a media tarde también, y siempre encontraba más gente para llevar a su viña.",
+        "Ya casi al anochecer, cuando faltaba solo una hora para terminar, el dueño encontró a otros hombres sentados en la plaza. —¿Por qué están aquí todo el día sin hacer nada? —les preguntó. —Porque nadie nos contrató —respondieron tristes. —Vayan también a mi viña —les dijo.",
+        "Cuando terminó el día, el dueño mandó pagar a todos, empezando por los últimos. Los que habían trabajado solo una hora recibieron… ¡una moneda de plata completa! Los primeros pensaron: «¡Qué bien! A nosotros, que trabajamos todo el día, nos va a pagar mucho más». Pero también recibieron una moneda, como habían acordado.",
+        "Entonces se quejaron: —¡No es justo! Nosotros trabajamos todo el día bajo el sol, y ellos solo una hora.",
+        "El dueño les respondió con calma: —Amigo, no te estoy tratando mal. Te pagué lo que acordamos. ¿O te molesta que yo sea generoso con los demás?",
+        "Jesús nos enseña que Dios es así: muy generoso. Su amor no se gana compitiendo, es un regalo para todos. No importa si alguien conoció a Dios desde pequeño o muy tarde: Él quiere dar su amor a todos por igual. Y nosotros, en lugar de sentir envidia, podemos alegrarnos de que Dios sea tan bueno con todos."
+      ],
+      "ensenanza": "El amor de Dios es un regalo generoso para todos. No lo ganamos compitiendo, y en lugar de sentir envidia, nos alegramos de que Dios sea bueno con los demás.",
+      "preguntas": [
+        "¿Por qué se quejaron los primeros trabajadores?",
+        "¿Qué nos enseña el dueño sobre cómo es Dios?",
+        "¿Alguna vez sentiste envidia? ¿Cómo podemos alegrarnos por los demás?"
+      ],
+      "actividad": {
+        "titulo": "Felicito a mi compañero",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Los niños forman un círculo.",
+          "Cada uno felicita al compañero de su derecha por algo bueno que tiene o que hizo.",
+          "Al final, todos dicen juntos: «¡Qué bueno es Dios con todos!»."
+        ]
+      },
+      "oracion": "Señor, gracias por tu amor tan generoso. Quita de mi corazón la envidia y enséñame a alegrarme cuando eres bueno con los demás. Amén."
+    },
+    {
+      "n": 25,
+      "titulo": "Los Dos Hijos",
+      "referencia": "Mateo 21, 28-32",
+      "historia": [
+        "Jesús hizo una pregunta a unos hombres que se creían muy religiosos: —¿Qué les parece esta historia?",
+        "Un papá tenía dos hijos. Una mañana se acercó al mayor y le dijo con cariño: —Hijo, hoy ve a trabajar a la viña, que hay mucho que hacer.",
+        "El hijo estaba cómodo y no tenía ganas. Así que, sin pensarlo mucho, respondió de mala manera: —¡No quiero!",
+        "El papá se quedó triste y se fue. Pero al rato, el hijo empezó a pensar: «Le contesté feo a mi papá… y él necesita mi ayuda». Se sintió mal por lo que había dicho. Entonces se levantó, se puso las sandalias y fue a trabajar a la viña todo el día.",
+        "Mientras tanto, el papá se acercó al otro hijo y le pidió lo mismo: —Hijo, ve hoy a trabajar a la viña.",
+        "Este hijo respondió enseguida, muy educado: —¡Sí, papá, claro que voy! Pero después… se quedó en casa. Se distrajo con otras cosas y nunca fue a la viña.",
+        "Jesús preguntó: —¿Cuál de los dos hizo lo que quería su papá?",
+        "—El primero —respondieron los hombres.",
+        "—Así es —dijo Jesús. Y les explicó que algunas personas que habían hecho cosas malas escucharon a Juan el Bautista y cambiaron su vida, mientras que otros, que decían ser muy buenos, no hacían caso a Dios.",
+        "Con esta historia, Jesús nos enseña dos cosas. La primera: que no basta con decir «sí» con la boca. Lo importante es cumplir lo que decimos con nuestras acciones. La segunda: que siempre podemos cambiar. Si alguna vez dijimos «no» a Dios o a nuestros papás, podemos arrepentirnos y hacer lo correcto. Dios se alegra mucho cuando cambiamos de corazón.",
+        "Ojalá seamos hijos que dicen «sí» y también lo cumplen con alegría."
+      ],
+      "ensenanza": "No basta con decir «sí»: hay que cumplirlo con acciones. Y si nos equivocamos, siempre podemos arrepentirnos y hacer lo correcto.",
+      "preguntas": [
+        "¿Qué hizo cada uno de los dos hijos?",
+        "¿Cuál hizo lo que quería su papá? ¿Por qué?",
+        "¿Hay algo que dijiste que harías y todavía no cumpliste?"
+      ],
+      "actividad": {
+        "titulo": "Sí con la boca, sí con las manos",
+        "tipo": "Juego",
+        "minutos": 5,
+        "materiales": [
+          "sin materiales"
+        ],
+        "pasos": [
+          "Di órdenes sencillas: «tócate la nariz», «salta dos veces».",
+          "Los niños responden «¡Sí!» y deben hacerlo de verdad; quien solo dice «sí» sin hacerlo, se sienta un turno.",
+          "Conversen: ¿qué vale más, decir o hacer?"
+        ]
+      },
+      "oracion": "Jesús, quiero decirte sí con mis palabras y también con mis acciones. Y cuando me equivoque, dame un corazón que sepa cambiar. Amén."
+    },
+    {
+      "n": 26,
+      "titulo": "El Siervo que No Perdonó",
+      "referencia": "Mateo 18, 23-35",
+      "historia": [
+        "Un día, Pedro le preguntó a Jesús: —Señor, si mi hermano me ofende, ¿cuántas veces tengo que perdonarlo? ¿Hasta siete veces? Jesús le respondió: —No solo siete, sino setenta veces siete. Es decir: ¡siempre! Y le contó esta historia.",
+        "Había un rey que quiso revisar las cuentas con sus sirvientes. Le trajeron a uno que le debía una cantidad enorme de dinero, tantísimo que no podría pagarlo ni trabajando toda su vida.",
+        "El sirviente se arrodilló ante el rey y le suplicó: —¡Ten paciencia conmigo, por favor! Te lo pagaré todo.",
+        "El rey sintió compasión de él. Y no solo le dio más tiempo: ¡le perdonó toda la deuda! El sirviente salió libre y sin deber nada.",
+        "Pero al salir del palacio, ese mismo sirviente se encontró con un compañero que le debía un poquito de dinero, muy poquito comparado con lo que él debía al rey. Lo agarró del brazo y le dijo enojado: —¡Págame lo que me debes!",
+        "El compañero se arrodilló y le suplicó con las mismas palabras: —Ten paciencia conmigo, te lo pagaré. Pero el sirviente no quiso escucharlo y lo mandó a la cárcel hasta que pagara.",
+        "Los otros sirvientes vieron todo y se pusieron muy tristes. Fueron a contárselo al rey. El rey llamó al sirviente y le dijo: —Yo te perdoné esa deuda enorme porque me lo pediste. ¿No debías tú también tener compasión de tu compañero, como yo la tuve contigo? Y como no quiso perdonar, el rey le pidió que pagara lo que debía.",
+        "Jesús nos enseña que Dios nos perdona muchísimo, siempre que se lo pedimos de corazón. Su perdón es enorme, como esa deuda que nadie podría pagar. Por eso, nosotros también tenemos que perdonar a los demás.",
+        "A veces cuesta perdonar cuando alguien nos molesta o nos lastima. Pero si recordamos cuánto nos perdona Dios, nuestro corazón se ablanda. Cuando perdonamos, nos parecemos a Dios y nuestro corazón queda libre y en paz."
+      ],
+      "ensenanza": "Dios nos perdona muchísimo. Por eso, nosotros también debemos perdonar a los demás, siempre, como Él nos perdona.",
+      "preguntas": [
+        "¿Cuántas veces dijo Jesús que hay que perdonar?",
+        "¿Por qué estuvo mal lo que hizo el sirviente con su compañero?",
+        "¿A quién te cuesta perdonar? ¿Cómo te puede ayudar Dios?"
+      ],
+      "actividad": {
+        "titulo": "Setenta veces siete",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "una hoja",
+          "lápices de colores"
+        ],
+        "pasos": [
+          "Cada niño dibuja un corazón grande y escribe dentro «Te perdono».",
+          "Alrededor dibuja muchos corazones pequeños, como recuerdo de que hay que perdonar siempre.",
+          "Si quiere, se lo regala a alguien con quien necesita hacer las paces."
+        ]
+      },
+      "oracion": "Padre bueno, gracias por perdonarme siempre. Ayúdame a perdonar a los demás como tú me perdonas, aunque me cueste. Amén."
+    },
+    {
+      "n": 27,
+      "titulo": "Las Diez Jóvenes y sus Lámparas",
+      "referencia": "Mateo 25, 1-13",
+      "historia": [
+        "En tiempos de Jesús, las bodas eran fiestas muy alegres. El novio iba a buscar a la novia, y unas jóvenes amigas lo esperaban de noche con lámparas encendidas para acompañarlo en una procesión hasta la fiesta. Jesús contó una historia sobre diez de esas jóvenes.",
+        "Las diez tomaron sus lámparas de aceite y salieron a esperar al novio. Cinco de ellas eran previsoras: además de sus lámparas, llevaron unas jarritas con aceite de repuesto, por si acaso. Las otras cinco eran despistadas: llevaron sus lámparas, pero no pensaron en llevar más aceite.",
+        "El novio tardaba en llegar. Pasaba el tiempo, se hizo tarde, y las diez jóvenes, cansadas, se quedaron dormidas.",
+        "De pronto, a medianoche, se escuchó un grito: —¡Ya viene el novio! ¡Salgan a recibirlo!",
+        "Las diez se despertaron de un salto y prepararon sus lámparas. Pero las despistadas vieron que sus lámparas se estaban apagando. —¡Dennos un poco de su aceite! —pidieron a las otras. —No alcanza para todas —respondieron las previsoras—. Mejor vayan a comprar.",
+        "Mientras las despistadas corrían a buscar aceite, llegó el novio. Las cinco que estaban preparadas entraron con él a la fiesta, y se cerró la puerta. Cuando las otras volvieron, ya era tarde y se quedaron afuera.",
+        "Jesús terminó diciendo: «Estén atentos, porque no saben el día ni la hora».",
+        "¿Qué significa el aceite? Es el amor, la oración y las buenas obras de cada día. Nadie puede prestarnos su amor ni rezar por nosotros todo el tiempo: cada uno tiene que llenar su propia lámpara.",
+        "Jesús nos invita a estar siempre preparados, no con miedo, sino con alegría, como quien espera una fiesta. Cuando cada día rezamos y hacemos el bien, nuestra lámpara está llena y brillante para recibir a Jesús."
+      ],
+      "ensenanza": "Jesús nos invita a estar siempre preparados. Llenamos nuestra lámpara cada día con oración, amor y buenas obras, para recibirlo con alegría.",
+      "preguntas": [
+        "¿Qué diferencia había entre las jóvenes previsoras y las despistadas?",
+        "¿Qué representa el aceite de las lámparas?",
+        "¿Cómo puedes llenar tu lámpara cada día?"
+      ],
+      "actividad": {
+        "titulo": "Gotas de aceite",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "una lámpara de cartulina",
+          "gotas de papel amarillo"
+        ],
+        "pasos": [
+          "Cada niño recibe una lámpara de cartulina vacía.",
+          "Por cada buena acción u oración que proponga para la semana, pega una gota amarilla.",
+          "Llévenla a casa y sigan llenándola durante la semana."
+        ]
+      },
+      "oracion": "Jesús, quiero estar siempre preparado para recibirte. Ayúdame a llenar mi lámpara cada día con oración y amor. Amén."
+    },
+    {
+      "n": 28,
+      "titulo": "Los Talentos",
+      "referencia": "Mateo 25, 14-30",
+      "historia": [
+        "Jesús contó la historia de un señor que se iba a ir de viaje por mucho tiempo. Antes de partir, llamó a sus sirvientes y les confió su dinero. En ese tiempo, el dinero se contaba en «talentos», que eran monedas de muchísimo valor.",
+        "Al primer sirviente le dio cinco talentos. Al segundo, dos. Y al tercero, uno. A cada uno según su capacidad. Después se fue.",
+        "El primer sirviente se puso a trabajar enseguida. Hizo negocios con sus cinco talentos y ganó otros cinco. ¡Ahora tenía diez! El segundo hizo lo mismo y ganó otros dos. ¡Ahora tenía cuatro!",
+        "Pero el tercero tuvo miedo. Pensó: «¿Y si lo pierdo?». Así que cavó un hoyo en la tierra y escondió allí su talento. Y no hizo nada más.",
+        "Después de mucho tiempo, el señor volvió y llamó a sus sirvientes. El primero le dijo feliz: —Señor, me diste cinco talentos y gané otros cinco. —¡Muy bien, sirviente bueno y fiel! —le dijo el señor—. Fuiste fiel en lo poco, te confiaré mucho más. ¡Ven a alegrarte conmigo! Al segundo le dijo exactamente lo mismo.",
+        "Luego llegó el tercero: —Señor, tuve miedo, así que escondí tu talento en la tierra. Aquí lo tienes. El señor se puso triste y le dijo: —Te di algo valioso para que lo hicieras crecer, y lo escondiste sin hacer nada. Entonces le quitó el talento y se lo dio al que tenía diez.",
+        "¿Sabes qué son los talentos para nosotros? Son los dones que Dios nos dio a cada uno: cantar, dibujar, hacer reír, ayudar, escuchar, jugar bien, ser amable. Nadie tiene todos, pero todos tenemos alguno. Ninguno es mejor que otro.",
+        "Dios no nos pide ser los mejores del mundo. Nos pide que no escondamos nuestros dones por miedo o por pereza, sino que los usemos para hacer el bien y ayudar a los demás. Así los talentos crecen y todos se alegran."
+      ],
+      "ensenanza": "Dios nos regaló dones a cada uno. No debemos esconderlos por miedo, sino usarlos para hacer el bien. Así crecen y llenan de alegría a los demás.",
+      "preguntas": [
+        "¿Qué hizo cada sirviente con sus talentos?",
+        "¿Por qué el tercero escondió su talento?",
+        "¿Qué talento te regaló Dios? ¿Cómo puedes usarlo para ayudar?"
+      ],
+      "actividad": {
+        "titulo": "Mis talentos",
+        "tipo": "Manualidad",
+        "minutos": 10,
+        "materiales": [
+          "monedas de cartulina dorada",
+          "lápices"
+        ],
+        "pasos": [
+          "Cada niño recibe tres monedas de cartulina.",
+          "En cada una escribe o dibuja un talento que tiene.",
+          "Comparten en grupo cómo usarán uno de sus talentos esta semana para ayudar a alguien."
+        ]
+      },
+      "oracion": "Dios mío, gracias por los dones que me regalaste. Ayúdame a no esconderlos por miedo y a usarlos para hacer el bien. Amén."
+    },
+    {
+      "n": 29,
+      "titulo": "El Buen Pastor",
+      "referencia": "Juan 10, 11-16",
+      "historia": [
+        "En el país de Jesús había muchos pastores. Cada mañana sacaban a sus ovejas a comer pasto verde y beber agua fresca, y por la noche las llevaban de vuelta al corral. Un día, Jesús dijo algo muy especial: «Yo soy el Buen Pastor».",
+        "Y explicó cómo es un buen pastor. El buen pastor conoce a cada una de sus ovejas por su nombre. Sabe cuál cojea un poco, cuál se asusta con los truenos, cuál es la más pequeña. Camina delante de ellas para mostrarles el camino, y ellas lo siguen porque reconocen su voz. Si escuchan la voz de un extraño, no lo siguen; pero cuando su pastor las llama, ¡corren hacia él!",
+        "Jesús contó también que hay personas a las que les pagan por cuidar ovejas, pero que no son sus dueños. Si ven venir a un lobo, salen corriendo y dejan a las ovejas solas, porque en realidad no les importan. El lobo entonces las asusta y las dispersa.",
+        "Pero el Buen Pastor no. El Buen Pastor ama tanto a sus ovejas que, si viene el peligro, se pone delante de ellas para protegerlas. ¡Está dispuesto a dar su vida por ellas!",
+        "Jesús dijo: «Yo conozco a mis ovejas, y ellas me conocen a mí. Y doy mi vida por ellas».",
+        "Y agregó algo más: «Tengo otras ovejas que todavía no están en este corral. A ellas también las traeré, y escucharán mi voz. Habrá un solo rebaño y un solo pastor». Jesús quiere reunir a todas las personas del mundo en su gran familia.",
+        "Jesús es nuestro Buen Pastor. Nos conoce por nuestro nombre, nos cuida cuando tenemos miedo, nos guía por el buen camino y nos ama tanto que dio su vida por nosotros. Nosotros somos sus ovejas. ¿Y cómo reconocemos su voz? Rezando, escuchando su Palabra y estando cerca de Él en la Iglesia."
+      ],
+      "ensenanza": "Jesús es el Buen Pastor que nos conoce por nuestro nombre, nos cuida y dio su vida por nosotros. Nosotros aprendemos a reconocer su voz y a seguirlo.",
+      "preguntas": [
+        "¿Qué hace un buen pastor por sus ovejas?",
+        "¿Qué hizo Jesús para mostrar que es el Buen Pastor?",
+        "¿Cómo podemos aprender a reconocer la voz de Jesús?"
+      ],
+      "actividad": {
+        "titulo": "La voz del pastor",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": [
+          "un pañuelo para los ojos"
+        ],
+        "pasos": [
+          "Un niño, con los ojos vendados, es la oveja.",
+          "Varios compañeros lo llaman a la vez, pero solo uno (el pastor) dice su nombre con la frase acordada: «Ven, oveja mía».",
+          "La oveja debe reconocer la voz de su pastor y caminar hacia ella."
+        ]
+      },
+      "oracion": "Jesús, Buen Pastor, gracias por conocerme por mi nombre y cuidarme siempre. Quiero escuchar tu voz y seguirte. Amén."
+    },
+    {
+      "n": 30,
+      "titulo": "Los Dos Deudores",
+      "referencia": "Lucas 7, 41-43",
+      "historia": [
+        "Un día, un fariseo llamado Simón invitó a Jesús a comer a su casa. Mientras estaban en la mesa, entró una mujer que en el pueblo todos conocían porque había cometido muchos pecados. Ella se arrodilló a los pies de Jesús, llorando. Con sus lágrimas le mojó los pies, se los secó con su cabello, se los besó y les puso un perfume muy valioso.",
+        "Simón pensó: «Si Jesús fuera un profeta, sabría qué clase de mujer es la que lo está tocando». Jesús, que conocía sus pensamientos, le dijo: —Simón, quiero contarte algo.",
+        "—Dime, Maestro —respondió Simón.",
+        "—Un hombre prestaba dinero. Dos personas le debían. Una le debía quinientas monedas, ¡muchísimo! La otra le debía solo cincuenta, mucho menos. Como ninguno de los dos tenía con qué pagar, el hombre fue generoso y les perdonó la deuda a los dos. Dime, Simón, ¿cuál de los dos lo amará más?",
+        "Simón pensó un momento y respondió: —Supongo que aquel al que le perdonó más.",
+        "—Has respondido bien —le dijo Jesús. Y mirando a la mujer, continuó—: ¿Ves a esta mujer? Cuando entré en tu casa, tú no me diste agua para lavarme los pies, pero ella me los lavó con sus lágrimas. Tú no me diste un beso de bienvenida, pero ella no ha dejado de besarme los pies. Sus muchos pecados le son perdonados, porque ha mostrado mucho amor.",
+        "Luego Jesús le dijo a la mujer con ternura: —Tus pecados te son perdonados. Tu fe te ha salvado. Vete en paz.",
+        "Esta historia nos enseña que el perdón de Dios es un regalo inmenso. Todos necesitamos su perdón, aunque algunos crean que no. Cuando nos damos cuenta de cuánto nos ama y nos perdona Dios, nuestro corazón se llena de agradecimiento, y ese agradecimiento se convierte en amor.",
+        "Por eso, cada vez que recibimos el perdón de Dios, por ejemplo en la Confesión, podemos responder con mucho amor a Él y a los demás."
+      ],
+      "ensenanza": "El perdón de Dios es un regalo inmenso. Cuando descubrimos cuánto nos perdona, nuestro corazón se llena de agradecimiento y de amor.",
+      "preguntas": [
+        "¿Cuál de los dos deudores amará más? ¿Por qué?",
+        "¿Qué hizo la mujer para mostrar su amor a Jesús?",
+        "¿Cómo podemos agradecer a Dios su perdón?"
+      ],
+      "actividad": {
+        "titulo": "Gracias por tu perdón",
+        "tipo": "Oración",
+        "minutos": 5,
+        "materiales": [
+          "un frasco",
+          "papelitos"
+        ],
+        "pasos": [
+          "Cada niño escribe o dibuja en un papelito una forma de mostrar amor a Dios por su perdón.",
+          "Lo ponen en el frasco como si fuera perfume para Jesús.",
+          "Terminen diciendo juntos: «Gracias, Jesús, por tu perdón»."
+        ]
+      },
+      "oracion": "Jesús, gracias por perdonarme tanto. Quiero responderte con mucho amor, a ti y a todas las personas que me rodean. Amén."
     }
   ]
 }

@@ -1,27 +1,696 @@
 {
+  "intro": {
+    "por_que": [
+      "Rezar es hablar con Dios como con un amigo. Los niños tienen una facilidad especial para hacerlo: confían, preguntan, agradecen sin vergüenza. Nuestra tarea no es enseñarles fórmulas, sino ayudarles a descubrir que Dios los escucha siempre.",
+      "La oración da sentido a cada encuentro. Una dinámica sin oración es solo un juego; con oración, se convierte en un encuentro con Jesús. Por eso te proponemos empezar y terminar siempre rezando, aunque sea un minuto.",
+      "Los niños aprenden a rezar viendo rezar. Si ven que la catequista hace silencio, se emociona al dar gracias o reza por ellos con cariño, entenderán que la oración es algo verdadero e importante.",
+      "No tengas miedo de los silencios cortos ni de las oraciones espontáneas con palabras sencillas. Dios no necesita discursos perfectos. Le alegra el «gracias, Jesús» de un niño tanto como la oración más hermosa."
+    ],
+    "consejos": [
+      "Empieza y termina siempre con la señal de la cruz.",
+      "Usa pocas palabras y muchos gestos.",
+      "Varía las formas: cantar, callar, dibujar, caminar.",
+      "Respeta al que no quiere hablar: también reza en silencio.",
+      "Reza tú por cada niño durante la semana."
+    ],
+    "rincon_intro": "Un rincón de oración es un lugar especial del salón (o de la casa) que invita a hacer silencio y hablar con Dios. No necesita ser grande ni costoso: basta una mesita o un estante bien cuidado.",
+    "rincon": [
+      [
+        "Un mantel o paño",
+        "Del color del tiempo litúrgico: morado en Adviento y Cuaresma, blanco en Navidad y Pascua, verde el resto del año, rojo en Pentecostés."
+      ],
+      [
+        "Una cruz",
+        "El centro del rincón: nos recuerda el amor de Jesús."
+      ],
+      [
+        "Una Biblia abierta",
+        "Puede ser una Biblia para niños, abierta en el texto del día."
+      ],
+      [
+        "Una imagen de María",
+        "Nuestra Madre nos acompaña cuando rezamos."
+      ],
+      [
+        "Una vela de LED",
+        "Signo de que Jesús es la luz. Usa siempre velas de LED con los niños, nunca velas encendidas."
+      ],
+      [
+        "Flores",
+        "Naturales o de papel, hechas por los niños."
+      ],
+      [
+        "Una caja de intenciones",
+        "Para dejar escritas las peticiones."
+      ],
+      [
+        "Un cojín o alfombra",
+        "Para sentarse cómodos en el suelo."
+      ]
+    ],
+    "rincon_cuidados": [
+      "Que los niños se turnen para cuidar el rincón cada semana.",
+      "Cambia el color del mantel según el tiempo litúrgico.",
+      "Evita llenarlo de cosas: lo sencillo ayuda a concentrarse.",
+      "Invita a las familias a armar un rincón igual en casa."
+    ]
+  },
   "basicas": [
     {
-      "num": 2, "slug": "padre-nuestro", "titulo": "Padre Nuestro",
-      "explicacion": "Es la oración que Jesús mismo enseñó a sus amigos cuando le pidieron: «Señor, enséñanos a orar» (Lucas 11, 1). Por eso la rezan los cristianos de todo el mundo. En ella llamamos a Dios «Papá» y le pedimos lo que más necesitamos.",
-      "texto": ["Padre nuestro, que estás en el cielo,", "santificado sea tu Nombre;", "venga a nosotros tu reino;", "hágase tu voluntad en la tierra como en el cielo.", "Danos hoy nuestro pan de cada día;", "perdona nuestras ofensas,", "como también nosotros perdonamos a los que nos ofenden;", "no nos dejes caer en la tentación,", "y líbranos del mal. Amén."],
+      "num": 1,
+      "slug": "senal-cruz",
+      "titulo": "Señal de la Cruz",
+      "corta": "Por la señal de la Santa Cruz…",
+      "explicacion": "Con la señal de la cruz empezamos y terminamos nuestras oraciones. Es como decir: «Soy de Jesús». La cruz nos recuerda que Jesús nos amó hasta dar la vida, y las palabras nos recuerdan que Dios es Padre, Hijo y Espíritu Santo.",
+      "texto": [
+        "Por la señal de la Santa Cruz,",
+        "de nuestros enemigos",
+        "líbranos, Señor, Dios nuestro.",
+        "En el nombre del Padre,",
+        "y del Hijo,",
+        "y del Espíritu Santo. Amén."
+      ],
       "partes": [
-        {"frase": "Padre nuestro, que estás en el cielo", "significa": "Dios es nuestro Papá, y el de todos. Nos escucha siempre.", "gesto": "Manos abiertas hacia arriba"},
-        {"frase": "santificado sea tu Nombre", "significa": "Queremos que todos respeten y amen el nombre de Dios.", "gesto": "Manos sobre el corazón"},
-        {"frase": "venga a nosotros tu reino", "significa": "Que el amor de Dios llegue a todas partes.", "gesto": "Brazos que llaman hacia uno"},
-        {"frase": "hágase tu voluntad en la tierra como en el cielo", "significa": "Queremos hacer lo que Dios quiere, porque Él sabe lo que es bueno.", "gesto": "Señalar el cielo y luego el suelo"},
-        {"frase": "Danos hoy nuestro pan de cada día", "significa": "Le pedimos lo que necesitamos hoy: comida, casa y cariño, para nosotros y para todos.", "gesto": "Manos juntas como un cuenco"},
-        {"frase": "perdona nuestras ofensas, como también nosotros perdonamos…", "significa": "Dios nos perdona, y nosotros también perdonamos a los demás.", "gesto": "Mano en el pecho; luego darla al compañero"},
-        {"frase": "no nos dejes caer en la tentación, y líbranos del mal", "significa": "Le pedimos fuerza para elegir siempre el bien.", "gesto": "Brazos cruzados como un escudo"},
-        {"frase": "Amén", "significa": "«Así sea». ¡Creemos lo que dijimos!", "gesto": "Manos juntas"}
+        {
+          "frase": "Por la señal de la Santa Cruz",
+          "significa": "Le pedimos a Dios que bendiga lo que pensamos.",
+          "gesto": "Pequeña cruz en la frente"
+        },
+        {
+          "frase": "de nuestros enemigos",
+          "significa": "Que bendiga lo que decimos.",
+          "gesto": "Pequeña cruz en los labios"
+        },
+        {
+          "frase": "líbranos, Señor, Dios nuestro",
+          "significa": "Que cuide nuestro corazón de todo mal.",
+          "gesto": "Pequeña cruz en el pecho"
+        },
+        {
+          "frase": "En el nombre del Padre, y del Hijo, y del Espíritu Santo",
+          "significa": "Creemos en un solo Dios que es Padre, Hijo y Espíritu Santo.",
+          "gesto": "Gran cruz: frente, pecho, hombro izquierdo y derecho"
+        },
+        {
+          "frase": "Amén",
+          "significa": "«Así es, lo creo».",
+          "gesto": "Manos juntas"
+        }
+      ]
+    },
+    {
+      "num": 2,
+      "slug": "padre-nuestro",
+      "titulo": "Padre Nuestro",
+      "explicacion": "Es la oración que Jesús mismo enseñó a sus amigos cuando le pidieron: «Señor, enséñanos a orar» (Lucas 11, 1). Por eso la rezan los cristianos de todo el mundo. En ella llamamos a Dios «Papá» y le pedimos lo que más necesitamos.",
+      "texto": [
+        "Padre nuestro, que estás en el cielo,",
+        "santificado sea tu Nombre;",
+        "venga a nosotros tu reino;",
+        "hágase tu voluntad en la tierra como en el cielo.",
+        "Danos hoy nuestro pan de cada día;",
+        "perdona nuestras ofensas,",
+        "como también nosotros perdonamos a los que nos ofenden;",
+        "no nos dejes caer en la tentación,",
+        "y líbranos del mal. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Padre nuestro, que estás en el cielo",
+          "significa": "Dios es nuestro Papá, y el de todos. Nos escucha siempre.",
+          "gesto": "Manos abiertas hacia arriba"
+        },
+        {
+          "frase": "santificado sea tu Nombre",
+          "significa": "Queremos que todos respeten y amen el nombre de Dios.",
+          "gesto": "Manos sobre el corazón"
+        },
+        {
+          "frase": "venga a nosotros tu reino",
+          "significa": "Que el amor de Dios llegue a todas partes.",
+          "gesto": "Brazos que llaman hacia uno"
+        },
+        {
+          "frase": "hágase tu voluntad en la tierra como en el cielo",
+          "significa": "Queremos hacer lo que Dios quiere, porque Él sabe lo que es bueno.",
+          "gesto": "Señalar el cielo y luego el suelo"
+        },
+        {
+          "frase": "Danos hoy nuestro pan de cada día",
+          "significa": "Le pedimos lo que necesitamos hoy: comida, casa y cariño, para nosotros y para todos.",
+          "gesto": "Manos juntas como un cuenco"
+        },
+        {
+          "frase": "perdona nuestras ofensas, como también nosotros perdonamos…",
+          "significa": "Dios nos perdona, y nosotros también perdonamos a los demás.",
+          "gesto": "Mano en el pecho; luego darla al compañero"
+        },
+        {
+          "frase": "no nos dejes caer en la tentación, y líbranos del mal",
+          "significa": "Le pedimos fuerza para elegir siempre el bien.",
+          "gesto": "Brazos cruzados como un escudo"
+        },
+        {
+          "frase": "Amén",
+          "significa": "«Así sea». ¡Creemos lo que dijimos!",
+          "gesto": "Manos juntas"
+        }
+      ]
+    },
+    {
+      "num": 3,
+      "slug": "ave-maria",
+      "titulo": "Ave María",
+      "corta": "Dios te salve, María…",
+      "explicacion": "La primera parte del Ave María son las palabras del ángel Gabriel y de Isabel, la prima de María. La segunda parte es nuestra petición: le pedimos a María, la Mamá de Jesús, que rece por nosotros, como una mamá que habla bien de sus hijos.",
+      "texto": [
+        "Dios te salve, María,",
+        "llena eres de gracia, el Señor es contigo.",
+        "Bendita tú eres entre todas las mujeres,",
+        "y bendito es el fruto de tu vientre, Jesús.",
+        "Santa María, Madre de Dios,",
+        "ruega por nosotros, pecadores,",
+        "ahora y en la hora de nuestra muerte. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Dios te salve, María",
+          "significa": "Saludamos a María como lo hizo el ángel.",
+          "gesto": "Mano en alto como saludo"
+        },
+        {
+          "frase": "llena eres de gracia, el Señor es contigo",
+          "significa": "María está llena del amor de Dios.",
+          "gesto": "Brazos que abrazan"
+        },
+        {
+          "frase": "bendito es el fruto de tu vientre, Jesús",
+          "significa": "Jesús es el hijo de María.",
+          "gesto": "Brazos que acunan a un bebé"
+        },
+        {
+          "frase": "Santa María, Madre de Dios, ruega por nosotros",
+          "significa": "Le pedimos que hable a Dios por nosotros.",
+          "gesto": "Manos juntas"
+        },
+        {
+          "frase": "ahora y en la hora de nuestra muerte",
+          "significa": "Que nos acompañe siempre, hoy y toda la vida.",
+          "gesto": "Mano en el corazón"
+        }
+      ]
+    },
+    {
+      "num": 4,
+      "slug": "gloria",
+      "titulo": "Gloria",
+      "corta": "Gloria al Padre…",
+      "explicacion": "Es una oración cortita de alabanza. No pedimos nada: solo le decimos a Dios lo grande y bueno que es. La rezamos al final de los salmos y de cada decena del Rosario.",
+      "texto": [
+        "Gloria al Padre, y al Hijo,",
+        "y al Espíritu Santo.",
+        "Como era en el principio,",
+        "ahora y siempre,",
+        "por los siglos de los siglos. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Gloria al Padre",
+          "significa": "Alabamos a Dios Padre, que nos creó.",
+          "gesto": "Brazos hacia arriba"
+        },
+        {
+          "frase": "y al Hijo",
+          "significa": "Alabamos a Jesús, que nos salvó.",
+          "gesto": "Manos en forma de cruz"
+        },
+        {
+          "frase": "y al Espíritu Santo",
+          "significa": "Alabamos al Espíritu, que vive en nosotros.",
+          "gesto": "Manos que bajan como una paloma"
+        },
+        {
+          "frase": "como era en el principio, ahora y siempre…",
+          "significa": "Dios siempre fue, es y será.",
+          "gesto": "Brazos que dibujan un gran círculo"
+        }
+      ]
+    },
+    {
+      "num": 5,
+      "slug": "angel-guarda",
+      "titulo": "Ángel de la Guarda",
+      "corta": "Ángel de mi Guarda…",
+      "explicacion": "Dios le regala a cada persona un ángel que la acompaña y la cuida. Con esta oración le pedimos a nuestro ángel que no nos deje nunca, de día ni de noche. Es ideal para rezar antes de dormir o al salir de casa.",
+      "texto": [
+        "Ángel de mi Guarda,",
+        "dulce compañía,",
+        "no me desampares",
+        "ni de noche ni de día,",
+        "hasta que me pongas en paz y alegría",
+        "con todos los santos,",
+        "Jesús, José y María. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Ángel de mi Guarda, dulce compañía",
+          "significa": "Mi ángel está siempre conmigo.",
+          "gesto": "Abrazarse a uno mismo"
+        },
+        {
+          "frase": "no me desampares ni de noche ni de día",
+          "significa": "Le pido que no me deje solo.",
+          "gesto": "Manos en la mejilla (noche) y arriba (día)"
+        },
+        {
+          "frase": "hasta que me pongas en paz y alegría",
+          "significa": "Que me ayude a llegar feliz al cielo.",
+          "gesto": "Sonrisa y brazos abiertos"
+        },
+        {
+          "frase": "con todos los santos, Jesús, José y María",
+          "significa": "Allí estaremos con la familia de Dios.",
+          "gesto": "Tomarse de las manos"
+        }
+      ]
+    },
+    {
+      "num": 6,
+      "slug": "credo",
+      "titulo": "Credo de los Apóstoles",
+      "corta": "Creo en Dios Padre…",
+      "larga": true,
+      "explicacion": "«Credo» quiere decir «creo». En esta oración decimos lo que creemos los cristianos: en Dios Padre, en Jesús y en el Espíritu Santo. Es muy antigua: la rezaban ya los primeros cristianos. Puedes enseñarla por partes, una cada semana.",
+      "texto": [
+        "Creo en Dios, Padre todopoderoso, Creador del cielo y de la tierra.",
+        "Creo en Jesucristo, su único Hijo, nuestro Señor,",
+        "que fue concebido por obra y gracia del Espíritu Santo, nació de Santa María Virgen,",
+        "padeció bajo el poder de Poncio Pilato, fue crucificado, muerto y sepultado,",
+        "descendió a los infiernos, al tercer día resucitó de entre los muertos,",
+        "subió a los cielos y está sentado a la derecha de Dios, Padre todopoderoso.",
+        "Desde allí ha de venir a juzgar a vivos y muertos.",
+        "Creo en el Espíritu Santo, la santa Iglesia católica, la comunión de los santos,",
+        "el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Creo en Dios, Padre…",
+          "significa": "Dios Padre hizo todo lo que existe.",
+          "gesto": "Brazos abiertos al cielo"
+        },
+        {
+          "frase": "Creo en Jesucristo…",
+          "significa": "Jesús nació de María, murió por amor y resucitó.",
+          "gesto": "Mano en el corazón"
+        },
+        {
+          "frase": "Creo en el Espíritu Santo…",
+          "significa": "El Espíritu Santo nos da vida y fuerza.",
+          "gesto": "Manos que bajan como una paloma"
+        },
+        {
+          "frase": "la santa Iglesia… la vida eterna",
+          "significa": "Somos la familia de Dios y viviremos con Él para siempre.",
+          "gesto": "Tomarse de las manos"
+        }
+      ]
+    },
+    {
+      "num": 7,
+      "slug": "acto-contricion",
+      "titulo": "Acto de Contrición",
+      "corta": "Jesús, mi buen Amigo…",
+      "explicacion": "Con esta oración le decimos a Jesús que estamos tristes por lo malo que hicimos y que queremos cambiar. La rezamos en la Confesión y también antes de dormir. Esta es una versión sencilla para niños; en tu parroquia pueden enseñar otra.",
+      "texto": [
+        "Jesús, mi buen Amigo,",
+        "me arrepiento de corazón",
+        "de todo lo malo que hice",
+        "y de lo bueno que dejé de hacer.",
+        "Te pido perdón porque te quiero mucho.",
+        "Con tu ayuda, prometo portarme mejor. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Jesús, mi buen Amigo",
+          "significa": "Hablo con Jesús, que me quiere.",
+          "gesto": "Manos juntas"
+        },
+        {
+          "frase": "me arrepiento de corazón",
+          "significa": "Estoy triste por haber hecho mal.",
+          "gesto": "Mano en el pecho, cabeza inclinada"
+        },
+        {
+          "frase": "Te pido perdón porque te quiero mucho",
+          "significa": "Pido perdón por amor, no por miedo.",
+          "gesto": "Brazos que abrazan"
+        },
+        {
+          "frase": "Con tu ayuda, prometo portarme mejor",
+          "significa": "Jesús me ayuda a cambiar.",
+          "gesto": "Levantarse y mirar hacia adelante"
+        }
+      ]
+    },
+    {
+      "num": 8,
+      "slug": "bendicion-alimentos",
+      "titulo": "Bendición de los Alimentos",
+      "corta": "Bendice, Señor, estos alimentos…",
+      "explicacion": "Antes de comer damos gracias a Dios por la comida y por las personas que la prepararon. También nos acordamos de los que no tienen qué comer. Es una oración perfecta para rezar en familia cada día.",
+      "texto": [
+        "Bendice, Señor, estos alimentos",
+        "que vamos a tomar,",
+        "y a las manos que los prepararon.",
+        "Da pan a los que tienen hambre,",
+        "y hambre de ti a los que tenemos pan. Amén."
+      ],
+      "partes": [
+        {
+          "frase": "Bendice, Señor, estos alimentos",
+          "significa": "Damos gracias por la comida.",
+          "gesto": "Manos abiertas sobre la mesa"
+        },
+        {
+          "frase": "y a las manos que los prepararon",
+          "significa": "Agradecemos a quien cocinó.",
+          "gesto": "Mirar y sonreír a quien cocinó"
+        },
+        {
+          "frase": "Da pan a los que tienen hambre",
+          "significa": "Rezamos por los que no tienen comida.",
+          "gesto": "Manos en forma de cuenco"
+        },
+        {
+          "frase": "y hambre de ti a los que tenemos pan",
+          "significa": "Que siempre queramos estar cerca de Dios.",
+          "gesto": "Mano en el corazón"
+        }
       ]
     }
   ],
   "modulos": [
-    {"n": 1, "titulo": "Rompehielos y Bienvenida",
-     "apertura": ["Jesús, gracias por reunirnos hoy. Aquí estamos con nuestros nombres y nuestras alegrías. Quédate con nosotros. Amén.", "Señor, abre mis ojos para ver a mis amigos, mis oídos para escucharlos y mi corazón para quererlos. Amén."],
-     "cierre": ["Gracias, Jesús, por mis compañeros. Cuida a cada uno en su casa esta semana. Amén.", "Dios Padre, tú nos conoces por nuestro nombre. Bendícenos al volver a casa. En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén."]},
-    {"n": 2, "titulo": "Dios Creador y la Creación",
-     "apertura": ["Dios bueno, tú hiciste el sol, el mar y las estrellas. Gracias porque también me hiciste a mí. Amén.", "Señor, enséñanos hoy a mirar tu creación con ojos de asombro y a cuidarla con amor. Amén."],
-     "cierre": ["Gracias, Dios, por todo lo que creaste. Ayúdame a cuidar las plantas, los animales y a las personas. Amén.", "Todo lo que hiciste es muy bueno, Señor. ¡Gloria a ti por tu creación! Amén."]}
+    {
+      "n": 1,
+      "titulo": "Rompehielos y Bienvenida",
+      "apertura": [
+        "Jesús, gracias por reunirnos hoy. Aquí estamos con nuestros nombres y nuestras alegrías. Quédate con nosotros. Amén.",
+        "Señor, abre mis ojos para ver a mis amigos, mis oídos para escucharlos y mi corazón para quererlos. Amén."
+      ],
+      "cierre": [
+        "Gracias, Jesús, por mis compañeros. Cuida a cada uno en su casa esta semana. Amén.",
+        "Dios Padre, tú nos conoces por nuestro nombre. Bendícenos al volver a casa. En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén."
+      ]
+    },
+    {
+      "n": 2,
+      "titulo": "Dios Creador y la Creación",
+      "apertura": [
+        "Dios bueno, tú hiciste el sol, el mar y las estrellas. Gracias porque también me hiciste a mí. Amén.",
+        "Señor, enséñanos hoy a mirar tu creación con ojos de asombro y a cuidarla con amor. Amén."
+      ],
+      "cierre": [
+        "Gracias, Dios, por todo lo que creaste. Ayúdame a cuidar las plantas, los animales y a las personas. Amén.",
+        "Todo lo que hiciste es muy bueno, Señor. ¡Gloria a ti por tu creación! Amén."
+      ]
+    },
+    {
+      "n": 3,
+      "titulo": "Historias del Antiguo Testamento",
+      "apertura": [
+        "Dios de Abraham, de Moisés y de David, tú siempre cuidaste a tu pueblo. Cuídanos hoy a nosotros también. Amén.",
+        "Señor, abre mis oídos como los de Samuel. Habla, que tu amigo escucha. Amén."
+      ],
+      "cierre": [
+        "Gracias, Dios, porque siempre cumples tus promesas. Ayúdame a confiar en ti como los héroes de la Biblia. Amén.",
+        "Dios fiel, quédate conmigo esta semana, como te quedaste con tu pueblo en el camino. Amén."
+      ]
+    },
+    {
+      "n": 4,
+      "titulo": "Jesús: Vida y Milagros",
+      "apertura": [
+        "Jesús, amigo de los niños, aquí estamos. Queremos conocerte más y quererte mucho. Amén.",
+        "Jesús, tú pasaste haciendo el bien. Toca hoy nuestro corazón para que aprendamos de ti. Amén."
+      ],
+      "cierre": [
+        "Gracias, Jesús, por tu amor tan grande. Ayúdame a ser bueno como tú. Amén.",
+        "Jesús, tú calmaste la tormenta. Calma también mis miedos y quédate conmigo. Amén."
+      ]
+    },
+    {
+      "n": 5,
+      "titulo": "María y los Santos",
+      "apertura": [
+        "María, Madre buena, toma mi mano y llévame a Jesús. Amén.",
+        "Santos del cielo, amigos de Dios, ayúdennos a aprender a amar como ustedes. Amén."
+      ],
+      "cierre": [
+        "María, cúbreme con tu manto y cuida a mi familia. Amén.",
+        "Señor, gracias por los santos. Ayúdame a ser santo en lo pequeño de cada día. Amén."
+      ]
+    },
+    {
+      "n": 6,
+      "titulo": "Aprendiendo a Orar",
+      "apertura": [
+        "Señor, enséñame a orar. Quiero hablar contigo como con mi mejor amigo. Amén.",
+        "Dios mío, aquí estoy. Hago silencio para escucharte. Amén."
+      ],
+      "cierre": [
+        "Gracias, Dios, porque siempre me escuchas. Quiero hablar contigo cada día. Amén.",
+        "Padre bueno, guarda en mi corazón lo que te dije hoy y lo que tú me dijiste. Amén."
+      ]
+    },
+    {
+      "n": 7,
+      "titulo": "Los Sacramentos",
+      "apertura": [
+        "Jesús, gracias por tus regalos: el Bautismo, el perdón y la Eucaristía. Prepárame para recibirte. Amén.",
+        "Espíritu Santo, abre mi corazón para entender los signos del amor de Dios. Amén."
+      ],
+      "cierre": [
+        "Jesús, Pan de Vida, quiero recibirte con un corazón limpio y feliz. Amén.",
+        "Gracias, Señor, porque soy hijo de Dios y parte de tu gran familia. Amén."
+      ]
+    },
+    {
+      "n": 8,
+      "titulo": "Mandamientos y Valores Cristianos",
+      "apertura": [
+        "Señor, tus mandamientos son caminos de felicidad. Enséñame a seguirlos. Amén.",
+        "Jesús, ayúdame hoy a amar a Dios y a amar a los demás como tú nos amas. Amén."
+      ],
+      "cierre": [
+        "Señor, dame fuerza para decir la verdad, compartir y perdonar esta semana. Amén.",
+        "Jesús, que mis manos ayuden, que mi boca diga cosas buenas y que mi corazón ame. Amén."
+      ]
+    },
+    {
+      "n": 9,
+      "titulo": "La Iglesia y la Misa",
+      "apertura": [
+        "Señor, gracias por mi parroquia y por la gran familia de la Iglesia. Aquí estamos, unidos en tu nombre. Amén.",
+        "Jesús, enséñanos a vivir la Misa con alegría y atención. Amén."
+      ],
+      "cierre": [
+        "Señor, que el domingo nos encontremos en tu casa para celebrar juntos. Amén.",
+        "Bendice, Señor, a nuestro párroco, a los catequistas y a todas las familias de la parroquia. Amén."
+      ]
+    },
+    {
+      "n": 10,
+      "titulo": "Juegos de Repaso",
+      "apertura": [
+        "Señor, gracias por todo lo que aprendimos. Ayúdanos a recordarlo con alegría. Amén.",
+        "Espíritu Santo, ilumina nuestra mente y nuestro corazón para jugar y aprender. Amén."
+      ],
+      "cierre": [
+        "Gracias, Jesús, por la alegría de aprender juntos. Que lo que sabemos se vuelva amor. Amén.",
+        "Señor, que no solo sepamos cosas de ti, sino que te queramos cada día más. Amén."
+      ]
+    },
+    {
+      "n": 11,
+      "titulo": "Cierres y Oración Final",
+      "apertura": [
+        "Jesús, gracias por este encuentro. Bendice a cada uno de mis compañeros. Amén.",
+        "Señor, antes de irnos, ponemos en tus manos todo lo que vivimos hoy. Amén."
+      ],
+      "cierre": [
+        "Que el Señor nos bendiga, nos guarde y nos llene de su paz. Amén.",
+        "Vamos en paz, a llevar el amor de Jesús a nuestras casas. ¡Demos gracias a Dios! Amén."
+      ]
+    }
+  ],
+  "formas": [
+    {
+      "titulo": "Oración con gestos",
+      "para": "Ayuda a los niños inquietos a rezar con todo el cuerpo y a memorizar.",
+      "pasos": [
+        "Elige una oración corta o un salmo.",
+        "Inventa con los niños un gesto para cada frase.",
+        "Recen despacio haciendo los gestos.",
+        "Repitan cada semana hasta que la sepan de memoria."
+      ]
+    },
+    {
+      "titulo": "Oración en eco",
+      "para": "Ideal para los que todavía no leen: repiten lo que dice la catequista.",
+      "pasos": [
+        "Di una frase corta de la oración.",
+        "Los niños la repiten igual, como un eco.",
+        "Cambia el tono: bajito, fuerte, cantado.",
+        "Al final, recen la oración completa juntos."
+      ]
+    },
+    {
+      "titulo": "Los cinco dedos",
+      "para": "Enseña a rezar por los demás usando la mano como guía.",
+      "pasos": [
+        "Pulgar (el más cercano): rezo por mi familia.",
+        "Índice (el que señala): por los maestros y catequistas.",
+        "Mayor (el más alto): por los que gobiernan y ayudan.",
+        "Anular (el más débil): por los enfermos y tristes. Meñique: por mí."
+      ]
+    },
+    {
+      "titulo": "Gratitud con pelota",
+      "para": "Una forma alegre de dar gracias en grupo.",
+      "pasos": [
+        "Formen un círculo con una pelota blanda.",
+        "Quien recibe la pelota dice: «Gracias, Dios, por…».",
+        "Lanza la pelota a otro compañero.",
+        "Terminen todos juntos: «¡Gracias, Señor!»."
+      ]
+    },
+    {
+      "titulo": "Silencio guiado",
+      "para": "Acostumbra a los niños a escuchar a Dios en el silencio.",
+      "pasos": [
+        "Pide que cierren los ojos y respiren despacio.",
+        "Lee una frase corta de la Biblia muy lentamente.",
+        "Deja 30 segundos de silencio (luego, cada semana, un poco más).",
+        "Pregunta qué sintieron o qué palabra les quedó."
+      ]
+    },
+    {
+      "titulo": "Peticiones con velas de LED",
+      "para": "Convierte las peticiones en un momento visual y tranquilo.",
+      "pasos": [
+        "Coloca una vela de LED grande en el centro y velitas apagadas alrededor.",
+        "Cada niño enciende una velita y dice su petición.",
+        "Todos responden: «Señor, escúchanos».",
+        "Dejen las velas encendidas durante el resto del encuentro."
+      ]
+    },
+    {
+      "titulo": "Oración cantada",
+      "para": "El canto ayuda a rezar con alegría y a recordar.",
+      "pasos": [
+        "Elige un canto corto y conocido de tu parroquia.",
+        "Explica qué dice la letra con palabras sencillas.",
+        "Cántenlo despacio, como una oración, no como un juego.",
+        "Repítanlo al inicio de varios encuentros."
+      ]
+    },
+    {
+      "titulo": "Oración con dibujo",
+      "para": "Permite expresar lo que sienten aunque no tengan palabras.",
+      "pasos": [
+        "Entrega una hoja y lápices de colores.",
+        "Pide que dibujen algo que quieran contarle a Dios.",
+        "Quien quiera, muestra su dibujo y dice una frase.",
+        "Coloquen los dibujos alrededor de una cruz o de la Biblia."
+      ]
+    },
+    {
+      "titulo": "La caja de intenciones",
+      "para": "Crea el hábito de rezar por las necesidades de los demás.",
+      "pasos": [
+        "Decora con los niños una caja con ranura.",
+        "Cada semana, quien quiera escribe o dibuja una intención.",
+        "Al inicio del encuentro, saca dos papelitos y recen por ellos.",
+        "Respeta la privacidad: no leas en voz alta lo que el niño no quiera."
+      ]
+    },
+    {
+      "titulo": "Oración en parejas",
+      "para": "Enseña a rezar unos por otros y a cuidarse como hermanos.",
+      "pasos": [
+        "Forma parejas.",
+        "Cada uno le cuenta al otro algo por lo que quiere que recen.",
+        "Uno pone la mano en el hombro del otro y reza por él con palabras sencillas.",
+        "Cambian de papel y terminan con un abrazo."
+      ]
+    }
+  ],
+  "especiales": [
+    {
+      "titulo": "Por un cumpleaños",
+      "texto": "Señor, gracias por la vida de {nombre}. Gracias por cada año que le regalaste. Bendícelo hoy y siempre, cuida a su familia y ayúdalo a crecer en tu amor, como Jesús crecía en Nazaret. Amén."
+    },
+    {
+      "titulo": "Por alguien enfermo",
+      "texto": "Jesús, tú sanabas a los enfermos con tu amor. Hoy te pedimos por {nombre}, que está enfermo. Dale fuerza, alivia su dolor y acompaña a quienes lo cuidan. Ponemos en tus manos su salud. Amén."
+    },
+    {
+      "titulo": "Por la familia",
+      "texto": "Señor, bendice a mi familia. Que en mi casa haya paz, cariño y perdón. Cuida a mis papás, a mis hermanos y a mis abuelos. Haz que nuestra casa se parezca a la casa de Nazaret. Amén."
+    },
+    {
+      "titulo": "Antes de la Primera Comunión",
+      "texto": "Jesús, falta poco para recibirte por primera vez. Prepara mi corazón para que sea una casa limpia y alegre para ti. Que te reciba con fe, con amor y con muchas ganas de ser tu amigo para siempre. Amén."
+    },
+    {
+      "titulo": "Después de comulgar",
+      "texto": "Jesús, estás conmigo. ¡Gracias por venir a mi corazón! Te quiero mucho. Te pido por mi familia y mis amigos. Ayúdame a ser bueno y a no separarme nunca de ti. Amén."
+    },
+    {
+      "titulo": "Antes de dormir",
+      "texto": "Gracias, Dios, por este día. Perdóname si hice algo mal. Cuida esta noche a mi familia y a todos los niños del mundo. Ángel de mi guarda, quédate a mi lado. Amén."
+    },
+    {
+      "titulo": "Al empezar las vacaciones",
+      "texto": "Señor, gracias por este tiempo para descansar y jugar. Cuídanos en los paseos y en los juegos. Que en vacaciones no me olvide de ti y siga rezando y yendo a Misa con mi familia. Amén."
+    },
+    {
+      "titulo": "Oración de la catequista",
+      "texto": "Señor Jesús, tú me confiaste a estos niños. Dame paciencia para escucharlos, palabras sencillas para hablarles de ti y alegría para mostrarles tu amor. Cuando me canse, sé mi descanso. María, primera catequista, acompáñame. Amén."
+    }
+  ],
+  "cortas": [
+    {
+      "titulo": "Al despertar",
+      "texto": "Gracias, Dios, por este nuevo día. Te ofrezco todo lo que haga hoy. Amén."
+    },
+    {
+      "titulo": "Antes de dormir",
+      "texto": "Gracias, Señor, por este día. Cuida mi sueño y a mi familia. Amén."
+    },
+    {
+      "titulo": "Ven, Espíritu Santo",
+      "texto": "Ven, Espíritu Santo, llena mi corazón y enciende en mí el fuego de tu amor. Amén."
+    },
+    {
+      "titulo": "Antes de comulgar",
+      "texto": "Señor, no soy digno de que entres en mi casa, pero una palabra tuya bastará para sanarme."
+    },
+    {
+      "titulo": "Después de comulgar",
+      "texto": "Jesús, estás en mi corazón. Gracias. Te quiero mucho. Amén."
+    },
+    {
+      "titulo": "Jesús, en ti confío",
+      "texto": "Jesús, en ti confío. Pongo en tus manos todo lo que tengo y lo que soy."
+    },
+    {
+      "titulo": "Sagrado Corazón",
+      "texto": "Sagrado Corazón de Jesús, en ti confío. Haz mi corazón semejante al tuyo."
+    },
+    {
+      "titulo": "María, Madre mía",
+      "texto": "María, Madre mía, cuídame y llévame siempre a Jesús. Amén."
+    }
   ]
 }

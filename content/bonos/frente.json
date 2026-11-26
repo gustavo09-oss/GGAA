@@ -1,0 +1,177 @@
+{
+  "1": {
+    "marca": "Ruta de Encuentros",
+    "saludo": "Querida catequista:",
+    "carta": [
+      "Planificar cada encuentro lleva tiempo, y a veces ese tiempo no alcanza. Por eso preparamos esta Ruta de Encuentros: doce semanas de catequesis ya organizadas, listas para seguir paso a paso.",
+      "Cada semana tiene un tema, un objetivo claro, una cita bíblica explicada para niños y un encuentro completo de sesenta minutos. Todas las dinámicas que proponemos están en tu libro principal, Catequesis Viva, con su número y su página, para que las encuentres en un momento.",
+      "El orden de las semanas acompaña el camino hacia la Primera Comunión: empezamos descubriendo que Dios nos ama, recorremos la creación, la Biblia y la vida de Jesús, aprendemos a orar y a amar, y llegamos a los sacramentos del perdón, el Bautismo y la Eucaristía, para terminar celebrando que Jesús vive en nosotros.",
+      "Úsala con libertad. Si una semana tu grupo necesita más tiempo, quédate en ese tema. Si una dinámica no encaja, cámbiala por otra del mismo módulo. Al final encontrarás un planificador en blanco para preparar tus próximos trimestres.",
+      "Que estas doce semanas sean para ti y para tus niños un camino de alegría y de encuentro con Jesús."
+    ],
+    "cita_carta": "«Yo estoy con ustedes todos los días» (Mateo 28, 20)",
+    "usar": [
+      [
+        "Sigue la ruta en orden",
+        "Las semanas van de lo más sencillo a lo más profundo y preparan el corazón para la Primera Comunión."
+      ],
+      [
+        "Busca las dinámicas",
+        "Cada bloque indica el número y la página de la dinámica en el libro principal. Tócalo en el índice del libro y llegas directo."
+      ],
+      [
+        "Prepara con la segunda página",
+        "Allí está la lista de materiales de toda la semana, el compromiso para los niños y una nota práctica para ti."
+      ],
+      [
+        "Respeta los tiempos",
+        "Los minutos son una guía. Si el grupo está muy interesado en algo, dale más tiempo y acorta otra parte."
+      ]
+    ],
+    "nota_titulo": "Necesitas el libro principal.",
+    "nota": "Este bono funciona junto con Catequesis Viva: +500 Dinámicas para Niños. Ten el PDF abierto en tu celular o imprime solo las fichas de la semana.",
+    "final_titulo": "Oración al terminar el trimestre",
+    "final_oracion": [
+      "Señor Jesús, gracias por estas doce semanas.",
+      "Gracias por cada niño, por cada pregunta",
+      "y por cada sonrisa que nos regalaste.",
+      "Guarda en su corazón lo que aprendieron",
+      "y hazlo crecer como semilla en tierra buena.",
+      "Que lleguen a recibirte con alegría",
+      "y que nunca se separen de ti. Amén."
+    ],
+    "final_cierre": "Gracias por recorrer esta ruta con tus niños. Cuando termines, vuelve a empezar con el planificador en blanco: cada grupo es distinto y tú sabrás qué necesita."
+  },
+  "2": {
+    "marca": "30 Parábolas para Niños",
+    "saludo": "Querida catequista:",
+    "idx_cap": 40,
+    "carta": [
+      "Jesús era un gran contador de historias. Hablaba de semillas, de ovejas, de monedas perdidas y de fiestas, y la gente sencilla lo entendía y lo recordaba. Esas historias se llaman parábolas, y siguen hablando hoy al corazón de los niños.",
+      "En este bono encontrarás treinta parábolas contadas con palabras sencillas, pensadas para leerlas en voz alta a niños de siete y ocho años. No son copias de la Biblia: son la misma historia contada como la contaría una abuela, con diálogos y ritmo, sin cambiar lo que Jesús quiso enseñar.",
+      "Cada parábola ocupa dos páginas. En la primera está la historia. En la segunda, lo que nos enseña Jesús, tres preguntas para conversar, una actividad rápida con materiales de casa y una oración para terminar.",
+      "Te recomendamos leer primero la historia tú sola, para contarla con entusiasmo y mirando a los niños. Y si puedes, lee también la parábola en tu Biblia: así conocerás cada detalle y podrás responder sus preguntas.",
+      "Que estas historias de Jesús siembren en tus niños semillas de fe que den mucho fruto."
+    ],
+    "cita_carta": "«Jesús les enseñaba muchas cosas por medio de parábolas» (Marcos 4, 2)",
+    "usar": [
+      [
+        "Lee con entusiasmo",
+        "Cambia la voz en los diálogos, haz pausas y mira a los niños. Una historia bien contada se recuerda para siempre."
+      ],
+      [
+        "Conversa sin apuro",
+        "Las preguntas no tienen respuestas de examen. Escucha lo que dicen los niños y ayúdalos a descubrir el mensaje."
+      ],
+      [
+        "Haz la actividad",
+        "Son de 5 a 10 minutos, con materiales de casa. Ayudan a que la enseñanza baje de la cabeza al corazón."
+      ],
+      [
+        "Combina con el libro principal",
+        "Una parábola puede ser el tema del día, y una dinámica del libro principal puede completar el encuentro."
+      ]
+    ],
+    "nota_titulo": "Para profundizar:",
+    "nota": "al lado del título de cada parábola está la cita bíblica. Léela antes del encuentro en tu Biblia; los niños más grandes pueden buscarla contigo.",
+    "final_titulo": "Oración del que escucha",
+    "final_oracion": [
+      "Jesús, Maestro bueno,",
+      "gracias por tus historias llenas de vida.",
+      "Que mi corazón sea tierra buena",
+      "donde tu Palabra crezca y dé fruto.",
+      "Que busque a los perdidos como el pastor,",
+      "que ayude al herido como el samaritano",
+      "y que siempre vuelva a tus brazos de Padre. Amén."
+    ],
+    "final_cierre": "Las parábolas no se agotan: cada vez que las leemos descubrimos algo nuevo. Vuelve a ellas durante el año y deja que los niños elijan sus favoritas."
+  },
+  "3": {
+    "marca": "Fechas Litúrgicas",
+    "saludo": "Querida catequista:",
+    "idx_cap": 36,
+    "carta": [
+      "La Iglesia vive el año como un gran camino con Jesús. Esperamos en Adviento, celebramos en Navidad, nos preparamos en Cuaresma, acompañamos a Jesús en la Semana Santa y estallamos de alegría en la Pascua. Cada tiempo tiene su color, sus signos y sus fiestas.",
+      "Este bono te ayuda a vivir esos tiempos con tus niños. Encontrarás sesenta dinámicas nuevas, en el mismo formato de ficha que ya conoces, organizadas en once secciones: desde el Adviento hasta Cristo Rey, pasando por las fiestas de María y de todos los santos.",
+      "Al inicio hay una página que explica el Año Litúrgico y sus colores, y un calendario con las fechas de 2027 ya calculadas. Así sabrás con tiempo cuándo empieza la Cuaresma o cuándo cae Pentecostés.",
+      "Ninguna de estas dinámicas repite las del libro principal: son complementarias. Puedes usarlas en el encuentro de la semana que coincide con cada fiesta, o combinarlas con las dinámicas temáticas de Catequesis Viva.",
+      "Que tus niños aprendan a vivir el año al ritmo de Jesús y de su Iglesia."
+    ],
+    "cita_carta": "«Este es el día que hizo el Señor: alegrémonos» (Salmo 118, 24)",
+    "usar": [
+      [
+        "Mira el calendario",
+        "Al empezar cada mes, revisa qué tiempo o fiesta se acerca y elige una dinámica de esa sección."
+      ],
+      [
+        "Usa el color del tiempo",
+        "Cada sección tiene su color litúrgico. Úsalo en el mantel del rincón de oración o en los materiales."
+      ],
+      [
+        "Lee la ficha en 1 minuto",
+        "Mismo formato del libro principal: objetivo, materiales, pasos, adaptaciones y mensaje para llevar a casa."
+      ],
+      [
+        "Involucra a las familias",
+        "Muchas dinámicas proponen algo para hacer en casa: la corona, la palma, el pesebre. Avísales con tiempo."
+      ]
+    ],
+    "nota_titulo": "Sobre las fechas:",
+    "nota": "las fiestas móviles dependen de la Pascua y se calcularon para 2027. Algunas solemnidades se trasladan al domingo según el país: consulta siempre el calendario de tu diócesis.",
+    "final_titulo": "Oración para caminar el año con Jesús",
+    "final_oracion": [
+      "Señor, que en Adviento te esperemos,",
+      "que en Navidad te recibamos,",
+      "que en Cuaresma volvamos a ti,",
+      "que en Semana Santa te acompañemos",
+      "y que en Pascua cantemos tu victoria.",
+      "Que tu Espíritu nos guíe cada día del año",
+      "y que María nos lleve siempre a ti. Amén."
+    ],
+    "final_cierre": "Cada año litúrgico es una nueva oportunidad. Cuando llegue el próximo Adviento, vuelve a empezar: tus niños habrán crecido y vivirán cada fiesta de una manera nueva."
+  },
+  "4": {
+    "marca": "Guía de Oración",
+    "saludo": "Querida catequista:",
+    "idx_cap": 40,
+    "carta": [
+      "Enseñar a rezar es quizás lo más importante que hacemos en la catequesis. Las dinámicas, los juegos y las manualidades ayudan mucho, pero el corazón de todo es que cada niño descubra que puede hablar con Dios y que Dios lo escucha.",
+      "En esta guía encontrarás todo lo que necesitas para que la oración sea parte viva de cada encuentro: las ocho oraciones básicas explicadas para niños y con gestos, cuarenta y cuatro oraciones breves para empezar y terminar los encuentros de cada módulo del libro principal, diez formas creativas de orar y oraciones para momentos especiales.",
+      "Al final hay tarjetas para recortar e imprimir. Regálalas a tus niños para que recen en casa con su familia: muchas veces son ellos quienes enseñan a rezar a sus papás.",
+      "No hace falta usarlo todo a la vez. Empieza con una oración básica por semana, con sus gestos, y ve sumando formas nuevas poco a poco. Lo importante no es la cantidad, sino que cada momento de oración sea verdadero.",
+      "Gracias por enseñar a tus niños el camino del corazón hacia Dios."
+    ],
+    "cita_carta": "«Señor, enséñanos a orar» (Lucas 11, 1)",
+    "usar": [
+      [
+        "Empieza por las básicas",
+        "Enseña una oración básica por semana, con sus gestos, hasta que el grupo la sepa de memoria."
+      ],
+      [
+        "Abre y cierra cada encuentro",
+        "Busca las oraciones del módulo que estás trabajando en el libro principal: dos para empezar y dos para terminar."
+      ],
+      [
+        "Varía las formas",
+        "Las 10 formas creativas evitan la rutina. Prueba una nueva cada mes."
+      ],
+      [
+        "Llévalo a casa",
+        "Imprime las tarjetas recortables en cartulina y regálalas a los niños para rezar en familia."
+      ]
+    ],
+    "nota_titulo": "Sobre los textos:",
+    "nota": "las oraciones básicas están en sus versiones tradicionales de América Latina. Si en tu parroquia usan otra versión, usa la de tu comunidad para que los niños recen igual en la Misa.",
+    "final_titulo": "Oración de la catequista que reza",
+    "final_oracion": [
+      "Señor, antes de enseñar a rezar,",
+      "enséñame a mí a hablar contigo.",
+      "Que mis niños vean en mí",
+      "a alguien que te ama y te escucha.",
+      "Pon en sus labios palabras sencillas",
+      "y en su corazón el deseo de buscarte.",
+      "María, maestra de oración, acompáñanos. Amén."
+    ],
+    "final_cierre": "La oración es un camino que dura toda la vida. Lo que siembres hoy en tus niños los acompañará siempre. Gracias por rezar con ellos y por ellos."
+  }
+}

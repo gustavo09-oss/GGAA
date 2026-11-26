@@ -4,16 +4,652 @@
       "n": 1,
       "tema": "Bienvenidos: Dios nos ama",
       "objetivo": "Que cada niño se sienta acogido en el grupo y descubra que Dios lo conoce por su nombre y lo ama.",
-      "cita": {"referencia": "Isaías 43, 1", "mensaje": "Dios te dice: «Te llamé por tu nombre. Tú eres mío y te quiero mucho»."},
+      "cita": {
+        "referencia": "Isaías 43, 1",
+        "mensaje": "Dios te dice: «Te llamé por tu nombre. Tú eres mío y te quiero mucho»."
+      },
       "bloques": [
-        {"momento": "Bienvenida y oración inicial", "min": 5, "ids": ["01-009"], "nota": "Recibe a cada niño en la puerta y llámalo por su nombre. Los nuevos se sientan a tu lado."},
-        {"momento": "Rompehielos", "min": 10, "ids": ["01-001"], "nota": "Empieza tú la ronda diciendo tu nombre con alegría, para que nadie sienta vergüenza."},
-        {"momento": "Dinámica central", "min": 25, "ids": ["01-010"], "nota": "Mientras trabajan, pasa por cada lugar y repite: «Dios te hizo único». Guarda 5 minutos para que muestren su tarjeta."},
-        {"momento": "Reflexión y conversación", "min": 10, "ids": ["01-018"], "nota": "Cierra la conversación leyendo juntos Isaías 43, 1 y preguntando: ¿Cómo se siente que Dios sepa tu nombre?"},
-        {"momento": "Cierre y oración", "min": 10, "ids": ["11-003", "11-001"], "nota": "Primero eligen el compromiso de la semana; después, todos en círculo, piden la bendición de Dios."}
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "01-009"
+          ],
+          "nota": "Recibe a cada niño en la puerta y llámalo por su nombre. Los nuevos se sientan a tu lado."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "01-001"
+          ],
+          "nota": "Empieza tú la ronda diciendo tu nombre con alegría, para que nadie sienta vergüenza."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "01-010"
+          ],
+          "nota": "Mientras trabajan, pasa por cada lugar y repite: «Dios te hizo único». Guarda 5 minutos para que muestren su tarjeta."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "01-018"
+          ],
+          "nota": "Cierra la conversación leyendo juntos Isaías 43, 1 y preguntando: ¿Cómo se siente que Dios sepa tu nombre?"
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-003",
+            "11-001"
+          ],
+          "nota": "Primero eligen el compromiso de la semana; después, todos en círculo, piden la bendición de Dios."
+        }
       ],
       "compromiso": "Esta semana, saluda a alguien de tu familia por su nombre y dile: «Dios te ama». Después cuéntanos cómo reaccionó.",
       "nota_catequista": "El primer encuentro marca todo el año. Más que enseñar mucho, importa que cada niño se vaya sintiéndose querido. Si puedes, aprende todos los nombres antes del segundo encuentro."
+    },
+    {
+      "n": 2,
+      "tema": "Dios creó todo con amor",
+      "objetivo": "Descubrir que todo lo que existe es un regalo de Dios y que cada niño es su obra más querida.",
+      "cita": {
+        "referencia": "Génesis 1, 31",
+        "mensaje": "Dios miró todo lo que había hecho y vio que era muy, muy bueno."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "02-009"
+          ],
+          "nota": "Usa solo la primera parte de la oración para que dure 5 minutos."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "02-019"
+          ],
+          "nota": "Si el clima lo permite, hazlo junto a una ventana para mirar el cielo."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "02-003"
+          ],
+          "nota": "Divide el mural por días de la creación: cada grupo pinta uno."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "02-026"
+          ],
+          "nota": "Pon a cada niño frente al mural: «Tú también eres obra de Dios»."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-004",
+            "11-020"
+          ],
+          "nota": "Primero agradecen; luego pasan el corazón diciendo algo bueno del compañero."
+        }
+      ],
+      "compromiso": "Esta semana, cuida una planta o un animal de tu casa y dale gracias a Dios por él.",
+      "nota_catequista": "Los niños aprenden más con lo que tocan y miran. Si puedes, lleva hojas, piedras o flores reales para el encuentro."
+    },
+    {
+      "n": 3,
+      "tema": "La Biblia: la carta de Dios",
+      "objetivo": "Conocer la Biblia como el libro donde Dios nos habla con amor, y aprender a tratarla con cariño.",
+      "cita": {
+        "referencia": "Salmo 119, 105",
+        "mensaje": "Tu Palabra, Señor, es como una lámpara que me muestra el camino."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "01-016"
+          ],
+          "nota": "Al terminar, coloca una Biblia abierta en el centro, con una vela de LED al lado."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "03-037"
+          ],
+          "nota": "Muestra en la Biblia dónde está la historia de cada héroe."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "03-038"
+          ],
+          "nota": "Explica que la Biblia cuenta una sola gran historia: el amor de Dios por su pueblo."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "10-014"
+          ],
+          "nota": "Esconde en la palabra un versículo corto que los niños puedan memorizar."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-024",
+            "11-013"
+          ],
+          "nota": "La jaculatoria puede ser el mismo versículo del Salmo 119."
+        }
+      ],
+      "compromiso": "Pide a alguien de tu familia que lea contigo una historia corta de la Biblia y cuéntanos cuál fue.",
+      "nota_catequista": "Si algunas familias no tienen Biblia, avísales que pueden pedirla en la parroquia o usar una Biblia para niños."
+    },
+    {
+      "n": 4,
+      "tema": "Jesús nace entre nosotros",
+      "objetivo": "Contemplar con alegría que Dios se hizo niño en Belén para estar cerca de nosotros.",
+      "cita": {
+        "referencia": "Lucas 2, 11",
+        "mensaje": "El ángel dijo: «Hoy nació para ustedes un Salvador: es Jesús, el Señor»."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "06-030"
+          ],
+          "nota": "Pide que abran las manos para recibir a Jesús que viene."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "04-005"
+          ],
+          "nota": "Que los pastores lleguen hasta el lugar donde estará el pesebre."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "04-004"
+          ],
+          "nota": "Mientras modelan, pon música suave de villancicos."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "04-003"
+          ],
+          "nota": "Usa la historia de José para conversar: ¿cómo cuidó José a Jesús y a María?"
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-022",
+            "11-012"
+          ],
+          "nota": "Cada niño se lleva su estrella con una buena acción para la semana."
+        }
+      ],
+      "compromiso": "Esta semana, ayuda a alguien de tu familia sin que te lo pida, como José cuidaba a María y a Jesús.",
+      "nota_catequista": "Este tema funciona en cualquier época del año: no hace falta esperar a diciembre para hablar del nacimiento de Jesús."
+    },
+    {
+      "n": 5,
+      "tema": "Jesús, nuestro amigo: sus milagros",
+      "objetivo": "Descubrir que los milagros de Jesús muestran su amor y su poder, y que podemos confiar en Él.",
+      "cita": {
+        "referencia": "Hechos 10, 38",
+        "mensaje": "Jesús pasó por todas partes haciendo el bien y sanando a los que sufrían."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "06-002"
+          ],
+          "nota": "Haz una versión corta: solo la señal de la cruz despacio y con respeto."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "04-028"
+          ],
+          "nota": "Termina preguntando: ¿Qué cosas nos dan miedo? Jesús calma las tormentas."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "04-030",
+            "04-031"
+          ],
+          "nota": "Primero representan la escena; después conversan sobre el niño que compartió."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "04-040"
+          ],
+          "nota": "Relaciona: el leproso volvió a dar gracias; ¿cuándo damos gracias nosotros?"
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-016",
+            "11-025"
+          ],
+          "nota": "Cada niño muestra sus manos y dice cómo ayudará esta semana."
+        }
+      ],
+      "compromiso": "Comparte algo tuyo esta semana (una merienda, un juguete, tu tiempo) como el niño de los cinco panes.",
+      "nota_catequista": "Evita presentar los milagros como «magia». Insiste en que Jesús los hacía por amor y para que la gente creyera en Dios."
+    },
+    {
+      "n": 6,
+      "tema": "Aprendemos a orar",
+      "objetivo": "Descubrir que rezar es hablar con Dios como con un amigo, y aprender el Padre Nuestro con gestos.",
+      "cita": {
+        "referencia": "Lucas 11, 1",
+        "mensaje": "Los amigos de Jesús le pidieron: «Señor, enséñanos a rezar»."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "11-029"
+          ],
+          "nota": "Empieza en silencio total y luego haz la señal de la cruz muy despacio."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "06-032"
+          ],
+          "nota": "Que cada niño diga una palabra para Dios al recibir el objeto."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "06-004",
+            "06-005"
+          ],
+          "nota": "Primero la escena de los discípulos; después aprenden los gestos del Padre Nuestro."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "06-001"
+          ],
+          "nota": "Pregunta: ¿Cuándo y dónde te gusta hablar con Dios?"
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-007",
+            "11-014"
+          ],
+          "nota": "Cierren rezando el Padre Nuestro con los gestos aprendidos."
+        }
+      ],
+      "compromiso": "Reza el Padre Nuestro con tu familia una noche antes de dormir, usando los gestos.",
+      "nota_catequista": "Si el grupo es inquieto, el silencio inicial ayuda mucho. Empieza con 10 segundos y ve alargando semana a semana."
+    },
+    {
+      "n": 7,
+      "tema": "El mandamiento del amor",
+      "objetivo": "Comprender que Jesús resume todos los mandamientos en amar a Dios y al prójimo.",
+      "cita": {
+        "referencia": "Juan 13, 34",
+        "mensaje": "Jesús dijo: «Ámense unos a otros como yo los he amado»."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "08-013"
+          ],
+          "nota": "Usa la oración como bienvenida, con todos tomados de la mano."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "08-015"
+          ],
+          "nota": "Haz notar que el prójimo es también quien no es mi amigo."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "08-014"
+          ],
+          "nota": "Que cada niño escriba en su trabajo un nombre concreto de alguien a quien amar."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "08-039"
+          ],
+          "nota": "Si los niños son pequeños, cambia esta reflexión por una conversación simple."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-006",
+            "11-018"
+          ],
+          "nota": "Envíalos «en misión» a amar a alguien en especial esta semana."
+        }
+      ],
+      "compromiso": "Haz algo bueno por alguien con quien no sueles jugar o con quien te cuesta llevarte bien.",
+      "nota_catequista": "El amor se aprende viéndolo. Lo que más enseña a los niños es cómo tú los tratas a ellos, sobre todo al que más cuesta."
+    },
+    {
+      "n": 8,
+      "tema": "Dios siempre nos perdona",
+      "objetivo": "Descubrir que Dios nos perdona siempre y que el sacramento de la Reconciliación es un regalo de su amor.",
+      "cita": {
+        "referencia": "1 Juan 1, 9",
+        "mensaje": "Si le contamos a Dios lo que hicimos mal, Él siempre nos perdona y nos limpia el corazón."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "06-023"
+          ],
+          "nota": "Rézala con calma y sin presionar a nadie a hablar."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "07-046"
+          ],
+          "nota": "Explica que pedir perdón y perdonar nos hace libres."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "07-035",
+            "07-042"
+          ],
+          "nota": "Primero la mochila; luego borran la pizarra como signo del perdón de Dios."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "07-049"
+          ],
+          "nota": "Responde con calma las preguntas sobre la confesión; habla del sacerdote como amigo."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-011"
+          ],
+          "nota": "Bendice a cada niño en la frente con la señal de la cruz."
+        }
+      ],
+      "compromiso": "Pide perdón a alguien de tu familia por algo que hiciste mal, y perdona tú también.",
+      "nota_catequista": "Algunos niños llegan con miedo a la confesión. Nunca la presentes como castigo: es un abrazo de Dios. Si un niño cuenta algo delicado, escúchalo y avisa al párroco con discreción."
+    },
+    {
+      "n": 9,
+      "tema": "El Bautismo: somos hijos de Dios",
+      "objetivo": "Descubrir que en el Bautismo nos convertimos en hijos de Dios y entramos en su gran familia, la Iglesia.",
+      "cita": {
+        "referencia": "Gálatas 3, 26",
+        "mensaje": "Todos ustedes son hijos de Dios por la fe en Jesús."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "09-012"
+          ],
+          "nota": "Si no tienes pila de agua bendita, usa un tazón con agua y explica el gesto."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "07-021"
+          ],
+          "nota": "Recibe a cada niño como si fuera su «bienvenida» a la familia de Dios."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "07-015"
+          ],
+          "nota": "Pide a las familias la fecha de bautismo de cada niño para escribirla en la vela."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "07-017"
+          ],
+          "nota": "Muestra los signos: agua, luz, vestido blanco, aceite."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-015",
+            "11-026"
+          ],
+          "nota": "Que se despidan cantando con alegría: ¡somos hijos de Dios!"
+        }
+      ],
+      "compromiso": "Pregunta a tus papás la fecha de tu bautismo y quiénes son tus padrinos. ¡Tráela escrita!",
+      "nota_catequista": "Algunos niños quizás no están bautizados. Habla siempre con delicadeza: todos son queridos por Dios, y su preparación es un camino hacia ese regalo."
+    },
+    {
+      "n": 10,
+      "tema": "La Misa: la fiesta de la familia de Dios",
+      "objetivo": "Conocer las partes y los signos de la Misa para vivirla con atención y alegría.",
+      "cita": {
+        "referencia": "Hechos 2, 42",
+        "mensaje": "Los primeros cristianos se reunían para escuchar la Palabra, partir el pan y rezar juntos."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "09-009"
+          ],
+          "nota": "Explica que en la Misa también nos damos la paz."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "09-013"
+          ],
+          "nota": "Representen con humor lo que no se hace en Misa y luego lo correcto."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "09-005"
+          ],
+          "nota": "Si puedes, hazlo en el templo de verdad; si no, con fotos o dibujos."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "09-008"
+          ],
+          "nota": "Usa colores para las cuatro partes y repasen el orden."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-030",
+            "11-019"
+          ],
+          "nota": "Invítalos a ir a la Misa del domingo y saludarte allí."
+        }
+      ],
+      "compromiso": "Ve a Misa el domingo con tu familia y fíjate en una de las partes que aprendimos.",
+      "nota_catequista": "Si es posible, organiza una visita guiada al templo con el sacerdote o el sacristán. Los niños recuerdan mucho lo que ven de cerca."
+    },
+    {
+      "n": 11,
+      "tema": "La Última Cena y la Eucaristía",
+      "objetivo": "Descubrir que en la Última Cena Jesús nos dejó la Eucaristía para quedarse siempre con nosotros.",
+      "cita": {
+        "referencia": "Lucas 22, 19",
+        "mensaje": "Jesús tomó el pan, dio gracias, lo partió y dijo: «Esto es mi Cuerpo. Hagan esto en memoria mía»."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "06-018"
+          ],
+          "nota": "Rézala sobre un pan que luego compartirán al final."
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "07-055"
+          ],
+          "nota": "Relaciona el pan de cada día con el Pan de Vida."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "07-056"
+          ],
+          "nota": "Prepara la mesa con mantel y flores para que se sientan invitados de honor."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "07-057"
+          ],
+          "nota": "Habla con mucho respeto: en la Eucaristía Jesús está de verdad."
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-008",
+            "11-021"
+          ],
+          "nota": "Cada niño escribe una oración breve para Jesús Eucaristía."
+        }
+      ],
+      "compromiso": "En la próxima Misa, mira con atención el momento en que el sacerdote levanta la Hostia y di en silencio: «Señor mío y Dios mío».",
+      "nota_catequista": "Es un tema central para la Primera Comunión. No tengas prisa: si el grupo lo necesita, dedica dos encuentros a esta semana."
+    },
+    {
+      "n": 12,
+      "tema": "¡Jesús vive en mí!",
+      "objetivo": "Celebrar con alegría lo aprendido y descubrir que Jesús resucitado vive en nuestro corazón.",
+      "cita": {
+        "referencia": "Gálatas 2, 20",
+        "mensaje": "Ya no vivo solo yo: Jesús vive en mí."
+      },
+      "bloques": [
+        {
+          "momento": "Bienvenida y oración inicial",
+          "min": 5,
+          "ids": [
+            "04-068"
+          ],
+          "nota": "Empieza con música y aplausos: ¡es un encuentro de fiesta!"
+        },
+        {
+          "momento": "Rompehielos",
+          "min": 10,
+          "ids": [
+            "10-006"
+          ],
+          "nota": "Usa preguntas de todo el trimestre para repasar."
+        },
+        {
+          "momento": "Dinámica central",
+          "min": 25,
+          "ids": [
+            "04-065",
+            "10-030"
+          ],
+          "nota": "Primero la alegría de la Resurrección; luego cada niño recibe su medalla."
+        },
+        {
+          "momento": "Reflexión y conversación",
+          "min": 10,
+          "ids": [
+            "07-073"
+          ],
+          "nota": "Mientras hacen el corazón, pregunta: ¿Qué fue lo que más te gustó del trimestre?"
+        },
+        {
+          "momento": "Cierre y oración",
+          "min": 10,
+          "ids": [
+            "11-009",
+            "11-027"
+          ],
+          "nota": "Si puedes, invita a las familias a la bendición final."
+        }
+      ],
+      "compromiso": "Cuenta a tu familia algo que aprendiste en estos tres meses y recen juntos para dar gracias.",
+      "nota_catequista": "Celebra el camino recorrido. Prepara algo sencillo para compartir (galletas, jugo) e invita a las familias si es posible."
     }
   ]
 }

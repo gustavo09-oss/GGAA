@@ -1,16 +1,32 @@
 {
+  "ano": 2027,
   "secciones": [
     {
-      "slug": "adviento", "nombre": "Adviento", "color": "morado", "color_nombre": "morado",
-      "ilus": "paloma", "imagen": "bono3_adviento.png", "cuantas": 8,
-      "fechas": "28 de noviembre al 24 de diciembre de 2027",
+      "slug": "adviento",
+      "nombre": "Adviento",
+      "color": "morado",
+      "color_nombre": "morado",
+      "ilus": "paloma",
+      "imagen": "bono3_adviento.png",
+      "cuantas": 8,
+      "fechas": "Del 28 de noviembre al 24 de diciembre de 2027",
       "texto": "Adviento quiere decir «llegada». Son las cuatro semanas antes de la Navidad, en las que preparamos el corazón para recibir a Jesús. Es un tiempo de espera alegre, como cuando esperamos a un amigo muy querido.",
       "dinamicas": [
         {
-          "id": "AD-01", "titulo": "Cuatro Velas para Esperar a Jesús", "tipo": "Manualidad", "edad": "Todas",
-          "duracion_min": 20, "participantes": "4 a 20 niños",
+          "id": "AD-01",
+          "titulo": "Cuatro Velas para Esperar a Jesús",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
           "objetivo": "Comprender que el Adviento es un tiempo de espera alegre y que cada vela de la corona nos acerca a la Navidad.",
-          "materiales": ["Un plato de cartón por niño", "Tiras de papel verde", "Rectángulos de cartulina: 3 morados y 1 rosado por niño", "Llamitas de papel amarillo", "Pegamento y tijeras"],
+          "materiales": [
+            "Un plato de cartón por niño",
+            "Tiras de papel verde",
+            "Rectángulos de cartulina: 3 morados y 1 rosado por niño",
+            "Llamitas de papel amarillo",
+            "Pegamento y tijeras"
+          ],
           "preparacion": "Recorta con anticipación las velas y las llamitas, para que cada niño tenga su juego completo.",
           "pasos": [
             "Pregunta: ¿Qué se siente esperar algo muy bonito, como un cumpleaños?",
@@ -21,8 +37,1827 @@
           ],
           "para_los_mas_pequenos": "Entrégales las velas ya recortadas y ayúdalos a pegarlas en su lugar.",
           "para_los_mayores": "Que escriban en cada vela una palabra: esperanza, paz, alegría y amor.",
-          "cita_biblica": {"referencia": "Isaías 9, 1", "mensaje": "La gente que caminaba a oscuras vio una luz muy grande."},
+          "cita_biblica": {
+            "referencia": "Isaías 9, 1",
+            "mensaje": "La gente que caminaba a oscuras vio una luz muy grande."
+          },
           "mensaje_final": "Cada semana de Adviento encendemos una luz más para esperar a Jesús."
+        },
+        {
+          "id": "AD-02",
+          "titulo": "El Calendario de las Buenas Obras",
+          "tipo": "Manualidad",
+          "edad": "5+",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Preparar el corazón para la Navidad con una pequeña buena acción cada día.",
+          "materiales": [
+            "Una hoja grande por niño con 24 casillas dibujadas",
+            "Lápices de colores",
+            "Estrellitas de papel o calcomanías"
+          ],
+          "preparacion": "Dibuja las 24 casillas en cada hoja o haz una copia para cada niño.",
+          "pasos": [
+            "Explica que en Adviento preparamos un regalo para Jesús: nuestras buenas acciones.",
+            "Entre todos piensen ideas: ayudar a poner la mesa, prestar un juguete, rezar por alguien.",
+            "Cada niño escribe o dibuja una idea pequeña en algunas casillas.",
+            "Explica que cada día que cumpla una buena acción pegará una estrellita en la casilla.",
+            "Terminen rezando: «Jesús, cada estrellita es un regalo para ti»."
+          ],
+          "para_los_mas_pequenos": "Que dibujen las ideas en lugar de escribirlas.",
+          "para_los_mayores": "Que llenen las 24 casillas con ideas distintas.",
+          "cita_biblica": {
+            "referencia": "Lucas 3, 4",
+            "mensaje": "Preparen el camino para el Señor."
+          },
+          "mensaje_final": "Mis buenas obras son el mejor regalo para Jesús."
+        },
+        {
+          "id": "AD-03",
+          "titulo": "El Árbol de Jesé",
+          "tipo": "Manualidad",
+          "edad": "5+",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Descubrir que el pueblo de Dios esperó a Jesús durante muchos siglos, generación tras generación.",
+          "materiales": [
+            "Una rama seca en un vaso con arena o un árbol dibujado en papel grande",
+            "Círculos de cartulina",
+            "Lápices de colores",
+            "Lana"
+          ],
+          "preparacion": "Prepara círculos con estos símbolos para dibujar: manzana, arca, estrellas, escalera, corona y estrella de Belén.",
+          "pasos": [
+            "Explica que Jesé era el papá del rey David, y que de su familia nació Jesús. Por eso la tradición llama «árbol de Jesé» al árbol de la familia de Jesús.",
+            "Reparte los círculos: cada uno es una persona que esperó al Salvador (Adán y Eva, Noé, Abraham, Jacob, David).",
+            "Cada niño colorea su símbolo mientras cuentas en una frase quién era.",
+            "Cuelguen los adornos en la rama, uno por uno, del más antiguo al más reciente.",
+            "Terminen colgando arriba la estrella de Belén: ¡la espera termina con Jesús!"
+          ],
+          "para_los_mas_pequenos": "Que coloreen la estrella de Belén y la cuelguen al final.",
+          "para_los_mayores": "Que busquen en la Biblia el nombre de uno de los antepasados de Jesús.",
+          "cita_biblica": {
+            "referencia": "Isaías 11, 1",
+            "mensaje": "Del tronco de Jesé saldrá un brote nuevo."
+          },
+          "mensaje_final": "Dios cumplió su promesa: después de una larga espera, llegó Jesús."
+        },
+        {
+          "id": "AD-04",
+          "titulo": "Las Posadas del Grupo",
+          "tipo": "Teatro",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "8 a 30 niños",
+          "objetivo": "Vivir la tradición de las posadas y aprender a abrir el corazón a Jesús que llega.",
+          "materiales": [
+            "Una puerta o una mesa como «casa»",
+            "Una tela para María",
+            "Velas de LED o linternas"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que en muchos países, del 16 al 24 de diciembre, se hacen las posadas: se recuerda a María y José buscando dónde quedarse en Belén.",
+            "Divide al grupo: unos son peregrinos que acompañan a María y José; otros están dentro de la «casa».",
+            "Los peregrinos cantan o dicen: «En el nombre del cielo, les pedimos posada». Los de adentro responden dos veces: «Aquí no hay lugar».",
+            "A la tercera, los de adentro abren y dicen con alegría: «Entren, santos peregrinos». Todos aplauden.",
+            "Conversen: ¿Cómo podemos abrir la puerta del corazón a Jesús y a quien necesita ayuda?"
+          ],
+          "para_los_mas_pequenos": "Que lleven las linternas en la fila de peregrinos.",
+          "para_los_mayores": "Que preparen la letra de las respuestas y la canten.",
+          "cita_biblica": {
+            "referencia": "Apocalipsis 3, 20",
+            "mensaje": "Jesús dice: «Estoy a la puerta y llamo. Si alguien me abre, entraré»."
+          },
+          "mensaje_final": "En mi corazón hay posada para Jesús."
+        },
+        {
+          "id": "AD-05",
+          "titulo": "El Silencio que Espera",
+          "tipo": "Reflexión",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Vivir un momento de silencio para esperar a Jesús con el corazón tranquilo.",
+          "materiales": [
+            "Una vela de LED",
+            "Música suave (opcional)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pide que se sienten cómodos y apaga un poco la luz.",
+            "Enciende la vela de LED y explica que en Adviento esperamos a Jesús en silencio, como quien espera a un amigo.",
+            "Guíalos a respirar despacio tres veces.",
+            "Invítalos a decirle a Jesús en su corazón: «Te estoy esperando».",
+            "Después de un minuto, pregunta qué sintieron durante el silencio."
+          ],
+          "para_los_mas_pequenos": "Que el silencio dure solo treinta segundos.",
+          "para_los_mayores": "Que escriban una frase corta para Jesús después del silencio.",
+          "cita_biblica": {
+            "referencia": "Isaías 30, 15",
+            "mensaje": "En la calma y en la confianza encontrarán su fuerza."
+          },
+          "mensaje_final": "Espero a Jesús con un corazón tranquilo."
+        },
+        {
+          "id": "AD-06",
+          "titulo": "Ven, Señor Jesús",
+          "tipo": "Música",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Aprender una aclamación cantada para pedir a Jesús que venga a nuestra vida.",
+          "materiales": [
+            "Sin materiales"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que «Ven, Señor Jesús» es una oración muy antigua de los cristianos para pedir que Jesús venga.",
+            "Enseña una melodía sencilla con las palabras: «Ven, ven, Señor Jesús, ven a mi corazón».",
+            "Canten primero bajito, luego más fuerte, luego otra vez bajito.",
+            "Agreguen un gesto: brazos que llaman hacia el pecho.",
+            "Terminen cantando juntos frente a la corona de Adviento si la tienen."
+          ],
+          "para_los_mas_pequenos": "Que solo hagan el gesto mientras tú cantas.",
+          "para_los_mayores": "Que inventen una segunda estrofa con palabras propias.",
+          "cita_biblica": {
+            "referencia": "Apocalipsis 22, 20",
+            "mensaje": "¡Ven, Señor Jesús!"
+          },
+          "mensaje_final": "Le pido a Jesús que venga a mi corazón."
+        },
+        {
+          "id": "AD-07",
+          "titulo": "La Promesa Cumplida",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Descubrir que el Adviento es un tiempo de esperanza porque Dios cumple sus promesas.",
+          "materiales": [
+            "Estrellas de cartulina amarilla",
+            "Lápices de colores",
+            "Lana o hilo"
+          ],
+          "preparacion": "Recorta una estrella de cartulina para cada niño.",
+          "pasos": [
+            "Explica que Dios prometió enviar un Salvador y cumplió su promesa con Jesús.",
+            "Cada niño decora su estrella con colores.",
+            "En el centro escriben o dibujan algo que esperan con ilusión para su familia.",
+            "Pongan un hilo a la estrella para colgarla en casa.",
+            "Recen juntos: «Dios, tú siempre cumples. Confiamos en ti»."
+          ],
+          "para_los_mas_pequenos": "Que dibujen una carita feliz en el centro.",
+          "para_los_mayores": "Que escriban una promesa de Dios que conozcan.",
+          "cita_biblica": {
+            "referencia": "Jeremías 33, 14",
+            "mensaje": "Dios dice: «Llegarán días en que cumpliré lo bueno que prometí»."
+          },
+          "mensaje_final": "Dios siempre cumple lo que promete."
+        },
+        {
+          "id": "AD-08",
+          "titulo": "Mi Carta de Adviento",
+          "tipo": "Manualidad",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Preparar el corazón para la Navidad escribiendo a Jesús lo que queremos cambiar y ofrecer.",
+          "materiales": [
+            "Hojas de colores",
+            "Sobres",
+            "Lápices",
+            "Calcomanías o estrellitas"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que en Navidad muchos escriben cartas pidiendo regalos, pero esta vez escribiremos una carta para recibir a Jesús.",
+            "Propón tres partes: «Jesús, gracias por…», «Quiero prepararme para ti…», «Te ofrezco…».",
+            "Cada niño escribe su carta con letra bonita y la decora.",
+            "Guárdenla en un sobre y colóquenla junto a la corona de Adviento del salón.",
+            "El último encuentro antes de Navidad, cada niño la lleva a casa para ponerla en el pesebre."
+          ],
+          "para_los_mas_pequenos": "Que dibujen la carta y digan en voz alta lo que quieren ofrecer.",
+          "para_los_mayores": "Que agreguen una oración por su familia.",
+          "cita_biblica": {
+            "referencia": "Proverbios 23, 26",
+            "mensaje": "Dios dice: «Hijo mío, dame tu corazón»."
+          },
+          "mensaje_final": "Mi corazón es el regalo que preparo para Jesús."
+        }
+      ]
+    },
+    {
+      "slug": "navidad",
+      "nombre": "Navidad",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "corazon",
+      "imagen": "bono3_navidad.png",
+      "cuantas": 8,
+      "fechas": "Del 25 de diciembre al Bautismo del Señor (10 de enero de 2027)",
+      "texto": "En Navidad celebramos que Dios se hizo niño y nació en Belén. Es la fiesta del amor de Dios que viene a vivir con nosotros. Por eso cantamos, compartimos y nos alegramos en familia.",
+      "dinamicas": [
+        {
+          "id": "NA-01",
+          "titulo": "Bendecimos el Pesebre",
+          "tipo": "Oración",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Aprender a bendecir el pesebre de casa y rezar frente a él en familia.",
+          "materiales": [
+            "Un pesebre (del salón o figuras sencillas)",
+            "Una vela de LED"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Coloca el pesebre en el centro y enciende la vela.",
+            "Explica que el pesebre nos ayuda a mirar con amor cómo nació Jesús, y que podemos bendecirlo en familia.",
+            "Recen juntos: «Señor, bendice este pesebre. Que al mirarlo recordemos que viniste a vivir con nosotros».",
+            "Cada niño nombra una figura y dice qué nos enseña: María escucha, José cuida, los pastores corren, la estrella guía.",
+            "Invítalos a hacer esta bendición en su casa con su familia."
+          ],
+          "para_los_mas_pequenos": "Que señalen la figura y tú digas qué enseña.",
+          "para_los_mayores": "Que escriban la oración en una tarjeta para llevar a casa.",
+          "cita_biblica": {
+            "referencia": "Lucas 2, 16",
+            "mensaje": "Los pastores encontraron a María, a José y al niño acostado en el pesebre."
+          },
+          "mensaje_final": "Frente al pesebre rezo con mi familia."
+        },
+        {
+          "id": "NA-02",
+          "titulo": "Nochebuena en Familia",
+          "tipo": "Reflexión",
+          "edad": "5+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Preparar un momento de oración en familia para la noche del 24 de diciembre.",
+          "materiales": [
+            "Hojas",
+            "Lápices de colores",
+            "Una Biblia"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pregunta: ¿Qué hacen en su casa la noche del 24 de diciembre?",
+            "Explica que la Nochebuena es la noche en que esperamos el nacimiento de Jesús, y que muchas familias van a la Misa de Nochebuena.",
+            "Juntos arman un plan sencillo: leer Lucas 2, 1-14, poner al Niño Jesús en el pesebre, cantar un villancico y dar gracias antes de cenar.",
+            "Cada niño dibuja el plan en su hoja para llevarlo a casa.",
+            "Elige a un niño para practicar la lectura en voz alta."
+          ],
+          "para_los_mas_pequenos": "Que dibujen solo el momento de poner al Niño en el pesebre.",
+          "para_los_mayores": "Que escriban la oración de gracias para antes de la cena.",
+          "cita_biblica": {
+            "referencia": "Lucas 2, 11",
+            "mensaje": "Hoy les ha nacido un Salvador."
+          },
+          "mensaje_final": "En Nochebuena recibo a Jesús en mi casa."
+        },
+        {
+          "id": "NA-03",
+          "titulo": "Villancicos con Instrumentos Caseros",
+          "tipo": "Música",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Celebrar la Navidad cantando villancicos con instrumentos hechos por los niños.",
+          "materiales": [
+            "Botellas pequeñas con arroz o semillas",
+            "Tapas de ollas",
+            "Cucharas de madera",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que los villancicos son cantos de Navidad que cuentan con alegría el nacimiento de Jesús.",
+            "Cada niño arma una maraca con su botella y un poco de arroz, y la cierra con cinta.",
+            "Enseña un villancico conocido de tu país.",
+            "Cántenlo acompañando con las maracas, las tapas y las cucharas.",
+            "Preparen el villancico para cantarlo en la parroquia o en casa."
+          ],
+          "para_los_mas_pequenos": "Que solo toquen la maraca al ritmo.",
+          "para_los_mayores": "Que inventen una estrofa nueva sobre la Navidad.",
+          "cita_biblica": {
+            "referencia": "Salmo 98, 4",
+            "mensaje": "Aclamen al Señor, toda la tierra; canten con alegría."
+          },
+          "mensaje_final": "Canto con alegría porque Jesús nació."
+        },
+        {
+          "id": "NA-04",
+          "titulo": "El Árbol de Navidad Cristiano",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Descubrir el sentido cristiano de los adornos navideños.",
+          "materiales": [
+            "Un árbol dibujado en papel grande o un arbolito",
+            "Cartulina de colores",
+            "Tijeras",
+            "Lápices",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pregunta: ¿Qué adornos ponen en su árbol de Navidad?",
+            "Explica que cada adorno puede recordarnos a Jesús: la estrella es la de Belén, las luces nos recuerdan que Jesús es la luz, el ángel anuncia la noticia, el corazón es el amor de Dios.",
+            "Cada niño recorta un adorno y escribe detrás qué significa.",
+            "Colóquenlos en el árbol del salón mientras cada uno explica el suyo.",
+            "Terminen diciendo juntos: «Jesús es el centro de nuestra Navidad»."
+          ],
+          "para_los_mas_pequenos": "Dales los adornos recortados para que solo los coloreen.",
+          "para_los_mayores": "Que propongan nuevos adornos con significado cristiano.",
+          "cita_biblica": {
+            "referencia": "Juan 1, 9",
+            "mensaje": "Jesús es la luz verdadera que ilumina a todos."
+          },
+          "mensaje_final": "Cada adorno de mi árbol me recuerda a Jesús."
+        },
+        {
+          "id": "NA-05",
+          "titulo": "Un Regalo para el Niño Jesús",
+          "tipo": "Reflexión",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Descubrir que el mejor regalo para Jesús es nuestro amor y nuestras buenas acciones.",
+          "materiales": [
+            "Una caja con papel de regalo",
+            "Papelitos",
+            "Lápices"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Muestra la caja de regalo y pregunta: ¿Quién cumple años en Navidad?",
+            "Explica que en los cumpleaños damos regalos, y que Jesús quiere regalos del corazón.",
+            "Cada niño escribe o dibuja en un papelito su regalo: obedecer, compartir, perdonar.",
+            "Uno por uno, ponen su papelito en la caja diciendo: «Jesús, esto es para ti».",
+            "Coloquen la caja junto al pesebre del salón."
+          ],
+          "para_los_mas_pequenos": "Que dibujen su regalo con tu ayuda.",
+          "para_los_mayores": "Que expliquen por qué eligieron ese regalo.",
+          "cita_biblica": {
+            "referencia": "Mateo 2, 11",
+            "mensaje": "Los visitantes abrieron sus cofres y le ofrecieron regalos."
+          },
+          "mensaje_final": "Mi amor es el mejor regalo para Jesús."
+        },
+        {
+          "id": "NA-06",
+          "titulo": "La Fiesta de la Sagrada Familia",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Celebrar la fiesta de la Sagrada Familia y agradecer el regalo de la propia familia.",
+          "materiales": [
+            "Un dibujo grande de una familia cortado en piezas como rompecabezas"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el domingo después de Navidad celebramos a la Sagrada Familia: Jesús, María y José.",
+            "Reparte las piezas del rompecabezas entre los niños.",
+            "Para colocar su pieza, cada uno dice algo que hace bonita a una familia: el perdón, la ayuda, la oración, el cariño.",
+            "Cuando el rompecabezas está completo, explica que una familia se arma con el aporte de todos.",
+            "Recen juntos por todas las familias del grupo."
+          ],
+          "para_los_mas_pequenos": "Que pongan su pieza diciendo el nombre de alguien de su familia.",
+          "para_los_mayores": "Que piensen qué pieza aportan ellos a su familia.",
+          "cita_biblica": {
+            "referencia": "Colosenses 3, 14",
+            "mensaje": "Por encima de todo, vístanse de amor, que es lo que une."
+          },
+          "mensaje_final": "Como la Sagrada Familia, mi familia se une con amor."
+        },
+        {
+          "id": "NA-07",
+          "titulo": "Campanas de Navidad",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Expresar la alegría de la Navidad anunciando que Jesús nació.",
+          "materiales": [
+            "Vasos de cartón o papel",
+            "Lana",
+            "Cascabeles o tapas de botella",
+            "Papel dorado",
+            "Pegamento"
+          ],
+          "preparacion": "Haz un agujero pequeño en la base de cada vaso.",
+          "pasos": [
+            "Explica que en Navidad las campanas suenan para anunciar una gran noticia.",
+            "Cada niño decora su vaso con papel dorado.",
+            "Pasen la lana por el agujero y aten un cascabel adentro.",
+            "En la campana escriben: «¡Nació Jesús!».",
+            "Toquen juntos las campanas mientras dicen: «¡Alegría, nació el Salvador!»."
+          ],
+          "para_los_mas_pequenos": "Pega tú el cascabel y que ellos decoren.",
+          "para_los_mayores": "Que agreguen el nombre de una persona a la que le contarán la buena noticia.",
+          "cita_biblica": {
+            "referencia": "Lucas 2, 11",
+            "mensaje": "Hoy les nació un Salvador, que es Cristo el Señor."
+          },
+          "mensaje_final": "Anuncio con alegría que Jesús nació."
+        },
+        {
+          "id": "NA-08",
+          "titulo": "Navidad Es Compartir",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Descubrir que en Navidad celebramos compartiendo con los demás.",
+          "materiales": [
+            "Una bolsa con galletas o caramelos (o fichas de papel)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Entrega la bolsa a un niño y pídele que la pase al compañero de al lado sin tomar nada.",
+            "Al sonar una palmada, quien tiene la bolsa toma un dulce y le da otro a un compañero que aún no tenga.",
+            "Sigan hasta que todos tengan uno.",
+            "Pregunta: ¿Qué se siente recibir? ¿Y regalar?",
+            "Explica que Dios nos dio a su Hijo como regalo, y por eso nosotros también compartimos."
+          ],
+          "para_los_mas_pequenos": "Que entreguen el dulce con tu ayuda.",
+          "para_los_mayores": "Que piensen qué pueden compartir con una familia necesitada.",
+          "cita_biblica": {
+            "referencia": "Juan 3, 16",
+            "mensaje": "Dios amó tanto al mundo que nos regaló a su Hijo."
+          },
+          "mensaje_final": "En Navidad comparto porque Dios me compartió a Jesús."
+        }
+      ]
+    },
+    {
+      "slug": "epifania",
+      "nombre": "Epifanía y Reyes Magos",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "paloma",
+      "imagen": "bono3_epifania.png",
+      "cuantas": 4,
+      "fechas": "6 de enero (en varios países, el domingo 3 de enero de 2027)",
+      "texto": "Epifanía quiere decir «manifestación»: Jesús se muestra a todos los pueblos. Unos sabios de Oriente siguieron una estrella para adorarlo. Jesús vino para todas las personas del mundo.",
+      "dinamicas": [
+        {
+          "id": "EP-01",
+          "titulo": "Siguiendo la Estrella",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer el viaje de los Reyes Magos guiados por la estrella hasta Jesús.",
+          "materiales": [
+            "Una estrella grande de cartulina",
+            "Pistas de papel escondidas"
+          ],
+          "preparacion": "Esconde en el salón tres o cuatro pistas que lleven de una a otra hasta un dibujo del Niño Jesús.",
+          "pasos": [
+            "Cuenta que unos sabios de Oriente vieron una estrella nueva y la siguieron para encontrar al Rey que había nacido.",
+            "Forma tres equipos: cada uno es un Rey Mago con su caravana.",
+            "Un niño lleva la estrella y los guía de pista en pista.",
+            "Al encontrar al Niño Jesús, se arrodillan como los Magos.",
+            "Pregunta: ¿Qué cosas nos ayudan hoy a encontrar a Jesús, como la estrella?"
+          ],
+          "para_los_mas_pequenos": "Que sigan la estrella de la mano de un compañero mayor.",
+          "para_los_mayores": "Que lean las pistas en voz alta para su equipo.",
+          "cita_biblica": {
+            "referencia": "Mateo 2, 10",
+            "mensaje": "Al ver la estrella, los Magos se llenaron de una alegría muy grande."
+          },
+          "mensaje_final": "Como los Magos, busco a Jesús hasta encontrarlo."
+        },
+        {
+          "id": "EP-02",
+          "titulo": "Oro, Incienso y Mirra",
+          "tipo": "Reflexión",
+          "edad": "5+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Conocer los regalos de los Magos y pensar qué podemos ofrecer nosotros a Jesús.",
+          "materiales": [
+            "Tres cajitas",
+            "Algo dorado",
+            "Una ramita aromática",
+            "Una piedrita"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cuenta que los Magos le ofrecieron a Jesús oro, incienso y mirra.",
+            "Muestra las tres cajitas: el oro porque Jesús es Rey, el incienso porque es Dios, la mirra porque se hizo hombre.",
+            "Deja que los niños miren y huelan cada cajita.",
+            "Pregunta: ¿Qué podemos regalarle nosotros a Jesús? Recojan ideas: tiempo, cariño, oración.",
+            "Cada niño dice en voz baja su regalo frente al pesebre."
+          ],
+          "para_los_mas_pequenos": "Que solo toquen y huelan las cajitas mientras tú explicas.",
+          "para_los_mayores": "Que escriban su regalo en una tarjeta con forma de cofre.",
+          "cita_biblica": {
+            "referencia": "Mateo 2, 11",
+            "mensaje": "Abrieron sus cofres y le ofrecieron oro, incienso y mirra."
+          },
+          "mensaje_final": "Le ofrezco a Jesús lo mejor de mí."
+        },
+        {
+          "id": "EP-03",
+          "titulo": "Coronas de Reyes",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Celebrar la Epifanía recordando que Jesús vino para todos los pueblos.",
+          "materiales": [
+            "Tiras de cartulina dorada o amarilla",
+            "Papel de colores",
+            "Pegamento",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que los Magos venían de lejos, lo que muestra que Jesús vino para todas las personas del mundo.",
+            "Cada niño decora una tira de cartulina como corona.",
+            "Ajusta la corona a la cabeza de cada uno y ciérrala con cinta.",
+            "Hagan una pequeña procesión hacia el pesebre con las coronas puestas.",
+            "Al llegar, se quitan la corona y la dejan ante Jesús, el verdadero Rey."
+          ],
+          "para_los_mas_pequenos": "Que peguen solo papelitos de colores en la corona.",
+          "para_los_mayores": "Que escriban en la corona el nombre de un país por el que quieren rezar.",
+          "cita_biblica": {
+            "referencia": "Mateo 2, 2",
+            "mensaje": "¿Dónde está el rey que acaba de nacer? Vimos su estrella y venimos a adorarlo."
+          },
+          "mensaje_final": "Jesús es el Rey de todos los pueblos."
+        },
+        {
+          "id": "EP-04",
+          "titulo": "Luz para Todos los Pueblos",
+          "tipo": "Oración",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Rezar por los niños de todo el mundo para que conozcan a Jesús.",
+          "materiales": [
+            "Una vela de LED",
+            "Un mapa o un globo terráqueo (opcional)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Coloca la vela en el centro y explica que Jesús es la luz para todas las naciones.",
+            "Si tienes mapa, muestra distintos países y continentes.",
+            "Cada niño nombra un país o un lugar y dice: «Jesús, ilumina a los niños de…».",
+            "Todos responden: «Que te conozcan y te amen».",
+            "Terminen con un Padre Nuestro tomados de la mano."
+          ],
+          "para_los_mas_pequenos": "Que digan solo «Jesús, ilumina a todos».",
+          "para_los_mayores": "Que piensen en un lugar donde los niños sufren y recen por él.",
+          "cita_biblica": {
+            "referencia": "Isaías 60, 3",
+            "mensaje": "Los pueblos caminarán hacia tu luz."
+          },
+          "mensaje_final": "Jesús es luz para los niños de todo el mundo."
+        }
+      ]
+    },
+    {
+      "slug": "cuaresma",
+      "nombre": "Miércoles de Ceniza y Cuaresma",
+      "color": "morado",
+      "color_nombre": "morado",
+      "ilus": "corazon",
+      "imagen": "bono3_cuaresma.png",
+      "cuantas": 8,
+      "fechas": "Desde el miércoles 10 de febrero de 2027: cuarenta días",
+      "texto": "La Cuaresma son cuarenta días para prepararnos a la Pascua. Empieza el Miércoles de Ceniza. Es un tiempo para rezar más, compartir con los que necesitan y cambiar lo que nos aleja de Dios.",
+      "dinamicas": [
+        {
+          "id": "CU-01",
+          "titulo": "La Cruz de Ceniza",
+          "tipo": "Reflexión",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Comprender el sentido de la ceniza al comenzar la Cuaresma.",
+          "materiales": [
+            "Un poco de ceniza en un platito (o tiza gris molida)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el Miércoles de Ceniza empieza la Cuaresma: cuarenta días para prepararnos a la Pascua.",
+            "Muestra la ceniza y cuenta que el sacerdote hace una cruz en la frente para decirnos: «Vuelve a Dios».",
+            "Pregunta: ¿Qué cosas nos alejan de Dios y de los demás?",
+            "Explica que la Cuaresma es un tiempo para cambiar y hacer el bien.",
+            "Invítalos a ir con su familia a recibir la ceniza en la parroquia."
+          ],
+          "para_los_mas_pequenos": "Que hagan la señal de la cruz en su frente con el dedo, sin ceniza.",
+          "para_los_mayores": "Que escriban una cosa que quieren cambiar en esta Cuaresma.",
+          "cita_biblica": {
+            "referencia": "Joel 2, 12",
+            "mensaje": "Dios dice: «Vuelvan a mí con todo el corazón»."
+          },
+          "mensaje_final": "En Cuaresma vuelvo a Dios con todo mi corazón."
+        },
+        {
+          "id": "CU-02",
+          "titulo": "Cuarenta Días con Jesús",
+          "tipo": "Manualidad",
+          "edad": "5+",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Acompañar los días de Cuaresma con un camino de pasos hacia la Pascua.",
+          "materiales": [
+            "Una tira larga de papel por niño",
+            "Lápices de colores",
+            "40 huellas pequeñas de papel o un sello"
+          ],
+          "preparacion": "Dibuja en cada tira un camino con 40 espacios y una cruz con flores al final.",
+          "pasos": [
+            "Cuenta que Jesús pasó cuarenta días en el desierto rezando antes de empezar su misión.",
+            "Explica que la Cuaresma también dura cuarenta días y es un camino hacia la Pascua.",
+            "Cada niño decora su tira y escribe su nombre.",
+            "Explica que cada día que rece o haga algo bueno, coloreará un espacio.",
+            "Pregunta: ¿Qué encontraremos al final del camino? ¡A Jesús resucitado!"
+          ],
+          "para_los_mas_pequenos": "Que coloreen la cruz con flores del final.",
+          "para_los_mayores": "Que escriban en algunos espacios ideas de oración, ayuno y limosna.",
+          "cita_biblica": {
+            "referencia": "Mateo 4, 1-2",
+            "mensaje": "Jesús fue al desierto y estuvo allí cuarenta días."
+          },
+          "mensaje_final": "Cada día de Cuaresma es un paso hacia la Pascua."
+        },
+        {
+          "id": "CU-03",
+          "titulo": "Rezar, Compartir y Renunciar",
+          "tipo": "Juego",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer las tres prácticas de la Cuaresma: oración, limosna y ayuno.",
+          "materiales": [
+            "Tres cajas o canastas con carteles: Rezar, Compartir y Renunciar",
+            "Tarjetas con acciones"
+          ],
+          "preparacion": "Escribe en tarjetas acciones como: rezar antes de dormir, dar un juguete, dejar los dulces un día.",
+          "pasos": [
+            "Explica que en Cuaresma hacemos tres cosas: rezamos más, compartimos con quien necesita y renunciamos a algo que nos gusta.",
+            "Mezcla las tarjetas y reparte una a cada niño.",
+            "Cada uno lee su tarjeta y la pone en la caja correcta.",
+            "Si el grupo duda, conversan juntos hasta decidir.",
+            "Cada niño elige una acción para hacer durante la semana."
+          ],
+          "para_los_mas_pequenos": "Que tú leas la tarjeta y ellos señalen la caja.",
+          "para_los_mayores": "Que inventen nuevas tarjetas para cada caja.",
+          "cita_biblica": {
+            "referencia": "Mateo 6, 6",
+            "mensaje": "Cuando reces, entra en tu cuarto y habla con tu Padre que está contigo."
+          },
+          "mensaje_final": "En Cuaresma rezo, comparto y renuncio por amor."
+        },
+        {
+          "id": "CU-04",
+          "titulo": "La Alcancía del Compartir",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Aprender a compartir con quienes más lo necesitan durante la Cuaresma.",
+          "materiales": [
+            "Una caja pequeña o lata limpia por niño",
+            "Papel de colores",
+            "Pegamento",
+            "Tijeras"
+          ],
+          "preparacion": "Haz una ranura en la tapa de cada caja.",
+          "pasos": [
+            "Explica que en Cuaresma podemos ahorrar algo para ayudar a otros: es la limosna.",
+            "Cada niño decora su alcancía con dibujos y su nombre.",
+            "Escriban en la alcancía: «Comparto con amor».",
+            "Conversen sobre cómo pueden llenarla: guardando una moneda en lugar de comprar un dulce.",
+            "Acuerden llevarla a la parroquia en Semana Santa para una obra de caridad."
+          ],
+          "para_los_mas_pequenos": "Que peguen papelitos de colores en la caja.",
+          "para_los_mayores": "Que piensen a quién quieren ayudar con lo que reúnan.",
+          "cita_biblica": {
+            "referencia": "2 Corintios 9, 7",
+            "mensaje": "Dios ama al que da con alegría."
+          },
+          "mensaje_final": "Comparto con alegría lo que tengo."
+        },
+        {
+          "id": "CU-05",
+          "titulo": "Mi Corazón en Desierto",
+          "tipo": "Reflexión",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Descubrir que en Cuaresma podemos hacer silencio para escuchar a Dios, como Jesús en el desierto.",
+          "materiales": [
+            "Hojas con un corazón dibujado",
+            "Lápices de colores",
+            "Un poco de arena (opcional)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Muestra la arena y cuenta que el desierto es un lugar silencioso, donde Jesús rezaba.",
+            "Explica que en Cuaresma también buscamos momentos de silencio para escuchar a Dios.",
+            "Cada niño dibuja dentro de su corazón lo que le quita la paz: peleas, enojos, pantallas.",
+            "Luego dibuja alrededor lo que quiere sembrar: oración, paciencia, cariño.",
+            "Hagan un minuto de silencio pidiendo a Jesús que cuide su corazón."
+          ],
+          "para_los_mas_pequenos": "Que dibujen solo flores alrededor del corazón.",
+          "para_los_mayores": "Que escriban un momento del día para hacer silencio con Dios.",
+          "cita_biblica": {
+            "referencia": "Marcos 1, 35",
+            "mensaje": "Muy de madrugada, Jesús se fue a un lugar tranquilo para orar."
+          },
+          "mensaje_final": "En el silencio escucho a Dios."
+        },
+        {
+          "id": "CU-06",
+          "titulo": "El Corazón de Piedra",
+          "tipo": "Reflexión",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Descubrir que en Cuaresma Dios nos ayuda a cambiar un corazón duro por uno blando y amoroso.",
+          "materiales": [
+            "Una piedra",
+            "Un poco de plastilina o masa por niño"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Muestra la piedra y pide que la aprieten: ¿Se puede moldear?",
+            "Luego reparte la plastilina y pide que la moldeen.",
+            "Explica que a veces el corazón se pone duro como piedra: cuando no perdonamos, cuando no ayudamos, cuando nos enojamos.",
+            "Dios promete cambiarnos el corazón de piedra por uno blando que sabe amar. Cada niño moldea un corazón con la plastilina.",
+            "Mientras lo moldean, dicen en silencio: «Señor, cambia mi corazón»."
+          ],
+          "para_los_mas_pequenos": "Que solo amasen la plastilina mientras tú explicas.",
+          "para_los_mayores": "Que piensen en una situación concreta donde su corazón se pone duro.",
+          "cita_biblica": {
+            "referencia": "Ezequiel 36, 26",
+            "mensaje": "Dios dice: «Les daré un corazón nuevo; les quitaré el corazón de piedra»."
+          },
+          "mensaje_final": "En Cuaresma Dios hace mi corazón blando para amar."
+        },
+        {
+          "id": "CU-07",
+          "titulo": "La Planta que Crece en Cuaresma",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Descubrir que en Cuaresma el corazón crece cuando lo cuidamos con buenas acciones.",
+          "materiales": [
+            "Vasitos de yogur limpios",
+            "Algodón",
+            "Semillas de lenteja o frijol",
+            "Agua"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cada niño pone algodón húmedo en su vasito y coloca unas semillas.",
+            "Explica que la semilla necesita agua y luz para crecer, y nuestro corazón necesita oración y amor.",
+            "Escriban su nombre en el vaso.",
+            "Acuerden regarla cada día y mirar cómo crece hasta la Pascua.",
+            "Recen: «Jesús, haz crecer en mí tu amor»."
+          ],
+          "para_los_mas_pequenos": "Ayúdalos a poner el algodón y las semillas.",
+          "para_los_mayores": "Que anoten en una hoja cómo crece su planta cada semana.",
+          "cita_biblica": {
+            "referencia": "Juan 12, 24",
+            "mensaje": "Si el grano de trigo cae en tierra y muere, da mucho fruto."
+          },
+          "mensaje_final": "Cuando cuido mi corazón, crece el amor de Dios en mí."
+        },
+        {
+          "id": "CU-08",
+          "titulo": "Perdón que Florece",
+          "tipo": "Oración",
+          "edad": "5+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Vivir un momento de oración pidiendo perdón y recibiendo la alegría de Dios.",
+          "materiales": [
+            "Una cruz grande de cartulina",
+            "Flores de papel",
+            "Papelitos",
+            "Lápices"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Coloca la cruz en el centro y explica que en Cuaresma pedimos perdón a Dios y a los demás.",
+            "Cada niño escribe o dibuja en un papelito algo por lo que quiere pedir perdón y lo dobla.",
+            "Lo deja junto a la cruz diciendo en silencio: «Perdón, Jesús».",
+            "Después, cada uno toma una flor de papel y la pega en la cruz.",
+            "Explica que Dios siempre perdona y transforma nuestra tristeza en flores."
+          ],
+          "para_los_mas_pequenos": "Que solo peguen la flor diciendo «Perdón, Jesús».",
+          "para_los_mayores": "Que preparen su corazón para confesarse en Cuaresma.",
+          "cita_biblica": {
+            "referencia": "Salmo 51, 12",
+            "mensaje": "Dios mío, dame un corazón limpio."
+          },
+          "mensaje_final": "Dios me perdona y llena mi corazón de flores."
+        }
+      ]
+    },
+    {
+      "slug": "semana-santa",
+      "nombre": "Domingo de Ramos y Semana Santa",
+      "color": "rojo",
+      "color_nombre": "rojo (y morado)",
+      "ilus": "corazon",
+      "imagen": "bono3_semana-santa.png",
+      "cuantas": 8,
+      "fechas": "Del 21 de marzo al 27 de marzo de 2027",
+      "texto": "En Semana Santa acompañamos a Jesús en los días más importantes de su vida: su entrada en Jerusalén, la Última Cena, su muerte en la cruz por amor y la espera de la Resurrección.",
+      "dinamicas": [
+        {
+          "id": "SS-01",
+          "titulo": "Los Siete Días de la Semana Santa",
+          "tipo": "Juego",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer y ordenar los días más importantes de la Semana Santa.",
+          "materiales": [
+            "Siete tarjetas grandes con los días y un dibujo sencillo de lo que se celebra"
+          ],
+          "preparacion": "Prepara las tarjetas: Domingo de Ramos (palmas), Lunes a Miércoles Santo (camino), Jueves Santo (pan y cáliz), Viernes Santo (cruz), Sábado Santo (silencio), Domingo de Pascua (sol).",
+          "pasos": [
+            "Mezcla las tarjetas y repártelas entre equipos.",
+            "Los equipos deben ordenarlas en el suelo de la primera a la última.",
+            "Revisen juntos el orden y explica en una frase qué recordamos cada día.",
+            "Pregunta en desorden: «¿Qué día recordamos la Última Cena?». El equipo que señala primero gana un punto.",
+            "Terminen leyendo la tarjeta de Pascua: ¡la historia termina con alegría!"
+          ],
+          "para_los_mas_pequenos": "Que cada uno sostenga una tarjeta y formen una fila ordenada.",
+          "para_los_mayores": "Que digan a qué Misa o celebración pueden ir cada día con su familia.",
+          "cita_biblica": {
+            "referencia": "Lucas 24, 6",
+            "mensaje": "No está aquí: ¡ha resucitado!"
+          },
+          "mensaje_final": "En Semana Santa acompaño a Jesús día por día."
+        },
+        {
+          "id": "SS-02",
+          "titulo": "Mi Palma Bendita",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Preparar una palma para el Domingo de Ramos y recordar a Jesús en casa.",
+          "materiales": [
+            "Tiras de papel verde o palmas naturales",
+            "Cinta de colores",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el Domingo de Ramos llevamos palmas a la Misa para que el sacerdote las bendiga.",
+            "Cada niño arma su palma uniendo tiras de papel verde.",
+            "Átenla con una cinta de color y escriban su nombre.",
+            "Ensayen el gesto de levantarla diciendo «¡Hosanna!».",
+            "Invítalos a llevarla a Misa y luego colocarla junto a una cruz en casa."
+          ],
+          "para_los_mas_pequenos": "Entrégales las tiras ya cortadas.",
+          "para_los_mayores": "Que tejan una cruz con las hojas de palma.",
+          "cita_biblica": {
+            "referencia": "Juan 12, 13",
+            "mensaje": "Tomaron ramas de palmera y salieron a recibir a Jesús."
+          },
+          "mensaje_final": "Mi palma bendita me recuerda que Jesús es mi Rey."
+        },
+        {
+          "id": "SS-03",
+          "titulo": "Triduo en Tres Colores",
+          "tipo": "Manualidad",
+          "edad": "5+",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Conocer los tres días centrales de la Semana Santa: Jueves, Viernes y la noche de Pascua.",
+          "materiales": [
+            "Una hoja doblada en tres por niño",
+            "Lápices de colores",
+            "Pegamento",
+            "Papel amarillo"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el Triduo Pascual son los tres días más importantes del año para los cristianos.",
+            "En la primera parte de la hoja dibujan pan y un cáliz: el Jueves Santo Jesús nos dejó la Eucaristía.",
+            "En la segunda dibujan una cruz: el Viernes Santo Jesús dio la vida por amor.",
+            "En la tercera pegan un sol de papel amarillo: en la noche de Pascua celebramos que Jesús resucitó.",
+            "Doblen la hoja y llévenla a casa para leerla en familia durante la Semana Santa."
+          ],
+          "para_los_mas_pequenos": "Entrégales los dibujos hechos para colorear.",
+          "para_los_mayores": "Que escriban una frase debajo de cada dibujo.",
+          "cita_biblica": {
+            "referencia": "1 Corintios 15, 3-4",
+            "mensaje": "Jesús murió por nuestros pecados, fue sepultado y resucitó al tercer día."
+          },
+          "mensaje_final": "Jueves, Viernes y Pascua: tres días de amor."
+        },
+        {
+          "id": "SS-04",
+          "titulo": "Las Campanas Callan",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer la tradición de silenciar las campanas en Semana Santa y vivir el silencio con respeto.",
+          "materiales": [
+            "Una campanita",
+            "Una matraca o dos tablitas de madera"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que desde el Jueves Santo hasta la noche de Pascua, en las iglesias las campanas no suenan: es un tiempo de silencio y de tristeza por la muerte de Jesús.",
+            "En algunos lugares se usa una matraca, que hace un ruido seco, en lugar de campanas.",
+            "Juego: mientras suena la matraca, los niños caminan en silencio y despacio; cuando para, se quedan quietos.",
+            "Al final, explica que en la noche de Pascua las campanas vuelven a sonar con fuerza. Haz sonar la campanita.",
+            "Todos gritan con alegría: «¡Aleluya!»."
+          ],
+          "para_los_mas_pequenos": "Que caminen de la mano de un compañero.",
+          "para_los_mayores": "Que expliquen por qué guardamos silencio en esos días.",
+          "cita_biblica": {
+            "referencia": "Eclesiastés 3, 7",
+            "mensaje": "Hay un tiempo para callar y un tiempo para hablar."
+          },
+          "mensaje_final": "En silencio acompaño a Jesús, y en Pascua canto con alegría."
+        },
+        {
+          "id": "SS-05",
+          "titulo": "El Camino de la Cruz",
+          "tipo": "Oración",
+          "edad": "7+",
+          "duracion_min": 20,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Recorrer con cariño algunas estaciones del Vía Crucis acompañando a Jesús.",
+          "materiales": [
+            "Cinco carteles con dibujos sencillos de las estaciones",
+            "Una cruz pequeña"
+          ],
+          "preparacion": "Coloca los carteles en distintos lugares del salón: Jesús carga la cruz, se encuentra con su Madre, Simón lo ayuda, Verónica le limpia el rostro y Jesús muere en la cruz.",
+          "pasos": [
+            "Explica que el Viernes Santo recordamos cuánto nos amó Jesús, que dio su vida por nosotros.",
+            "Caminen juntos de cartel en cartel llevando la cruz pequeña.",
+            "En cada estación, cuenta en una frase lo que pasó y pregunta cómo podemos imitar ese gesto de amor.",
+            "Recen en cada parada: «Te adoramos, Cristo, y te bendecimos, porque por tu santa cruz redimiste al mundo».",
+            "Terminen recordando que la historia no termina en la cruz: Jesús resucitó."
+          ],
+          "para_los_mas_pequenos": "Que lleven la cruz por turnos y repitan una frase corta.",
+          "para_los_mayores": "Que uno lea cada estación para el grupo.",
+          "cita_biblica": {
+            "referencia": "Juan 15, 13",
+            "mensaje": "No hay amor más grande que dar la vida por los amigos."
+          },
+          "mensaje_final": "Jesús me amó hasta dar su vida por mí."
+        },
+        {
+          "id": "SS-06",
+          "titulo": "Adoración de la Cruz",
+          "tipo": "Oración",
+          "edad": "5+",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Aprender el gesto de adorar la cruz del Viernes Santo con respeto y gratitud.",
+          "materiales": [
+            "Una cruz grande",
+            "Un paño morado o rojo"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Coloca la cruz cubierta con el paño y explica que el Viernes Santo, en la iglesia, se descubre la cruz poco a poco.",
+            "Descúbrela despacio mientras dices tres veces: «Miren el árbol de la cruz».",
+            "Los niños responden: «Vengan, adoremos».",
+            "En fila, cada niño se acerca y hace un gesto de cariño: una inclinación, tocar la cruz o darle un beso.",
+            "Terminen diciendo juntos: «Gracias, Jesús, por amarnos tanto»."
+          ],
+          "para_los_mas_pequenos": "Que se acerquen de la mano de un adulto.",
+          "para_los_mayores": "Que expliquen por qué la cruz es señal de amor y no de derrota.",
+          "cita_biblica": {
+            "referencia": "Juan 3, 16",
+            "mensaje": "Dios amó tanto al mundo que entregó a su Hijo."
+          },
+          "mensaje_final": "Adoro la cruz porque en ella Jesús me mostró su amor."
+        },
+        {
+          "id": "SS-07",
+          "titulo": "Viernes de Ayuno Alegre",
+          "tipo": "Reflexión",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Comprender el sentido del ayuno y la abstinencia del Viernes Santo y ofrecer un pequeño sacrificio.",
+          "materiales": [
+            "Hojas",
+            "Lápices"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el Viernes Santo los adultos hacen ayuno (comen menos) y, desde los 14 años, no se come carne, para acompañar a Jesús y pensar en los que tienen hambre.",
+            "Aclara que los niños no hacen ayuno, pero sí pueden ofrecer algo pequeño con alegría.",
+            "Juntos hagan una lista de ofrecimientos: no pedir dulces, no ver televisión un rato, servir la mesa sin que se lo pidan.",
+            "Cada niño elige uno y lo escribe en su hoja.",
+            "Recen: «Jesús, te ofrezco esto por amor a ti y a los que sufren»."
+          ],
+          "para_los_mas_pequenos": "Que digan su ofrecimiento en voz alta con tu ayuda.",
+          "para_los_mayores": "Que propongan compartir lo ahorrado con alguien que lo necesite.",
+          "cita_biblica": {
+            "referencia": "Isaías 58, 7",
+            "mensaje": "El ayuno que me gusta es compartir tu pan con el que tiene hambre."
+          },
+          "mensaje_final": "Ofrezco un pequeño sacrificio con alegría por amor a Jesús."
+        },
+        {
+          "id": "SS-08",
+          "titulo": "Sábado de Espera",
+          "tipo": "Reflexión",
+          "edad": "5+",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Vivir el silencio del Sábado Santo esperando con María la Resurrección.",
+          "materiales": [
+            "Una imagen de María (o un dibujo)",
+            "Una vela de LED apagada"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el Sábado Santo es un día de silencio: Jesús está en el sepulcro y María espera con fe.",
+            "Coloca la imagen de María y la vela apagada.",
+            "Pregunta: ¿Cómo se sentía María? ¿Qué le diríamos para acompañarla?",
+            "Cada niño dice una palabra de cariño para María.",
+            "Enciende la vela al final y di: «Mañana es Pascua. ¡Jesús vive!»."
+          ],
+          "para_los_mas_pequenos": "Que den un beso a la imagen de María o le hagan una caricia.",
+          "para_los_mayores": "Que expliquen qué significa esperar con fe.",
+          "cita_biblica": {
+            "referencia": "Juan 19, 25",
+            "mensaje": "Junto a la cruz de Jesús estaba su madre."
+          },
+          "mensaje_final": "Con María espero la alegría de la Pascua."
+        }
+      ]
+    },
+    {
+      "slug": "pascua",
+      "nombre": "Pascua de Resurrección",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "paloma",
+      "imagen": "bono3_pascua.png",
+      "cuantas": 6,
+      "fechas": "Del 28 de marzo al 16 de mayo de 2027: cincuenta días",
+      "texto": "¡Jesús resucitó! La Pascua es la fiesta más grande de los cristianos. Durante cincuenta días celebramos que Jesús vive y que su amor es más fuerte que todo. ¡Aleluya!",
+      "dinamicas": [
+        {
+          "id": "PA-01",
+          "titulo": "La Mariposa de Pascua",
+          "tipo": "Teatro",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Expresar con el cuerpo la vida nueva de la Resurrección usando el signo de la mariposa.",
+          "materiales": [
+            "Pañuelos o telas de colores"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cuenta que la oruga se encierra en un capullo, y parece que todo terminó; pero un día sale de allí una mariposa llena de colores.",
+            "Los niños empiezan arrastrándose como orugas.",
+            "Luego se envuelven en la tela y se quedan quietos, como en el capullo.",
+            "Cuando dices «¡Es Pascua!», salen despacio y vuelan por el salón agitando las telas.",
+            "Explica que Jesús resucitado trae vida nueva, y que la tristeza se transforma en alegría."
+          ],
+          "para_los_mas_pequenos": "Que vuelen de la mano de un compañero.",
+          "para_los_mayores": "Que expliquen qué parte de la historia se parece a la Semana Santa.",
+          "cita_biblica": {
+            "referencia": "Apocalipsis 21, 5",
+            "mensaje": "Jesús dice: «Yo hago nuevas todas las cosas»."
+          },
+          "mensaje_final": "Jesús resucitado transforma todo en vida nueva."
+        },
+        {
+          "id": "PA-02",
+          "titulo": "La Luz de la Pascua",
+          "tipo": "Oración",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Descubrir que Jesús resucitado es la luz que vence la oscuridad.",
+          "materiales": [
+            "Una vela de LED grande",
+            "Velitas de LED o linternas pequeñas (o estrellas de papel)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Apaga las luces del salón y explica que la noche de Pascua la iglesia empieza a oscuras.",
+            "Enciende la vela grande y di: «Cristo es la luz».",
+            "Los niños responden: «Demos gracias a Dios».",
+            "Pasa la luz a cada niño: enciende su velita o entrega una estrella de papel.",
+            "Con todas las luces encendidas, canten un «Aleluya»."
+          ],
+          "para_los_mas_pequenos": "Entrega tú cada luz con una sonrisa.",
+          "para_los_mayores": "Que digan qué oscuridad de su vida quieren que Jesús ilumine.",
+          "cita_biblica": {
+            "referencia": "Juan 8, 12",
+            "mensaje": "Jesús dijo: «Yo soy la luz del mundo»."
+          },
+          "mensaje_final": "Jesús resucitado ilumina mi vida."
+        },
+        {
+          "id": "PA-03",
+          "titulo": "Huevos de Vida Nueva",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Relacionar el huevo de Pascua con la vida nueva que nos trae Jesús resucitado.",
+          "materiales": [
+            "Huevos de cartulina",
+            "Lápices de colores",
+            "Papel de colores",
+            "Pegamento"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pregunta: ¿Qué sale de un huevo? ¡Una vida nueva!",
+            "Explica que en Pascua usamos huevos como signo de la vida nueva de Jesús, que salió vivo del sepulcro.",
+            "Cada niño decora su huevo con colores alegres.",
+            "En el reverso escriben: «¡Jesús vive!».",
+            "Regálenlos a alguien de la familia contándole la buena noticia."
+          ],
+          "para_los_mas_pequenos": "Que solo coloreen el huevo.",
+          "para_los_mayores": "Que escriban un cambio bueno que quieren hacer en su vida nueva.",
+          "cita_biblica": {
+            "referencia": "2 Corintios 5, 17",
+            "mensaje": "El que está con Cristo es una criatura nueva."
+          },
+          "mensaje_final": "Jesús resucitado me da una vida nueva."
+        },
+        {
+          "id": "PA-04",
+          "titulo": "Cincuenta Días de Fiesta",
+          "tipo": "Manualidad",
+          "edad": "5+",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Descubrir que la Pascua no dura un día, sino cincuenta, hasta Pentecostés.",
+          "materiales": [
+            "Una tira de papel por niño con 7 casillas (una por semana)",
+            "Lápices de colores",
+            "Calcomanías"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que la Pascua es tan importante que la celebramos durante cincuenta días.",
+            "Cada niño decora su tira con soles, flores y la palabra «Aleluya».",
+            "En cada casilla escriben una forma de vivir la alegría esa semana: saludar con una sonrisa, cantar, visitar a alguien.",
+            "Explica que cada domingo pegarán una calcomanía en la casilla de la semana.",
+            "La última casilla tiene una llamita: ¡es Pentecostés!"
+          ],
+          "para_los_mas_pequenos": "Que coloreen las casillas y la llamita final.",
+          "para_los_mayores": "Que escriban qué celebramos en la Ascensión y en Pentecostés.",
+          "cita_biblica": {
+            "referencia": "Salmo 118, 24",
+            "mensaje": "Este es el día que hizo el Señor: alegrémonos."
+          },
+          "mensaje_final": "Durante cincuenta días vivo la alegría de la Pascua."
+        },
+        {
+          "id": "PA-05",
+          "titulo": "Jesús, en Ti Confío",
+          "tipo": "Oración",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Conocer el Domingo de la Divina Misericordia y aprender una oración de confianza.",
+          "materiales": [
+            "Una imagen de Jesús Misericordioso (o un dibujo de Jesús con rayos rojos y blancos)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el domingo después de Pascua es el Domingo de la Divina Misericordia: celebramos el amor de Jesús que siempre perdona.",
+            "Muestra la imagen y cuenta que los rayos rojos y blancos son el amor que sale del corazón de Jesús.",
+            "Enseña la oración corta: «Jesús, en ti confío».",
+            "Cada niño la repite poniendo la mano en el corazón y dice algo que pone en manos de Jesús.",
+            "Terminen diciéndola todos juntos tres veces, cada vez más bajito."
+          ],
+          "para_los_mas_pequenos": "Que repitan solo la frase con el gesto.",
+          "para_los_mayores": "Que escriban la oración en una tarjeta con su dibujo.",
+          "cita_biblica": {
+            "referencia": "Salmo 136, 1",
+            "mensaje": "Den gracias al Señor, porque es bueno, porque su amor es para siempre."
+          },
+          "mensaje_final": "Jesús, en ti confío."
+        },
+        {
+          "id": "PA-06",
+          "titulo": "El Aleluya Escondido",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Vivir la alegría de volver a cantar «Aleluya» en Pascua después de la Cuaresma.",
+          "materiales": [
+            "Siete tarjetas con las letras A-L-E-L-U-Y-A"
+          ],
+          "preparacion": "Esconde las tarjetas en distintos lugares del salón.",
+          "pasos": [
+            "Explica que en la Cuaresma no se canta «Aleluya» en la Misa, como si lo guardáramos; en Pascua vuelve con mucha alegría.",
+            "Cuenta que en algunos lugares, al empezar la Cuaresma, «esconden» el Aleluya, y en Pascua lo buscan.",
+            "Los niños buscan las siete letras escondidas.",
+            "Cuando las encuentran, las ordenan en el suelo para formar la palabra.",
+            "Al terminar, todos gritan y cantan: «¡Aleluya!»."
+          ],
+          "para_los_mas_pequenos": "Que busquen en equipo con un niño mayor.",
+          "para_los_mayores": "Que expliquen qué significa la palabra «Aleluya».",
+          "cita_biblica": {
+            "referencia": "Salmo 150, 6",
+            "mensaje": "Todo lo que respira alabe al Señor. ¡Aleluya!"
+          },
+          "mensaje_final": "¡Aleluya! En Pascua la alegría vuelve a cantar."
+        }
+      ]
+    },
+    {
+      "slug": "pentecostes",
+      "nombre": "Pentecostés",
+      "color": "rojo",
+      "color_nombre": "rojo",
+      "ilus": "paloma",
+      "imagen": "bono3_pentecostes.png",
+      "cuantas": 4,
+      "fechas": "Domingo 16 de mayo de 2027",
+      "texto": "Cincuenta días después de la Pascua, el Espíritu Santo vino sobre los apóstoles y María. Desde ese día, la Iglesia anuncia a Jesús en todo el mundo. Es como el cumpleaños de la Iglesia.",
+      "dinamicas": [
+        {
+          "id": "PE-01",
+          "titulo": "Viento y Fuego",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer los signos del Espíritu Santo en Pentecostés: el viento y el fuego.",
+          "materiales": [
+            "Tiras de papel rojo y naranja",
+            "Un abanico o cartón para hacer viento"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cuenta que los apóstoles estaban reunidos con María cuando llegó un viento fuerte y aparecieron llamas sobre ellos: era el Espíritu Santo.",
+            "Cada niño sostiene tiras de papel rojo como llamitas.",
+            "Cuando agitas el abanico, los niños mueven las llamitas como si las moviera el viento.",
+            "Cuando el viento para, se quedan quietos y dicen: «¡Ven, Espíritu Santo!».",
+            "Explica que el Espíritu Santo nos da fuerza y alegría para hablar de Jesús."
+          ],
+          "para_los_mas_pequenos": "Que solo muevan las tiras cuando sientan el viento.",
+          "para_los_mayores": "Que expliquen qué cambió en los apóstoles después de Pentecostés.",
+          "cita_biblica": {
+            "referencia": "Hechos 2, 2-4",
+            "mensaje": "Vino un ruido del cielo como un viento fuerte, y todos se llenaron del Espíritu Santo."
+          },
+          "mensaje_final": "El Espíritu Santo me llena de fuerza y alegría."
+        },
+        {
+          "id": "PE-02",
+          "titulo": "Las Llamitas del Espíritu",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Recordar que el Espíritu Santo vive en nosotros y nos ayuda a hacer el bien.",
+          "materiales": [
+            "Cartulina roja y amarilla",
+            "Lápices",
+            "Tijeras",
+            "Una tira de cartulina por niño"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que en Pentecostés el Espíritu Santo apareció como llamitas de fuego.",
+            "Cada niño recorta una llamita y la pega en una tira de cartulina para hacer una vincha.",
+            "En la llamita escriben una cosa que el Espíritu Santo les ayuda a hacer: perdonar, compartir, rezar.",
+            "Se ponen la vincha y forman un círculo.",
+            "Recen juntos: «Ven, Espíritu Santo, enciende mi corazón»."
+          ],
+          "para_los_mas_pequenos": "Entrégales la llamita ya recortada.",
+          "para_los_mayores": "Que escriban uno de los siete dones del Espíritu Santo.",
+          "cita_biblica": {
+            "referencia": "Hechos 2, 3",
+            "mensaje": "Aparecieron como lenguas de fuego que se posaron sobre cada uno."
+          },
+          "mensaje_final": "El Espíritu Santo enciende mi corazón."
+        },
+        {
+          "id": "PE-03",
+          "titulo": "Todos Entendían",
+          "tipo": "Juego",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Descubrir que el Espíritu Santo une a personas de distintos lugares en una sola familia.",
+          "materiales": [
+            "Tarjetas con la palabra «Jesús te ama» en varios idiomas (español, portugués, inglés, italiano)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cuenta que en Pentecostés había gente de muchos países y todos entendían a los apóstoles en su propio idioma.",
+            "Reparte las tarjetas y que cada niño intente leer la suya.",
+            "Busquen a los compañeros que tienen la misma frase en otro idioma.",
+            "Al final, todos dicen juntos en español: «Jesús te ama».",
+            "Explica que el Espíritu Santo hace que la Iglesia sea una gran familia en todo el mundo."
+          ],
+          "para_los_mas_pequenos": "Que busquen tarjetas del mismo color en lugar de leer.",
+          "para_los_mayores": "Que aprendan a decir «Dios te bendiga» en otro idioma.",
+          "cita_biblica": {
+            "referencia": "Hechos 2, 6",
+            "mensaje": "Cada uno los escuchaba hablar en su propio idioma."
+          },
+          "mensaje_final": "El Espíritu Santo nos une en una sola familia."
+        },
+        {
+          "id": "PE-04",
+          "titulo": "El Cumpleaños de la Iglesia",
+          "tipo": "Música",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Celebrar Pentecostés como el nacimiento de la Iglesia.",
+          "materiales": [
+            "Un pastel de cartón o dibujado",
+            "Velas de papel"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que Pentecostés es como el cumpleaños de la Iglesia, porque ese día los apóstoles salieron a anunciar a Jesús.",
+            "Muestra el pastel de cartón y coloquen juntos las velas de papel.",
+            "Canten «Cumpleaños feliz» a la Iglesia con alegría.",
+            "Cada niño «apaga» una vela diciendo un deseo para la Iglesia: que haya paz, que todos conozcan a Jesús.",
+            "Terminen con un aplauso."
+          ],
+          "para_los_mas_pequenos": "Que soplen las velas mientras tú dices los deseos.",
+          "para_los_mayores": "Que piensen cómo pueden ayudar en su parroquia.",
+          "cita_biblica": {
+            "referencia": "Hechos 2, 41",
+            "mensaje": "Ese día se unieron a la Iglesia unas tres mil personas."
+          },
+          "mensaje_final": "Soy parte de la gran familia de la Iglesia."
+        }
+      ]
+    },
+    {
+      "slug": "corpus",
+      "nombre": "Corpus Christi",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "caliz",
+      "imagen": "bono3_corpus.png",
+      "cuantas": 3,
+      "fechas": "Jueves 27 de mayo (o domingo 30 de mayo) de 2027",
+      "texto": "Corpus Christi quiere decir «Cuerpo de Cristo». Celebramos con alegría que Jesús se queda con nosotros en la Eucaristía. En muchos lugares se hace una procesión por las calles.",
+      "dinamicas": [
+        {
+          "id": "CO-01",
+          "titulo": "Jesús Pasa por Nuestras Calles",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Conocer la procesión del Corpus Christi y adorar a Jesús presente en la Eucaristía.",
+          "materiales": [
+            "Un círculo de cartulina blanca con rayos dorados (como una custodia)",
+            "Pétalos de papel"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que en Corpus Christi los cristianos sacan a Jesús en la Eucaristía por las calles en procesión.",
+            "Un niño lleva la custodia de cartulina con mucho respeto.",
+            "Los demás caminan detrás en fila y algunos lanzan pétalos de papel delante.",
+            "Cuando la procesión se detiene, todos se arrodillan un momento en silencio.",
+            "Explica que en la custodia de verdad está Jesús, y no un dibujo."
+          ],
+          "para_los_mas_pequenos": "Que lancen pétalos acompañados por un compañero.",
+          "para_los_mayores": "Que preparen un canto para la procesión.",
+          "cita_biblica": {
+            "referencia": "Juan 6, 51",
+            "mensaje": "Jesús dijo: «Yo soy el pan vivo bajado del cielo»."
+          },
+          "mensaje_final": "Jesús camina con su pueblo en la Eucaristía."
+        },
+        {
+          "id": "CO-02",
+          "titulo": "Alfombra de Flores",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 25,
+          "participantes": "6 a 25 niños",
+          "objetivo": "Preparar con amor una alfombra para la fiesta del Cuerpo de Cristo.",
+          "materiales": [
+            "Papel de colores",
+            "Tijeras",
+            "Pegamento",
+            "Una hoja grande de papel o cartón"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Cuenta que en muchos pueblos hacen alfombras de flores en las calles para recibir a Jesús en la procesión del Corpus.",
+            "Dibuja en la hoja grande un cáliz con una hostia.",
+            "Los niños llenan el dibujo con pedacitos de papel de colores, como flores.",
+            "Mientras trabajan, explica que todo lo bonito que hacemos puede ser un regalo para Jesús.",
+            "Colóquenla en un lugar visible de la parroquia."
+          ],
+          "para_los_mas_pequenos": "Que peguen papelitos alrededor del dibujo.",
+          "para_los_mayores": "Que escriban una frase para Jesús Eucaristía en el borde.",
+          "cita_biblica": {
+            "referencia": "Salmo 100, 2",
+            "mensaje": "Sirvan al Señor con alegría, vengan a Él con cantos."
+          },
+          "mensaje_final": "Preparo con amor el camino para Jesús Eucaristía."
+        },
+        {
+          "id": "CO-03",
+          "titulo": "Gracias por el Pan del Cielo",
+          "tipo": "Oración",
+          "edad": "5+",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Dar gracias por la Eucaristía, el regalo más grande de Jesús.",
+          "materiales": [
+            "Un pan",
+            "Una servilleta blanca"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Coloca el pan sobre la servilleta y pregunta: ¿Para qué sirve el pan?",
+            "Explica que Jesús quiso quedarse con nosotros como alimento en la Eucaristía.",
+            "Cada niño dice: «Gracias, Jesús, porque…» y completa la frase.",
+            "Al final, recen juntos: «Bendito y alabado sea Jesús en el Santísimo Sacramento del altar».",
+            "Si es posible, compartan el pan común como signo de amistad."
+          ],
+          "para_los_mas_pequenos": "Que digan solo «Gracias, Jesús».",
+          "para_los_mayores": "Que preparen una oración de gracias para después de comulgar.",
+          "cita_biblica": {
+            "referencia": "Juan 6, 35",
+            "mensaje": "Jesús dijo: «Yo soy el pan de la vida. El que viene a mí no tendrá hambre»."
+          },
+          "mensaje_final": "Jesús se queda conmigo como alimento."
+        }
+      ]
+    },
+    {
+      "slug": "maria",
+      "nombre": "Fiestas de María",
+      "color": "blanco",
+      "color_nombre": "blanco (o celeste)",
+      "ilus": "corazon",
+      "imagen": "bono3_maria.png",
+      "cuantas": 5,
+      "fechas": "1 de enero, 15 de agosto, 8 y 12 de diciembre de 2027",
+      "texto": "Durante el año celebramos varias fiestas de María, la Mamá de Jesús y nuestra Madre: Santa María Madre de Dios, la Asunción, la Inmaculada Concepción, la Virgen de Guadalupe y el mes de mayo.",
+      "dinamicas": [
+        {
+          "id": "MA-01",
+          "titulo": "Inmaculada, Toda Limpia",
+          "tipo": "Reflexión",
+          "edad": "5+",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Conocer la fiesta de la Inmaculada Concepción y admirar la belleza de María.",
+          "materiales": [
+            "Una flor blanca o un dibujo de una flor",
+            "Una imagen de María"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Muestra la flor blanca y pregunta: ¿Qué te gusta de esta flor?",
+            "Explica que Dios preparó a María para ser la Mamá de Jesús, y la hizo toda limpia, sin pecado, desde el primer momento de su vida.",
+            "Cuenta que el 8 de diciembre celebramos esta fiesta: la Inmaculada Concepción.",
+            "Pregunta: ¿Cómo podemos tener un corazón limpio como María?",
+            "Recen juntos un Ave María frente a la imagen."
+          ],
+          "para_los_mas_pequenos": "Que le regalen a María un dibujo de una flor.",
+          "para_los_mayores": "Que expliquen con sus palabras qué significa «Inmaculada».",
+          "cita_biblica": {
+            "referencia": "Lucas 1, 28",
+            "mensaje": "El ángel le dijo: «Alégrate, llena de gracia, el Señor está contigo»."
+          },
+          "mensaje_final": "María es toda limpia y hermosa para Dios."
+        },
+        {
+          "id": "MA-02",
+          "titulo": "Las Mañanitas a la Virgen",
+          "tipo": "Música",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "4 a 30 niños",
+          "objetivo": "Celebrar la fiesta de la Virgen de Guadalupe con la tradición de cantarle al amanecer.",
+          "materiales": [
+            "Una imagen de la Virgen de Guadalupe",
+            "Flores de papel"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el 12 de diciembre, en muchos lugares de América, se cantan «las mañanitas» a la Virgen de Guadalupe muy temprano, como se canta en los cumpleaños.",
+            "Enseña una estrofa sencilla o canten las mañanitas tradicionales de tu país.",
+            "Mientras cantan, cada niño se acerca y deja una flor de papel ante la imagen.",
+            "Cuenta que la Virgen se apareció a Juan Diego y es Madre de todos los pueblos de América.",
+            "Terminen con un Ave María."
+          ],
+          "para_los_mas_pequenos": "Que solo lleven la flor mientras los demás cantan.",
+          "para_los_mayores": "Que escriban un agradecimiento a la Virgen en su flor.",
+          "cita_biblica": {
+            "referencia": "Lucas 1, 48",
+            "mensaje": "Desde ahora todas las generaciones me llamarán feliz."
+          },
+          "mensaje_final": "Con alegría le canto a María, Madre de América."
+        },
+        {
+          "id": "MA-03",
+          "titulo": "María Sube al Cielo",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Celebrar la Asunción de María y la esperanza de estar un día con Dios.",
+          "materiales": [
+            "Nubes de papel",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "Pega nubes de papel en el suelo formando un camino que sube hasta una pared.",
+          "pasos": [
+            "Explica que el 15 de agosto celebramos que María fue llevada al cielo en cuerpo y alma.",
+            "Los niños avanzan saltando de nube en nube.",
+            "En cada nube dicen algo bueno que hizo María: dijo sí a Dios, cuidó a Jesús, ayudó a Isabel.",
+            "Al llegar a la pared, todos dicen: «María, ruega por nosotros».",
+            "Explica que María nos espera en el cielo y nos ayuda a llegar."
+          ],
+          "para_los_mas_pequenos": "Que salten de la mano de un compañero.",
+          "para_los_mayores": "Que digan algo bueno que ellos pueden hacer para parecerse a María.",
+          "cita_biblica": {
+            "referencia": "Apocalipsis 12, 1",
+            "mensaje": "Apareció en el cielo una mujer vestida de sol, con una corona de estrellas."
+          },
+          "mensaje_final": "María nos espera en el cielo con amor."
+        },
+        {
+          "id": "MA-04",
+          "titulo": "Feliz Cumpleaños, María",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Celebrar la Natividad de la Virgen María el 8 de septiembre con una tarjeta de cumpleaños.",
+          "materiales": [
+            "Cartulina doblada como tarjeta",
+            "Lápices de colores",
+            "Calcomanías o papelitos de colores"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pregunta: ¿Sabían que María también tiene cumpleaños? El 8 de septiembre celebramos su nacimiento.",
+            "Explica que sus papás se llamaban Joaquín y Ana, y que Dios la preparó con amor para ser la Mamá de Jesús.",
+            "Cada niño hace una tarjeta de cumpleaños para María con un dibujo y un mensaje.",
+            "Canten «Cumpleaños feliz» frente a una imagen de María.",
+            "Dejen las tarjetas junto a la imagen como regalo."
+          ],
+          "para_los_mas_pequenos": "Que decoren la tarjeta con calcomanías.",
+          "para_los_mayores": "Que escriban qué les gusta de María.",
+          "cita_biblica": {
+            "referencia": "Lucas 1, 28",
+            "mensaje": "El ángel le dijo: «Alégrate, llena de gracia»."
+          },
+          "mensaje_final": "Celebro con alegría el cumpleaños de mi Madre del cielo."
+        },
+        {
+          "id": "MA-05",
+          "titulo": "Santa María, Madre de Dios",
+          "tipo": "Oración",
+          "edad": "5+",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Comenzar el año poniéndonos bajo el cuidado de María, Madre de Dios.",
+          "materiales": [
+            "Una imagen de María",
+            "Un papel con el número del año nuevo"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el 1 de enero celebramos a Santa María, Madre de Dios, porque es la Mamá de Jesús.",
+            "Coloca el papel con el año junto a la imagen de María.",
+            "Cada niño dice un deseo bueno para este año.",
+            "Pongan juntos el año en manos de María diciendo: «María, cuida nuestro año».",
+            "Terminen rezando un Ave María tomados de la mano."
+          ],
+          "para_los_mas_pequenos": "Que solo digan «María, cuídame».",
+          "para_los_mayores": "Que escriban un propósito para el año y lo dejen junto a la imagen.",
+          "cita_biblica": {
+            "referencia": "Lucas 2, 19",
+            "mensaje": "María guardaba todas estas cosas en su corazón."
+          },
+          "mensaje_final": "Pongo mi año en manos de María."
+        }
+      ]
+    },
+    {
+      "slug": "santos",
+      "nombre": "Todos los Santos",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "corazon",
+      "imagen": "bono3_santos.png",
+      "cuantas": 3,
+      "fechas": "Lunes 1 de noviembre de 2027",
+      "texto": "El 1 de noviembre celebramos a todos los santos: los conocidos y los que nadie conoce. Son amigos de Dios que nos muestran que todos podemos ser santos amando en lo pequeño.",
+      "dinamicas": [
+        {
+          "id": "SA-01",
+          "titulo": "Santos de la Puerta de al Lado",
+          "tipo": "Reflexión",
+          "edad": "5+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Descubrir que hay santos escondidos en la vida diaria: personas buenas que conocemos.",
+          "materiales": [
+            "Hojas con el dibujo de una puerta",
+            "Lápices de colores"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el día de Todos los Santos celebramos a todos los que están con Dios, aunque no tengan una fiesta en el calendario.",
+            "Cuenta que hay personas muy buenas cerca de nosotros que viven como santos: una abuela que reza, un vecino que ayuda, una maestra paciente.",
+            "Cada niño abre la puerta de su dibujo y dibuja detrás a una persona buena que conoce.",
+            "Comparten quién es y qué hace de bueno.",
+            "Terminen dando gracias a Dios por esas personas."
+          ],
+          "para_los_mas_pequenos": "Que digan el nombre de la persona mientras tú escribes.",
+          "para_los_mayores": "Que escriban qué virtud de esa persona quieren imitar.",
+          "cita_biblica": {
+            "referencia": "Mateo 5, 16",
+            "mensaje": "Que su luz brille para que todos vean sus buenas obras."
+          },
+          "mensaje_final": "Hay santos cerca de mí, y yo también puedo ser uno."
+        },
+        {
+          "id": "SA-02",
+          "titulo": "Recordamos a los que Partieron",
+          "tipo": "Oración",
+          "edad": "Todas",
+          "duracion_min": 10,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Rezar con esperanza por los familiares que murieron, en el día de los Fieles Difuntos.",
+          "materiales": [
+            "Una vela de LED",
+            "Papelitos",
+            "Lápices",
+            "Una canasta"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica con cariño que el 2 de noviembre recordamos a las personas que murieron y rezamos para que estén con Dios.",
+            "Cada niño, si quiere, escribe en un papelito el nombre de un familiar o de alguien querido que murió.",
+            "Los ponen en la canasta junto a la vela encendida.",
+            "Recen juntos: «Dales, Señor, el descanso eterno, y brille para ellos la luz que no tiene fin».",
+            "Recuerda que Jesús nos prometió que un día estaremos todos juntos en el cielo."
+          ],
+          "para_los_mas_pequenos": "Que pongan una flor de papel en lugar de un nombre.",
+          "para_los_mayores": "Que compartan, si quieren, un recuerdo bonito de esa persona.",
+          "cita_biblica": {
+            "referencia": "Juan 14, 2",
+            "mensaje": "Jesús dijo: «En la casa de mi Padre hay muchos lugares»."
+          },
+          "mensaje_final": "Rezo con esperanza por los que ya están con Dios."
+        },
+        {
+          "id": "SA-03",
+          "titulo": "Escalera a la Santidad",
+          "tipo": "Juego",
+          "edad": "5+",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Descubrir que la santidad se construye con pequeñas buenas acciones de cada día.",
+          "materiales": [
+            "Hojas de papel",
+            "Cinta adhesiva"
+          ],
+          "preparacion": "Pega en el suelo hojas en forma de escalera, de diez escalones.",
+          "pasos": [
+            "Explica que ser santo no es hacer cosas imposibles, sino amar mucho en lo pequeño.",
+            "Un niño se coloca al pie de la escalera.",
+            "Los demás dicen pequeñas acciones buenas; por cada una, el niño sube un escalón.",
+            "Al llegar arriba, todos aplauden y dicen: «¡Ese es el camino de los santos!».",
+            "Repitan con otros niños."
+          ],
+          "para_los_mas_pequenos": "Que suban de la mano de un compañero.",
+          "para_los_mayores": "Que propongan acciones difíciles, como perdonar o ayudar sin que nadie lo vea.",
+          "cita_biblica": {
+            "referencia": "1 Tesalonicenses 4, 3",
+            "mensaje": "Lo que Dios quiere es que ustedes sean santos."
+          },
+          "mensaje_final": "Con pequeñas buenas acciones subo hacia Dios."
+        }
+      ]
+    },
+    {
+      "slug": "cristo-rey",
+      "nombre": "Cristo Rey",
+      "color": "blanco",
+      "color_nombre": "blanco",
+      "ilus": "caliz",
+      "imagen": "bono3_cristo-rey.png",
+      "cuantas": 3,
+      "fechas": "Domingo 21 de noviembre de 2027",
+      "texto": "El último domingo del año de la Iglesia celebramos que Jesús es Rey del universo. Pero es un Rey distinto: no tiene ejércitos, sino amor, y su reino crece cuando ayudamos a los demás.",
+      "dinamicas": [
+        {
+          "id": "CR-01",
+          "titulo": "Un Rey Diferente",
+          "tipo": "Reflexión",
+          "edad": "7+",
+          "duracion_min": 15,
+          "participantes": "4 a 25 niños",
+          "objetivo": "Descubrir que Jesús es un Rey que sirve y que ama a todos.",
+          "materiales": [
+            "Una corona de cartón",
+            "Una toalla"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Pregunta: ¿Cómo es un rey? ¿Qué hace? Escucha las respuestas.",
+            "Muestra la corona y la toalla, y explica que Jesús es Rey, pero un Rey que sirve.",
+            "Cuenta que Jesús lavó los pies, sanó enfermos y abrazó a los niños.",
+            "Pregunta: ¿Qué hace un amigo del Rey Jesús?",
+            "Terminen proclamando: «¡Viva Cristo Rey!»."
+          ],
+          "para_los_mas_pequenos": "Que se prueben la corona mientras tú cuentas.",
+          "para_los_mayores": "Que escriban una acción de servicio para la semana.",
+          "cita_biblica": {
+            "referencia": "Juan 18, 37",
+            "mensaje": "Jesús dijo: «Yo soy Rey, y vine para mostrar la verdad»."
+          },
+          "mensaje_final": "Jesús es mi Rey porque me ama y me sirve."
+        },
+        {
+          "id": "CR-02",
+          "titulo": "El Reino del Amor",
+          "tipo": "Juego",
+          "edad": "Todas",
+          "duracion_min": 15,
+          "participantes": "6 a 30 niños",
+          "objetivo": "Descubrir que en el Reino de Jesús lo más importante es amar y ayudar.",
+          "materiales": [
+            "Tarjetas con situaciones (alguien triste, alguien con hambre, alguien solo)"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que el último domingo del año de la Iglesia celebramos a Cristo, Rey del universo.",
+            "Cuenta que Jesús dijo que lo que hacemos por los demás se lo hacemos a Él.",
+            "Reparte las tarjetas: cada niño lee una situación y muestra con mímica cómo ayudaría.",
+            "El grupo dice: «¡Eso es el Reino de Jesús!».",
+            "Cada uno elige una forma de ayudar esta semana."
+          ],
+          "para_los_mas_pequenos": "Que tú leas las situaciones y ellos actúen.",
+          "para_los_mayores": "Que inventen nuevas situaciones.",
+          "cita_biblica": {
+            "referencia": "Mateo 25, 40",
+            "mensaje": "Lo que hicieron por uno de estos más pequeños, lo hicieron por mí."
+          },
+          "mensaje_final": "En el Reino de Jesús ayudamos a todos."
+        },
+        {
+          "id": "CR-03",
+          "titulo": "Corona para Cristo Rey",
+          "tipo": "Manualidad",
+          "edad": "Todas",
+          "duracion_min": 20,
+          "participantes": "4 a 20 niños",
+          "objetivo": "Ofrecer a Jesús una corona hecha de buenas acciones.",
+          "materiales": [
+            "Un círculo grande de cartulina dorada",
+            "Joyas de papel de colores",
+            "Pegamento",
+            "Lápices"
+          ],
+          "preparacion": "",
+          "pasos": [
+            "Explica que a los reyes se les regala oro y joyas, y a Jesús le regalamos nuestras buenas acciones.",
+            "Cada niño recibe una joya de papel.",
+            "En ella escribe o dibuja una buena acción que hará.",
+            "Peguen todas las joyas en la corona grande.",
+            "Coloquen la corona junto a una cruz y canten «¡Viva Cristo Rey!»."
+          ],
+          "para_los_mas_pequenos": "Que coloreen la joya y digan su acción en voz alta.",
+          "para_los_mayores": "Que escriban cómo cumplieron su buena acción la semana anterior.",
+          "cita_biblica": {
+            "referencia": "Apocalipsis 19, 16",
+            "mensaje": "Él es Rey de reyes y Señor de señores."
+          },
+          "mensaje_final": "Mis buenas acciones son joyas para la corona de Jesús."
         }
       ]
     }
