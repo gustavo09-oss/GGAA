@@ -99,21 +99,21 @@ dialog .nav button{border:none;background:var(--creme);color:var(--cafe);border-
 
 /* Bonos */
 .bonus{overflow:hidden;padding:0}
-.bonus .top{background:var(--mostarda-suave);text-align:center;padding:12px;font-weight:800;font-size:14px;text-transform:uppercase;letter-spacing:.04em}
-.bonus .top s{color:var(--terra-escuro)}
-.bonus .top b{color:var(--salvia-escuro)}
+.bonus .top{background:var(--mostarda-suave);text-align:center;padding:14px 12px;font-weight:800;font-size:15px;text-transform:uppercase;letter-spacing:.04em;display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 10px}
+.bonus .top s{font-family:var(--f-tit);font-size:24px;color:var(--terra-escuro);text-decoration-thickness:3px}
+.bonus .top b{font-family:var(--f-tit);font-size:18px;background:var(--verde);color:var(--branco);border-radius:999px;padding:3px 14px}
 .bn{display:grid;grid-template-columns:48px 1fr;gap:12px;padding:16px 18px;border-top:1.5px solid var(--bege-medio)}
 .bn:first-of-type{border-top:none}
 .bn img{width:48px;height:48px}
 .bn h3{font-size:16.5px}
-.bn .de{font-size:13.5px;color:var(--cafe-suave);margin:2px 0 6px}
-.bn .de s{text-decoration-color:var(--terra)}
-.bn .de b{color:var(--salvia-escuro)}
+.bn .de{font-size:15px;font-weight:700;color:var(--cafe);margin:6px 0 10px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 8px}
+.bn .de s{font-family:var(--f-tit);font-weight:600;font-size:22px;color:var(--terra-escuro);text-decoration-color:var(--terra);text-decoration-thickness:3px}
+.bn .de b{font-family:var(--f-tit);font-weight:700;font-size:17px;letter-spacing:.05em;background:var(--verde);color:var(--branco);border-radius:999px;padding:3px 14px}
 .bn ul{list-style:none;margin:0;padding:0;font-size:13.5px;color:var(--cafe-suave);display:grid;gap:2px}
 .bn li::before{content:"✓ ";color:var(--salvia-escuro);font-weight:800}
-.bonus .bot{background:var(--cafe-fundo);color:var(--creme);text-align:center;padding:14px;font-family:var(--f-tit);font-weight:600;font-size:16px}
-.bonus .bot s{color:var(--bege-escuro);text-decoration-color:var(--terra);text-decoration-thickness:2px}
-.bonus .bot b{color:var(--mostarda)}
+.bonus .bot{background:var(--cafe-fundo);color:var(--creme);text-align:center;padding:16px 12px;font-family:var(--f-tit);font-weight:600;font-size:18px}
+.bonus .bot s{font-size:24px;color:var(--bege-medio);text-decoration-color:var(--terra);text-decoration-thickness:3px}
+.bonus .bot b{font-size:20px;color:var(--mostarda)}
 
 /* Planes */
 .plans{display:grid;gap:22px}
@@ -235,7 +235,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
     <h2 class="h2">Bonos exclusivos</h2>
     <p class="sub">Gratis en el plan Premium.</p>
     <div class="card bonus">
-      <div class="top">Valor total <s>US$ 65</s> · hoy recibes <b>GRATIS</b></div>
+      <div class="top"><span>Valor total <s>US$ 65</s></span><span>hoy recibes <b>GRATIS</b></span></div>
       <div class="bn"><img src="img/modulo_11.svg" alt=""><div><h3>Las Parábolas de Jesús en acción</h3><p class="de">De <s>US$ 19</s> por <b>CERO</b></p><ul><li>El Buen Samaritano, la Oveja Perdida y más</li><li>Con preguntas para conversar</li></ul></div></div>
       <div class="bn"><img src="img/modulo_06.svg" alt=""><div><h3>Dinámicas para los Tiempos Litúrgicos</h3><p class="de">De <s>US$ 19</s> por <b>CERO</b></p><ul><li>Adviento, Navidad, Cuaresma y Pascua</li><li>Semana Santa y Pentecostés</li></ul></div></div>
       <div class="bn"><img src="img/modulo_07.svg" alt=""><div><h3>Kit de Primera Comunión</h3><p class="de">De <s>US$ 15</s> por <b>CERO</b></p><ul><li>Certificados e invitaciones para imprimir</li><li>Recordatorios con el nombre de cada niño</li></ul></div></div>
