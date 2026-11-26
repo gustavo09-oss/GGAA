@@ -1,0 +1,500 @@
+<title>Catequesis Viva</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="+500 dinámicas listas para la catequesis de niños: juegos, manualidades, oraciones y teatro para preparar la Primera Comunión.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap">
+<!--
+  LINKS DE CHECKOUT: troque os dois href abaixo pelos links da Hotmart/Kiwify.
+    #checkout-basico   -> plano Básico ($5)
+    #checkout-premium  -> plano Premium ($9,90)
+-->
+<style>
+/* Layout: faixas de largura total alternando creme e bege, conteúdo em coluna de 1080px. Mesma paleta do PDF. */
+:root{
+  --creme:#FBF7F1; --bege:#F3E9DC; --bege-medio:#E6D5BE; --bege-escuro:#C9AE8C;
+  --cafe:#4A3A2E; --cafe-suave:#7A6656; --cafe-fundo:#3B2F26;
+  --terra:#C9704F; --terra-escuro:#A1543A; --mostarda:#E2B45A; --mostarda-escuro:#9A7426;
+  --salvia:#8FAE8B; --salvia-escuro:#50704C; --ceu:#8DB8D6; --ceu-escuro:#457394;
+  --rosa:#D9A5A0; --lavanda:#A99BC9; --branco:#FFFFFF;
+  --f-tit:"Fredoka","Baloo 2","Trebuchet MS",sans-serif;
+  --f-txt:"Nunito","Segoe UI",system-ui,sans-serif;
+  --r:18px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
+body{background:var(--creme);color:var(--cafe);font-family:var(--f-txt);font-size:17px;line-height:1.6}
+img{max-width:100%;height:auto;display:block}
+a{color:inherit}
+h1,h2,h3,h4{font-family:var(--f-tit);font-weight:600;line-height:1.15;margin:0;text-wrap:balance}
+p{margin:0}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.band{padding-block:72px}
+.band.bege{background:var(--bege)}
+.band.escuro{background:var(--cafe-fundo);color:var(--creme)}
+.kicker{font-family:var(--f-tit);font-weight:500;font-size:14px;letter-spacing:.16em;text-transform:uppercase;color:var(--terra-escuro)}
+.sec-head{text-align:center;max-width:720px;margin:0 auto 40px;display:grid;gap:12px}
+.sec-head h2{font-size:clamp(28px,4.4vw,42px)}
+.sec-head p{color:var(--cafe-suave);font-size:18px}
+.hl{color:var(--terra)}
+:focus-visible{outline:3px solid var(--ceu-escuro);outline-offset:3px;border-radius:6px}
+
+/* Botão */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;text-decoration:none;font-family:var(--f-tit);font-weight:600;
+  font-size:20px;letter-spacing:.03em;text-transform:uppercase;background:var(--mostarda);color:var(--cafe);
+  padding:18px 40px;border-radius:999px;box-shadow:0 6px 0 var(--mostarda-escuro),0 14px 28px rgba(154,116,38,.28);
+  transition:transform .15s,box-shadow .15s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 8px 0 var(--mostarda-escuro),0 18px 32px rgba(154,116,38,.32)}
+.btn:active{transform:translateY(3px);box-shadow:0 3px 0 var(--mostarda-escuro)}
+.btn.terra{background:var(--terra);color:var(--branco);box-shadow:0 6px 0 var(--terra-escuro),0 14px 28px rgba(161,84,58,.3)}
+.btn.terra:hover{box-shadow:0 8px 0 var(--terra-escuro),0 18px 32px rgba(161,84,58,.34)}
+.btn.block{width:100%}
+
+/* Faixa topo */
+.topbar{background:var(--terra);color:var(--branco);text-align:center;font-weight:700;font-size:15px;padding-block:10px}
+.topbar b{background:var(--creme);color:var(--terra-escuro);border-radius:8px;padding:2px 10px;margin-left:6px;font-family:var(--f-tit);font-weight:600}
+
+/* Hero */
+.hero{background:radial-gradient(ellipse at 50% 0%,var(--bege) 0,var(--creme) 70%);padding-block:40px 64px;text-align:center}
+.hero .wrap{display:grid;justify-items:center;gap:22px}
+.pill{display:inline-block;border:2px solid var(--bege-escuro);background:var(--branco);border-radius:999px;padding:6px 18px;
+  font-family:var(--f-tit);font-weight:500;font-size:15px;color:var(--cafe-suave)}
+.hero h1{font-size:clamp(34px,6vw,62px);max-width:880px;letter-spacing:-.01em}
+.hero h1 .num{color:var(--terra);font-weight:700}
+.hero .mock{width:100%;max-width:900px;filter:drop-shadow(0 20px 40px rgba(74,58,46,.18))}
+.hero .lead{font-size:clamp(17px,2.2vw,20px);max-width:640px;color:var(--cafe-suave)}
+.trust{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 22px;font-size:15px;font-weight:700;color:var(--cafe-suave)}
+.trust span::before{content:"✓";color:var(--salvia-escuro);margin-right:6px;font-weight:800}
+
+/* O que vai receber */
+.receive{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:18px}
+.rcv{background:var(--branco);border:2px solid var(--bege-medio);border-radius:var(--r);padding:22px 22px 24px;display:grid;gap:8px;align-content:start}
+.rcv .ico{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;font-family:var(--f-tit);font-weight:700;font-size:20px;color:var(--branco)}
+.rcv h3{font-size:21px}
+.rcv p{color:var(--cafe-suave);font-size:16px}
+.anatomy{margin-top:40px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:36px;align-items:center;
+  background:var(--bege);border-radius:28px;padding:32px}
+.anatomy img{border-radius:12px;box-shadow:0 16px 34px rgba(74,58,46,.2);transform:rotate(-1.5deg)}
+.anatomy h3{font-size:28px;margin-bottom:14px}
+.anatomy ol{list-style:none;margin:0;padding:0;display:grid;gap:10px;counter-reset:a}
+.anatomy li{display:grid;grid-template-columns:34px 1fr;gap:12px;align-items:start;counter-increment:a}
+.anatomy li::before{content:counter(a);width:30px;height:30px;border-radius:50%;background:var(--terra);color:var(--branco);
+  font-family:var(--f-tit);font-weight:600;display:grid;place-items:center;font-size:15px;margin-top:1px}
+.anatomy li:nth-child(even)::before{background:var(--terra-escuro)}
+.anatomy li b{font-family:var(--f-tit);font-weight:600}
+.mods{margin-top:40px;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,240px),1fr));gap:12px}
+.mod{display:grid;grid-template-columns:54px 1fr;gap:12px;align-items:center;background:var(--branco);border-radius:16px;padding:10px 14px 10px 10px;
+  border-left:8px solid var(--c)}
+.mod img{width:54px;height:54px;border-radius:12px;background:var(--cs)}
+.mod b{font-family:var(--f-tit);font-weight:600;font-size:16px;line-height:1.2;display:block}
+.mod small{font-weight:700;color:var(--cafe-suave);font-size:14px}
+.cta-row{display:grid;justify-items:center;gap:10px;margin-top:44px;text-align:center}
+.cta-row small{color:var(--cafe-suave);font-weight:600}
+
+/* Sacramentos */
+.fam{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,310px),1fr));gap:20px}
+.fam-card{background:var(--branco);border-radius:24px;overflow:hidden;border:2px solid var(--bege-medio);display:flex;flex-direction:column}
+.fam-card header{background:var(--c);color:var(--branco);padding:18px 22px}
+.fam-card header small{font-family:var(--f-tit);letter-spacing:.14em;text-transform:uppercase;font-size:13px;opacity:.9}
+.fam-card header h3{font-size:24px}
+.sac{padding:16px 22px;border-top:2px dashed var(--bege-medio);display:grid;gap:6px}
+.sac:first-of-type{border-top:none}
+.sac-top{display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.sac h4{font-size:19px}
+.sac .n{flex:0 0 auto;font-family:var(--f-tit);font-weight:600;font-size:14px;background:var(--cs);color:var(--cd);border-radius:999px;padding:2px 12px}
+.sac ul{margin:0;padding:0;list-style:none;font-size:15px;color:var(--cafe-suave);display:grid;gap:2px}
+.sac li::before{content:"• ";color:var(--c)}
+.sac-extra{margin-top:24px;background:var(--bege);border-radius:20px;padding:20px 24px;display:grid;grid-template-columns:72px 1fr;gap:18px;align-items:center}
+.sac-extra img{width:72px;height:72px}
+.sac-extra p{font-size:16px}
+
+/* Amostras */
+.samples{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr));gap:22px}
+.smp{all:unset;cursor:zoom-in;display:grid;gap:10px;text-align:center}
+.smp img{border-radius:10px;box-shadow:0 10px 24px rgba(74,58,46,.18);transition:transform .2s;border:1px solid var(--bege-medio)}
+.smp:hover img,.smp:focus-visible img{transform:translateY(-4px) rotate(-1deg)}
+.smp span{font-family:var(--f-tit);font-weight:500;font-size:16px}
+.smp small{display:block;font-family:var(--f-txt);font-size:13px;color:var(--cafe-suave);font-weight:700}
+dialog{border:none;padding:0;background:transparent;max-width:min(94vw,760px);max-height:94vh}
+dialog::backdrop{background:rgba(59,47,38,.78)}
+dialog img{max-height:88vh;width:auto;margin:0 auto;border-radius:10px}
+dialog button{position:absolute;top:8px;right:8px;width:44px;height:44px;border-radius:50%;border:none;background:var(--creme);color:var(--cafe);font-size:26px;cursor:pointer;line-height:1}
+
+/* Bônus */
+.bonus-list{display:grid;gap:16px;max-width:860px;margin:0 auto}
+.bonus{display:grid;grid-template-columns:86px 1fr auto;gap:20px;align-items:center;background:var(--branco);border:2px solid var(--bege-medio);border-radius:22px;padding:18px 22px}
+.bonus .tag{width:86px;height:86px;border-radius:20px;background:var(--cs);display:grid;place-items:center;text-align:center;font-family:var(--f-tit);color:var(--cd);line-height:1}
+.bonus .tag small{font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:600}
+.bonus .tag b{font-size:34px;font-weight:700}
+.bonus h3{font-size:21px;margin-bottom:4px}
+.bonus p{font-size:15.5px;color:var(--cafe-suave)}
+.bonus .val{font-family:var(--f-tit);font-weight:600;font-size:22px;color:var(--cafe);white-space:nowrap;text-align:right}
+.bonus .val small{display:block;font-family:var(--f-txt);font-size:12px;font-weight:700;color:var(--cafe-suave);text-transform:uppercase;letter-spacing:.08em}
+.total{max-width:860px;margin:22px auto 0;border:3px dashed var(--terra);border-radius:24px;background:var(--branco);padding:22px 26px;
+  display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:12px 24px}
+.total .lbl{font-family:var(--f-tit);font-weight:600;font-size:22px}
+.total .lbl small{display:block;font-family:var(--f-txt);font-weight:600;font-size:15px;color:var(--cafe-suave)}
+.total .price{display:flex;align-items:center;gap:16px}
+.total s{font-family:var(--f-tit);font-size:28px;color:var(--cafe-suave);text-decoration-color:var(--terra);text-decoration-thickness:3px}
+.total .free{font-family:var(--f-tit);font-weight:700;font-size:36px;color:var(--branco);background:var(--salvia-escuro);border-radius:14px;padding:4px 18px;transform:rotate(-3deg)}
+
+/* Planos */
+.plans{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,340px),1fr));gap:26px;max-width:940px;margin:0 auto;align-items:start}
+.plan{background:var(--creme);color:var(--cafe);border-radius:28px;padding:30px 28px 32px;display:grid;gap:18px;position:relative;border:3px solid var(--bege-medio)}
+.plan.prem{border-color:var(--mostarda);box-shadow:0 0 0 6px rgba(226,180,90,.25)}
+.plan .badge{position:absolute;top:-17px;left:50%;transform:translateX(-50%);background:var(--mostarda);color:var(--cafe);font-family:var(--f-tit);font-weight:600;
+  font-size:14px;letter-spacing:.1em;text-transform:uppercase;padding:6px 18px;border-radius:999px;white-space:nowrap}
+.plan h3{font-size:30px;text-align:center}
+.plan .sub{text-align:center;color:var(--cafe-suave);font-size:15px;margin-top:-10px}
+.plan .price{text-align:center;font-family:var(--f-tit);line-height:1}
+.plan .price .old{display:block;font-size:17px;color:var(--cafe-suave);margin-bottom:6px}
+.plan .price .old s{text-decoration-color:var(--terra);text-decoration-thickness:2px}
+.plan .price .now{font-size:64px;font-weight:700;color:var(--terra-escuro)}
+.plan .price .now sup{font-size:28px;vertical-align:28px;margin-right:2px}
+.plan .price .once{display:block;font-family:var(--f-txt);font-size:14px;font-weight:700;color:var(--cafe-suave);margin-top:8px}
+.plan h4{font-size:15px;letter-spacing:.12em;text-transform:uppercase;color:var(--cafe-suave);font-weight:600;border-top:2px dashed var(--bege-medio);padding-top:14px}
+.feat{list-style:none;margin:0;padding:0;display:grid;gap:9px;font-size:15.5px;line-height:1.45}
+.feat li{display:grid;grid-template-columns:24px 1fr;gap:8px}
+.feat li::before{content:"✓";width:22px;height:22px;border-radius:50%;background:var(--salvia);color:var(--branco);font-weight:800;font-size:13px;display:grid;place-items:center;margin-top:1px}
+.feat li.no{color:var(--bege-escuro)}
+.feat li.no::before{content:"✕";background:var(--bege-medio);color:var(--cafe-suave)}
+.feat li.bn::before{content:"★";background:var(--mostarda);color:var(--cafe)}
+.feat li b{color:var(--cafe)}
+.feat li.no b{color:inherit}
+.feat .v{color:var(--cafe-suave);font-size:13.5px;font-weight:700;white-space:nowrap}
+.plan .fine{text-align:center;font-size:13.5px;color:var(--cafe-suave);font-weight:600}
+
+/* Garantia */
+.guar{display:grid;grid-template-columns:240px 1fr;gap:40px;align-items:center;max-width:900px;margin:0 auto}
+.guar svg{width:100%;height:auto}
+.guar h2{font-size:clamp(28px,4vw,38px);margin-bottom:12px}
+.guar p{font-size:17.5px;color:var(--cafe-suave);margin-bottom:10px}
+
+/* FAQ */
+.faq{max-width:780px;margin:0 auto;display:grid;gap:12px}
+.faq details{background:var(--branco);border:2px solid var(--bege-medio);border-radius:18px;padding:0 22px}
+.faq details[open]{border-color:var(--bege-escuro)}
+.faq summary{cursor:pointer;list-style:none;font-family:var(--f-tit);font-weight:500;font-size:19px;padding:18px 34px 18px 0;position:relative}
+.faq summary::-webkit-details-marker{display:none}
+.faq summary::after{content:"+";position:absolute;right:0;top:50%;transform:translateY(-50%);width:28px;height:28px;border-radius:50%;
+  background:var(--bege);display:grid;place-items:center;font-size:20px;color:var(--terra-escuro);transition:transform .2s}
+.faq details[open] summary::after{content:"–"}
+.faq details p{padding-bottom:18px;color:var(--cafe-suave);font-size:16.5px}
+
+footer{background:var(--cafe-fundo);color:var(--bege-medio);text-align:center;padding-block:36px;font-size:14px}
+footer b{font-family:var(--f-tit);font-weight:600;color:var(--creme);font-size:20px;display:block;margin-bottom:6px}
+footer p{max-width:620px;margin:0 auto}
+
+@media (max-width:760px){
+  body{font-size:16px}
+  .band{padding-block:52px}
+  .anatomy{grid-template-columns:minmax(0,1fr);padding:22px 18px}
+  .anatomy img{width:100%;max-width:340px;margin:0 auto}
+  .bonus{grid-template-columns:64px 1fr;gap:14px;padding:16px}
+  .bonus .tag{width:64px;height:64px;border-radius:16px}
+  .bonus .tag b{font-size:26px}
+  .bonus .val{grid-column:2;text-align:left}
+  .bonus .val small{display:inline;margin-right:6px}
+  .guar{grid-template-columns:1fr;text-align:center;gap:20px}
+  .guar svg{max-width:200px;margin:0 auto}
+  .btn{font-size:17px;padding:16px 26px}
+  .total{justify-content:center;text-align:center}
+}
+</style>
+
+<div class="topbar">Oferta de lanzamiento · acceso inmediato <b>desde US$ 5</b></div>
+
+<!-- 1. HERO -->
+<header class="hero">
+  <div class="wrap">
+    <span class="pill">Material exclusivo para catequistas</span>
+    <h1><span class="num">+500</span> dinámicas listas para la catequesis de niños</h1>
+    <img class="mock" src="img/mockup.webp" width="1800" height="1500" alt="El PDF Catequesis Viva abierto en una tablet y un celular, rodeado de fichas de dinámicas impresas">
+    <p class="lead">Juegos, manualidades, oraciones, cantos y teatro, fieles a la fe católica, para preparar a tus niños para la Primera Comunión. Abres la ficha, juntas materiales de casa y el encuentro está listo.</p>
+    <a class="btn" href="#planes">¡Lo quiero ahora!</a>
+    <div class="trust"><span>510 dinámicas</span><span>PDF para imprimir o usar en el celular</span><span>Garantía de 7 días</span></div>
+  </div>
+</header>
+
+<!-- 2. LO QUE VAS A RECIBIR -->
+<section class="band" id="recibir">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker">Lo que vas a recibir</span>
+      <h2>Un año entero de encuentros, <span class="hl">sin improvisar</span></h2>
+      <p>Todo pensado para niños de 7 y 8 años que se preparan para la Primera Comunión, con adaptaciones para los más pequeños y los mayores.</p>
+    </div>
+
+    <div class="receive">
+      <div class="rcv"><div class="ico" style="background:var(--terra)">510</div><h3>510 dinámicas completas</h3><p>Una por página, en 11 módulos temáticos: de los rompehielos a los sacramentos, los mandamientos y la Misa.</p></div>
+      <div class="rcv"><div class="ico" style="background:var(--salvia)">7</div><h3>7 tipos de actividad</h3><p>Juego, manualidad, oración, música, teatro, reflexión y rompehielos. Cada uno con su ícono para encontrarlo rápido.</p></div>
+      <div class="rcv"><div class="ico" style="background:var(--ceu)">5′</div><h3>Listo en 5 minutos</h3><p>Pasos numerados y materiales que ya tienes: papel, lápices, cartulina, lana, cajas y globos.</p></div>
+      <div class="rcv"><div class="ico" style="background:var(--mostarda)">↗</div><h3>Índice que se toca</h3><p>Índice por módulo y por tipo de actividad. Tocas el título y el PDF te lleva directo a la página.</p></div>
+      <div class="rcv"><div class="ico" style="background:var(--lavanda)">60′</div><h3>Plan de encuentro de 60 min</h3><p>Una guía para armar cada encuentro: apertura, tema, dinámica central, oración y cierre.</p></div>
+      <div class="rcv"><div class="ico" style="background:var(--rosa)">✝</div><h3>Fiel a la doctrina</h3><p>Basado en el Catecismo de la Iglesia Católica, con citas bíblicas explicadas con palabras de niño.</p></div>
+    </div>
+
+    <div class="anatomy">
+      <img src="img/ficha_07-056.jpg" width="900" height="1165" alt="Ficha de ejemplo: El Banquete del Amor" loading="lazy">
+      <div>
+        <span class="kicker">Qué trae cada ficha</span>
+        <h3>Todo lo que necesitas, en una sola página</h3>
+        <ol>
+          <li><span><b>Objetivo</b> del encuentro en una frase clara.</span></li>
+          <li><span><b>Tipo, edad, duración y número de niños</b> en sellos de colores.</span></li>
+          <li><span><b>Materiales</b> con casillas para marcar mientras preparas.</span></li>
+          <li><span><b>Paso a paso</b> numerado, con lo que dices y lo que hacen los niños.</span></li>
+          <li><span><b>Adaptaciones</b> para los más pequeños (5 a 6 años) y para los mayores (9 a 10).</span></li>
+          <li><span><b>Mensaje para llevar a casa</b> con su cita bíblica explicada.</span></li>
+        </ol>
+      </div>
+    </div>
+
+    <div class="mods">
+      <div class="mod" style="--c:#E2B45A;--cs:#F7EBD0"><img src="img/modulo_01.svg" alt=""><div><b>Rompehielos y Bienvenida</b><small>40 dinámicas</small></div></div>
+      <div class="mod" style="--c:#8FAE8B;--cs:#E4ECDF"><img src="img/modulo_02.svg" alt=""><div><b>Dios Creador y la Creación</b><small>35 dinámicas</small></div></div>
+      <div class="mod" style="--c:#D9896C;--cs:#F6E1D6"><img src="img/modulo_03.svg" alt=""><div><b>Historias del Antiguo Testamento</b><small>40 dinámicas</small></div></div>
+      <div class="mod" style="--c:#8DB8D6;--cs:#E0ECF4"><img src="img/modulo_04.svg" alt=""><div><b>Jesús: Vida y Milagros</b><small>80 dinámicas</small></div></div>
+      <div class="mod" style="--c:#D9A5A0;--cs:#F5E4E1"><img src="img/modulo_05.svg" alt=""><div><b>María y los Santos</b><small>30 dinámicas</small></div></div>
+      <div class="mod" style="--c:#A99BC9;--cs:#E9E5F2"><img src="img/modulo_06.svg" alt=""><div><b>Aprendiendo a Orar</b><small>35 dinámicas</small></div></div>
+      <div class="mod" style="--c:#D6A445;--cs:#F4E7C9"><img src="img/modulo_07.svg" alt=""><div><b>Los Sacramentos</b><small>90 dinámicas</small></div></div>
+      <div class="mod" style="--c:#7FA27B;--cs:#E1EADC"><img src="img/modulo_08.svg" alt=""><div><b>Mandamientos y Valores</b><small>70 dinámicas</small></div></div>
+      <div class="mod" style="--c:#CB7E62;--cs:#F3DED4"><img src="img/modulo_09.svg" alt=""><div><b>La Iglesia y la Misa</b><small>30 dinámicas</small></div></div>
+      <div class="mod" style="--c:#79A7C9;--cs:#DDE9F2"><img src="img/modulo_10.svg" alt=""><div><b>Juegos de Repaso</b><small>30 dinámicas</small></div></div>
+      <div class="mod" style="--c:#B795B9;--cs:#EEE3EF"><img src="img/modulo_11.svg" alt=""><div><b>Cierres y Oración Final</b><small>30 dinámicas</small></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 3. POR SACRAMENTO -->
+<section class="band bege" id="sacramentos">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker">Organizado por sacramento</span>
+      <h2>90 dinámicas para vivir <span class="hl">los siete sacramentos</span></h2>
+      <p>Agrupadas como enseña la Iglesia, con un foco especial en lo que tus niños están viviendo ahora: la Primera Confesión y la Primera Comunión.</p>
+    </div>
+
+    <div class="fam">
+      <article class="fam-card" style="--c:#C9704F;--cs:#F6E1D6;--cd:#A1543A">
+        <header><small>Sacramentos de</small><h3>Iniciación cristiana</h3></header>
+        <div class="sac"><div class="sac-top"><h4>Bautismo</h4><span class="n">20 dinámicas</span></div>
+          <ul><li>La Vela de mi Bautismo</li><li>Gotitas de Agua Viva</li><li>Los Padrinos que me Acompañan</li></ul></div>
+        <div class="sac"><div class="sac-top"><h4>Eucaristía y Primera Comunión</h4><span class="n">28 dinámicas</span></div>
+          <ul><li>El Banquete del Amor</li><li>Ensayo: Cómo Recibir a Jesús</li><li>Cuenta Regresiva para Recibir a Jesús</li></ul></div>
+        <div class="sac"><div class="sac-top"><h4>Confirmación</h4><span class="n">2 dinámicas</span></div>
+          <ul><li>Los Siete Dones del Espíritu</li></ul></div>
+      </article>
+      <article class="fam-card" style="--c:#6F9EC0;--cs:#E0ECF4;--cd:#457394">
+        <header><small>Sacramentos de</small><h3>Curación</h3></header>
+        <div class="sac"><div class="sac-top"><h4>Reconciliación</h4><span class="n">22 dinámicas</span></div>
+          <ul><li>La Mochila Pesada</li><li>Los Cinco Pasos de la Confesión</li><li>Mi Hoja de Examen de Conciencia</li><li>Sin Miedo a Confesarme</li></ul></div>
+        <div class="sac"><div class="sac-top"><h4>Unción de los Enfermos</h4><span class="n">2 dinámicas</span></div>
+          <ul><li>El Aceite que Consuela</li></ul></div>
+      </article>
+      <article class="fam-card" style="--c:#7FA27B;--cs:#E1EADC;--cd:#48683F">
+        <header><small>Sacramentos al</small><h3>Servicio de la comunidad</h3></header>
+        <div class="sac"><div class="sac-top"><h4>Orden Sacerdotal</h4><span class="n">2 dinámicas</span></div>
+          <ul><li>El Sacerdote, Amigo de Jesús</li></ul></div>
+        <div class="sac"><div class="sac-top"><h4>Matrimonio</h4><span class="n">2 dinámicas</span></div>
+          <ul><li>Canción de la Familia que Ama</li></ul></div>
+        <div class="sac"><div class="sac-top"><h4>Los siete juntos</h4><span class="n">12 dinámicas</span></div>
+          <ul><li>Siete Regalos de Jesús</li><li>El Árbol de los Sacramentos</li><li>Pasaporte Sacramental</li></ul></div>
+      </article>
+    </div>
+
+    <div class="sac-extra">
+      <img src="img/caliz.svg" alt="">
+      <p><b>Y las otras 420 dinámicas preparan el corazón:</b> la Biblia, Jesús, María y los santos, la oración, los mandamientos y la Misa. Todo lo que un niño necesita entender antes de recibir a Jesús por primera vez.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 4. MUESTRAS -->
+<section class="band" id="muestras">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker">Mira por dentro</span>
+      <h2>Algunas de las dinámicas que vas a recibir</h2>
+      <p>Estas son páginas reales del material. Toca una para verla en grande.</p>
+    </div>
+    <div class="samples">
+      <button class="smp" type="button" data-src="img/ficha_01-002.jpg"><img src="img/ficha_01-002.jpg" alt="Ficha: El Tren de la Amistad" loading="lazy" width="900" height="1165"><span>El Tren de la Amistad<small>Rompehielos · 10 min</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_07-035.jpg"><img src="img/ficha_07-035.jpg" alt="Ficha: La Mochila Pesada" loading="lazy" width="900" height="1165"><span>La Mochila Pesada<small>Reconciliación</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_07-015.jpg"><img src="img/ficha_07-015.jpg" alt="Ficha: La Vela de mi Bautismo" loading="lazy" width="900" height="1165"><span>La Vela de mi Bautismo<small>Bautismo</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_07-069.jpg"><img src="img/ficha_07-069.jpg" alt="Ficha: Cuenta Regresiva para Recibir a Jesús" loading="lazy" width="900" height="1165"><span>Cuenta Regresiva para Recibir a Jesús<small>Primera Comunión</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_08-002.jpg"><img src="img/ficha_08-002.jpg" alt="Ficha: Las Dos Tablas" loading="lazy" width="900" height="1165"><span>Las Dos Tablas<small>Mandamientos</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_06-003.jpg"><img src="img/ficha_06-003.jpg" alt="Ficha: La Cruz que Llevo en Mí" loading="lazy" width="900" height="1165"><span>La Cruz que Llevo en Mí<small>Oración</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_05-004.jpg"><img src="img/ficha_05-004.jpg" alt="Ficha: Una Corona de Flores para María" loading="lazy" width="900" height="1165"><span>Una Corona de Flores para María<small>María y los Santos</small></span></button>
+      <button class="smp" type="button" data-src="img/ficha_10-002.jpg"><img src="img/ficha_10-002.jpg" alt="Ficha: Bingo de Repaso" loading="lazy" width="900" height="1165"><span>Bingo de Repaso<small>Juegos de repaso</small></span></button>
+    </div>
+  </div>
+</section>
+<dialog id="zoom"><button type="button" aria-label="Cerrar">×</button><img alt="Ficha ampliada"></dialog>
+
+<!-- 5. BONOS -->
+<section class="band bege" id="bonos">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker">Regalos del plan Premium</span>
+      <h2>5 bonos para completar <span class="hl">tu año de catequesis</span></h2>
+      <p>Llegan junto con las 510 dinámicas cuando eliges el plan Premium.</p>
+    </div>
+    <div class="bonus-list">
+      <div class="bonus" style="--cs:#F7EBD0;--cd:#9A7426"><div class="tag"><div><small>Bono</small><br><b>1</b></div></div>
+        <div><h3>Las Parábolas de Jesús en acción</h3><p>Dinámicas para vivir con los niños el Buen Samaritano, la Oveja Perdida, el Hijo Pródigo, el Sembrador y muchas más.</p></div>
+        <div class="val"><small>Valor</small>US$ 19</div></div>
+      <div class="bonus" style="--cs:#E9E5F2;--cd:#685A8C"><div class="tag"><div><small>Bono</small><br><b>2</b></div></div>
+        <div><h3>Dinámicas para los Tiempos Litúrgicos</h3><p>Adviento, Navidad, Cuaresma, Semana Santa, Pascua y Pentecostés, para acompañar el calendario de la Iglesia.</p></div>
+        <div class="val"><small>Valor</small>US$ 19</div></div>
+      <div class="bonus" style="--cs:#F6E1D6;--cd:#A1543A"><div class="tag"><div><small>Bono</small><br><b>3</b></div></div>
+        <div><h3>Kit de Primera Comunión para imprimir</h3><p>Certificados, invitaciones, recordatorios y tarjetas de oración listos para completar con el nombre de cada niño.</p></div>
+        <div class="val"><small>Valor</small>US$ 15</div></div>
+      <div class="bonus" style="--cs:#E0ECF4;--cd:#457394"><div class="tag"><div><small>Bono</small><br><b>4</b></div></div>
+        <div><h3>Planificador del año de catequesis</h3><p>Un calendario de encuentros ya armado con las dinámicas del libro, más hojas para anotar asistencia y avances.</p></div>
+        <div class="val"><small>Valor</small>US$ 12</div></div>
+      <div class="bonus" style="--cs:#E4ECDF;--cd:#50704C"><div class="tag"><div><small>Bono</small><br><b>5</b></div></div>
+        <div><h3>Libro para colorear «Mi camino a la Primera Comunión»</h3><p>Dibujos para imprimir y pintar en el encuentro o en casa, con una frase bíblica en cada página.</p></div>
+        <div class="val"><small>Valor</small>US$ 9</div></div>
+    </div>
+    <div class="total">
+      <div class="lbl">Valor total de los bonos<small>Incluidos en el plan Premium</small></div>
+      <div class="price"><s>US$ 74</s><span class="free">GRATIS</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- 6. PLANES -->
+<section class="band escuro" id="planes">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker" style="color:var(--mostarda)">Elige tu plan</span>
+      <h2 style="color:var(--creme)">Pago único. El material es tuyo para siempre.</h2>
+      <p style="color:var(--bege-medio)">Recibes el acceso en tu correo apenas se confirma el pago.</p>
+    </div>
+    <div class="plans">
+      <article class="plan">
+        <h3>Básico</h3>
+        <p class="sub">Solo las dinámicas</p>
+        <div class="price"><span class="now"><sup>US$</sup>5</span><span class="once">pago único</span></div>
+        <h4>Qué incluye</h4>
+        <ul class="feat">
+          <li><span><b>510 dinámicas de catequesis</b> en PDF (542 páginas)</span></li>
+          <li><span><b>11 módulos:</b> Rompehielos, Creación, Antiguo Testamento, Jesús, María y los Santos, Oración, Sacramentos, Mandamientos, Iglesia y Misa, Repaso y Cierres</span></li>
+          <li><span><b>90 dinámicas de sacramentos,</b> con foco en Confesión y Primera Comunión</span></li>
+          <li><span><b>Ficha completa en cada página:</b> objetivo, materiales con casillas, paso a paso, adaptaciones por edad y mensaje para llevar a casa</span></li>
+          <li><span><b>Cita bíblica explicada</b> para niños en cada dinámica</span></li>
+          <li><span><b>Sellos de edad, duración y número de niños</b></span></li>
+          <li><span><b>Índice que se toca</b> por módulo y por tipo de actividad</span></li>
+          <li><span><b>Plan de encuentro de 60 minutos</b> y oración de la catequista</span></li>
+          <li><span><b>Para imprimir o usar en el celular,</b> tablet o computadora</span></li>
+          <li class="no"><span><b>5 bonos del plan Premium</b></span></li>
+        </ul>
+        <a class="btn terra block" href="#checkout-basico">Quiero el Básico</a>
+        <p class="fine">Garantía de 7 días</p>
+      </article>
+
+      <article class="plan prem">
+        <span class="badge">El más elegido</span>
+        <h3>Premium</h3>
+        <p class="sub">Las dinámicas + 5 bonos</p>
+        <div class="price"><span class="old">Valor real <s>US$ 79</s></span><span class="now"><sup>US$</sup>9,90</span><span class="once">pago único</span></div>
+        <h4>Todo lo del Básico</h4>
+        <ul class="feat">
+          <li><span><b>510 dinámicas de catequesis</b> en PDF (542 páginas)</span></li>
+          <li><span><b>11 módulos:</b> Rompehielos, Creación, Antiguo Testamento, Jesús, María y los Santos, Oración, Sacramentos, Mandamientos, Iglesia y Misa, Repaso y Cierres</span></li>
+          <li><span><b>90 dinámicas de sacramentos,</b> con foco en Confesión y Primera Comunión</span></li>
+          <li><span><b>Ficha completa en cada página:</b> objetivo, materiales con casillas, paso a paso, adaptaciones por edad y mensaje para llevar a casa</span></li>
+          <li><span><b>Cita bíblica explicada</b> para niños en cada dinámica</span></li>
+          <li><span><b>Sellos de edad, duración y número de niños</b></span></li>
+          <li><span><b>Índice que se toca</b> por módulo y por tipo de actividad</span></li>
+          <li><span><b>Plan de encuentro de 60 minutos</b> y oración de la catequista</span></li>
+          <li><span><b>Para imprimir o usar en el celular,</b> tablet o computadora</span></li>
+        </ul>
+        <h4>Y además, gratis</h4>
+        <ul class="feat">
+          <li class="bn"><span><b>Bono 1:</b> Las Parábolas de Jesús en acción <span class="v">US$ 19</span></span></li>
+          <li class="bn"><span><b>Bono 2:</b> Dinámicas para los Tiempos Litúrgicos <span class="v">US$ 19</span></span></li>
+          <li class="bn"><span><b>Bono 3:</b> Kit de Primera Comunión para imprimir <span class="v">US$ 15</span></span></li>
+          <li class="bn"><span><b>Bono 4:</b> Planificador del año de catequesis <span class="v">US$ 12</span></span></li>
+          <li class="bn"><span><b>Bono 5:</b> Libro para colorear «Mi camino a la Primera Comunión» <span class="v">US$ 9</span></span></li>
+        </ul>
+        <a class="btn block" href="#checkout-premium">Quiero el Premium</a>
+        <p class="fine">Garantía de 7 días · Solo US$ 4,90 más que el Básico</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- 7. GARANTÍA -->
+<section class="band" id="garantia">
+  <div class="wrap guar">
+    <svg viewBox="0 0 240 240" role="img" aria-label="Sello de garantía de 7 días">
+      <defs><path id="circ" d="M120,120 m-88,0 a88,88 0 1,1 176,0 a88,88 0 1,1 -176,0"/></defs>
+      <g fill="#E2B45A">
+        <circle cx="120" cy="120" r="116"/>
+      </g>
+      <circle cx="120" cy="120" r="108" fill="none" stroke="#FBF7F1" stroke-width="3" stroke-dasharray="6 6"/>
+      <circle cx="120" cy="120" r="70" fill="#C9704F"/>
+      <circle cx="120" cy="120" r="63" fill="none" stroke="#FBF7F1" stroke-width="2"/>
+      <text font-family="Fredoka, sans-serif" font-weight="600" font-size="17" letter-spacing="3.2" fill="#4A3A2E">
+        <textPath href="#circ" startOffset="0">GARANTÍA INCONDICIONAL ✦ SATISFACCIÓN TOTAL ✦</textPath>
+      </text>
+      <text x="120" y="128" text-anchor="middle" font-family="Fredoka, sans-serif" font-weight="700" font-size="64" fill="#FBF7F1">7</text>
+      <text x="120" y="154" text-anchor="middle" font-family="Fredoka, sans-serif" font-weight="600" font-size="20" letter-spacing="2" fill="#FBF7F1">DÍAS</text>
+    </svg>
+    <div>
+      <span class="kicker">Riesgo cero</span>
+      <h2>Garantía incondicional de 7 días</h2>
+      <p>Descarga el material, úsalo en tus encuentros y mira la reacción de tus niños. Si por cualquier motivo no te gusta, pide el reembolso dentro de los 7 días y te devolvemos el 100% de tu dinero.</p>
+      <p>Sin preguntas y sin complicaciones. El reembolso lo procesa la misma plataforma de pago.</p>
+    </div>
+  </div>
+</section>
+
+<!-- 8. FAQ -->
+<section class="band bege" id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="kicker">Preguntas frecuentes</span>
+      <h2>¿Tienes alguna duda?</h2>
+    </div>
+    <div class="faq">
+      <details><summary>¿Cómo recibo el material?</summary><p>Apenas se confirma el pago, recibes en tu correo el acceso para descargar el PDF. Si pagas con tarjeta, llega en pocos minutos.</p></details>
+      <details><summary>¿Es un libro físico?</summary><p>No. Es un material digital en PDF. Puedes leerlo en el celular, la tablet o la computadora, e imprimir solo las páginas que vas a usar.</p></details>
+      <details><summary>¿Para qué edad sirven las dinámicas?</summary><p>Están pensadas para niños de 7 y 8 años que se preparan para la Primera Comunión. Cada ficha tiene un sello de edad (Todas, 5+ o 7+) y adaptaciones para niños de 5 a 6 años y de 9 a 10 años.</p></details>
+      <details><summary>¿Necesito comprar materiales caros?</summary><p>No. Casi todo se hace con cosas de casa: papel, lápices de colores, cartulina, lana, cajas, globos y tijeras. Muchas dinámicas no necesitan ningún material.</p></details>
+      <details><summary>¿Sirve si soy catequista principiante, mamá o maestra?</summary><p>Sí. Cada ficha explica paso a paso qué decir y qué hacer, y al inicio hay una guía para armar un encuentro de 60 minutos. No necesitas experiencia previa.</p></details>
+      <details><summary>¿El contenido es fiel a la Iglesia Católica?</summary><p>Sí. Las dinámicas siguen el Catecismo de la Iglesia Católica y cada una trae una cita bíblica con su referencia, explicada con palabras sencillas para los niños.</p></details>
+      <details><summary>¿Cuál es la diferencia entre el Básico y el Premium?</summary><p>El Básico trae las 510 dinámicas completas. El Premium trae las mismas 510 dinámicas y además los 5 bonos: Parábolas, Tiempos Litúrgicos, Kit de Primera Comunión, Planificador anual y Libro para colorear.</p></details>
+      <details><summary>¿Puedo imprimir varias veces?</summary><p>Sí. Puedes imprimir las fichas todas las veces que necesites para tus encuentros y para tu grupo. Te pedimos solo que no compartas ni revendas el archivo.</p></details>
+      <details><summary>¿Y si no me gusta?</summary><p>Tienes 7 días de garantía incondicional. Pides el reembolso en la plataforma de pago y recibes el 100% de tu dinero de vuelta.</p></details>
+      <details><summary>¿El pago es seguro?</summary><p>Sí. El pago se procesa en una plataforma reconocida de productos digitales, con conexión segura. Nosotros no vemos los datos de tu tarjeta.</p></details>
+    </div>
+    <div class="cta-row">
+      <a class="btn" href="#planes">Quiero mis 510 dinámicas</a>
+      <small>Acceso inmediato · Garantía de 7 días</small>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <b>Catequesis Viva</b>
+    <p>«Dejen que los niños vengan a mí» (Marcos 10, 14). Material digital para uso personal y de tu grupo de catequesis.</p>
+  </div>
+</footer>
+
+<script>
+(function(){
+  var d=document.getElementById('zoom');
+  if(!d||!d.showModal)return;
+  var im=d.querySelector('img');
+  document.querySelectorAll('.smp').forEach(function(b){
+    b.addEventListener('click',function(){im.src=b.dataset.src;im.alt=b.querySelector('img').alt;d.showModal();});
+  });
+  d.querySelector('button').addEventListener('click',function(){d.close();});
+  d.addEventListener('click',function(e){if(e.target===d)d.close();});
+})();
+</script>
