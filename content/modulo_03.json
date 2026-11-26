@@ -1,0 +1,1156 @@
+[
+  {
+    "id": "03-001",
+    "modulo": 3,
+    "titulo": "El Fruto que No Debíamos Tomar",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer la historia de Adán y Eva y comprender que desobedecer a Dios nos aleja de Él, pero Él nunca deja de amarnos.",
+    "materiales": [
+      "Una fruta de papel",
+      "Telas o ramas para el jardín (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta brevemente cómo Dios dio a Adán y Eva un jardín hermoso y les pidió no comer de un solo árbol.",
+      "Elige a niños para ser Adán, Eva, la serpiente y los árboles del jardín.",
+      "Representen la escena: la serpiente engaña, ellos toman el fruto y luego se esconden de Dios.",
+      "Haz de narrador y termina con Dios buscándolos: «¿Dónde estás?».",
+      "Conversen: ¿Por qué se escondieron? Dios siempre nos busca, aunque nos equivoquemos."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean árboles y animales del jardín.",
+    "para_los_mayores": "Que piensen en una situación de hoy en la que alguien nos invita a desobedecer.",
+    "cita_biblica": {
+      "referencia": "Génesis 3, 9",
+      "mensaje": "Dios llamó al hombre y le dijo: ¿Dónde estás?"
+    },
+    "mensaje_final": "Aunque me equivoque, Dios me sigue buscando."
+  },
+  {
+    "id": "03-002",
+    "modulo": 3,
+    "titulo": "El Arca de Noé en Parejas",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Conocer la historia de Noé y la fidelidad de Dios que salva.",
+    "materiales": [
+      "Tarjetas con animales repetidos de dos en dos",
+      "Una cuerda o cinta para marcar el arca"
+    ],
+    "preparacion": "Marca en el suelo la forma de un barco grande.",
+    "pasos": [
+      "Cuenta que Noé construyó un arca porque confió en Dios y metió animales de dos en dos.",
+      "Entrega una tarjeta a cada niño; deben imitar su animal para encontrar a su pareja.",
+      "Cuando la encuentren, entran juntos al arca.",
+      "Cuando todos estén dentro, di: «¡Empieza a llover!» y todos hacen el sonido de la lluvia.",
+      "Terminen con el arcoíris: todos levantan los brazos formando un arco."
+    ],
+    "para_los_mas_pequenos": "Que las parejas se encuentren con la ayuda de los dibujos, sin imitar.",
+    "para_los_mayores": "Que cada pareja diga una razón por la que Noé confió en Dios.",
+    "cita_biblica": {
+      "referencia": "Génesis 6, 22",
+      "mensaje": "Noé hizo todo tal como Dios le había mandado."
+    },
+    "mensaje_final": "Confiar en Dios me mantiene a salvo."
+  },
+  {
+    "id": "03-003",
+    "modulo": 3,
+    "titulo": "El Arcoíris de la Promesa",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Recordar que Dios cumple sus promesas, como hizo con Noé.",
+    "materiales": [
+      "Platos de papel o cartulina",
+      "Papel de seda o lápices de colores",
+      "Pegamento",
+      "Algodón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo, después del diluvio, Dios puso el arcoíris como signo de su promesa.",
+      "Entrega medio plato o media cartulina para hacer el arco.",
+      "Peguen tiras de papel de colores o pinten el arcoíris, con nubes de algodón en las puntas.",
+      "Escriban en el centro: «Dios cumple sus promesas».",
+      "Cuelguen los arcoíris en el salón o llévenlos a casa."
+    ],
+    "para_los_mas_pequenos": "Que peguen bolitas de papel de colores sobre un arco dibujado.",
+    "para_los_mayores": "Que escriban en cada color una promesa de Dios que conozcan.",
+    "cita_biblica": {
+      "referencia": "Génesis 9, 13",
+      "mensaje": "Dios dijo: Pongo mi arcoíris en las nubes como señal de mi promesa."
+    },
+    "mensaje_final": "Dios siempre cumple lo que promete."
+  },
+  {
+    "id": "03-004",
+    "modulo": 3,
+    "titulo": "Cuenta las Estrellas, Abraham",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la fe de Abraham y la promesa de Dios de darle una gran familia.",
+    "materiales": [
+      "Estrellas de papel con nombres",
+      "Una cartulina oscura"
+    ],
+    "preparacion": "Recorta muchas estrellas pequeñas de papel.",
+    "pasos": [
+      "Cuenta que Abraham era anciano y Dios lo invitó a mirar el cielo y contar las estrellas.",
+      "Pregunta: ¿Se pueden contar todas? Dios prometió que su familia sería así de grande.",
+      "Cada niño escribe su nombre en una estrella y la pega en la cartulina.",
+      "Explica que nosotros también somos parte de esa gran familia de fe.",
+      "Conversen: ¿Qué significa confiar en Dios aunque no veamos todavía lo que promete?"
+    ],
+    "para_los_mas_pequenos": "Que peguen estrellas con su nombre ya escrito por ti.",
+    "para_los_mayores": "Que escriban también el nombre de alguien que les enseñó la fe.",
+    "cita_biblica": {
+      "referencia": "Génesis 15, 5",
+      "mensaje": "Dios dijo a Abraham: Mira el cielo y cuenta las estrellas; así será tu familia."
+    },
+    "mensaje_final": "Soy parte de la gran familia de Dios."
+  },
+  {
+    "id": "03-005",
+    "modulo": 3,
+    "titulo": "Abraham Sale de Viaje",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que Abraham obedeció a Dios y confió en su guía.",
+    "materiales": [
+      "Una mochila con objetos de viaje",
+      "Cinta para marcar un camino"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios le dijo a Abraham: «Sal de tu tierra hacia la tierra que yo te mostraré».",
+      "Marca un camino con obstáculos fáciles (sillas, cojines).",
+      "Un niño es Abraham y lleva la mochila; otro es la «voz de Dios» que le indica el camino.",
+      "Abraham avanza siguiendo solo las indicaciones de la voz.",
+      "Conversen: ¿Fue fácil seguir la voz? Abraham confió en Dios aunque no conocía el camino."
+    ],
+    "para_los_mas_pequenos": "Que la voz de Dios camine al lado de Abraham dándole la mano.",
+    "para_los_mayores": "Que Abraham avance con los ojos vendados y mucho cuidado.",
+    "cita_biblica": {
+      "referencia": "Génesis 12, 1",
+      "mensaje": "Dios dijo a Abraham: Deja tu tierra y ve al lugar que yo te mostraré."
+    },
+    "mensaje_final": "Sigo a Dios aunque no conozca todo el camino."
+  },
+  {
+    "id": "03-006",
+    "modulo": 3,
+    "titulo": "La Túnica de Colores de José",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la historia de José, amado por su padre y fiel a Dios en las dificultades.",
+    "materiales": [
+      "Siluetas de túnica en papel",
+      "Papel de colores o revistas",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jacob regaló a su hijo José una túnica de muchos colores.",
+      "Entrega a cada niño una silueta de túnica.",
+      "Decórenla con tiras o trozos de papel de colores.",
+      "Mientras trabajan, cuenta cómo sus hermanos tuvieron envidia y lo vendieron.",
+      "Pregunta: ¿Cómo se sentía José? ¿Qué es la envidia y cómo la vencemos?"
+    ],
+    "para_los_mas_pequenos": "Que la pinten con crayones de muchos colores.",
+    "para_los_mayores": "Que escriban en cada color una cualidad de José: fiel, paciente, perdonador.",
+    "cita_biblica": {
+      "referencia": "Génesis 37, 3",
+      "mensaje": "Jacob amaba mucho a José y le hizo una túnica de colores."
+    },
+    "mensaje_final": "Dios está conmigo incluso en los momentos difíciles."
+  },
+  {
+    "id": "03-007",
+    "modulo": 3,
+    "titulo": "José Perdona a sus Hermanos",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "8 a 20 niños",
+    "objetivo": "Descubrir en la historia de José que el perdón es más fuerte que la envidia.",
+    "materiales": [
+      "Una túnica o tela de colores",
+      "Un saco con «trigo» (papel)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Resume la historia: José fue vendido, llegó a Egipto, Dios lo ayudó y se volvió un gran gobernador.",
+      "Reparte papeles: José, los hermanos, Jacob y el faraón.",
+      "Representen el reencuentro: los hermanos llegan a pedir comida y no reconocen a José.",
+      "José revela quién es y los abraza diciendo: «Los perdono; Dios lo convirtió en bien».",
+      "Conversen: ¿Qué hubiera pasado si José se vengaba? ¿A quién necesito perdonar yo?"
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean los hermanos que se inclinan ante José.",
+    "para_los_mayores": "Que preparen un diálogo propio para la escena.",
+    "cita_biblica": {
+      "referencia": "Génesis 50, 20",
+      "mensaje": "José dijo: Ustedes quisieron hacerme mal, pero Dios lo convirtió en bien."
+    },
+    "mensaje_final": "Perdonar es más fuerte que vengarse."
+  },
+  {
+    "id": "03-008",
+    "modulo": 3,
+    "titulo": "El Bebé en la Canasta",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer cómo Dios cuidó a Moisés desde pequeño.",
+    "materiales": [
+      "Vasos o platos de papel",
+      "Lana o papel café",
+      "Pinzas de ropa o figuras pequeñas",
+      "Tela pequeña"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo la mamá de Moisés lo puso en una canasta en el río para salvarlo, y la hija del faraón lo encontró.",
+      "Hagan una canasta con el vaso o plato y decórenla con lana o tiras de papel.",
+      "Con una pinza de ropa o una figura, hagan al bebé Moisés y envuélvanlo en la tela.",
+      "Coloquen al bebé en la canasta.",
+      "Explica: Dios cuida de cada niño, ¡también de ti!"
+    ],
+    "para_los_mas_pequenos": "Que decoren la canasta y tú les das el bebé ya hecho.",
+    "para_los_mayores": "Que escriban en la canasta: «Dios tenía un plan para Moisés».",
+    "cita_biblica": {
+      "referencia": "Éxodo 2, 10",
+      "mensaje": "La hija del faraón lo llamó Moisés, porque lo sacó del agua."
+    },
+    "mensaje_final": "Dios cuida de mí desde que nací."
+  },
+  {
+    "id": "03-009",
+    "modulo": 3,
+    "titulo": "La Zarza que Ardía",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer cómo Dios llamó a Moisés y descubrir que Dios es santo y nos llama por nuestro nombre.",
+    "materiales": [
+      "Una vela apagada o una zarza de papel rojo y amarillo",
+      "Zapatos (de los niños)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Moisés vio una zarza que ardía sin quemarse y Dios lo llamó: «¡Moisés, Moisés!».",
+      "Explica que Dios le pidió quitarse las sandalias porque estaba en un lugar santo.",
+      "Invita a los niños a quitarse los zapatos en silencio, como signo de respeto.",
+      "Llama a cada niño por su nombre suavemente; él responde «Aquí estoy».",
+      "Conversen: ¿Dónde está Dios presente hoy? En la iglesia, en la oración, en nuestro corazón."
+    ],
+    "para_los_mas_pequenos": "Que solo respondan «Aquí estoy» con una sonrisa.",
+    "para_los_mayores": "Que piensen para qué los podría estar llamando Dios.",
+    "cita_biblica": {
+      "referencia": "Éxodo 3, 4",
+      "mensaje": "Dios llamó desde la zarza: ¡Moisés, Moisés! Y él respondió: Aquí estoy."
+    },
+    "mensaje_final": "Dios me llama y yo respondo: ¡Aquí estoy!"
+  },
+  {
+    "id": "03-010",
+    "modulo": 3,
+    "titulo": "Cruzando el Mar Rojo",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "10 a 30 niños",
+    "objetivo": "Conocer cómo Dios liberó a su pueblo y abrió un camino donde no lo había.",
+    "materiales": [
+      "Dos telas azules o sábanas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el pueblo de Israel escapaba de Egipto y el mar les cerraba el paso.",
+      "Dos grupos de niños sostienen las telas como si fueran el mar.",
+      "Un niño hace de Moisés y levanta los brazos: el «mar» se abre formando un pasillo.",
+      "El resto del pueblo cruza caminando y cantando por el medio.",
+      "Cuando todos pasen, el mar se vuelve a cerrar y celebran: «¡Dios nos salvó!»."
+    ],
+    "para_los_mas_pequenos": "Que crucen tomados de la mano de un compañero mayor.",
+    "para_los_mayores": "Que cada uno diga al cruzar algo de lo que Dios los ha liberado (miedo, tristeza).",
+    "cita_biblica": {
+      "referencia": "Éxodo 14, 21-22",
+      "mensaje": "Moisés extendió la mano, Dios abrió el mar y el pueblo pasó por tierra seca."
+    },
+    "mensaje_final": "Dios abre caminos para mí."
+  },
+  {
+    "id": "03-011",
+    "modulo": 3,
+    "titulo": "El Maná del Cielo",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Dios cuidó a su pueblo en el desierto y nos da lo que necesitamos cada día.",
+    "materiales": [
+      "Bolitas de papel blanco o algodón",
+      "Bolsitas o vasos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo el pueblo tenía hambre en el desierto y Dios les envió maná cada mañana.",
+      "Esparce las bolitas blancas por el suelo mientras los niños «duermen».",
+      "Al decir «¡Amaneció!», cada uno recoge solo lo que necesita (por ejemplo, cinco bolitas).",
+      "Explica que el maná no se podía guardar, porque Dios quería que confiaran en Él cada día.",
+      "Recen juntos: «Danos hoy nuestro pan de cada día»."
+    ],
+    "para_los_mas_pequenos": "Que recojan libremente y luego cuenten juntos con tu ayuda.",
+    "para_los_mayores": "Que piensen cuáles son los «manás» que Dios les da cada día.",
+    "cita_biblica": {
+      "referencia": "Éxodo 16, 4",
+      "mensaje": "Dios dijo: Haré llover pan del cielo para ustedes."
+    },
+    "mensaje_final": "Dios me da lo que necesito cada día."
+  },
+  {
+    "id": "03-012",
+    "modulo": 3,
+    "titulo": "Las Murallas de Jericó",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer cómo el pueblo confió en Dios y obedeció, y las murallas cayeron.",
+    "materiales": [
+      "Cajas o bloques para armar una muralla",
+      "Instrumentos caseros (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Arma una muralla con cajas en el centro del salón.",
+      "Cuenta que Dios pidió a Josué dar vueltas a la ciudad durante siete días.",
+      "Los niños marchan alrededor de la muralla en silencio, una vuelta por cada día.",
+      "En la séptima vuelta, todos tocan trompetas imaginarias y gritan: «¡Alabado sea Dios!».",
+      "Derriba suavemente la muralla y celebren: obedecer a Dios trae victoria."
+    ],
+    "para_los_mas_pequenos": "Que marchen tomados de la mano y den solo tres vueltas.",
+    "para_los_mayores": "Que cada uno diga una «muralla» de su vida que Dios puede derribar.",
+    "cita_biblica": {
+      "referencia": "Josué 6, 20",
+      "mensaje": "El pueblo gritó, sonaron las trompetas y las murallas cayeron."
+    },
+    "mensaje_final": "Con Dios, ninguna muralla es demasiado alta."
+  },
+  {
+    "id": "03-013",
+    "modulo": 3,
+    "titulo": "Samuel, ¡Escucha!",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender, como Samuel, a escuchar la voz de Dios.",
+    "materiales": [
+      "Una manta o cojín"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el niño Samuel dormía en el templo y escuchó una voz que lo llamaba.",
+      "Un niño hace de Samuel acostado; otro hace de Elí, el sacerdote.",
+      "Tú haces la voz: «¡Samuel!». Samuel corre a Elí tres veces.",
+      "Elí le dice: «Si te llama otra vez, responde: Habla, Señor, que tu siervo escucha».",
+      "Repitan con otros niños y conversen: ¿Cómo nos habla Dios hoy?"
+    ],
+    "para_los_mas_pequenos": "Que todos sean Samuel y respondan juntos.",
+    "para_los_mayores": "Que piensen en momentos para hacer silencio y escuchar a Dios.",
+    "cita_biblica": {
+      "referencia": "1 Samuel 3, 10",
+      "mensaje": "Samuel respondió: Habla, Señor, que tu siervo escucha."
+    },
+    "mensaje_final": "Habla, Señor, que yo te escucho."
+  },
+  {
+    "id": "03-014",
+    "modulo": 3,
+    "titulo": "David y el Gigante",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que con la confianza en Dios podemos vencer los miedos más grandes.",
+    "materiales": [
+      "Una bolita de papel",
+      "Una cuerda corta (honda)",
+      "Cartón para la armadura (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo el gigante Goliat asustaba a todo el ejército y nadie se atrevía a enfrentarlo.",
+      "Elige a un niño grande para ser Goliat (de pie sobre una silla con cuidado) y a otro para ser David.",
+      "David se acerca diciendo: «Tú vienes con espada, yo vengo en el nombre del Señor».",
+      "David lanza la bolita de papel y Goliat cae sentado suavemente.",
+      "Conversen: ¿Cuáles son nuestros gigantes? El miedo, la tristeza... Dios nos da valor."
+    ],
+    "para_los_mas_pequenos": "Que el «ejército» sean los pequeños y animen a David.",
+    "para_los_mayores": "Que escriban en un papel su «gigante» y lo rompan como signo de confianza.",
+    "cita_biblica": {
+      "referencia": "1 Samuel 17, 45",
+      "mensaje": "David dijo: Yo vengo contra ti en el nombre del Señor."
+    },
+    "mensaje_final": "Con Dios, soy valiente."
+  },
+  {
+    "id": "03-015",
+    "modulo": 3,
+    "titulo": "El Pastorcito David",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Conocer a David como pastor y como cantor que alababa a Dios.",
+    "materiales": [
+      "Ovejitas de papel o algodón (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que David cuidaba ovejas y tocaba el arpa para alabar a Dios.",
+      "Enseña un canto sencillo: «El Señor es mi pastor, nada me faltará».",
+      "Unos niños son ovejas que caminan y otros pastores que las guían cantando.",
+      "Cuando el canto se detiene, las ovejas buscan a su pastor.",
+      "Explica que David escribió muchos salmos, que son cantos para Dios."
+    ],
+    "para_los_mas_pequenos": "Que todos sean ovejas siguiendo a la catequista.",
+    "para_los_mayores": "Que inventen una estrofa nueva del salmo con sus palabras.",
+    "cita_biblica": {
+      "referencia": "Salmo 23, 1",
+      "mensaje": "El Señor es mi pastor, nada me falta."
+    },
+    "mensaje_final": "Dios es mi pastor y me cuida."
+  },
+  {
+    "id": "03-016",
+    "modulo": 3,
+    "titulo": "Salomón Pide Sabiduría",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que el regalo más valioso que podemos pedir a Dios es un corazón sabio.",
+    "materiales": [
+      "Tarjetas con deseos (dinero, juguetes, fama, sabiduría, amigos)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios le dijo al rey Salomón: «Pídeme lo que quieras».",
+      "Muestra las tarjetas y pregunta: ¿Qué pedirían ustedes?",
+      "Cuenta que Salomón pidió sabiduría para gobernar bien, y a Dios le agradó mucho.",
+      "Conversen: ¿Para qué nos sirve la sabiduría? Para elegir bien y ayudar a otros.",
+      "Cada niño escribe una oración pidiendo sabiduría para algo concreto."
+    ],
+    "para_los_mas_pequenos": "Que elijan una tarjeta y expliquen por qué con tu ayuda.",
+    "para_los_mayores": "Que piensen en una decisión difícil donde necesitan la sabiduría de Dios.",
+    "cita_biblica": {
+      "referencia": "1 Reyes 3, 9",
+      "mensaje": "Salomón pidió: Dame un corazón sabio para distinguir el bien del mal."
+    },
+    "mensaje_final": "Señor, dame un corazón sabio."
+  },
+  {
+    "id": "03-017",
+    "modulo": 3,
+    "titulo": "Elías y los Cuervos",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender a confiar en que Dios provee lo que necesitamos.",
+    "materiales": [
+      "Cuervos de papel negro (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el profeta Elías estaba en el desierto y Dios le enviaba cuervos con pan cada día.",
+      "Pregunta: ¿Qué necesitamos cada día? Comida, cariño, salud, familia.",
+      "Por turnos, cada niño dice: «Gracias, Dios, porque me das...».",
+      "Todos responden: «¡Dios cuida de nosotros!» y mueven los brazos como alas.",
+      "Terminen con una oración pidiendo por quienes no tienen lo necesario."
+    ],
+    "para_los_mas_pequenos": "Que solo muevan los brazos y digan «¡Gracias, Dios!».",
+    "para_los_mayores": "Que piensen cómo pueden ser ellos los «cuervos» que ayudan a otros.",
+    "cita_biblica": {
+      "referencia": "1 Reyes 17, 6",
+      "mensaje": "Los cuervos le llevaban pan y carne a Elías cada mañana y cada tarde."
+    },
+    "mensaje_final": "Dios encuentra la manera de cuidarme."
+  },
+  {
+    "id": "03-018",
+    "modulo": 3,
+    "titulo": "La Voz Suave en la Montaña",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Dios habla muchas veces en el silencio y la calma.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Elías esperó a Dios en la montaña: hubo viento, terremoto y fuego, pero Dios no estaba ahí.",
+      "Hagan juntos con el cuerpo el viento, el terremoto y el fuego, con mucho ruido.",
+      "Luego pide silencio total y di muy suave: «Dios estaba en la brisa suave».",
+      "Quédense un minuto en silencio, escuchando.",
+      "Pregunta: ¿Qué sintieron en el silencio? ¿Dónde pueden hacer silencio para hablar con Dios?"
+    ],
+    "para_los_mas_pequenos": "Que el silencio dure 20 segundos con una campanita al final.",
+    "para_los_mayores": "Que escriban qué les ayuda a hacer silencio para rezar.",
+    "cita_biblica": {
+      "referencia": "1 Reyes 19, 12",
+      "mensaje": "Después del fuego, se oyó una brisa suave, y allí estaba Dios."
+    },
+    "mensaje_final": "En el silencio escucho a Dios."
+  },
+  {
+    "id": "03-019",
+    "modulo": 3,
+    "titulo": "Jonás y el Gran Pez",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Conocer la historia de Jonás y aprender que es mejor obedecer a Dios.",
+    "materiales": [
+      "Una manta o sábana"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo Jonás huyó en un barco en lugar de ir a Nínive, como Dios le pidió.",
+      "Los niños forman un círculo tomados de las manos: son el gran pez.",
+      "Un niño es Jonás y entra al centro; el pez lo «traga» cerrando el círculo.",
+      "Jonás reza desde dentro: «Perdóname, Señor, obedeceré». El pez abre el círculo y lo deja salir.",
+      "Repitan con otros niños y conversen: ¿Por qué es mejor obedecer a tiempo?"
+    ],
+    "para_los_mas_pequenos": "Que el pez se mueva despacio y Jonás salga gateando.",
+    "para_los_mayores": "Que Jonás diga una situación en la que le cuesta obedecer.",
+    "cita_biblica": {
+      "referencia": "Jonás 2, 2",
+      "mensaje": "Desde el vientre del pez, Jonás rezó al Señor su Dios."
+    },
+    "mensaje_final": "Es mejor obedecer a Dios desde el principio."
+  },
+  {
+    "id": "03-020",
+    "modulo": 3,
+    "titulo": "Daniel y los Leones Dormidos",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir en Daniel la fidelidad a la oración y la protección de Dios.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Daniel rezaba tres veces al día aunque el rey lo había prohibido, y lo lanzaron al foso de los leones.",
+      "Varios niños son leones que rugen y caminan en cuatro patas.",
+      "Un niño es Daniel y se arrodilla a rezar en el centro.",
+      "Tú haces de ángel y dices: «¡Leones, a dormir!». Todos los leones se acuestan tranquilos.",
+      "Conversen: Daniel no dejó de rezar; ¿cuándo rezamos nosotros cada día?"
+    ],
+    "para_los_mas_pequenos": "Que todos sean leones que rugen y luego se duermen.",
+    "para_los_mayores": "Que Daniel diga una oración corta en voz alta mientras los leones se calman.",
+    "cita_biblica": {
+      "referencia": "Daniel 6, 23",
+      "mensaje": "Daniel dijo: Mi Dios envió a su ángel y cerró la boca de los leones."
+    },
+    "mensaje_final": "Rezar cada día me hace fuerte."
+  },
+  {
+    "id": "03-021",
+    "modulo": 3,
+    "titulo": "Caín y Abel: Hermanos que se Cuidan",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Reflexionar sobre la envidia y descubrir que Dios nos pide cuidar a nuestros hermanos.",
+    "materiales": [
+      "Dos cajas pequeñas",
+      "Papelitos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta de forma sencilla que Caín sintió envidia de su hermano Abel y le hizo daño, y Dios le preguntó: «¿Dónde está tu hermano?».",
+      "Pregunta: ¿Qué es la envidia? ¿Alguna vez la sentimos?",
+      "En una caja, los niños ponen papelitos con cosas que dañan a los hermanos (gritar, burlarse, no compartir).",
+      "En la otra, ponen cosas que los cuidan (ayudar, abrazar, prestar, perdonar).",
+      "Rompan juntos los papeles de la primera caja y lean los de la segunda como compromiso."
+    ],
+    "para_los_mas_pequenos": "Que dibujen caritas tristes y felices en lugar de escribir.",
+    "para_los_mayores": "Que piensen en un gesto concreto para su hermano o primo esta semana.",
+    "cita_biblica": {
+      "referencia": "Génesis 4, 9",
+      "mensaje": "Dios preguntó a Caín: ¿Dónde está tu hermano?"
+    },
+    "mensaje_final": "Yo cuido a mis hermanos."
+  },
+  {
+    "id": "03-022",
+    "modulo": 3,
+    "titulo": "La Torre que No Llegó al Cielo",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que el orgullo nos divide y que con Dios nos entendemos.",
+    "materiales": [
+      "Vasos de plástico o bloques"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que en Babel las personas quisieron construir una torre hasta el cielo para ser más grandes que Dios.",
+      "Forma equipos que construyan torres con los vasos.",
+      "A mitad del juego, pide que cada uno hable solo con sonidos inventados, sin palabras.",
+      "Observen qué pasa: es difícil construir sin entenderse.",
+      "Conversen: el orgullo nos separa; la humildad y el amor nos unen."
+    ],
+    "para_los_mas_pequenos": "Que construyan juntos una sola torre con tu ayuda.",
+    "para_los_mayores": "Que comparen con el día en que el Espíritu Santo ayudó a los apóstoles a hablar a todos.",
+    "cita_biblica": {
+      "referencia": "Génesis 11, 9",
+      "mensaje": "Por eso aquella ciudad se llamó Babel, porque allí se confundieron las lenguas."
+    },
+    "mensaje_final": "Con humildad y amor nos entendemos."
+  },
+  {
+    "id": "03-023",
+    "modulo": 3,
+    "titulo": "La Escalera de Jacob",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Dios está cerca de nosotros incluso cuando no lo esperamos.",
+    "materiales": [
+      "Palitos de helado o tiras de cartulina",
+      "Pegamento",
+      "Ángeles de papel pequeños"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jacob soñó con una escalera que subía al cielo, con ángeles que subían y bajaban.",
+      "Armen una escalera pegando palitos o tiras de cartulina.",
+      "Peguen ángeles de papel en los escalones.",
+      "En la parte de arriba escriban: «Dios está aquí, y yo no lo sabía».",
+      "Conversen: ¿En qué lugares sentimos que Dios está cerca?"
+    ],
+    "para_los_mas_pequenos": "Que peguen los ángeles en una escalera ya armada.",
+    "para_los_mayores": "Que escriban en cada escalón un momento del día para pensar en Dios.",
+    "cita_biblica": {
+      "referencia": "Génesis 28, 16",
+      "mensaje": "Jacob despertó y dijo: Verdaderamente Dios está en este lugar."
+    },
+    "mensaje_final": "Dios está cerca de mí siempre."
+  },
+  {
+    "id": "03-024",
+    "modulo": 3,
+    "titulo": "José y los Sueños del Faraón",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer cómo Dios dio sabiduría a José para ayudar a todo un pueblo.",
+    "materiales": [
+      "Tarjetas con dibujos de vacas gordas y flacas, espigas llenas y secas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el faraón tuvo sueños extraños y José, con la ayuda de Dios, los explicó.",
+      "Muestra las tarjetas y pide a los niños que adivinen qué significaban.",
+      "Explica: siete años de abundancia y siete de hambre; José guardó trigo para todos.",
+      "Jueguen a guardar: cada niño recibe «granos» (papelitos) y decide cuántos guardar para compartir después.",
+      "Conversen: ¿Por qué es importante pensar en los demás y compartir?"
+    ],
+    "para_los_mas_pequenos": "Muestra las tarjetas y que digan qué ven: gordo, flaco, lleno, vacío.",
+    "para_los_mayores": "Que inventen cómo José organizó el reparto del trigo.",
+    "cita_biblica": {
+      "referencia": "Génesis 41, 16",
+      "mensaje": "José respondió al faraón: No soy yo, es Dios quien dará la respuesta."
+    },
+    "mensaje_final": "Dios me da sabiduría para ayudar a otros."
+  },
+  {
+    "id": "03-025",
+    "modulo": 3,
+    "titulo": "Agua de la Roca",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender que Dios escucha las necesidades de su pueblo y responde.",
+    "materiales": [
+      "Un bastón o palo de escoba",
+      "Una tela azul"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el pueblo tenía mucha sed en el desierto y se quejaba.",
+      "Los niños caminan cansados y dicen: «¡Tenemos sed!».",
+      "Un niño es Moisés; golpea suavemente una «roca» (una silla) con el bastón.",
+      "Extiende la tela azul como agua que brota, y todos beben con alegría y dan gracias.",
+      "Conversen: en lugar de quejarnos, podemos pedirle a Dios con confianza."
+    ],
+    "para_los_mas_pequenos": "Que todos sean el pueblo y beban del agua con las manos.",
+    "para_los_mayores": "Que cambien las quejas por oraciones de petición.",
+    "cita_biblica": {
+      "referencia": "Éxodo 17, 6",
+      "mensaje": "Golpea la roca y saldrá agua para que el pueblo beba."
+    },
+    "mensaje_final": "Dios escucha lo que necesito."
+  },
+  {
+    "id": "03-026",
+    "modulo": 3,
+    "titulo": "Gedeón y los Trescientos",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "10 a 30 niños",
+    "objetivo": "Descubrir que Dios hace grandes cosas con pocos cuando confían en Él.",
+    "materiales": [
+      "Vasos de papel",
+      "Linternas o círculos de papel amarillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios eligió a Gedeón con solo trescientos hombres para que todos supieran que la victoria venía de Dios.",
+      "Todos los niños esconden una «antorcha» (círculo amarillo) dentro de un vaso.",
+      "En silencio, rodean el salón como el ejército de Gedeón.",
+      "A tu señal, sacan la antorcha, la levantan y gritan: «¡Por el Señor!».",
+      "Conversen: Dios no necesita que seamos muchos, sino que confiemos en Él."
+    ],
+    "para_los_mas_pequenos": "Que caminen en fila tomados de la mano.",
+    "para_los_mayores": "Que piensen algo que parece imposible y que pueden poner en manos de Dios.",
+    "cita_biblica": {
+      "referencia": "Jueces 7, 7",
+      "mensaje": "Dios dijo a Gedeón: Con estos trescientos hombres los salvaré."
+    },
+    "mensaje_final": "Con Dios, lo pequeño se vuelve grande."
+  },
+  {
+    "id": "03-027",
+    "modulo": 3,
+    "titulo": "Rut, la Amiga Fiel",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar la fidelidad y el cuidado de los demás con el ejemplo de Rut.",
+    "materiales": [
+      "Espigas de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo Rut no abandonó a su suegra Noemí y le dijo: «A donde tú vayas, iré yo».",
+      "Explica que Rut trabajó recogiendo espigas para cuidar a Noemí.",
+      "Entrega espigas de papel; en cada una, escriben el nombre de alguien a quien quieren cuidar.",
+      "Formen un manojo con todas las espigas.",
+      "Recen por esas personas y pidan ser fieles como Rut."
+    ],
+    "para_los_mas_pequenos": "Que dibujen a una persona de su familia en la espiga.",
+    "para_los_mayores": "Que escriban qué harán concretamente por esa persona.",
+    "cita_biblica": {
+      "referencia": "Rut 1, 16",
+      "mensaje": "Rut dijo: A donde tú vayas, iré yo; tu Dios será mi Dios."
+    },
+    "mensaje_final": "Soy un amigo fiel como Rut."
+  },
+  {
+    "id": "03-028",
+    "modulo": 3,
+    "titulo": "Ana Reza con el Corazón",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender de Ana a rezar con confianza y a dar gracias cuando Dios nos escucha.",
+    "materiales": [
+      "Corazones de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Ana deseaba mucho un hijo y rezaba en el templo con todo su corazón, y Dios le dio a Samuel.",
+      "Entrega un corazón de papel a cada niño.",
+      "De un lado, escriben algo que desean pedir a Dios.",
+      "Del otro lado, escriben algo por lo que ya dan gracias.",
+      "Colóquenlos en un lugar especial y recen juntos en silencio."
+    ],
+    "para_los_mas_pequenos": "Que dibujen lo que piden y tú les ayudas con la palabra.",
+    "para_los_mayores": "Que escriban su petición en forma de oración: «Señor, te pido...».",
+    "cita_biblica": {
+      "referencia": "1 Samuel 1, 27",
+      "mensaje": "Ana dijo: Recé por este niño y el Señor me lo concedió."
+    },
+    "mensaje_final": "Dios escucha mi oración."
+  },
+  {
+    "id": "03-029",
+    "modulo": 3,
+    "titulo": "David y Jonatán, Amigos de Verdad",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir en la amistad de David y Jonatán cómo es un amigo verdadero.",
+    "materiales": [
+      "Una tela o manto",
+      "Un arco de cartón (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jonatán, hijo del rey, quería mucho a David y le regaló su manto como signo de amistad.",
+      "En parejas, un niño es David y otro Jonatán; se entregan el manto.",
+      "Representen cómo Jonatán avisó a David del peligro para protegerlo.",
+      "Pregunta: ¿Qué hace un buen amigo? Cuida, avisa, ayuda, no traiciona.",
+      "Cada pareja se dice una frase de amistad."
+    ],
+    "para_los_mas_pequenos": "Que solo se den el manto y un abrazo.",
+    "para_los_mayores": "Que escriban una lista de cualidades de un amigo de verdad.",
+    "cita_biblica": {
+      "referencia": "1 Samuel 18, 3",
+      "mensaje": "Jonatán y David hicieron un pacto de amistad, porque lo quería como a sí mismo."
+    },
+    "mensaje_final": "Quiero ser un amigo de verdad."
+  },
+  {
+    "id": "03-030",
+    "modulo": 3,
+    "titulo": "David Baila de Alegría",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Expresar la alegría de tener a Dios cerca con música y baile.",
+    "materiales": [
+      "Música alegre (opcional)",
+      "Cintas o pañuelos de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el rey David bailó con todas sus fuerzas de alegría ante el arca de Dios.",
+      "Entrega cintas o pañuelos a los niños.",
+      "Pon música o canta un canto alegre y bailen juntos alabando a Dios.",
+      "Haz pausas para que cada niño diga por qué está alegre.",
+      "Terminen con un gran círculo y un «¡Aleluya!»."
+    ],
+    "para_los_mas_pequenos": "Que bailen libremente y tú marques los movimientos.",
+    "para_los_mayores": "Que inventen una pequeña coreografía para un canto de alabanza.",
+    "cita_biblica": {
+      "referencia": "2 Samuel 6, 14",
+      "mensaje": "David bailaba con todas sus fuerzas delante del Señor."
+    },
+    "mensaje_final": "Mi alegría es alabar a Dios."
+  },
+  {
+    "id": "03-031",
+    "modulo": 3,
+    "titulo": "Ester, la Reina Valiente",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir en Ester que Dios nos da valor para defender a los demás.",
+    "materiales": [
+      "Una corona de papel",
+      "Un cetro de cartón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo la reina Ester, después de rezar, se presentó ante el rey para salvar a su pueblo, aunque era peligroso.",
+      "Elige niños para ser Ester, el rey y el pueblo.",
+      "El pueblo reza con Ester antes de que ella entre.",
+      "Ester se presenta, el rey extiende su cetro y escucha su petición.",
+      "Conversen: ¿Cuándo necesitamos valor para defender a alguien? ¿Cómo nos ayuda la oración?"
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean el pueblo que reza y celebra.",
+    "para_los_mayores": "Que preparen el discurso de Ester ante el rey.",
+    "cita_biblica": {
+      "referencia": "Ester 4, 14",
+      "mensaje": "¿Quién sabe si llegaste a ser reina precisamente para este momento?"
+    },
+    "mensaje_final": "Dios me da valor para hacer el bien."
+  },
+  {
+    "id": "03-032",
+    "modulo": 3,
+    "titulo": "Los Tres Jóvenes en el Horno",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer la fidelidad de los tres jóvenes y alabar a Dios en todo momento.",
+    "materiales": [
+      "Papel rojo y amarillo como llamas (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta cómo tres jóvenes no quisieron adorar una estatua de oro, y aunque los echaron al horno, Dios los protegió.",
+      "Tres niños se ponen en el centro y los demás forman «llamas» moviendo las manos alrededor.",
+      "Los tres jóvenes cantan: «¡Bendigan al Señor!», y el resto repite.",
+      "Un niño hace de ángel que se pone junto a ellos y las llamas se calman.",
+      "Conversen: solo a Dios adoramos."
+    ],
+    "para_los_mas_pequenos": "Que todos canten y muevan las manos como llamas.",
+    "para_los_mayores": "Que inventen una estrofa nueva del canto de alabanza.",
+    "cita_biblica": {
+      "referencia": "Daniel 3, 57",
+      "mensaje": "Criaturas todas del Señor, ¡bendigan al Señor!"
+    },
+    "mensaje_final": "Solo a Dios adoro."
+  },
+  {
+    "id": "03-033",
+    "modulo": 3,
+    "titulo": "Tobías y el Ángel Rafael",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer que Dios nos acompaña con sus ángeles en el camino.",
+    "materiales": [
+      "Pañuelo para vendar los ojos",
+      "Sillas como obstáculos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que el joven Tobías hizo un largo viaje y el ángel Rafael lo acompañó y lo protegió.",
+      "En parejas, uno es Tobías con los ojos vendados y otro el ángel que lo guía de la mano.",
+      "Recorren con cuidado un camino con obstáculos sencillos.",
+      "Luego cambian los papeles.",
+      "Conversen: ¿Cómo se sintieron? Dios nos da un ángel de la guarda que nos acompaña."
+    ],
+    "para_los_mas_pequenos": "Que Tobías vaya con los ojos abiertos tomado de la mano.",
+    "para_los_mayores": "Que el ángel guíe solo con la voz, sin tocar.",
+    "cita_biblica": {
+      "referencia": "Tobías 5, 17",
+      "mensaje": "El ángel dijo: Ve tranquilo, Dios te guiará en el camino."
+    },
+    "mensaje_final": "Mi ángel de la guarda me acompaña."
+  },
+  {
+    "id": "03-034",
+    "modulo": 3,
+    "titulo": "El Alfarero y el Barro",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Dios nos forma con paciencia, como un alfarero a su vasija.",
+    "materiales": [
+      "Plastilina o masa de modelar"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios llevó al profeta Jeremías a la casa de un alfarero que trabajaba el barro.",
+      "Entrega plastilina a cada niño para modelar una vasija.",
+      "Si la vasija se deforma, enséñales a volver a empezar con paciencia.",
+      "Explica: Dios nos moldea con amor, aunque cometamos errores.",
+      "Cada uno dice qué quisiera que Dios moldeara en su corazón: paciencia, bondad, alegría."
+    ],
+    "para_los_mas_pequenos": "Que hagan una bolita o un platito sencillo.",
+    "para_los_mayores": "Que escriban en un papel lo que Dios está formando en ellos y lo pongan dentro de la vasija.",
+    "cita_biblica": {
+      "referencia": "Jeremías 18, 6",
+      "mensaje": "Como el barro en manos del alfarero, así son ustedes en mis manos."
+    },
+    "mensaje_final": "Estoy en las manos de Dios."
+  },
+  {
+    "id": "03-035",
+    "modulo": 3,
+    "titulo": "Nehemías Reconstruye la Muralla",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Aprender a trabajar en equipo para construir algo bueno con la ayuda de Dios.",
+    "materiales": [
+      "Cajas, cojines o bloques"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Nehemías volvió a Jerusalén y animó a todo el pueblo a reconstruir la muralla rezando y trabajando.",
+      "Divide al grupo en equipos; cada equipo tiene una parte de la muralla.",
+      "A tu señal, construyen su parte pasándose los bloques en cadena.",
+      "Al final, unan todas las partes en una sola muralla.",
+      "Conversen: ¿Qué podemos construir juntos en nuestra familia o parroquia?"
+    ],
+    "para_los_mas_pequenos": "Que construyan una muralla pequeña todos juntos.",
+    "para_los_mayores": "Que antes de construir hagan una oración corta como Nehemías.",
+    "cita_biblica": {
+      "referencia": "Nehemías 2, 18",
+      "mensaje": "Dijeron: ¡Manos a la obra! Y se animaron a trabajar."
+    },
+    "mensaje_final": "Juntos construimos con la ayuda de Dios."
+  },
+  {
+    "id": "03-036",
+    "modulo": 3,
+    "titulo": "La Oración de Jonás",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a pedir perdón y ayuda a Dios en los momentos difíciles.",
+    "materiales": [
+      "Un pez grande de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que Jonás, dentro del pez, se arrepintió y rezó a Dios.",
+      "Pasa el pez de papel de mano en mano.",
+      "Quien lo tiene dice: «Señor, ayúdame cuando...» o «Perdóname por...».",
+      "El grupo responde: «Dios te escucha».",
+      "Terminen rezando juntos un Padre Nuestro."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Señor, ayúdame» y pasen el pez.",
+    "para_los_mayores": "Que escriban una oración corta de arrepentimiento y confianza.",
+    "cita_biblica": {
+      "referencia": "Jonás 2, 3",
+      "mensaje": "En mi angustia llamé al Señor y Él me respondió."
+    },
+    "mensaje_final": "Desde cualquier lugar puedo hablar con Dios."
+  },
+  {
+    "id": "03-037",
+    "modulo": 3,
+    "titulo": "Héroes de la Biblia",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer a los personajes del Antiguo Testamento de forma divertida.",
+    "materiales": [
+      "Tarjetas con nombres o dibujos de personajes (Noé, Abraham, Moisés, David, Jonás, Daniel...)",
+      "Cinta adhesiva"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pega una tarjeta en la espalda de cada niño sin que vea su personaje.",
+      "Los niños caminan y hacen preguntas de sí o no a sus compañeros: «¿Tuve un barco?».",
+      "Cuando adivinen su personaje, se ponen la tarjeta adelante.",
+      "Al final, cada uno cuenta algo que sabe de su personaje.",
+      "Comenta: todos ellos confiaron en Dios; ¡nosotros también podemos!"
+    ],
+    "para_los_mas_pequenos": "Muéstrales su propio personaje y que lo imiten para que los demás adivinen.",
+    "para_los_mayores": "Que digan también qué virtud enseña su personaje.",
+    "cita_biblica": {
+      "referencia": "Hebreos 11, 1-2",
+      "mensaje": "Por la fe, nuestros antepasados agradaron a Dios."
+    },
+    "mensaje_final": "Quiero tener fe como los héroes de la Biblia."
+  },
+  {
+    "id": "03-038",
+    "modulo": 3,
+    "titulo": "La Cuerda de la Historia de Dios",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Ordenar las grandes historias del Antiguo Testamento y descubrir que Dios siempre acompañó a su pueblo.",
+    "materiales": [
+      "Una cuerda o lana larga",
+      "Pinzas de ropa",
+      "Dibujos de personajes (Adán, Noé, Abraham, Moisés, David, Jonás)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuelga la cuerda de lado a lado del salón.",
+      "Entrega los dibujos a grupos de niños para que los coloreen.",
+      "Entre todos, ordenen los dibujos colgándolos en la cuerda del más antiguo al más reciente.",
+      "Cuenta una frase de cada historia mientras los cuelgan.",
+      "Al final de la cuerda, cuelga un corazón: «Dios siempre acompaña a su pueblo»."
+    ],
+    "para_los_mas_pequenos": "Que coloreen y tú los ayudas a colgar en orden.",
+    "para_los_mayores": "Que escriban debajo de cada dibujo la virtud de ese personaje.",
+    "cita_biblica": {
+      "referencia": "Salmo 136, 1",
+      "mensaje": "Den gracias al Señor, porque su amor es para siempre."
+    },
+    "mensaje_final": "Dios ha estado siempre con su pueblo."
+  },
+  {
+    "id": "03-039",
+    "modulo": 3,
+    "titulo": "Moisés Sube a la Montaña",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer cómo Dios dio su ley a Moisés para guiar a su pueblo con amor.",
+    "materiales": [
+      "Dos tablas de cartón con números del 1 al 10"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Moisés subió a la montaña y Dios le dio las tablas de la ley.",
+      "Los niños forman una montaña: los más grandes atrás, los pequeños adelante.",
+      "Un niño hace de Moisés y sube despacio entre ellos hasta la cima.",
+      "Allí recibe las tablas de tus manos y baja a mostrarlas al pueblo, que aplaude.",
+      "Explica que los mandamientos son un regalo de Dios para vivir felices."
+    ],
+    "para_los_mas_pequenos": "Que todos suban juntos con Moisés tomados de la mano.",
+    "para_los_mayores": "Que el pueblo diga cuántos mandamientos recuerdan.",
+    "cita_biblica": {
+      "referencia": "Éxodo 24, 12",
+      "mensaje": "Dios dijo a Moisés: Sube a la montaña y te daré las tablas de piedra."
+    },
+    "mensaje_final": "La ley de Dios es un regalo para mí."
+  },
+  {
+    "id": "03-040",
+    "modulo": 3,
+    "titulo": "Noemí y el Pan Compartido",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a compartir con los necesitados como hacía Booz con Rut.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que Booz dejaba espigas en el campo para que Rut y los pobres pudieran recoger.",
+      "Cada niño dibuja y recorta una canasta de papel.",
+      "Dentro, dibujan cosas que pueden compartir: comida, juguetes, tiempo, cariño.",
+      "Presenten sus canastas y elijan una cosa para compartir esta semana.",
+      "Recen por las familias que pasan necesidad."
+    ],
+    "para_los_mas_pequenos": "Que decoren una canasta ya recortada.",
+    "para_los_mayores": "Que organicen una pequeña colecta de alimentos con la parroquia.",
+    "cita_biblica": {
+      "referencia": "Rut 2, 16",
+      "mensaje": "Dejen caer algunas espigas para que ella las recoja."
+    },
+    "mensaje_final": "Compartir es una forma de amar."
+  }
+]
