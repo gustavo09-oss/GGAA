@@ -1,0 +1,80 @@
+[
+  {
+    "id": "04-027",
+    "modulo": 4,
+    "titulo": "¡Silencio, Viento! ¡Calma, Mar!",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que Jesús tiene poder sobre la naturaleza y que podemos confiar en Él cuando tenemos miedo.",
+    "materiales": ["Una sábana o tela grande", "Una pelota liviana o un bollito de papel"],
+    "preparacion": "Despeja un espacio amplio en el salón para que los niños puedan sostener la tela en círculo.",
+    "pasos": [
+      "Cuenta brevemente cómo Jesús dormía en la barca y se levantó una gran tormenta mientras los discípulos tenían mucho miedo.",
+      "Pide a los niños que sostengan la tela por los bordes, formando el «mar», y coloca la pelota en el centro como si fuera la barca.",
+      "Di «¡Viene el viento!» y que todos agiten la tela con fuerza sin dejar caer la barca.",
+      "Cuando digas «¡Jesús dice: silencio, calma!», todos se quedan quietos al instante y la tela queda lisa.",
+      "Repite varias veces y termina preguntando: ¿Qué cosas nos dan miedo? ¿Cómo nos ayuda saber que Jesús está con nosotros?"
+    ],
+    "para_los_mas_pequenos": "Haz la tormenta más corta y deja que un niño diga la frase de Jesús en voz alta.",
+    "para_los_mayores": "Que cada uno nombre un «viento» de su vida (un miedo o problema) antes de calmar la tela.",
+    "cita_biblica": {
+      "referencia": "Marcos 4, 35-41",
+      "mensaje": "Jesús se levantó, habló al viento y al mar, y todo quedó en calma."
+    },
+    "mensaje_final": "Cuando tengo miedo, Jesús está en mi barca."
+  },
+  {
+    "id": "07-045",
+    "modulo": 7,
+    "titulo": "El Banquete del Amor",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "5 a 20 niños",
+    "objetivo": "Comprender que en la Misa Jesús nos invita a su mesa y, en la Eucaristía, se nos da Él mismo para quedarse con nosotros.",
+    "materiales": ["Mantel o tela blanca", "Tarjetas de cartulina", "Lápices de colores", "Una cruz pequeña"],
+    "preparacion": "Coloca la tela blanca sobre una mesa con la cruz al centro y una tarjeta en blanco para cada niño.",
+    "pasos": [
+      "Pregunta: ¿Alguna vez te invitaron a una fiesta muy especial? ¿Cómo te sentiste al recibir la invitación?",
+      "Explica que Jesús también nos invita a una mesa: el altar. En la Misa, el pan y el vino se convierten en el Cuerpo y la Sangre de Jesús.",
+      "Entrega una tarjeta a cada niño para que escriba su nombre y dibuje su rostro alegre.",
+      "Uno por uno, los niños colocan su tarjeta alrededor de la cruz mientras el grupo dice: «¡Jesús te invita, [nombre]!».",
+      "Observen juntos la mesa llena: nadie queda fuera. Conversen sobre cómo pueden prepararse para recibir a Jesús en su Primera Comunión."
+    ],
+    "para_los_mas_pequenos": "En lugar de escribir, que pinten su mano en la tarjeta y la catequista escriba el nombre.",
+    "para_los_mayores": "Que escriban en el reverso una frase para Jesús: «Jesús, quiero recibirte porque...».",
+    "cita_biblica": {
+      "referencia": "Juan 6, 35",
+      "mensaje": "Jesús dijo: Yo soy el pan que da vida. Quien viene a mí no tendrá hambre."
+    },
+    "mensaje_final": "Jesús me invita a su mesa porque me ama."
+  },
+  {
+    "id": "08-033",
+    "modulo": 8,
+    "titulo": "La Cadena del Perdón",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender que perdonar nos une como hermanos y que Dios siempre nos perdona cuando se lo pedimos.",
+    "materiales": ["Tiras de papel de colores", "Pegamento o cinta adhesiva", "Lápices"],
+    "preparacion": "Corta tiras de papel de unos 3 x 20 cm, al menos tres por niño.",
+    "pasos": [
+      "Pregunta: ¿Qué pasa en nuestro corazón cuando alguien nos hace daño? ¿Y cuando decimos «te perdono»?",
+      "Entrega tres tiras a cada niño. En cada una, escribe o dibuja algo que ayuda a perdonar: un abrazo, decir «lo siento», escuchar.",
+      "Muestra cómo cerrar la primera tira en forma de anillo y enganchar la siguiente para formar una cadena.",
+      "Unan todas las cadenitas del grupo en una sola cadena larga.",
+      "Colóquenla alrededor del salón y expliquen: el perdón nos mantiene unidos, como los eslabones de esta cadena."
+    ],
+    "para_los_mas_pequenos": "Que solo dibujen caritas felices y la catequista ayude a pegar los anillos.",
+    "para_los_mayores": "Que escriban una situación real (sin nombres) en la que les cuesta perdonar y cómo podrían hacerlo.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 13",
+      "mensaje": "Perdónense unos a otros, así como el Señor los perdonó a ustedes."
+    },
+    "mensaje_final": "Cuando perdono, mi corazón se une al de Jesús."
+  }
+]

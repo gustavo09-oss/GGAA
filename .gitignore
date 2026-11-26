@@ -1,0 +1,4 @@
+output/*.html
+output/*_png/
+output/muestra.pdf
+__pycache__/

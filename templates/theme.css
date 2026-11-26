@@ -1,0 +1,127 @@
+/* ============================================================
+   Catequesis Viva — tema base (paleta, tipografia, página)
+   ============================================================ */
+
+@font-face {
+  font-family: "Fredoka";
+  src: url("../assets/fonts/Fredoka.ttf") format("truetype");
+  font-weight: 300 700;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../assets/fonts/Nunito.ttf") format("truetype");
+  font-weight: 200 1000;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Nunito";
+  src: url("../assets/fonts/Nunito-Italic.ttf") format("truetype");
+  font-weight: 200 1000;
+  font-style: italic;
+}
+
+:root {
+  /* Bege (cor principal) */
+  --bege-fundo: #F3E9DC;
+  --bege-medio: #E6D5BE;
+  --bege-escuro: #C9AE8C;
+  --creme: #FBF7F1;          /* fundo das fichas (economia de tinta) */
+
+  /* Texto */
+  --cafe: #4A3A2E;
+  --cafe-suave: #7A6656;
+
+  /* Cores de apoio */
+  --salvia: #8FAE8B;
+  --terracota: #D9896C;
+  --ceu: #8DB8D6;
+  --mostarda: #E2B45A;
+  --rosa: #D9A5A0;
+  --lavanda: #A99BC9;
+
+  /* Selos de idade */
+  --idade-todas: #8FAE8B;
+  --idade-5: #8DB8D6;
+  --idade-7: #D9896C;
+
+  --font-titulo: "Fredoka", "Baloo 2", sans-serif;
+  --font-corpo: "Nunito", sans-serif;
+
+  --margem: 0.6in;
+}
+
+/* Cor por módulo: definida via classe .mod-N no .page */
+.mod-1  { --c: #E2B45A; --c-dark: #9A7426; --c-soft: #F7EBD0; }
+.mod-2  { --c: #8FAE8B; --c-dark: #50704C; --c-soft: #E4ECDF; }
+.mod-3  { --c: #D9896C; --c-dark: #A1543A; --c-soft: #F6E1D6; }
+.mod-4  { --c: #8DB8D6; --c-dark: #457394; --c-soft: #E0ECF4; }
+.mod-5  { --c: #D9A5A0; --c-dark: #A1615B; --c-soft: #F5E4E1; }
+.mod-6  { --c: #A99BC9; --c-dark: #685A8C; --c-soft: #E9E5F2; }
+.mod-7  { --c: #D6A445; --c-dark: #8C6516; --c-soft: #F4E7C9; }
+.mod-8  { --c: #7FA27B; --c-dark: #48683F; --c-soft: #E1EADC; }
+.mod-9  { --c: #CB7E62; --c-dark: #964A31; --c-soft: #F3DED4; }
+.mod-10 { --c: #79A7C9; --c-dark: #3B6888; --c-soft: #DDE9F2; }
+.mod-11 { --c: #B795B9; --c-dark: #7A5480; --c-soft: #EEE3EF; }
+
+@page { size: Letter; margin: 0; }
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--creme);
+  color: var(--cafe);
+  font-family: var(--font-corpo);
+  font-size: 11.5pt;
+  line-height: 1.45;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.page {
+  width: 8.5in;
+  height: 11in;
+  position: relative;
+  overflow: hidden;
+  page-break-after: always;
+  break-after: page;
+  background: var(--creme);
+}
+.page:last-child { page-break-after: auto; break-after: auto; }
+
+/* Área útil — usada pelo verificador de overflow */
+.page-inner {
+  position: absolute;
+  top: var(--margem);
+  left: var(--margem);
+  right: var(--margem);
+  bottom: 0.85in;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.page-footer {
+  position: absolute;
+  left: var(--margem);
+  right: var(--margem);
+  bottom: 0.38in;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--font-titulo);
+  font-size: 10pt;
+  color: var(--cafe-suave);
+  border-top: 1.5px dashed var(--bege-escuro);
+  padding-top: 6px;
+}
+.page-footer .brand { letter-spacing: 0.04em; }
+.page-footer .brand::before { content: "✦ "; color: var(--bege-escuro); }
+
+h1, h2, h3, h4 { font-family: var(--font-titulo); font-weight: 600; margin: 0; }
+
+a { color: inherit; text-decoration: none; }
+
+.icon { display: inline-block; vertical-align: middle; }
+.icon svg { width: 100%; height: 100%; display: block; }
