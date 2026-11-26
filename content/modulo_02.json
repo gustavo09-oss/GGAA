@@ -1,0 +1,1013 @@
+[
+  {
+    "id": "02-001",
+    "modulo": 2,
+    "titulo": "Los Siete Días en Mis Manos",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 25,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el relato de la Creación y descubrir que todo lo que Dios hizo es bueno.",
+    "materiales": [
+      "Una hoja doblada en ocho partes por niño",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee de forma sencilla el relato de la Creación (Génesis 1), día por día.",
+      "Entrega la hoja doblada: en la primera parte escriben «Dios creó...».",
+      "En cada una de las otras siete partes dibujan lo que Dios hizo cada día, y en el séptimo, a Dios descansando.",
+      "Al terminar cada día, todos dicen juntos: «¡Y vio Dios que era bueno!».",
+      "Compartan cuál es su día favorito y por qué."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo tres días: la luz, los animales y las personas.",
+    "para_los_mayores": "Que escriban debajo de cada dibujo una frase de gracias a Dios.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 31",
+      "mensaje": "Dios miró todo lo que había hecho y vio que era muy bueno."
+    },
+    "mensaje_final": "Todo lo que Dios hizo es bueno."
+  },
+  {
+    "id": "02-002",
+    "modulo": 2,
+    "titulo": "¡Hágase la Luz!",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Descubrir que Dios creó la luz y que Él es la luz que vence la oscuridad.",
+    "materiales": [
+      "Una linterna (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que al principio todo estaba oscuro y Dios dijo: «¡Que exista la luz!».",
+      "Cuando digas «oscuridad», los niños se agachan y se tapan los ojos.",
+      "Cuando digas «¡Hágase la luz!», saltan con los brazos abiertos y gritan «¡Gracias, Dios!».",
+      "Alterna las palabras cada vez más rápido para que estén atentos.",
+      "Termina explicando que Jesús también es luz para nuestra vida."
+    ],
+    "para_los_mas_pequenos": "Enciende y apaga una linterna como señal visual.",
+    "para_los_mayores": "Agrega palabras trampa como «oscurito» o «luciérnaga» para que no se muevan.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 3",
+      "mensaje": "Dios dijo: Que exista la luz. Y la luz existió."
+    },
+    "mensaje_final": "Dios es luz en mi vida."
+  },
+  {
+    "id": "02-003",
+    "modulo": 2,
+    "titulo": "El Mural de la Creación",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 25,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Trabajar en equipo para representar la belleza de todo lo que Dios creó.",
+    "materiales": [
+      "Papel kraft grande",
+      "Lápices de colores o crayones",
+      "Revistas viejas",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide el papel en zonas: cielo, tierra, mar y personas.",
+      "Organiza a los niños en grupos y asigna una zona a cada grupo.",
+      "Cada grupo dibuja o pega recortes de lo que Dios creó en esa parte.",
+      "Al terminar, recorran juntos el mural nombrando cada cosa.",
+      "Escriban arriba con letras grandes: «¡Gracias, Dios, por tu Creación!»."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños peguen recortes ya preparados.",
+    "para_los_mayores": "Que cada grupo escriba un versículo o frase de gracias en su zona.",
+    "cita_biblica": {
+      "referencia": "Salmo 104, 24",
+      "mensaje": "¡Cuántas obras hiciste, Señor! Todo lo hiciste con sabiduría."
+    },
+    "mensaje_final": "El mundo es un regalo de Dios."
+  },
+  {
+    "id": "02-004",
+    "modulo": 2,
+    "titulo": "Los Sonidos de la Creación",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Alabar a Dios imitando los sonidos de la naturaleza que Él creó.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué sonidos hay en la naturaleza? Viento, lluvia, pájaros, mar, trueno.",
+      "Asigna un sonido a cada grupo de niños.",
+      "Dirige como un director de orquesta: cuando señalas a un grupo, hace su sonido.",
+      "Al final, todos los grupos juntos forman la «sinfonía de la Creación».",
+      "Terminen gritando juntos: «¡Alabado sea Dios!»."
+    ],
+    "para_los_mas_pequenos": "Usa sonidos fáciles: viento (fuuu), lluvia (palmas), pájaro (pío).",
+    "para_los_mayores": "Que un niño dirija la orquesta y varíe el volumen.",
+    "cita_biblica": {
+      "referencia": "Salmo 19, 2",
+      "mensaje": "El cielo cuenta la gloria de Dios."
+    },
+    "mensaje_final": "Toda la naturaleza alaba a Dios, y yo también."
+  },
+  {
+    "id": "02-005",
+    "modulo": 2,
+    "titulo": "Paseo de los Cinco Sentidos",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que los sentidos son un regalo de Dios para disfrutar su Creación.",
+    "materiales": [
+      "Una hoja de árbol",
+      "Una flor o hierba aromática",
+      "Una piedra",
+      "Un poco de agua"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca los objetos en una mesa cubierta.",
+      "Con los ojos cerrados, cada niño toca, huele o escucha uno de los objetos.",
+      "Adivina qué es y dice qué sentido usó.",
+      "Pregunta: ¿Quién nos dio los ojos, los oídos, las manos? ¡Dios!",
+      "Terminen con una oración: «Gracias, Dios, por mis sentidos»."
+    ],
+    "para_los_mas_pequenos": "Hazlo con los ojos abiertos y nombra tú cada sentido.",
+    "para_los_mayores": "Que escriban una cosa de la naturaleza que aman para cada sentido.",
+    "cita_biblica": {
+      "referencia": "Proverbios 20, 12",
+      "mensaje": "El oído que escucha y el ojo que ve, los dos los hizo el Señor."
+    },
+    "mensaje_final": "Con mis sentidos descubro la belleza de Dios."
+  },
+  {
+    "id": "02-006",
+    "modulo": 2,
+    "titulo": "Adán y los Nombres de los Animales",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer que Dios confió al ser humano el cuidado de los animales.",
+    "materiales": [
+      "Tarjetas con dibujos de animales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios creó los animales y le pidió a Adán que les pusiera nombre.",
+      "Elige a un niño para ser Adán.",
+      "Los demás reciben una tarjeta en secreto e imitan a su animal sin hablar.",
+      "Adán adivina cada animal y le da su nombre en voz alta.",
+      "Explica que poner nombre significa cuidar: Dios nos pide cuidar a los animales."
+    ],
+    "para_los_mas_pequenos": "Que todos imiten el mismo animal y tú hagas de Adán.",
+    "para_los_mayores": "Que Adán diga también cómo podemos cuidar a ese animal.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 19",
+      "mensaje": "Dios llevó los animales al hombre para que les pusiera nombre."
+    },
+    "mensaje_final": "Dios me pide cuidar a los animales."
+  },
+  {
+    "id": "02-007",
+    "modulo": 2,
+    "titulo": "La Semilla Dormida",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Admirar cómo Dios da la vida y aprender a cuidar lo que crece.",
+    "materiales": [
+      "Vasos de plástico o papel",
+      "Algodón",
+      "Semillas de frijol o lenteja",
+      "Agua"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un vaso a cada niño para que escriba su nombre.",
+      "Pongan algodón húmedo en el fondo y coloquen dos o tres semillas.",
+      "Explica que la semilla parece dormida, pero Dios le dio vida para crecer.",
+      "Decidan juntos cómo la cuidarán: agua, luz y paciencia.",
+      "Llévenla a casa y pidan a los niños que cuenten cómo creció la próxima semana."
+    ],
+    "para_los_mas_pequenos": "Que solo pongan las semillas; tú humedeces el algodón.",
+    "para_los_mayores": "Que lleven un diario de dibujos del crecimiento.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 3, 7",
+      "mensaje": "Es Dios quien hace crecer las plantas."
+    },
+    "mensaje_final": "Dios hace crecer la vida."
+  },
+  {
+    "id": "02-008",
+    "modulo": 2,
+    "titulo": "Cazadores de Maravillas",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Descubrir con asombro la Creación a nuestro alrededor.",
+    "materiales": [
+      "Hojas con una lista ilustrada",
+      "Lápices"
+    ],
+    "preparacion": "Prepara una lista: algo verde, algo que vuela, algo redondo, algo que huele bien, algo suave.",
+    "pasos": [
+      "Organiza equipos de tres o cuatro niños.",
+      "Entrega la lista y explica que deben encontrar (o ver) cada cosa en el patio o salón.",
+      "Marquen lo que encuentren sin arrancar plantas ni molestar a los animales.",
+      "Al volver, cada equipo comparte su mayor descubrimiento.",
+      "Den gracias a Dios por cada maravilla encontrada."
+    ],
+    "para_los_mas_pequenos": "Hagan la búsqueda juntos, con la catequista guiando.",
+    "para_los_mayores": "Agreguen cosas más difíciles: un insecto, una nube con forma, una semilla.",
+    "cita_biblica": {
+      "referencia": "Salmo 8, 4",
+      "mensaje": "Cuando miro el cielo, la luna y las estrellas que hiciste, me admiro."
+    },
+    "mensaje_final": "Dios dejó maravillas por todas partes."
+  },
+  {
+    "id": "02-009",
+    "modulo": 2,
+    "titulo": "Gracias por el Sol y la Luna",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender a dar gracias a Dios por las cosas de la naturaleza.",
+    "materiales": [
+      "Un sol y una luna de cartulina"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo con el sol y la luna en el centro.",
+      "Pasa el sol: quien lo tiene dice «Gracias, Dios, por...» y nombra algo del día.",
+      "Luego pasa la luna: dicen algo de la noche (las estrellas, el descanso, la familia).",
+      "Después de cada frase, todos responden: «¡Te alabamos, Señor!».",
+      "Terminen rezando juntos un Gloria."
+    ],
+    "para_los_mas_pequenos": "Que nombren solo una cosa con tu ayuda.",
+    "para_los_mayores": "Que inventen una oración corta de alabanza para cada momento del día.",
+    "cita_biblica": {
+      "referencia": "Salmo 136, 7-9",
+      "mensaje": "Den gracias al Señor, que hizo el sol para el día y la luna para la noche."
+    },
+    "mensaje_final": "De día y de noche, Dios me cuida."
+  },
+  {
+    "id": "02-010",
+    "modulo": 2,
+    "titulo": "El Arca de los Animales Cuidados",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Reflexionar sobre cómo cuidar a los animales y la naturaleza como hijos de Dios.",
+    "materiales": [
+      "Tarjetas con situaciones",
+      "Una caja"
+    ],
+    "preparacion": "Escribe situaciones: «Un perrito tiene sed», «Ves basura en el parque», «Una planta se está secando».",
+    "pasos": [
+      "Pasen la caja y cada niño saca una tarjeta.",
+      "Lee la situación y pregunta: ¿Qué haría un amigo de Dios?",
+      "El niño responde y el grupo puede añadir ideas.",
+      "Escriban en la pizarra las mejores ideas.",
+      "Cada niño elige una acción para hacer esta semana."
+    ],
+    "para_los_mas_pequenos": "Usa tarjetas con dibujos y respuestas de sí o no.",
+    "para_los_mayores": "Que inventen nuevas situaciones para los demás.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 15",
+      "mensaje": "Dios puso al hombre en el jardín para que lo cultivara y lo cuidara."
+    },
+    "mensaje_final": "Cuidar la Creación es amar a Dios."
+  },
+  {
+    "id": "02-011",
+    "modulo": 2,
+    "titulo": "Canción de Todo lo Creado",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Alabar a Dios con un canto sencillo y movimientos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña una melodía conocida y cambia la letra: «Dios hizo el sol, Dios hizo el mar, Dios hizo todo para amar».",
+      "Agrega movimientos: brazos en círculo para el sol, olas con las manos para el mar.",
+      "Canten juntos varias veces.",
+      "Pide a los niños que propongan nuevas estrofas: los pájaros, las flores, los niños.",
+      "Terminen el canto con un gran aplauso para Dios."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo los movimientos mientras tú cantas.",
+    "para_los_mayores": "Que escriban la letra en un afiche para la próxima vez.",
+    "cita_biblica": {
+      "referencia": "Daniel 3, 57",
+      "mensaje": "Todas las obras del Señor, ¡bendigan al Señor!"
+    },
+    "mensaje_final": "Canto feliz porque Dios lo hizo todo."
+  },
+  {
+    "id": "02-012",
+    "modulo": 2,
+    "titulo": "Dios Creó Mis Manos",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Valorar el propio cuerpo como obra de Dios y usarlo para hacer el bien.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que miren sus manos con atención: dedos, uñas, líneas.",
+      "Pregunta: ¿Quién hizo tus manos? ¿Para qué las podemos usar?",
+      "Escucha ideas: ayudar, abrazar, rezar, compartir, dibujar.",
+      "Hagan con las manos cada acción buena que nombren.",
+      "Terminen juntando las manos y diciendo: «Gracias, Dios, por mis manos»."
+    ],
+    "para_los_mas_pequenos": "Haz tú las acciones y que te imiten.",
+    "para_los_mayores": "Que piensen una acción concreta con sus manos para ayudar en casa.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 73",
+      "mensaje": "Tus manos, Señor, me hicieron y me formaron."
+    },
+    "mensaje_final": "Mis manos son para hacer el bien."
+  },
+  {
+    "id": "02-013",
+    "modulo": 2,
+    "titulo": "La Ronda del Jardín",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Divertirse aprendiendo que Dios creó las plantas y los árboles.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma una ronda y explica que son un jardín de Dios.",
+      "Cuando digas «¡Semillas!», todos se agachan pequeñitos.",
+      "Cuando digas «¡Llueve!», mueven los dedos como lluvia.",
+      "Cuando digas «¡Sale el sol!», crecen poco a poco hasta ser árboles con los brazos arriba.",
+      "Termina con «¡Viene el viento!», y todos se mecen suavemente."
+    ],
+    "para_los_mas_pequenos": "Hazlo despacio, mostrando cada movimiento.",
+    "para_los_mayores": "Que propongan nuevas consignas: flores, frutos, pajaritos.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 11",
+      "mensaje": "Dios dijo: Que la tierra produzca plantas y árboles con fruto."
+    },
+    "mensaje_final": "Dios hace crecer todo con amor."
+  },
+  {
+    "id": "02-014",
+    "modulo": 2,
+    "titulo": "Teatro de la Creación",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Representar el relato de la Creación y comprender que Dios creó todo por amor.",
+    "materiales": [
+      "Telas o papeles de colores (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en siete equipos pequeños, uno por cada día.",
+      "Cada equipo prepara en cinco minutos una escena muda de su día (luz, cielo, tierra, astros, peces y aves, animales y personas, descanso).",
+      "Haz de narrador: «El primer día, Dios dijo...».",
+      "Cada equipo representa su día cuando lo nombras.",
+      "Terminen con todos juntos diciendo: «¡Y Dios vio que todo era muy bueno!»."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean los animales del sexto día.",
+    "para_los_mayores": "Que un niño haga de narrador leyendo el texto bíblico adaptado.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 2",
+      "mensaje": "El séptimo día, Dios descansó de todo lo que había hecho."
+    },
+    "mensaje_final": "Dios creó el mundo por amor."
+  },
+  {
+    "id": "02-015",
+    "modulo": 2,
+    "titulo": "Cielo Estrellado de Promesas",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Admirar las estrellas como obra de Dios y recordar que Él nos cuida.",
+    "materiales": [
+      "Cartulina azul oscuro o negra",
+      "Estrellas de papel amarillo",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios hizo las estrellas y conoce a cada una por su nombre.",
+      "Entrega estrellas de papel para que escriban o dibujen algo por lo que dan gracias.",
+      "Peguen las estrellas sobre la cartulina oscura formando un gran cielo.",
+      "Mira el cielo terminado y lean algunas estrellas en voz alta.",
+      "Explica: así como Dios conoce cada estrella, conoce a cada uno de ustedes."
+    ],
+    "para_los_mas_pequenos": "Que peguen las estrellas sin escribir, y les ayudes a poner su nombre.",
+    "para_los_mayores": "Que formen una constelación con la inicial del grupo.",
+    "cita_biblica": {
+      "referencia": "Salmo 147, 4",
+      "mensaje": "Dios cuenta las estrellas y llama a cada una por su nombre."
+    },
+    "mensaje_final": "Dios me conoce como a cada estrella."
+  },
+  {
+    "id": "02-016",
+    "modulo": 2,
+    "titulo": "El Agua, Regalo de Vida",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar el agua como un regalo de Dios y aprender a no desperdiciarla.",
+    "materiales": [
+      "Un vaso con agua",
+      "Tarjetas con dibujos (beber, regar, bañarse, lavar)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el vaso de agua y pregunta: ¿Para qué necesitamos el agua?",
+      "Muestra las tarjetas y conversen sobre cada uso.",
+      "Pregunta: ¿Qué pasaría si no hubiera agua? ¿Cómo podemos cuidarla?",
+      "Hagan una lista de compromisos: cerrar la llave, no jugar con el agua de beber.",
+      "Terminen con una oración agradeciendo a Dios por el agua."
+    ],
+    "para_los_mas_pequenos": "Deja que los pequeños toquen el agua y digan qué sienten.",
+    "para_los_mayores": "Que recuerden que el agua también se usa en el Bautismo como signo de vida nueva.",
+    "cita_biblica": {
+      "referencia": "Salmo 104, 10",
+      "mensaje": "Dios hace brotar fuentes de agua en los valles."
+    },
+    "mensaje_final": "Cuido el agua porque es un regalo de Dios."
+  },
+  {
+    "id": "02-017",
+    "modulo": 2,
+    "titulo": "Las Huellas del Creador",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir pistas del amor de Dios en la naturaleza.",
+    "materiales": [
+      "Huellas de papel",
+      "Tarjetas con pistas",
+      "Cinta adhesiva"
+    ],
+    "preparacion": "Esconde tarjetas con pistas en el salón y marca el camino con huellas de papel.",
+    "pasos": [
+      "Explica que la naturaleza tiene «huellas» que nos hablan de Dios.",
+      "Los niños siguen las huellas y encuentran tarjetas con adivinanzas: «Soy grande, azul y lleno de peces» (el mar).",
+      "Cada tarjeta encontrada se lee y se adivina en grupo.",
+      "Al final del camino hay una tarjeta especial: «Dios te creó a ti».",
+      "Comenten: ¿Qué nos dice la naturaleza sobre Dios? Que es grande, bueno y creativo."
+    ],
+    "para_los_mas_pequenos": "Usa adivinanzas con dibujos y acompáñalos en el recorrido.",
+    "para_los_mayores": "Que inventen sus propias adivinanzas de la Creación para otro grupo.",
+    "cita_biblica": {
+      "referencia": "Romanos 1, 20",
+      "mensaje": "Por las cosas que Dios hizo, podemos conocer su poder."
+    },
+    "mensaje_final": "La naturaleza me habla de Dios."
+  },
+  {
+    "id": "02-018",
+    "modulo": 2,
+    "titulo": "Oración con las Flores",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Expresar alabanza a Dios usando la belleza de las flores.",
+    "materiales": [
+      "Flores de papel o naturales",
+      "Un florero o vaso"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una flor a cada niño.",
+      "Explica que las flores no hablan, pero alaban a Dios con su belleza.",
+      "Por turnos, cada niño coloca su flor en el florero diciendo: «Te alabo, Señor, por...».",
+      "Cuando el florero esté lleno, contemplen juntos en silencio unos segundos.",
+      "Terminen rezando: «Señor, haz de mi vida una flor para ti»."
+    ],
+    "para_los_mas_pequenos": "Que coloquen la flor y digan solo «Gracias, Señor».",
+    "para_los_mayores": "Que escriban su oración en un papelito atado a la flor.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 28-29",
+      "mensaje": "Miren las flores del campo: Dios las viste con gran belleza."
+    },
+    "mensaje_final": "Mi vida puede ser una flor para Dios."
+  },
+  {
+    "id": "02-019",
+    "modulo": 2,
+    "titulo": "¿Qué Creó Dios Hoy?",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Iniciar el tema de la Creación de forma divertida y participativa.",
+    "materiales": [
+      "Una pelota blanda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo y lanza la pelota a un niño diciendo: «Dios creó...».",
+      "El niño completa con algo creado por Dios: «¡las jirafas!», y lanza la pelota a otro.",
+      "No se pueden repetir respuestas; si alguien se queda sin idea, el grupo le ayuda.",
+      "Después de varias vueltas, cambien a «Gracias, Dios, por...».",
+      "Concluye: ¡Dios creó tantas cosas que nunca terminaríamos la lista!"
+    ],
+    "para_los_mas_pequenos": "Acepta repetir respuestas y muestra láminas como ayuda.",
+    "para_los_mayores": "Que digan algo creado por Dios que empiece con una letra elegida.",
+    "cita_biblica": {
+      "referencia": "Juan 1, 3",
+      "mensaje": "Todo fue hecho por medio de Él."
+    },
+    "mensaje_final": "Dios creó tantas cosas bellas para mí."
+  },
+  {
+    "id": "02-020",
+    "modulo": 2,
+    "titulo": "Las Huellas de los Animales",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Moverse imitando a los animales que Dios creó y alabarlo con alegría.",
+    "materiales": [
+      "Tarjetas con dibujos de animales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una tarjeta de animal a todo el grupo.",
+      "Los niños se desplazan por el salón imitando cómo camina ese animal: saltan como canguro, reptan como serpiente, vuelan como águila.",
+      "Cuando digas «¡Alto!», todos se quedan quietos.",
+      "Pregunta algo sobre ese animal y quién lo creó.",
+      "Termina con todos los animales juntos diciendo: «¡Dios nos hizo a todos!»."
+    ],
+    "para_los_mas_pequenos": "Elige animales muy conocidos: perro, gato, pato, pez.",
+    "para_los_mayores": "Que un niño dé las consignas y elija animales menos conocidos.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 25",
+      "mensaje": "Dios hizo los animales de toda clase, y vio que era bueno."
+    },
+    "mensaje_final": "Dios hizo a cada animal con cariño."
+  },
+  {
+    "id": "02-021",
+    "modulo": 2,
+    "titulo": "Postal para el Planeta",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Expresar compromisos concretos de cuidado de la Creación.",
+    "materiales": [
+      "Cartulina tamaño postal",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Conversen sobre lo que daña a la naturaleza: basura, desperdicio, maltrato a los animales.",
+      "Entrega una cartulina para hacer una postal dirigida a la Tierra.",
+      "De un lado, dibujan un paisaje bonito creado por Dios.",
+      "Del otro, escriben: «Querida Tierra, te prometo...» con un compromiso concreto.",
+      "Lean algunas postales y llévenlas a casa para pegarlas en la nevera."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo el paisaje y digan su promesa en voz alta.",
+    "para_los_mayores": "Que agreguen una oración por quienes cuidan la naturaleza.",
+    "cita_biblica": {
+      "referencia": "Salmo 24, 1",
+      "mensaje": "Del Señor es la tierra y todo lo que hay en ella."
+    },
+    "mensaje_final": "Cuido la casa que Dios me regaló."
+  },
+  {
+    "id": "02-022",
+    "modulo": 2,
+    "titulo": "Contemplar en Silencio",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a hacer silencio para admirar la Creación y escuchar a Dios.",
+    "materiales": [
+      "Una imagen de un paisaje natural (o una ventana con vista al exterior)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Invita a los niños a sentarse cómodos y respirar despacio.",
+      "Muestra la imagen o pide que miren por la ventana durante un minuto en silencio.",
+      "Pregunta en voz baja: ¿Qué ves? ¿Qué te dice Dios con esto?",
+      "Cada niño dice una palabra que describe lo que sintió: paz, alegría, grandeza.",
+      "Terminen con una oración: «Señor, qué bello es todo lo que hiciste»."
+    ],
+    "para_los_mas_pequenos": "Que el silencio dure solo 20 segundos y lo marquen con una campanita.",
+    "para_los_mayores": "Que escriban una oración breve inspirada en lo que contemplaron.",
+    "cita_biblica": {
+      "referencia": "Salmo 46, 11",
+      "mensaje": "Quédense quietos y sepan que yo soy Dios."
+    },
+    "mensaje_final": "En el silencio, Dios me habla."
+  },
+  {
+    "id": "02-023",
+    "modulo": 2,
+    "titulo": "El Árbol de la Gratitud",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Agradecer a Dios por los dones de la Creación y de la vida.",
+    "materiales": [
+      "Una rama seca o un árbol dibujado en papel grande",
+      "Hojas de papel de colores",
+      "Lápices",
+      "Cinta adhesiva"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el árbol sin hojas y explica que lo llenaremos de gracias.",
+      "Entrega hojas de papel recortadas para que escriban o dibujen algo por lo que agradecen.",
+      "Cada niño cuelga su hoja en el árbol diciendo su gracias en voz alta.",
+      "Observen el árbol lleno de hojas.",
+      "Recen juntos: «Gracias, Señor, por todo lo que nos das»."
+    ],
+    "para_los_mas_pequenos": "Que dibujen y tú escribes la palabra en cada hoja.",
+    "para_los_mayores": "Que escriban dos hojas: una por la naturaleza y otra por una persona.",
+    "cita_biblica": {
+      "referencia": "Salmo 92, 2",
+      "mensaje": "Es bueno dar gracias al Señor."
+    },
+    "mensaje_final": "Mi corazón está lleno de gracias."
+  },
+  {
+    "id": "02-024",
+    "modulo": 2,
+    "titulo": "La Danza de las Estaciones",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Alabar a Dios por los cambios de la naturaleza y los tiempos del año.",
+    "materiales": [
+      "Música suave (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Dios creó el calor, el frío, la lluvia y el viento.",
+      "Muestra un movimiento para cada uno: calor (abanicarse), frío (temblar), lluvia (dedos que caen), viento (brazos que se mecen).",
+      "Canta o recita: «Llega la lluvia, la mandó Dios...» y los niños hacen el movimiento.",
+      "Cambia de tiempo cada vez más rápido.",
+      "Termina con todos alzando los brazos: «¡Gracias, Dios, por cada día!»."
+    ],
+    "para_los_mas_pequenos": "Usa solo dos tiempos: lluvia y sol.",
+    "para_los_mayores": "Que inventen la letra para cada tiempo.",
+    "cita_biblica": {
+      "referencia": "Génesis 8, 22",
+      "mensaje": "Mientras dure la tierra, habrá frío y calor, verano e invierno, día y noche."
+    },
+    "mensaje_final": "Cada día es un regalo de Dios."
+  },
+  {
+    "id": "02-025",
+    "modulo": 2,
+    "titulo": "¿Lo Hizo Dios o el Hombre?",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Distinguir lo creado por Dios de lo hecho por las personas con los dones que Dios les dio.",
+    "materiales": [
+      "Tarjetas con dibujos (árbol, casa, río, puente, sol, lámpara, manzana, pan)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca dos carteles en extremos del salón: «Lo creó Dios» y «Lo hicieron las personas».",
+      "Muestra una tarjeta y los niños corren al cartel que corresponde.",
+      "Conversen sobre las respuestas dudosas, como el pan: el trigo lo creó Dios y el pan lo hicieron las personas.",
+      "Explica que Dios nos dio inteligencia para crear cosas buenas.",
+      "Terminen agradeciendo por la Creación y por el trabajo humano."
+    ],
+    "para_los_mas_pequenos": "Usa solo ejemplos muy claros y muestra tú el cartel correcto.",
+    "para_los_mayores": "Que propongan ellos nuevos ejemplos difíciles.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 28",
+      "mensaje": "Dios bendijo al hombre y la mujer y les confió la tierra."
+    },
+    "mensaje_final": "Dios me dio talentos para crear cosas buenas."
+  },
+  {
+    "id": "02-026",
+    "modulo": 2,
+    "titulo": "Soy Obra de Arte de Dios",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que cada persona es la obra más especial de la Creación.",
+    "materiales": [
+      "Un marco de cartulina vacío"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el marco y pregunta: ¿Qué ponemos en un marco? Algo valioso.",
+      "Pasa el marco por el círculo; cada niño se lo pone delante de la cara.",
+      "El grupo dice: «¡Qué obra de arte de Dios!» y el niño sonríe.",
+      "Pregunta: ¿Por qué somos tan valiosos? Porque Dios nos hizo a su imagen.",
+      "Terminen con un aplauso para todas las obras de arte de Dios."
+    ],
+    "para_los_mas_pequenos": "Pasa tú el marco y di el nombre de cada niño.",
+    "para_los_mayores": "Que cada uno diga una cualidad que Dios le dio.",
+    "cita_biblica": {
+      "referencia": "Efesios 2, 10",
+      "mensaje": "Somos obra de Dios, creados en Cristo para hacer el bien."
+    },
+    "mensaje_final": "Soy la obra de arte de Dios."
+  },
+  {
+    "id": "02-027",
+    "modulo": 2,
+    "titulo": "El Jardín del Edén en Caja",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 25,
+    "participantes": "4 a 15 niños",
+    "objetivo": "Representar el jardín que Dios preparó con amor para el ser humano.",
+    "materiales": [
+      "Cajas de zapatos",
+      "Papel de colores",
+      "Plastilina",
+      "Ramitas u hojas secas",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee brevemente cómo Dios plantó un jardín y puso en él al hombre y la mujer.",
+      "Organiza grupos de tres o cuatro niños con una caja cada uno.",
+      "Decoren el fondo de la caja con el cielo y armen árboles, ríos y animales con los materiales.",
+      "Cada grupo presenta su jardín y explica qué puso y por qué.",
+      "Conversen: Dios nos dio un mundo hermoso; ¿cómo lo cuidamos hoy?"
+    ],
+    "para_los_mas_pequenos": "Que modelen animales de plastilina mientras los mayores arman el paisaje.",
+    "para_los_mayores": "Que escriban un cartel con una regla para cuidar el jardín.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 8",
+      "mensaje": "Dios plantó un jardín en Edén y puso allí al hombre que había formado."
+    },
+    "mensaje_final": "Dios preparó un mundo hermoso para mí."
+  },
+  {
+    "id": "02-028",
+    "modulo": 2,
+    "titulo": "Rayuela de la Creación",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Repasar los días de la Creación jugando.",
+    "materiales": [
+      "Tiza o cinta adhesiva",
+      "Una piedrita o tapita"
+    ],
+    "preparacion": "Dibuja en el suelo una rayuela con siete casillas numeradas.",
+    "pasos": [
+      "Explica que cada casilla es un día de la Creación.",
+      "Cada niño lanza la tapita a una casilla y salta hasta ella.",
+      "Al llegar, dice qué creó Dios ese día (o lo que recuerde con ayuda).",
+      "En la casilla siete, todos dicen: «¡Dios descansó!» y el niño se sienta un momento.",
+      "Repitan hasta que todos hayan jugado."
+    ],
+    "para_los_mas_pequenos": "Que salten con los dos pies y digan cualquier cosa creada.",
+    "para_los_mayores": "Que salten en un pie y digan el día exacto.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 3",
+      "mensaje": "Dios bendijo el séptimo día y lo hizo santo."
+    },
+    "mensaje_final": "Dios hizo todo con orden y amor."
+  },
+  {
+    "id": "02-029",
+    "modulo": 2,
+    "titulo": "La Oración de San Francisco y las Criaturas",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Alabar a Dios como hermanos de todas las criaturas, al estilo de San Francisco de Asís.",
+    "materiales": [
+      "Tarjetas con dibujos: sol, luna, agua, fuego, tierra, viento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que San Francisco llamaba «hermano» al sol y «hermana» al agua, porque todo viene de Dios.",
+      "Reparte las tarjetas entre los niños.",
+      "Cada niño levanta su tarjeta y dice: «Alabado seas, mi Señor, por el hermano sol».",
+      "Todos responden: «¡Alabado seas!».",
+      "Terminen con una oración espontánea por toda la Creación."
+    ],
+    "para_los_mas_pequenos": "Que levanten la tarjeta y todos digan juntos la frase.",
+    "para_los_mayores": "Que agreguen una razón: «...porque nos da luz y calor».",
+    "cita_biblica": {
+      "referencia": "Salmo 148, 3",
+      "mensaje": "Alaben al Señor, sol y luna; alábenlo, estrellas brillantes."
+    },
+    "mensaje_final": "Todas las criaturas son mis hermanas."
+  },
+  {
+    "id": "02-030",
+    "modulo": 2,
+    "titulo": "Basura en su Lugar",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender hábitos concretos para cuidar la casa que Dios nos dio.",
+    "materiales": [
+      "Bolitas de papel",
+      "Dos cajas o canastas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Esparce bolitas de papel por el salón como si fuera basura.",
+      "Divide al grupo en dos equipos, cada uno con una caja.",
+      "A tu señal, recojan la mayor cantidad de «basura» en un minuto.",
+      "Cuenten juntos y celebren a ambos equipos.",
+      "Conversen: ¿Dónde vemos basura? ¿Qué podemos hacer para cuidar la Creación?"
+    ],
+    "para_los_mas_pequenos": "Recojan todos juntos con una sola caja y canten mientras lo hacen.",
+    "para_los_mayores": "Separen papeles de colores distintos como si fuera reciclaje.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 15",
+      "mensaje": "Dios nos confió la tierra para cuidarla."
+    },
+    "mensaje_final": "Cuidar la Creación empieza con pequeños gestos."
+  },
+  {
+    "id": "02-031",
+    "modulo": 2,
+    "titulo": "El Hombre de Barro",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que Dios nos creó con amor y nos dio la vida con su aliento.",
+    "materiales": [
+      "Plastilina o masa de modelar"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Dios formó al hombre del barro y sopló en su nariz el aliento de vida.",
+      "Entrega plastilina para que cada niño modele una figura de persona.",
+      "Luego, por parejas: uno es la «estatua de barro» quieta y el otro sopla suavemente sobre su mano.",
+      "La estatua «despierta», se mueve y dice: «¡Gracias, Dios, por la vida!».",
+      "Expliquen: la vida es un regalo de Dios, por eso es sagrada."
+    ],
+    "para_los_mas_pequenos": "Que solo modelen y tú representes el soplo.",
+    "para_los_mayores": "Que digan qué hace especial a la persona frente a los demás seres.",
+    "cita_biblica": {
+      "referencia": "Génesis 2, 7",
+      "mensaje": "Dios formó al hombre del barro y le sopló aliento de vida."
+    },
+    "mensaje_final": "Mi vida es un soplo de amor de Dios."
+  },
+  {
+    "id": "02-032",
+    "modulo": 2,
+    "titulo": "Lluvia de Bendiciones",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Agradecer la lluvia y los dones de Dios con ritmo y alegría.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña a hacer el sonido de la lluvia con palmas y dedos.",
+      "Canta: «Llueve, llueve, bendición de Dios; crecen las plantitas, gracias, Señor».",
+      "Los niños acompañan el canto con el sonido de la lluvia.",
+      "En cada repetición, cambia lo que crece: flores, árboles, frutos, niños.",
+      "Terminen con un gran trueno de aplausos y un «¡Amén!»."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo la lluvia mientras tú cantas.",
+    "para_los_mayores": "Que inventen una estrofa para cada día de la semana.",
+    "cita_biblica": {
+      "referencia": "Salmo 65, 10",
+      "mensaje": "Tú, Señor, riegas la tierra y la llenas de frutos."
+    },
+    "mensaje_final": "Las bendiciones de Dios llueven sobre mí."
+  },
+  {
+    "id": "02-033",
+    "modulo": 2,
+    "titulo": "¿Qué Haría Yo en el Jardín?",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Tomar conciencia de que somos administradores de la Creación.",
+    "materiales": [
+      "Hojas",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que imaginen que Dios les confía un jardín muy bello.",
+      "Pregunta: ¿Qué harías para cuidarlo? ¿Qué no harías nunca?",
+      "Que escriban dos columnas: «Cuidaré...» y «No haré...».",
+      "Compartan en voz alta algunas respuestas.",
+      "Comparen con nuestro mundo hoy y elijan un compromiso para la semana."
+    ],
+    "para_los_mas_pequenos": "Que respondan en voz alta y tú escribes en una cartulina.",
+    "para_los_mayores": "Que piensen en algo de su barrio o escuela que necesite cuidado.",
+    "cita_biblica": {
+      "referencia": "Salmo 8, 7",
+      "mensaje": "Le diste al hombre el cuidado de todo lo que hiciste."
+    },
+    "mensaje_final": "Dios confía en mí para cuidar su mundo."
+  },
+  {
+    "id": "02-034",
+    "modulo": 2,
+    "titulo": "El Collar de los Colores de Dios",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar los regalos de la Creación con un collar de colores.",
+    "materiales": [
+      "Lana o hilo grueso",
+      "Pajitas cortadas o fideos de pasta seca pintados"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica el significado de cada color: azul (cielo y mar), verde (plantas), amarillo (sol), café (tierra), rojo (amor de Dios).",
+      "Entrega un trozo de lana a cada niño.",
+      "Ensarten las pajitas o fideos de colores diciendo qué regalo representa cada uno.",
+      "Ata los collares y que los niños se los pongan.",
+      "Recen juntos nombrando cada color: «Gracias, Dios, por el cielo azul...»."
+    ],
+    "para_los_mas_pequenos": "Usa piezas grandes y lana con la punta envuelta en cinta para ensartar fácil.",
+    "para_los_mayores": "Que expliquen su collar a un compañero de otro grupo o a su familia.",
+    "cita_biblica": {
+      "referencia": "Génesis 9, 13",
+      "mensaje": "Dios puso el arcoíris en el cielo como signo de su amistad."
+    },
+    "mensaje_final": "Cada color me recuerda un regalo de Dios."
+  },
+  {
+    "id": "02-035",
+    "modulo": 2,
+    "titulo": "Adivina la Criatura",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar lo que Dios creó con adivinanzas sencillas.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que harás adivinanzas sobre cosas que Dios creó.",
+      "Di una adivinanza: «Tengo cuello largo y como hojas altas» (la jirafa).",
+      "Quien sepa la respuesta levanta la mano y la dice, sin gritar.",
+      "Quien acierta propone la siguiente adivinanza o imita a la criatura.",
+      "Terminen con: «¿Y quién es la criatura que Dios hizo a su imagen? ¡Nosotros!»."
+    ],
+    "para_los_mas_pequenos": "Acompaña las adivinanzas con sonidos o gestos.",
+    "para_los_mayores": "Que ellos inventen adivinanzas con tres pistas.",
+    "cita_biblica": {
+      "referencia": "Salmo 104, 25",
+      "mensaje": "El mar grande y ancho está lleno de criaturas que Dios hizo."
+    },
+    "mensaje_final": "Dios es el artista de toda la Creación."
+  }
+]
