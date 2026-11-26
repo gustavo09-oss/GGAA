@@ -52,15 +52,15 @@ const CAM_A: Key[] = [
   K(556, [0.0, 2.3, 1.75], [-0.8, 0.25, -1.4]),
   K(566, [0, 4.6, 3.7], [0, 0, 0.2]),
   K(608, [0.3, 4.3, 3.4], [0, 0, 0.25]),
-  K(618, [0.3, 1.2, 4.4], [0, 1.7, 0]),
-  K(656, [-0.3, 1.6, 4.2], [0, 2.6, 0]),
-  K(668, [-0.1, 3.3, 7.9], [0.0, 0.6, 0]),
-  K(716, [-0.05, 3.2, 7.4], [0.0, 0.65, 0]),
-  K(726, [0.12, 2.4, 11.2], [0.12, 0.1, 0]),
+  K(616, [0.3, 1.2, 4.4], [0, 1.7, 0]),
+  K(641, [-0.3, 1.5, 4.25], [0, 2.4, 0]),
+  K(653, [-0.1, 3.3, 7.9], [0.0, 0.6, 0]),
+  K(694, [-0.05, 3.2, 7.4], [0.0, 0.65, 0]),
+  K(704, [0.12, 2.4, 11.2], [0.12, 0.1, 0]),
   K(776, [0.12, 2.45, 11.0], [0.12, 0.1, 0]),
   K(786, [0.1, 2.1, 8.6], [0.1, -0.05, 2.0]),
-  K(836, [0.1, 2.0, 8.1], [0.1, -0.05, 2.0]),
-  K(846, [0.12, 2.5, 12.0], [0.12, 0.05, 0]),
+  K(846, [0.1, 2.0, 8.1], [0.1, -0.05, 2.0]),
+  K(856, [0.12, 2.5, 12.0], [0.12, 0.05, 0]),
   K(900, [0.12, 2.35, 11.4], [0.12, 0.05, 0]),
 ];
 const HC = wallCell(HERO_CELL[0], HERO_CELL[1]);
@@ -172,7 +172,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
   const fichaIn = f >= 391;
   const fichaRot = -(Math.PI / 2) * (1 - easeOutBack(prog(f, 391, 404), 2.2));
   const lay = easeInOut(prog(f, 512, 540));
-  const intoBook = easeIn(prog(f, 662, 680));
+  const intoBook = easeIn(prog(f, 647, 665));
   const fichaPos = [
     lerp(lerp(F[0], 0, lay), 0, intoBook),
     lerp(lerp(F[1], 0.03, lay), 1.35, intoBook),
@@ -183,12 +183,12 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
   const absorb = prog(f, 612, 628);
 
   // ---- bundle final ----
-  const standDrop = drop(f, 662, 12);
-  const fan = easeOutBack(prog(f, 722, 748), 1.3);
+  const standDrop = drop(f, 647, 12);
+  const fan = easeOutBack(prog(f, 702, 726), 1.3);
   const SLOTS = [
     [-1.48, 2.15, -0.1, 0.62], [-1.48, 0.76, 0.1, 0.62], [1.48, 0.76, 0.1, -0.62], [1.48, 2.15, -0.1, -0.62],
   ];
-  const giftT = spring(f, 718);
+  const giftT = spring(f, 700);
   const giftOpen = easeOutBack(prog(f, 736, 750));
   const giftOut = easeIn(prog(f, 770, 790));
   const adv = easeInOut(prog(f, 744, 772));
@@ -200,7 +200,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
       <CameraRig f={f} v={v} />
 
       {/* mesa (cai no final e revela o pódio) */}
-      <group position={[0, -easeIn(prog(f, 660, 682)) * 4, 0]} visible={f < 684}>
+      <group position={[0, -easeIn(prog(f, 645, 667)) * 4, 0]} visible={f < 669}>
       <mesh rotation={[-Math.PI / 2, 0, 0]} receiveShadow position={[0, 0, 0]}>
         <planeGeometry args={[60, 60]} />
         <meshStandardMaterial color="#E9DCCA" roughness={0.95} />
@@ -211,8 +211,8 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
         <meshStandardMaterial color="#E4D5C0" roughness={0.95} />
       </mesh>
       </group>
-      {f >= 662 && <Podium />}
-      {f >= 684 && (
+      {f >= 647 && <Podium />}
+      {f >= 669 && (
         <mesh rotation={[-Math.PI / 2, 0, 0]} position={[0, -4, 0]} receiveShadow>
           <planeGeometry args={[80, 80]} /><meshStandardMaterial color={C.bege} roughness={0.95} />
         </mesh>
@@ -326,8 +326,8 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
       })}
 
       {/* ficha real */}
-      {fichaIn && f < 682 && (
-        <group position={fichaPos as any} rotation={[-Math.PI / 2 * lay, fichaRot, 0]} scale={fichaScale * (1 - prog(f, 674, 682))}>
+      {fichaIn && f < 667 && (
+        <group position={fichaPos as any} rotation={[-Math.PI / 2 * lay, fichaRot, 0]} scale={fichaScale * (1 - prog(f, 659, 667))}>
           <Ficha hi={hi} glow={bell(f, 390, 414, 6) * 0.8 + bell(f, 612, 640, 8) * 0.9} />
         </group>
       )}
@@ -369,7 +369,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
         const col = [C.terracota, C.mostarda, C.rosa, C.ceu, C.salvia, C.lavanda][i % 6];
         const x = (hash(i + 3) - 0.5) * 1.8, z = 0.3 + (hash(i + 9) - 0.5) * 1.8;
         const y = 0.1 + easeOut(t) * (2.2 + hash(i) * 2.0);
-        const s = easeOutBack(prog(f, st, st + 10), 2) * 0.42 * (1 - easeIn(prog(f, 668, 690)));
+        const s = easeOutBack(prog(f, st, st + 10), 2) * 0.42 * (1 - easeIn(prog(f, 645, 660)));
         const P = [x * (1 + t * 0.6), y, z];
         return i % 2
           ? <Heart key={i} color={col} position={P} scale={Math.max(0.001, s)} rotation={[-0.6, Math.sin(f * 0.1 + i) * 0.8, 0]} />
@@ -377,7 +377,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
       })}
 
       {/* ===== 22–30s: bundle ===== */}
-      {f >= 660 && (
+      {f >= 645 && (
         <group position={[0, 1.36 + standDrop.h * 6, 0]} rotation={[Math.PI / 2 - 0.02, Math.sin(f * 0.03) * 0.04, 0]}
           scale={[1 + standDrop.squash * 0.3, 1, 1 - standDrop.squash]}>
           <group position={[0, -0.18, 0]}>
@@ -386,7 +386,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
         </group>
       )}
       {f >= 768 && <Rays f={f} opacity={0.55 * easeOut(prog(f, 768, 800))} position={[0, 1.6, -1.2]} />}
-      {f >= 716 && [0, 1, 3].map((bi) => {
+      {f >= 700 && [0, 1, 3].map((bi) => {
         const sl = SLOTS[bi];
         const t = fan;
         return <BonusBook key={bi} i={bi} position={[lerp(0, sl[0], t), lerp(1.3, sl[1], t) + Math.sin(f * 0.05 + bi) * 0.03, lerp(-0.6, sl[2], t)]}
@@ -400,21 +400,21 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
         return <BonusBook i={2} position={pos} rotation={[0, sl[3] * adv + (1 - adv) * f * 0.12, 0]} scale={lerp(0.6, 1, up)} />;
       })()}
       {f >= 744 && f < 800 && <Sparkles f={f} center={[1.6, 1.4, 0.75]} spread={[1.4, 1.6, 1]} n={22} opacity={1 - prog(f, 770, 800)} />}
-      {f >= 716 && f < 792 && (
+      {f >= 698 && f < 792 && (
         <Gift open={giftOpen} position={[1.6, 0, 0.75]} rotation={[0, -0.35 + Math.sin(f * 0.6) * 0.05 * (f > 724 && f < 736 ? 1 : 0), 0]}
           scale={Math.max(0.001, Math.min(giftT, 1.2) * (1 - giftOut)) * 0.9} />
       )}
-      {f >= 664 && f < 740 && (
-        <Cup f={f} position={[-1.45 - easeIn(prog(f, 716, 740)) * 3, 0, 0.75]} rotation={[0, 0.6, 0]} scale={Math.max(0.001, spring(f, 664, 1.6, 0.4)) * 0.95} />
+      {f >= 649 && f < 712 && (
+        <Cup f={f} position={[-1.45 - easeIn(prog(f, 694, 712)) * 3, 0, 0.75]} rotation={[0, 0.6, 0]} scale={Math.max(0.001, spring(f, 649, 1.6, 0.4)) * 0.95} />
       )}
-      {f >= 668 && (() => {
-        const s = spring(f, 668, 1.5, 0.35);
-        const mv = easeInOut(prog(f, 716, 726));
+      {f >= 652 && (() => {
+        const s = spring(f, 652, 1.5, 0.35);
+        const mv = easeInOut(prog(f, 694, 704));
         const pos = [lerp(0.45, 0.6, mv), lerp(2.25, 2.72, mv), 1.4];
-        const hit = bell(f, 686, 714, 6);
+        const hit = bell(f, 656, 684, 6);
         const pulse = 1 + Math.sin(f * 0.26) * 0.06;
         const sc = Math.max(0.001, s) * 0.46 * (pulse + hit * 0.22);
-        const burst = prog(f, 686, 704);
+        const burst = prog(f, 656, 674);
         return (
           <group>
             <Rays f={f * 4} opacity={0.45 * Math.min(1, s)} position={[pos[0], pos[1], pos[2] - 0.15]} scale={0.24 + hit * 0.06} />

@@ -4,8 +4,8 @@ import path from 'node:path';
 import { root, repo } from './common.mjs';
 const src = fs.readFileSync(path.join(root, 'src/captions.ts'), 'utf8')
   .replace(/^export type .*$/gm, '').replace(/: Record<Lang, Cap\[\]>/g, '').replace(/export const captionsFor[\s\S]*$/, '')
-  .replace(/^export /gm, '');
-const { HOOK_A, HOOK_B, BODY } = new Function(`${src}; return { HOOK_A, HOOK_B, BODY };`)();
+  .replace(/^export /gm, '').replace(/: Cap\[\]/g, '').replace(/\(([a-z]): number(, [a-z]+: [a-z\[\]]+)*\)/g, (m) => m.replace(/: [a-z\[\]]+/g, '')).replace(/\): Cap =>/g, ') =>');
+const { HOOK_A, HOOK_B, BODY, VOICE_B_ES } = new Function(`${src}; return { HOOK_A, HOOK_B, BODY, VOICE_B_ES };`)();
 const ts = (fr) => {
   const ms = Math.round((fr / 30) * 1000);
   const p = (n, l = 2) => String(n).padStart(l, '0');
@@ -16,6 +16,6 @@ const write = (name, caps) => {
   fs.writeFileSync(path.join(repo, 'output', name), body);
 };
 write('criativo_A_es.srt', [...HOOK_A.es, ...BODY.es]);
-write('criativo_B_es.srt', [...HOOK_B.es, ...BODY.es]);
+write('criativo_B_es.srt', VOICE_B_ES);
 write('criativo_A_pt.srt', [...HOOK_A.pt, ...BODY.pt]);
 console.log('srt: 3 arquivos');

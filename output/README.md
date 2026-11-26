@@ -3,13 +3,15 @@
 | Arquivo | Uso |
 |---|---|
 | `criativo_A_es.mp4` | Versão A (gancho de dor), legendas em espanhol: **para rodar** |
-| `criativo_B_es.mp4` | Versão B (gancho de prova), legendas em espanhol: **para rodar** |
+| `criativo_B_es.mp4` | Versão B (gancho de prova), **com narração**, legendas em espanhol sincronizadas com a fala, preço USD 5: **para rodar** |
 | `criativo_A_pt.mp4` | Versão A com legendas em português: **só para revisão interna** (as cenas 3D continuam em espanhol) |
 | `criativo_A_es_SEM_LEGENDA.mp4`, `criativo_B_es_SEM_LEGENDA.mp4` | Mesmas cenas, sem legenda, para legendar depois no seu editor |
 | `criativo_*.srt` | Legendas com os tempos exatos de cada bloco |
 | `storyboard/` | Um quadro por cena |
 
-Todos: 1080×1920, 30 fps, exatamente 30,0 s (900 quadros), H.264 `yuv420p`, **sem faixa de áudio**.
+Todos: 1080×1920, 30 fps, exatamente 30,0 s (900 quadros), H.264 `yuv420p`. A versão B tem a narração (AAC 160 kbps, -14 LUFS). As demais estão sem áudio.
+
+**Narração da versão B:** o arquivo fica em `video/public/audio/voz_B_es.mp3`. As legendas da versão B (`VOICE_B_ES` em `video/src/captions.ts`) seguem a fala palavra por palavra. Se você gravar de novo, troque o arquivo e ajuste os tempos ali.
 
 ## Trocar o preço
 

@@ -22,11 +22,11 @@ const STROKE = '#4A3A2E';
 const KW_COLORS = ['#D9886C', '#E2B45A'];
 
 const Line: React.FC<{ cap: Cap; idx: number; f: number }> = ({ cap, idx, f }) => {
-  const [a, b, text] = cap;
+  const [a, b, text, starts] = cap;
   const toks = tokenize(text);
   const groups = [...new Set(toks.map((t) => t.group))];
   const per = Math.min(5, Math.max(2.5, (b - a) * 0.45 / Math.max(1, groups.length)));
-  const out = easeIn(prog(f, b - 5, b));
+  const out = b >= 899 ? 0 : easeIn(prog(f, b - 4, b));
   return (
     <div style={{
       display: 'flex', flexWrap: 'wrap', justifyContent: 'center', alignItems: 'center', columnGap: 30, rowGap: 6,
@@ -35,7 +35,8 @@ const Line: React.FC<{ cap: Cap; idx: number; f: number }> = ({ cap, idx, f }) =
       {groups.map((g) => {
         const words = toks.filter((t) => t.group === g);
         const kw = words[0].kw;
-        const start = a - 3 + groups.indexOf(g) * per;
+        const gi = groups.indexOf(g);
+        const start = starts && starts[gi] !== undefined ? starts[gi] * 30 - 2 : a - 3 + gi * per;
         const s = easeOutBack(clamp((f - start) / 7), 1.5);
         const o = clamp((f - start) / 3);
         const color = KW_COLORS[idx % 2];

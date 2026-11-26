@@ -1,5 +1,6 @@
 // Legendas: [início, fim, texto]. Trechos entre *asteriscos* são palavras-chave (ganham fundo colorido).
-export type Cap = [number, number, string];
+// 4º item opcional: início (em segundos) de cada grupo de palavras, tirado da narração
+export type Cap = [number, number, string, number[]?];
 export type Lang = 'es' | 'pt';
 
 const HOOK_A: Record<Lang, Cap[]> = {
@@ -85,5 +86,38 @@ const BODY: Record<Lang, Cap[]> = {
   ],
 };
 
+// Versão B narrada (voz em public/audio/voz_B_es.mp3): textos e tempos seguem a fala, palavra por palavra
+const s = (x: number) => Math.round(x * 30);
+const V = (a: number, b: number, text: string, starts: number[]): Cap => [s(a), s(b), text, starts];
+export const VOICE_B_ES: Cap[] = [
+  V(0.0, 1.14, 'HICE ESTA DINÁMICA', [0.0, 0.36, 0.64]),
+  V(1.14, 2.5, 'EN CATEQUESIS', [1.14, 1.72]),
+  V(2.5, 3.4, 'Y *NINGÚN NIÑO*', [2.5, 2.9]),
+  V(3.4, 4.08, '*SE DISTRAJO.*', [3.4]),
+  V(4.08, 5.44, 'Y ES SOLO *UNA*', [4.08, 4.68, 4.88, 5.1]),
+  V(5.44, 6.72, 'DE LAS *+500*', [5.44, 5.88, 6.02]),
+  V(6.72, 8.86, 'DE CATEQUESIS VIVA,', [6.72, 7.52, 8.18]),
+  V(8.86, 9.7, 'TODAS *ORGANIZADAS*', [8.86, 9.14]),
+  V(9.7, 10.48, 'POR TEMA:', [9.7, 9.92]),
+  V(10.48, 11.48, '*JESÚS,*', [10.48]),
+  V(11.48, 12.56, '*SACRAMENTOS,*', [11.48]),
+  V(12.56, 13.52, '*ORACIÓN,*', [12.56]),
+  V(13.52, 14.48, 'CON *OBJETIVO,*', [13.52, 13.6]),
+  V(14.48, 15.24, '*MATERIALES*', [14.48]),
+  V(15.24, 16.76, 'Y *PASO A PASO.*', [15.24, 15.56]),
+  V(16.76, 18.12, 'LA LEES EN *2 MINUTOS,*', [16.76, 16.86, 17.08, 17.2]),
+  V(18.12, 19.18, 'USAS LO QUE TIENES *EN CASA*', [18.12, 18.38, 18.5, 18.6, 18.8]),
+  V(19.18, 20.1, 'Y LA APLICAS', [19.18, 19.64, 19.74]),
+  V(20.1, 21.1, '*EL MISMO DÍA,*', [20.1]),
+  V(21.1, 22.3, 'POR SOLO *5 DÓLARES*', [21.1, 21.34, 21.58]),
+  V(22.3, 23.8, 'Y CON *4 BONOS*', [22.3, 23.02, 23.2]),
+  V(23.8, 24.58, 'DE REGALO,', [23.8, 23.9]),
+  V(24.58, 25.84, 'INCLUYENDO DINÁMICAS PARA', [24.58, 25.18, 25.64]),
+  V(25.84, 27.32, '*ADVIENTO Y NAVIDAD.*', [25.84]),
+  V(27.32, 27.76, 'TOCA EN', [27.32, 27.66]),
+  V(27.76, 28.42, '*“MÁS INFORMACIÓN”*', [27.76]),
+  V(28.42, 30.0, 'Y *ASEGURA EL TUYO.*', [28.42, 28.92]),
+];
+
 export const captionsFor = (version: 'A' | 'B', lang: Lang): Cap[] =>
-  [...(version === 'A' ? HOOK_A : HOOK_B)[lang], ...BODY[lang]];
+  version === 'B' && lang === 'es' ? VOICE_B_ES : [...(version === 'A' ? HOOK_A : HOOK_B)[lang], ...BODY[lang]];
