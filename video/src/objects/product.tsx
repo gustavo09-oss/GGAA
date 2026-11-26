@@ -190,7 +190,7 @@ export const Crumple: React.FC<{ t: number } & any> = ({ t, ...p }) => {
   pos.needsUpdate = true;
   return (
     <mesh geometry={geo} castShadow receiveShadow={t > 0.05} {...p}>
-      <meshStandardMaterial map={tex.paper} side={THREE.DoubleSide} roughness={0.9} flatShading={t > 0.01} />
+      <meshStandardMaterial map={tex.paper} side={THREE.DoubleSide} roughness={0.9} flatShading={t > 0.01} emissive="#FFF6EA" emissiveIntensity={0.18 + 0.22 * t} />
     </mesh>
   );
 };

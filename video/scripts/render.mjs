@@ -12,6 +12,7 @@ import { renderMedia } from '@remotion/renderer';
 import { makeBundle, comp, browser, root, repo } from './common.mjs';
 
 const only = (process.argv.find((a) => a.startsWith('--only=')) || '').slice(7);
+const reuse = (process.argv.find((a) => a.startsWith('--reuse-scene=')) || '').slice(14).split(',');
 const work = path.join(root, 'out');
 const outDir = path.join(repo, 'output');
 fs.mkdirSync(work, { recursive: true });
@@ -38,7 +39,7 @@ const versions = (only ? [only] : ['A', 'B']);
 for (const v of versions) {
   const scene = path.join(work, `scene_${v}.mp4`);
   console.log(`3D versão ${v}…`);
-  await render({ version: v, lang: 'es', captions: false, scene: true }, scene, { codec: 'h264', crf: 12, pixelFormat: 'yuv420p' });
+  if (!(reuse.includes(v) && fs.existsSync(scene))) await render({ version: v, lang: 'es', captions: false, scene: true }, scene, { codec: 'h264', crf: 12, pixelFormat: 'yuv420p' });
   ff(['-i', scene, ...FINAL, path.join(outDir, `criativo_${v}_es_SEM_LEGENDA.mp4`)]);
 
   const langs = v === 'A' ? ['es', 'pt'] : ['es'];

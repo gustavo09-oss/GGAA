@@ -249,7 +249,7 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
               const pos = f < 244 ? [b.x, 0.26 + d.h * 5, b.z] : [s.pos[0], s.pos[1] + 0.26, s.pos[2]];
               return <mesh key={i} geometry={ballGeos[i]} castShadow position={pos as any} rotation={[i, (f - b.start) * 0.05 * (1 - (d.landed ? 1 : 0)) + i, 0]}
                 scale={[(1 + d.squash * 0.5) * (f >= 244 ? s.s : 1), (1 - d.squash) * (f >= 244 ? s.s : 1), (1 + d.squash * 0.5) * (f >= 244 ? s.s : 1)]}>
-                <meshStandardMaterial color="#FFFDF8" roughness={0.9} flatShading />
+                <meshStandardMaterial color="#FFFDF8" roughness={0.9} flatShading emissive="#FFF6EA" emissiveIntensity={0.35} />
               </mesh>;
             })}
           </group>

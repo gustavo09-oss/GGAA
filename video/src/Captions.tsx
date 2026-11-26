@@ -35,7 +35,7 @@ const Line: React.FC<{ cap: Cap; idx: number; f: number }> = ({ cap, idx, f }) =
       {groups.map((g) => {
         const words = toks.filter((t) => t.group === g);
         const kw = words[0].kw;
-        const start = a + groups.indexOf(g) * per;
+        const start = a - 3 + groups.indexOf(g) * per;
         const s = easeOutBack(clamp((f - start) / 7), 1.5);
         const o = clamp((f - start) / 3);
         const color = KW_COLORS[idx % 2];
