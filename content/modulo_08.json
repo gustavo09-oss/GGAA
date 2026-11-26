@@ -1,0 +1,1999 @@
+[
+  {
+    "id": "08-001",
+    "modulo": 8,
+    "titulo": "Diez Regalos para Vivir Felices",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que los mandamientos son un regalo de Dios para vivir felices y en paz.",
+    "materiales": [
+      "Dos tablas de cartón",
+      "Diez tarjetas con los mandamientos en palabras sencillas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Para qué sirven las reglas de un juego? Para que todos puedan jugar bien.",
+      "Explica que Dios nos dio diez mandamientos como un camino para ser felices y amar bien.",
+      "Lee cada tarjeta en lenguaje sencillo y pégala en las tablas: los tres primeros sobre el amor a Dios, los otros siete sobre el amor a los demás.",
+      "Pregunta: ¿Cuál les parece más fácil? ¿Cuál más difícil?",
+      "Terminen dando gracias a Dios por enseñarnos a vivir."
+    ],
+    "para_los_mas_pequenos": "Lee solo tres mandamientos con dibujos.",
+    "para_los_mayores": "Que expliquen por qué hay dos tablas.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 35",
+      "mensaje": "Guíame por el camino de tus mandamientos, porque allí está mi alegría."
+    },
+    "mensaje_final": "Los mandamientos me enseñan a amar."
+  },
+  {
+    "id": "08-002",
+    "modulo": 8,
+    "titulo": "Las Dos Tablas",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Clasificar los mandamientos según el amor a Dios y el amor al prójimo.",
+    "materiales": [
+      "Dos carteles: Amor a Dios / Amor a los demás",
+      "Tarjetas con los mandamientos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca los dos carteles en extremos del salón.",
+      "Reparte las tarjetas entre los niños.",
+      "A tu señal, corren a pegar su tarjeta en el cartel correcto.",
+      "Revisen juntos: tres en «Amor a Dios» y siete en «Amor a los demás».",
+      "Conversen: Jesús resumió todo en dos palabras: amar a Dios y amar al prójimo."
+    ],
+    "para_los_mas_pequenos": "Usa dibujos y que los peguen con tu ayuda.",
+    "para_los_mayores": "Que reciten los mandamientos en orden de memoria.",
+    "cita_biblica": {
+      "referencia": "Éxodo 31, 18",
+      "mensaje": "Dios dio a Moisés las dos tablas escritas por el dedo de Dios."
+    },
+    "mensaje_final": "Amo a Dios y amo a los demás."
+  },
+  {
+    "id": "08-003",
+    "modulo": 8,
+    "titulo": "Mandamientos con Gestos",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Memorizar los diez mandamientos con un canto y gestos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un gesto para cada mandamiento: brazos arriba (amar a Dios), dedo en los labios (respetar su nombre), manos juntas (ir a Misa), abrazo (honrar a los papás).",
+      "Sigue: corazón (cuidar la vida), manos limpias (pureza), manos abiertas (no robar), boca sonriente (decir la verdad), mano en el pecho (no envidiar).",
+      "Recítenlos con ritmo haciendo los gestos.",
+      "Repitan cada vez más rápido.",
+      "Terminen con un gran aplauso para Dios."
+    ],
+    "para_los_mas_pequenos": "Que hagan los gestos mientras tú cantas.",
+    "para_los_mayores": "Que los reciten sin ayuda en orden.",
+    "cita_biblica": {
+      "referencia": "Juan 14, 21",
+      "mensaje": "Jesús dijo: El que conoce mis mandamientos y los cumple, ese me ama."
+    },
+    "mensaje_final": "Guardo los mandamientos en mi corazón."
+  },
+  {
+    "id": "08-004",
+    "modulo": 8,
+    "titulo": "Dios en el Primer Lugar",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender el primer mandamiento: amar a Dios sobre todas las cosas.",
+    "materiales": [
+      "Una corona de papel",
+      "Objetos (juguete, celular de juguete, pelota)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca una silla como «trono» y la corona sobre ella.",
+      "Pregunta: ¿Quién debe estar en el primer lugar de nuestro corazón?",
+      "Pon un objeto en el trono y pregunta si debe estar allí; los niños responden «¡No, Dios!».",
+      "Finalmente coloca una cruz o imagen de Jesús en el trono y todos aplauden.",
+      "Conversen: los juguetes y las cosas son buenos, pero Dios va primero."
+    ],
+    "para_los_mas_pequenos": "Que digan «¡Dios primero!» cada vez.",
+    "para_los_mayores": "Que piensen qué cosas a veces ocupan el primer lugar en su vida.",
+    "cita_biblica": {
+      "referencia": "Deuteronomio 6, 5",
+      "mensaje": "Amarás al Señor tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas."
+    },
+    "mensaje_final": "Dios es el primero en mi corazón."
+  },
+  {
+    "id": "08-005",
+    "modulo": 8,
+    "titulo": "Un Nombre Santo",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a pronunciar el nombre de Dios con respeto y amor.",
+    "materiales": [
+      "Tarjetas con los nombres de Dios: Padre, Señor, Jesús, Espíritu Santo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Cómo te sientes cuando alguien dice tu nombre con cariño? ¿Y cuando se burla?",
+      "Explica el segundo mandamiento: no tomar el nombre de Dios en vano.",
+      "Muestra las tarjetas y digan cada nombre con cariño y respeto.",
+      "Conversen: ¿Cuándo usamos el nombre de Dios? Al rezar, al bendecir, al dar gracias.",
+      "Terminen diciendo juntos: «Bendito sea el nombre del Señor»."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Jesús» con una sonrisa y voz suave.",
+    "para_los_mayores": "Que piensen qué hacer si escuchan a alguien usar mal el nombre de Dios.",
+    "cita_biblica": {
+      "referencia": "Salmo 113, 2",
+      "mensaje": "Bendito sea el nombre del Señor ahora y por siempre."
+    },
+    "mensaje_final": "Digo el nombre de Dios con amor."
+  },
+  {
+    "id": "08-006",
+    "modulo": 8,
+    "titulo": "El Domingo es de Dios",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir el tercer mandamiento: santificar el domingo con la Misa y el descanso en familia.",
+    "materiales": [
+      "Hojas con un calendario de una semana",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una hoja con los siete días de la semana.",
+      "Cada niño dibuja lo que hace cada día.",
+      "El domingo lo decoran de forma especial: Misa, familia, descanso, juego.",
+      "Explica que el domingo es el día en que Jesús resucitó y nos reunimos para celebrarlo.",
+      "Conversen: ¿Cómo podemos hacer del domingo un día especial para Dios?"
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo el domingo con su familia en la iglesia.",
+    "para_los_mayores": "Que escriban un plan familiar para el próximo domingo.",
+    "cita_biblica": {
+      "referencia": "Éxodo 20, 8",
+      "mensaje": "Acuérdate del día del Señor para santificarlo."
+    },
+    "mensaje_final": "El domingo es el día de Jesús y de mi familia."
+  },
+  {
+    "id": "08-007",
+    "modulo": 8,
+    "titulo": "Honra a Papá y a Mamá",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Vivir el cuarto mandamiento: honrar, obedecer y cuidar a los padres.",
+    "materiales": [
+      "Tarjetas con situaciones de casa"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica el cuarto mandamiento: honrar a padre y madre, y a quienes nos cuidan.",
+      "Forma grupos y entrega una situación: «Mamá pide ayuda para poner la mesa», «Papá está cansado».",
+      "Cada grupo representa dos finales: uno sin respeto y otro con amor.",
+      "El grupo comenta cuál final agrada a Dios.",
+      "Cada niño elige una forma de honrar a su familia esta semana."
+    ],
+    "para_los_mas_pequenos": "Que representen solo el final bueno con tu ayuda.",
+    "para_los_mayores": "Que incluyan a los abuelos en sus escenas.",
+    "cita_biblica": {
+      "referencia": "Éxodo 20, 12",
+      "mensaje": "Honra a tu padre y a tu madre."
+    },
+    "mensaje_final": "Honro a mi familia con amor y obediencia."
+  },
+  {
+    "id": "08-008",
+    "modulo": 8,
+    "titulo": "Cuidamos la Vida",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender el quinto mandamiento: cuidar la vida propia y la de los demás.",
+    "materiales": [
+      "Una planta pequeña o un huevo de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pasa la planta con cuidado de mano en mano.",
+      "Pregunta: ¿Por qué la cuidamos tanto? Porque está viva y es frágil.",
+      "Explica que toda vida es un regalo de Dios y debemos cuidarla.",
+      "Conversen: ¿Cómo cuidamos la vida? No pelear, no lastimar, comer sano, ayudar a los débiles.",
+      "Terminen con una oración por la vida de todas las personas."
+    ],
+    "para_los_mas_pequenos": "Que digan una forma de cuidar a un amigo.",
+    "para_los_mayores": "Que piensen cómo las palabras también pueden lastimar o cuidar.",
+    "cita_biblica": {
+      "referencia": "Deuteronomio 30, 19",
+      "mensaje": "Elige la vida, para que vivas tú y tus descendientes."
+    },
+    "mensaje_final": "Cuido la vida porque es un regalo de Dios."
+  },
+  {
+    "id": "08-009",
+    "modulo": 8,
+    "titulo": "Mi Cuerpo es Templo",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar el propio cuerpo y el de los demás con respeto, según el sexto y noveno mandamientos.",
+    "materiales": [
+      "Una imagen de una iglesia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la imagen y pregunta: ¿Cómo cuidamos la iglesia? Con respeto y limpieza.",
+      "Explica que San Pablo dice que nuestro cuerpo es templo del Espíritu Santo.",
+      "Conversen: cuidamos nuestro cuerpo, nos vestimos con dignidad y respetamos el cuerpo de los demás.",
+      "Explica que nadie debe tocarnos de forma que nos haga sentir mal, y que siempre podemos contarlo a un adulto de confianza.",
+      "Terminen con una oración de gracias por el cuerpo."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «Mi cuerpo es un regalo de Dios y lo cuido».",
+    "para_los_mayores": "Que piensen cómo cuidar lo que miran y escuchan para tener un corazón limpio.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 6, 19",
+      "mensaje": "Su cuerpo es templo del Espíritu Santo."
+    },
+    "mensaje_final": "Mi cuerpo es templo de Dios."
+  },
+  {
+    "id": "08-010",
+    "modulo": 8,
+    "titulo": "Lo Ajeno se Respeta",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Vivir el séptimo mandamiento: no robar y respetar las cosas de los demás.",
+    "materiales": [
+      "Objetos pequeños de los niños (un lápiz, una goma)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño deja un objeto suyo sobre la mesa.",
+      "Mientras están de espaldas, cambia algunos objetos de lugar.",
+      "Los niños deben encontrar y devolver cada objeto a su dueño.",
+      "Pregunta: ¿Cómo se sentirían si alguien se quedara con su objeto?",
+      "Explica que respetar lo ajeno y devolver lo prestado agrada a Dios."
+    ],
+    "para_los_mas_pequenos": "Que devuelvan los objetos con tu ayuda.",
+    "para_los_mayores": "Que hablen de cuidar también las cosas de la escuela y del barrio.",
+    "cita_biblica": {
+      "referencia": "Éxodo 20, 15",
+      "mensaje": "No robarás."
+    },
+    "mensaje_final": "Respeto las cosas de los demás."
+  },
+  {
+    "id": "08-011",
+    "modulo": 8,
+    "titulo": "Siempre la Verdad",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender el octavo mandamiento: decir la verdad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Di frases verdaderas o falsas: «El cielo es verde», «Jesús nos ama».",
+      "Si es verdad, los niños se ponen de pie; si es mentira, se agachan.",
+      "Alterna frases cada vez más rápido.",
+      "Pregunta: ¿Qué pasa cuando alguien miente? Se pierde la confianza.",
+      "Explica que Jesús es la Verdad y nos pide ser sinceros."
+    ],
+    "para_los_mas_pequenos": "Usa frases muy claras con dibujos.",
+    "para_los_mayores": "Que hablen de mentiras «pequeñas» y por qué también hacen daño.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 25",
+      "mensaje": "Digan siempre la verdad unos a otros."
+    },
+    "mensaje_final": "Digo siempre la verdad."
+  },
+  {
+    "id": "08-012",
+    "modulo": 8,
+    "titulo": "Contento con lo que Tengo",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Vencer la envidia y aprender a alegrarse por los demás, según el décimo mandamiento.",
+    "materiales": [
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Alguna vez quisiste algo que tenía otro? ¿Qué sentiste?",
+      "Explica que la envidia es estar triste por lo bueno de otro, y el décimo mandamiento nos pide no desearlo.",
+      "Cada niño escribe tres cosas buenas que tiene y por las que da gracias.",
+      "Luego escribe algo bueno de un compañero y se alegra por él.",
+      "Terminen dando gracias a Dios por todo lo que tienen."
+    ],
+    "para_los_mas_pequenos": "Que digan una cosa que les gusta de su casa.",
+    "para_los_mayores": "Que piensen cómo felicitar a alguien que logró algo que ellos querían.",
+    "cita_biblica": {
+      "referencia": "Filipenses 4, 11",
+      "mensaje": "Aprendí a estar contento en cualquier situación."
+    },
+    "mensaje_final": "Soy feliz con lo que Dios me da."
+  },
+  {
+    "id": "08-013",
+    "modulo": 8,
+    "titulo": "El Mandamiento Nuevo",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Conocer el mandamiento del amor que Jesús nos dejó.",
+    "materiales": [
+      "Un corazón grande de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee las palabras de Jesús: «Ámense unos a otros como yo los he amado».",
+      "Pasa el corazón de mano en mano.",
+      "Quien lo recibe dice: «Jesús, ayúdame a amar a...» y nombra a alguien.",
+      "Todos responden: «Como tú nos amas».",
+      "Terminen con un abrazo grupal."
+    ],
+    "para_los_mas_pequenos": "Que digan el nombre de alguien que quieren.",
+    "para_los_mayores": "Que nombren a alguien a quien les cuesta amar.",
+    "cita_biblica": {
+      "referencia": "Juan 13, 34",
+      "mensaje": "Jesús dijo: Les doy un mandamiento nuevo: ámense unos a otros como yo los he amado."
+    },
+    "mensaje_final": "Amo como Jesús me ama."
+  },
+  {
+    "id": "08-014",
+    "modulo": 8,
+    "titulo": "Amar a Dios y al Prójimo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Representar los dos grandes mandamientos con una cruz que une el cielo y la tierra.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Jesús resumió los mandamientos en dos: amar a Dios y amar al prójimo.",
+      "Cada niño dibuja y recorta una cruz grande.",
+      "En el palo vertical escriben «Amo a Dios»; en el horizontal, «Amo a los demás».",
+      "Decoren la cruz con corazones.",
+      "Expliquen: la cruz une el amor a Dios (hacia arriba) y a los demás (hacia los lados)."
+    ],
+    "para_los_mas_pequenos": "Que decoren una cruz con las frases ya escritas.",
+    "para_los_mayores": "Que escriban en cada brazo una acción concreta de amor.",
+    "cita_biblica": {
+      "referencia": "Mateo 22, 37-39",
+      "mensaje": "Amarás a Dios con todo tu corazón y a tu prójimo como a ti mismo."
+    },
+    "mensaje_final": "Mi amor sube a Dios y se extiende a todos."
+  },
+  {
+    "id": "08-015",
+    "modulo": 8,
+    "titulo": "¿Quién es mi Prójimo?",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que el prójimo es toda persona que está cerca y necesita amor.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que caminen por el salón.",
+      "Cuando digas «¡Prójimo!», cada uno busca al que tenga más cerca y le dice algo amable.",
+      "Cambia las consignas: «¡Prójimo que necesita ayuda!» (ayuda a atarle el zapato, por ejemplo).",
+      "Repite varias veces.",
+      "Explica que prójimo significa «el que está cerca»: en casa, en la escuela, en la calle."
+    ],
+    "para_los_mas_pequenos": "Que se den la mano y digan «Hola, amigo».",
+    "para_los_mayores": "Que piensen en alguien lejano que también es su prójimo.",
+    "cita_biblica": {
+      "referencia": "Levítico 19, 18",
+      "mensaje": "Amarás a tu prójimo como a ti mismo."
+    },
+    "mensaje_final": "Todos son mi prójimo."
+  },
+  {
+    "id": "08-016",
+    "modulo": 8,
+    "titulo": "La Cadena del Perdón",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender que perdonar nos une como hermanos y que Dios siempre nos perdona cuando se lo pedimos.",
+    "materiales": [
+      "Tiras de papel de colores",
+      "Pegamento o cinta adhesiva",
+      "Lápices"
+    ],
+    "preparacion": "Corta tiras de papel de unos 3 x 20 cm, al menos tres por niño.",
+    "pasos": [
+      "Pregunta: ¿Qué pasa en nuestro corazón cuando alguien nos hace daño? ¿Y cuando decimos «te perdono»?",
+      "Entrega tres tiras a cada niño. En cada una, escribe o dibuja algo que ayuda a perdonar: un abrazo, decir «lo siento», escuchar.",
+      "Muestra cómo cerrar la primera tira en forma de anillo y enganchar la siguiente para formar una cadena.",
+      "Unan todas las cadenitas del grupo en una sola cadena larga.",
+      "Colóquenla alrededor del salón y expliquen: el perdón nos mantiene unidos, como los eslabones de esta cadena."
+    ],
+    "para_los_mas_pequenos": "Que solo dibujen caritas felices y la catequista ayude a pegar los anillos.",
+    "para_los_mayores": "Que escriban una situación real (sin nombres) en la que les cuesta perdonar y cómo podrían hacerlo.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 13",
+      "mensaje": "Perdónense unos a otros, así como el Señor los perdonó a ustedes."
+    },
+    "mensaje_final": "Cuando perdono, mi corazón se une al de Jesús."
+  },
+  {
+    "id": "08-017",
+    "modulo": 8,
+    "titulo": "Setenta Veces Siete",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que Jesús nos pide perdonar siempre.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Pedro preguntó a Jesús cuántas veces debía perdonar, y Jesús respondió: «Setenta veces siete».",
+      "Pregunta: ¿Cuánto es eso? Calculen juntos: 490.",
+      "Explica que Jesús quiere decir «siempre».",
+      "Jueguen a contar de siete en siete en ronda; quien se equivoca dice: «¡Te perdono!» y sigue el juego.",
+      "Conversen: ¿Por qué es tan importante perdonar siempre?"
+    ],
+    "para_los_mas_pequenos": "Que cuenten hasta siete con los dedos y digan «perdono».",
+    "para_los_mayores": "Que piensen por qué perdonar no significa aceptar que nos traten mal.",
+    "cita_biblica": {
+      "referencia": "Mateo 18, 22",
+      "mensaje": "Jesús dijo: No te digo siete veces, sino setenta veces siete."
+    },
+    "mensaje_final": "Perdono siempre, como Jesús."
+  },
+  {
+    "id": "08-018",
+    "modulo": 8,
+    "titulo": "El Globo del Enojo",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a manejar el enojo y elegir el perdón.",
+    "materiales": [
+      "Un globo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Infla el globo poco a poco mientras nombras cosas que nos enojan.",
+      "Pregunta: ¿Qué pasa si sigo inflando? ¡Puede explotar!",
+      "Explica que el enojo guardado hace daño, y el perdón nos ayuda a soltarlo.",
+      "Deja salir el aire lentamente mientras todos respiran profundo.",
+      "Practiquen juntos: respirar, contar hasta diez y pedir ayuda a Jesús."
+    ],
+    "para_los_mas_pequenos": "Que respiren profundo contigo varias veces.",
+    "para_los_mayores": "Que piensen en palabras para expresar el enojo sin lastimar.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 26",
+      "mensaje": "Si se enojan, no pequen; que el sol no se ponga sobre su enojo."
+    },
+    "mensaje_final": "Con Jesús, transformo el enojo en paz."
+  },
+  {
+    "id": "08-019",
+    "modulo": 8,
+    "titulo": "Las Paces",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Practicar cómo reconciliarse después de una pelea.",
+    "materiales": [
+      "Tarjetas con situaciones de pelea entre amigos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma parejas y entrega una situación: «Te empujó en la fila», «No te prestó su pelota».",
+      "Representen la situación y luego cómo hacer las paces.",
+      "Enseña tres pasos: decir cómo me siento, pedir perdón, dar un abrazo o la mano.",
+      "Cada pareja muestra su escena al grupo.",
+      "Recen juntos pidiendo un corazón que perdona."
+    ],
+    "para_los_mas_pequenos": "Que practiquen solo decir «lo siento» y «te perdono».",
+    "para_los_mayores": "Que escriban una situación real del colegio y cómo resolverla.",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 24",
+      "mensaje": "Ve primero a reconciliarte con tu hermano."
+    },
+    "mensaje_final": "Hago las paces porque Jesús me enseña."
+  },
+  {
+    "id": "08-020",
+    "modulo": 8,
+    "titulo": "Perdono de Corazón",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Pedir a Dios la gracia de perdonar a quien nos hizo daño.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Invita a los niños a cerrar los ojos.",
+      "Pide que piensen en alguien que los lastimó.",
+      "Guía una oración en silencio: «Jesús, te entrego lo que me dolió; ayúdame a perdonar a [nombre]».",
+      "Lee el Padre Nuestro despacio, deteniéndote en «como también nosotros perdonamos».",
+      "Terminen con un momento de silencio y un «Amén»."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Jesús, ayúdame a perdonar».",
+    "para_los_mayores": "Que escriban el nombre en un papel y lo rompan como signo de perdón.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 14",
+      "mensaje": "Si perdonan a los demás, también su Padre del cielo los perdonará."
+    },
+    "mensaje_final": "Con la ayuda de Jesús, perdono."
+  },
+  {
+    "id": "08-021",
+    "modulo": 8,
+    "titulo": "Cicatrices que Sanan",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que las palabras dañan, pero el perdón sana.",
+    "materiales": [
+      "Una hoja de papel por niño"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que arruguen la hoja con fuerza mientras nombran palabras feas que lastiman.",
+      "Luego pide que la alisen y la dejen como antes. ¿Pueden?",
+      "Explica que las palabras dejan marcas, por eso hay que cuidar lo que decimos.",
+      "Decoren la hoja arrugada con colores: el amor y el perdón pueden hacer algo bello aun con las marcas.",
+      "Conversen: ¿Cómo podemos sanar con palabras buenas?"
+    ],
+    "para_los_mas_pequenos": "Que arruguen y alisen la hoja con tu ayuda.",
+    "para_los_mayores": "Que escriban tres frases que sanan.",
+    "cita_biblica": {
+      "referencia": "Proverbios 12, 18",
+      "mensaje": "Las palabras sabias sanan las heridas."
+    },
+    "mensaje_final": "Mis palabras pueden sanar."
+  },
+  {
+    "id": "08-022",
+    "modulo": 8,
+    "titulo": "Gracias por Todo",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender a dar gracias a Dios y a los demás.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto: «Gracias, gracias, gracias, Señor, por mi familia y por tu amor».",
+      "En cada repetición, un niño cambia la palabra: por mis amigos, por la comida, por mi escuela.",
+      "Acompañen con palmas.",
+      "Al final, cada niño da gracias a un compañero por algo concreto.",
+      "Terminen con un gran «¡Gracias, Dios!»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «¡Gracias!» aplaudiendo.",
+    "para_los_mayores": "Que escriban una tarjeta de gracias para alguien de la parroquia.",
+    "cita_biblica": {
+      "referencia": "Salmo 107, 1",
+      "mensaje": "Den gracias al Señor, porque es bueno y su amor es para siempre."
+    },
+    "mensaje_final": "Doy gracias por todo lo que recibo."
+  },
+  {
+    "id": "08-023",
+    "modulo": 8,
+    "titulo": "La Cadena de Gracias",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Practicar la gratitud en el grupo.",
+    "materiales": [
+      "Una pelota blanda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Lanza la pelota a un niño diciendo: «Gracias, [nombre], por...».",
+      "Quien la recibe agradece a otro compañero por algo distinto.",
+      "Continúen hasta que todos hayan agradecido y recibido.",
+      "Conversen: ¿Cómo se sintieron al recibir un gracias?"
+    ],
+    "para_los_mas_pequenos": "Acepta agradecimientos sencillos: «por jugar conmigo».",
+    "para_los_mayores": "Que agradezcan algo que nunca habían dicho.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 18",
+      "mensaje": "Den gracias a Dios en toda situación."
+    },
+    "mensaje_final": "Agradecer alegra el corazón."
+  },
+  {
+    "id": "08-024",
+    "modulo": 8,
+    "titulo": "Carta de Gracias",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Expresar gratitud a una persona importante.",
+    "materiales": [
+      "Hojas decoradas",
+      "Sobres",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Quién hace algo bueno por ti cada día?",
+      "Cada niño elige una persona: mamá, abuelo, maestra, el chofer del bus.",
+      "Escriben o dibujan una carta de gracias.",
+      "Decoran el sobre con corazones y estrellas.",
+      "Recen por esa persona antes de entregar la carta."
+    ],
+    "para_los_mas_pequenos": "Que hagan un dibujo con la palabra «Gracias».",
+    "para_los_mayores": "Que escriban por qué esa persona es un regalo de Dios.",
+    "cita_biblica": {
+      "referencia": "Filipenses 1, 3",
+      "mensaje": "Doy gracias a mi Dios cada vez que me acuerdo de ustedes."
+    },
+    "mensaje_final": "Digo gracias a quienes me cuidan."
+  },
+  {
+    "id": "08-025",
+    "modulo": 8,
+    "titulo": "El Gracias Escondido",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir motivos de gratitud incluso en las cosas pequeñas de cada día.",
+    "materiales": [
+      "Una canasta con objetos cotidianos (cuchara, lápiz, zapato, vaso)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Saca un objeto de la canasta y pregunta: ¿Por qué podemos dar gracias por esto?",
+      "Escucha respuestas: «Por la cuchara, porque tenemos comida».",
+      "Cada niño saca un objeto y hace una oración de gracias con él.",
+      "El grupo responde: «¡Te damos gracias, Señor!».",
+      "Conversen: Dios nos regala muchas cosas que a veces no notamos."
+    ],
+    "para_los_mas_pequenos": "Que muestren el objeto y digan «Gracias, Dios».",
+    "para_los_mayores": "Que piensen en las personas que trabajaron para que tengamos ese objeto.",
+    "cita_biblica": {
+      "referencia": "Santiago 1, 17",
+      "mensaje": "Todo lo bueno que recibimos viene de Dios."
+    },
+    "mensaje_final": "Hasta lo pequeño es un regalo de Dios."
+  },
+  {
+    "id": "08-026",
+    "modulo": 8,
+    "titulo": "Compartir Multiplica",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que compartir hace que todos tengamos más alegría.",
+    "materiales": [
+      "Caramelos de papel o fichas de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Reparte las fichas de forma desigual: algunos tienen muchas, otros pocas, otros ninguna.",
+      "Pregunta: ¿Cómo se sienten los que no tienen? ¿Y los que tienen muchas?",
+      "Invita a que compartan libremente hasta que todos tengan.",
+      "Pregunta de nuevo: ¿Cómo se sienten ahora?",
+      "Explica que Jesús nos enseña a compartir con los que tienen menos."
+    ],
+    "para_los_mas_pequenos": "Que repartan las fichas con tu ayuda.",
+    "para_los_mayores": "Que piensen en personas de su barrio que necesitan que compartamos.",
+    "cita_biblica": {
+      "referencia": "Hechos 4, 32",
+      "mensaje": "Lo tenían todo en común y nadie pasaba necesidad."
+    },
+    "mensaje_final": "Cuando comparto, todos somos más felices."
+  },
+  {
+    "id": "08-027",
+    "modulo": 8,
+    "titulo": "La Mochila Solidaria",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Organizar un gesto concreto de compartir como grupo.",
+    "materiales": [
+      "Una caja grande",
+      "Papel de colores",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Conversen sobre niños que no tienen útiles escolares o ropa.",
+      "Decoren entre todos una caja como «mochila solidaria».",
+      "Escriban en la caja: «Compartimos con amor».",
+      "Decidan juntos qué traerán la próxima semana: un cuaderno, un lápiz, un juguete en buen estado.",
+      "Entreguen la caja a la parroquia o a una institución."
+    ],
+    "para_los_mas_pequenos": "Que decoren la caja con dibujos y huellas de manos.",
+    "para_los_mayores": "Que organicen la lista de lo que se necesita y la publiquen en la parroquia.",
+    "cita_biblica": {
+      "referencia": "2 Corintios 9, 7",
+      "mensaje": "Dios ama al que da con alegría."
+    },
+    "mensaje_final": "Doy con alegría porque Dios me ama."
+  },
+  {
+    "id": "08-028",
+    "modulo": 8,
+    "titulo": "Mío, Tuyo, Nuestro",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender que muchas cosas pueden ser de todos cuando compartimos.",
+    "materiales": [
+      "Un juguete o una pelota"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el juguete y pregunta: ¿De quién es?",
+      "Pide que dos niños jueguen solos con él y luego juntos.",
+      "Pregunta: ¿Cuándo fue más divertido?",
+      "Explica que lo «mío» se vuelve «nuestro» cuando lo compartimos.",
+      "Cada niño piensa en algo suyo que puede compartir esta semana."
+    ],
+    "para_los_mas_pequenos": "Que pasen el juguete diciendo «¡Te lo presto!».",
+    "para_los_mayores": "Que piensen qué cosas no se deben compartir (secretos de otros, contraseñas) y por qué.",
+    "cita_biblica": {
+      "referencia": "1 Timoteo 6, 18",
+      "mensaje": "Hagan el bien y sean generosos, dispuestos a compartir."
+    },
+    "mensaje_final": "Lo mío también puede ser nuestro."
+  },
+  {
+    "id": "08-029",
+    "modulo": 8,
+    "titulo": "El Banquete de los Pobres",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que Jesús nos invita a incluir a los que nadie invita.",
+    "materiales": [
+      "Sillas",
+      "Platos de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee las palabras de Jesús: «Cuando des una fiesta, invita a los pobres, a los enfermos, a los que no pueden devolverte».",
+      "Un niño organiza una fiesta e invita solo a sus amigos ricos.",
+      "Luego repite la escena invitando a los que nadie invita.",
+      "Pregunta: ¿Cuál fiesta se parece más al corazón de Jesús?",
+      "Conversen: ¿A quién podríamos invitar a jugar o a nuestra mesa?"
+    ],
+    "para_los_mas_pequenos": "Que los pequeños sean los invitados que llegan felices.",
+    "para_los_mayores": "Que piensen en alguien de su clase que siempre queda fuera.",
+    "cita_biblica": {
+      "referencia": "Lucas 14, 13-14",
+      "mensaje": "Cuando des un banquete, invita a los pobres, y serás feliz."
+    },
+    "mensaje_final": "Invito a todos, como Jesús."
+  },
+  {
+    "id": "08-030",
+    "modulo": 8,
+    "titulo": "El Árbol que Da Frutos",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Reconocer que compartir nuestros dones da frutos para todos.",
+    "materiales": [
+      "Árbol dibujado en papel grande",
+      "Frutas de papel",
+      "Lápices",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que un árbol no come sus propios frutos: los da a los demás.",
+      "Cada niño recibe frutas de papel.",
+      "En cada fruta escribe o dibuja un don que puede compartir: cantar, ayudar, escuchar, dibujar.",
+      "Peguen las frutas en el árbol.",
+      "Conversen: ¿Cómo alimenta a otros cada fruto?"
+    ],
+    "para_los_mas_pequenos": "Que dibujen su fruta favorita y la peguen.",
+    "para_los_mayores": "Que piensen cómo usar un don para servir en la parroquia.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 4, 10",
+      "mensaje": "Cada uno ponga al servicio de los demás el don que recibió."
+    },
+    "mensaje_final": "Comparto mis dones con los demás."
+  },
+  {
+    "id": "08-031",
+    "modulo": 8,
+    "titulo": "El Teléfono de la Verdad",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Descubrir cómo los chismes deforman la verdad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma una fila o círculo.",
+      "Susurra una frase larga al primer niño: «Juan llevó tres manzanas rojas a la catequesis el martes».",
+      "Cada niño la pasa en susurro al siguiente.",
+      "El último la dice en voz alta: compárenla con la original.",
+      "Conversen: así pasa con los chismes; por eso decimos la verdad y no repetimos lo que no sabemos."
+    ],
+    "para_los_mas_pequenos": "Usa una frase corta y sencilla.",
+    "para_los_mayores": "Que piensen qué hacer cuando escuchan un chisme sobre un compañero.",
+    "cita_biblica": {
+      "referencia": "Proverbios 11, 13",
+      "mensaje": "El chismoso cuenta secretos; el que es fiel los guarda."
+    },
+    "mensaje_final": "No repito chismes, digo la verdad."
+  },
+  {
+    "id": "08-032",
+    "modulo": 8,
+    "titulo": "Pinocho No, Sincero Sí",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Practicar decir la verdad aunque cueste.",
+    "materiales": [
+      "Tarjetas con situaciones (rompí un vaso, no hice la tarea, perdí el lápiz)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "En parejas, eligen una tarjeta.",
+      "Representan la escena: primero con una mentira y qué pasa después.",
+      "Luego la representan diciendo la verdad.",
+      "Comenten: ¿Qué final es mejor? Decir la verdad da paz.",
+      "Recen pidiendo valor para ser sinceros."
+    ],
+    "para_los_mas_pequenos": "Que representen solo el final sincero.",
+    "para_los_mayores": "Que hablen de cómo pedir perdón después de una mentira.",
+    "cita_biblica": {
+      "referencia": "Proverbios 12, 22",
+      "mensaje": "Al Señor le agradan los que dicen la verdad."
+    },
+    "mensaje_final": "Decir la verdad me da paz."
+  },
+  {
+    "id": "08-033",
+    "modulo": 8,
+    "titulo": "La Verdad con Amor",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a decir la verdad sin herir a los demás.",
+    "materiales": [
+      "Tarjetas con frases para mejorar"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una frase dura: «Tu dibujo es feo».",
+      "Pregunta: ¿Es posible decir la verdad sin lastimar?",
+      "En grupos, transformen las frases duras en frases sinceras y amables: «Me gusta el color; ¿quieres que te ayude con el dibujo?».",
+      "Compartan las frases nuevas.",
+      "Conversen: Jesús siempre decía la verdad con amor."
+    ],
+    "para_los_mas_pequenos": "Que elijan entre dos frases la más amable.",
+    "para_los_mayores": "Que escriban tres ejemplos propios.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 15",
+      "mensaje": "Digan la verdad con amor."
+    },
+    "mensaje_final": "Digo la verdad con amor."
+  },
+  {
+    "id": "08-034",
+    "modulo": 8,
+    "titulo": "Palabras que Construyen",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Usar palabras que animan y construyen.",
+    "materiales": [
+      "Bloques o cajas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto: «Mis palabras construyen, mis palabras dan amor».",
+      "Por cada palabra amable que digan los niños, colocan un bloque formando una torre.",
+      "Canten mientras la torre crece.",
+      "Si alguien dice una palabra fea (en juego), quita un bloque.",
+      "Al final, admiren la torre de palabras buenas."
+    ],
+    "para_los_mas_pequenos": "Que pongan un bloque diciendo «gracias» o «por favor».",
+    "para_los_mayores": "Que inventen una estrofa con palabras que animan.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 29",
+      "mensaje": "Que sus palabras sean buenas y ayuden a crecer."
+    },
+    "mensaje_final": "Mis palabras construyen."
+  },
+  {
+    "id": "08-035",
+    "modulo": 8,
+    "titulo": "Por Favor, Gracias y Perdón",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Practicar las palabras mágicas del respeto y la convivencia.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto con tres palabras: «Por favor, gracias y perdón, abren puertas del corazón».",
+      "Cada palabra tiene un gesto: manos juntas, mano en el pecho, abrazo.",
+      "Canten haciendo los gestos.",
+      "Representen situaciones cortas donde usen cada palabra.",
+      "Desafío de la semana: usar las tres palabras en casa."
+    ],
+    "para_los_mas_pequenos": "Que hagan los gestos mientras cantas.",
+    "para_los_mayores": "Que escriban cuántas veces las usaron durante la semana.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 10",
+      "mensaje": "Ámense con cariño de hermanos y respétense unos a otros."
+    },
+    "mensaje_final": "Por favor, gracias y perdón abren corazones."
+  },
+  {
+    "id": "08-036",
+    "modulo": 8,
+    "titulo": "Todos Diferentes, Todos Hermanos",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Valorar las diferencias y respetar a cada persona.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que se agrupen según distintas características: color de zapatos, mes de cumpleaños, comida favorita.",
+      "Observen cómo cambian los grupos cada vez.",
+      "Pregunta: ¿Alguien quedó siempre en el mismo grupo? Todos somos diferentes y a la vez parecidos.",
+      "Termina con: «¡Todos los hijos de Dios!» y que todos se junten en un solo grupo.",
+      "Explica que Dios ama a cada uno como es."
+    ],
+    "para_los_mas_pequenos": "Usa características muy visibles.",
+    "para_los_mayores": "Que piensen en personas de otros países o culturas como hermanos.",
+    "cita_biblica": {
+      "referencia": "Gálatas 3, 28",
+      "mensaje": "Todos ustedes son uno en Cristo Jesús."
+    },
+    "mensaje_final": "Todos somos hermanos en Jesús."
+  },
+  {
+    "id": "08-037",
+    "modulo": 8,
+    "titulo": "Respeto en la Fila",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Practicar el respeto en situaciones cotidianas.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma una fila y da consignas: «Pasar sin empujar», «Esperar el turno», «Ceder el lugar a un más pequeño».",
+      "Cronometra cuánto tardan en hacer la fila con respeto.",
+      "Repitan intentando hacerlo mejor y más tranquilos.",
+      "Pregunta: ¿Cómo nos sentimos cuando nos empujan?",
+      "Conversen: el respeto también se ve en las cosas pequeñas."
+    ],
+    "para_los_mas_pequenos": "Que caminen tomados de la mano en la fila.",
+    "para_los_mayores": "Que propongan reglas de respeto para el grupo.",
+    "cita_biblica": {
+      "referencia": "Filipenses 2, 3",
+      "mensaje": "Consideren a los demás como más importantes que ustedes mismos."
+    },
+    "mensaje_final": "Respeto a los demás en todo momento."
+  },
+  {
+    "id": "08-038",
+    "modulo": 8,
+    "titulo": "Las Reglas de Nuestro Grupo",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Construir juntos reglas de respeto para la convivencia del grupo.",
+    "materiales": [
+      "Cartulina grande",
+      "Marcadores",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué necesitamos para sentirnos bien en catequesis?",
+      "Escribe las ideas en la pizarra.",
+      "Elijan juntos cinco reglas positivas: «Escuchamos cuando otro habla».",
+      "Escriban las reglas en la cartulina y decórenla.",
+      "Cada niño firma la cartulina como compromiso."
+    ],
+    "para_los_mas_pequenos": "Que dibujen las reglas con caritas.",
+    "para_los_mayores": "Que propongan cómo reparar cuando alguien no cumple una regla.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 12",
+      "mensaje": "Revístanse de bondad, humildad, mansedumbre y paciencia."
+    },
+    "mensaje_final": "Juntos cuidamos nuestro grupo."
+  },
+  {
+    "id": "08-039",
+    "modulo": 8,
+    "titulo": "Ponte en sus Zapatos",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Desarrollar la empatía para comprender lo que sienten los demás.",
+    "materiales": [
+      "Varios pares de zapatos (o dibujos de zapatos)",
+      "Tarjetas con situaciones"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra unos zapatos y lee una situación: «Es nuevo en la escuela y nadie le habla».",
+      "Un niño se pone los zapatos (o se para sobre el dibujo) y dice cómo se sentiría.",
+      "El grupo piensa qué podría hacer para ayudar.",
+      "Repite con otras situaciones.",
+      "Conversen: Jesús siempre se ponía en el lugar de los demás."
+    ],
+    "para_los_mas_pequenos": "Que digan si la persona está feliz o triste.",
+    "para_los_mayores": "Que escriban una situación real y cómo responder con empatía.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 15",
+      "mensaje": "Alégrense con los que están alegres, lloren con los que lloran."
+    },
+    "mensaje_final": "Me pongo en el lugar de los demás."
+  },
+  {
+    "id": "08-040",
+    "modulo": 8,
+    "titulo": "El Abuelo Merece Respeto",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Valorar y respetar a los ancianos.",
+    "materiales": [
+      "Un bastón",
+      "Un sombrero"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Un niño hace de abuelo con bastón; otros son niños en un parque.",
+      "Representen dos escenas: una donde se burlan del abuelo y otra donde lo ayudan y le piden que les cuente una historia.",
+      "Comenten las diferencias.",
+      "Pregunta: ¿Qué podemos aprender de los abuelos?",
+      "Recen por los abuelos del grupo."
+    ],
+    "para_los_mas_pequenos": "Que todos ayuden al abuelo a cruzar la calle.",
+    "para_los_mayores": "Que preparen preguntas para entrevistar a un abuelo.",
+    "cita_biblica": {
+      "referencia": "Levítico 19, 32",
+      "mensaje": "Ponte de pie ante los ancianos y respétalos."
+    },
+    "mensaje_final": "Respeto y cuido a los mayores."
+  },
+  {
+    "id": "08-041",
+    "modulo": 8,
+    "titulo": "Oración por los que No Respetamos",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Pedir perdón por las faltas de respeto y rezar por quienes son rechazados.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide un momento de silencio.",
+      "Invita a pensar en alguien a quien trataron mal o de quien se burlaron.",
+      "Reza en voz alta: «Jesús, perdóname por las veces que no respeté a los demás».",
+      "Luego: «Te pido por los niños que son rechazados o molestados».",
+      "Terminen con un compromiso silencioso de respetar a todos."
+    ],
+    "para_los_mas_pequenos": "Que digan juntos: «Jesús, ayúdame a respetar a todos».",
+    "para_los_mayores": "Que escriban una acción para reparar una falta de respeto.",
+    "cita_biblica": {
+      "referencia": "Mateo 7, 12",
+      "mensaje": "Traten a los demás como quieren que los traten a ustedes."
+    },
+    "mensaje_final": "Trato a los demás como quiero que me traten."
+  },
+  {
+    "id": "08-042",
+    "modulo": 8,
+    "titulo": "Mi Familia, Regalo de Dios",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar a la propia familia como un regalo de Dios.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores",
+      "Marcos de cartulina"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Dios nos pone en una familia para amarnos y cuidarnos.",
+      "Cada niño dibuja a su familia, incluidos abuelos, tíos o quienes lo cuidan.",
+      "Peguen el dibujo en un marco de cartulina.",
+      "Escriban debajo: «Gracias, Dios, por mi familia».",
+      "Compartan los dibujos y recen por todas las familias."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo a las personas que viven con ellos.",
+    "para_los_mayores": "Que escriban una cualidad de cada miembro de la familia.",
+    "cita_biblica": {
+      "referencia": "Salmo 128, 3",
+      "mensaje": "Tu familia será como olivos alrededor de tu mesa."
+    },
+    "mensaje_final": "Mi familia es un regalo de Dios."
+  },
+  {
+    "id": "08-043",
+    "modulo": 8,
+    "titulo": "La Sagrada Familia en Casa",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir cómo vivían Jesús, María y José en Nazaret y aprender de ellos.",
+    "materiales": [
+      "Un delantal",
+      "Herramientas de juguete",
+      "Una escoba"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Tres niños representan a Jesús niño, María y José en su casa de Nazaret.",
+      "José trabaja en el taller, María prepara la comida y Jesús ayuda a ambos.",
+      "Al terminar, rezan juntos antes de comer.",
+      "Pregunta: ¿Qué hacía cada uno para que la familia fuera feliz?",
+      "Cada niño elige algo de la Sagrada Familia para imitar en su casa."
+    ],
+    "para_los_mas_pequenos": "Que imiten a Jesús ayudando en casa.",
+    "para_los_mayores": "Que comparen un día en Nazaret con un día en su casa.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 51",
+      "mensaje": "Jesús volvió a Nazaret con sus padres y les obedecía."
+    },
+    "mensaje_final": "Mi familia puede parecerse a la de Nazaret."
+  },
+  {
+    "id": "08-044",
+    "modulo": 8,
+    "titulo": "Ayudo en Casa",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir formas concretas de ayudar en la familia.",
+    "materiales": [
+      "Tarjetas con tareas de casa"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una tarjeta y los niños imitan la tarea con mímica: barrer, poner la mesa, regar plantas.",
+      "El grupo adivina la tarea.",
+      "Cada niño dice cuál de esas tareas puede hacer esta semana.",
+      "Conversen: ayudar en casa es una forma de amar.",
+      "Terminen con una oración por la familia."
+    ],
+    "para_los_mas_pequenos": "Que imiten tareas sencillas: guardar juguetes.",
+    "para_los_mayores": "Que hagan una tabla semanal de tareas para su casa.",
+    "cita_biblica": {
+      "referencia": "Gálatas 5, 13",
+      "mensaje": "Sírvanse unos a otros por amor."
+    },
+    "mensaje_final": "Ayudar en casa es amar."
+  },
+  {
+    "id": "08-045",
+    "modulo": 8,
+    "titulo": "Bendición de la Mesa Familiar",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Fortalecer la oración en familia alrededor de la mesa.",
+    "materiales": [
+      "Un mantel pequeño",
+      "Platos de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Prepara una mesa con el mantel y los platos.",
+      "Los niños se sientan como en una comida familiar.",
+      "Enseña una bendición: «Bendice, Señor, a esta familia y la comida que nos das».",
+      "Cada niño practica dirigirla.",
+      "Anímalos a proponer la bendición en casa."
+    ],
+    "para_los_mas_pequenos": "Que repitan contigo la bendición.",
+    "para_los_mayores": "Que escriban su propia bendición para la familia.",
+    "cita_biblica": {
+      "referencia": "Hechos 2, 46",
+      "mensaje": "Comían juntos con alegría y sencillez de corazón."
+    },
+    "mensaje_final": "En mi mesa hay lugar para Dios."
+  },
+  {
+    "id": "08-046",
+    "modulo": 8,
+    "titulo": "Corazones que Escuchan",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender a escuchar con atención, una forma de respeto y amor.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma parejas: uno habla un minuto sobre su día; el otro solo escucha.",
+      "Luego, quien escuchó cuenta al grupo lo que dijo su compañero.",
+      "Cambien los papeles.",
+      "Pregunta: ¿Cómo se sintieron al ser escuchados?",
+      "Explica que escuchar es una forma de amar."
+    ],
+    "para_los_mas_pequenos": "Que hablen sobre su comida o juego favorito.",
+    "para_los_mayores": "Que practiquen hacer una pregunta para mostrar interés.",
+    "cita_biblica": {
+      "referencia": "Santiago 1, 19",
+      "mensaje": "Sean rápidos para escuchar y lentos para hablar."
+    },
+    "mensaje_final": "Escuchar es una forma de amar."
+  },
+  {
+    "id": "08-047",
+    "modulo": 8,
+    "titulo": "Un Amigo Fiel",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir cómo es un amigo de verdad según Jesús.",
+    "materiales": [
+      "Hoja grande con la silueta de una persona",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué hace un buen amigo?",
+      "Escribe las ideas dentro de la silueta: escucha, comparte, defiende, perdona, juega.",
+      "Fuera de la silueta, escriban lo que no hace un buen amigo: se burla, miente, abandona.",
+      "Lee la frase de Jesús: «Ustedes son mis amigos».",
+      "Conversen: Jesús es el amigo más fiel; ¿cómo podemos ser amigos como Él?"
+    ],
+    "para_los_mas_pequenos": "Que digan una cosa que hacen con su mejor amigo.",
+    "para_los_mayores": "Que escriban qué tipo de amigo quieren ser.",
+    "cita_biblica": {
+      "referencia": "Proverbios 18, 24",
+      "mensaje": "Hay amigos más fieles que un hermano."
+    },
+    "mensaje_final": "Quiero ser un amigo fiel."
+  },
+  {
+    "id": "08-048",
+    "modulo": 8,
+    "titulo": "El Lazo de la Amistad",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Expresar la amistad con un regalo hecho a mano.",
+    "materiales": [
+      "Hilos de lana de colores",
+      "Cuentas o fideos de pasta seca"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que un regalo hecho a mano muestra cariño.",
+      "Cada niño trenza o ensarta una pulsera sencilla.",
+      "Al terminar, la regala a un compañero diciendo: «Eres mi amigo y Jesús te ama».",
+      "Asegúrate de que todos reciban una pulsera.",
+      "Recen juntos por la amistad del grupo."
+    ],
+    "para_los_mas_pequenos": "Que ensarten cuentas grandes en lana.",
+    "para_los_mayores": "Que hagan una segunda pulsera para alguien que está solo.",
+    "cita_biblica": {
+      "referencia": "Eclesiastés 4, 12",
+      "mensaje": "Un cordón de tres hilos no se rompe fácilmente."
+    },
+    "mensaje_final": "Mi amistad es un regalo."
+  },
+  {
+    "id": "08-049",
+    "modulo": 8,
+    "titulo": "Nadie se Queda Solo",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Aprender a incluir a todos en el juego.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Los niños caminan libremente por el salón.",
+      "Di un número: «¡Grupos de tres!». Se forman grupos.",
+      "Si alguien queda solo, el grupo más cercano lo invita diciendo: «¡Ven con nosotros!».",
+      "Repite con distintos números.",
+      "Conversen: ¿Cómo se siente quedarse solo? ¿Cómo podemos evitarlo en el recreo?"
+    ],
+    "para_los_mas_pequenos": "Usa solo grupos de dos.",
+    "para_los_mayores": "Que propongan cómo incluir a alguien nuevo en la escuela.",
+    "cita_biblica": {
+      "referencia": "Romanos 15, 7",
+      "mensaje": "Acójanse unos a otros, como Cristo los acogió."
+    },
+    "mensaje_final": "Nadie se queda solo cuando yo estoy."
+  },
+  {
+    "id": "08-050",
+    "modulo": 8,
+    "titulo": "Amigos que Ayudan, No que Molestan",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Identificar el acoso y aprender a actuar como amigos de Jesús.",
+    "materiales": [
+      "Tarjetas con situaciones de burla o exclusión"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que molestar a alguien una y otra vez, burlarse o dejarlo de lado hace mucho daño.",
+      "En grupos, representen una situación y luego cómo actuaría un amigo de Jesús: acompañar, defender sin violencia, avisar a un adulto.",
+      "Presenten sus escenas.",
+      "Conversen: ¿Qué hacemos si nos pasa a nosotros? Contarlo a un adulto de confianza.",
+      "Recen por los niños que sufren burlas."
+    ],
+    "para_los_mas_pequenos": "Que practiquen decir «¡Eso no está bien!» y buscar a un adulto.",
+    "para_los_mayores": "Que escriban un plan del grupo para cuidarse unos a otros.",
+    "cita_biblica": {
+      "referencia": "1 Juan 3, 18",
+      "mensaje": "No amemos solo con palabras, sino con hechos."
+    },
+    "mensaje_final": "Defiendo a los demás con amor."
+  },
+  {
+    "id": "08-051",
+    "modulo": 8,
+    "titulo": "Obedecer con Alegría",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que obedecer con amor nos hace parecidos a Jesús.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Juega a «Simón dice» con órdenes de buenas acciones: «Simón dice: ordena tu silla».",
+      "Cambia el nombre por «Mamá dice», «Papá dice», «La maestra dice».",
+      "Felicita a quienes obedecen rápido y con alegría.",
+      "Pregunta: ¿Es fácil obedecer siempre? ¿Por qué es importante?",
+      "Recuerda que Jesús obedecía a María y a José."
+    ],
+    "para_los_mas_pequenos": "Que obedezcan órdenes de gestos simples.",
+    "para_los_mayores": "Que piensen por qué a veces nos cuesta obedecer.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 20",
+      "mensaje": "Hijos, obedezcan a sus padres, porque eso agrada al Señor."
+    },
+    "mensaje_final": "Obedezco con alegría como Jesús."
+  },
+  {
+    "id": "08-052",
+    "modulo": 8,
+    "titulo": "La Tortuga Paciente",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender el valor de la paciencia.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta una historia breve: una tortuga y un conejo deben armar algo juntos; el conejo se desespera y la tortuga espera con calma.",
+      "Dos niños representan a la tortuga y al conejo.",
+      "El conejo grita y se enoja; la tortuga respira y lo invita a intentarlo otra vez.",
+      "Pregunta: ¿Quién logró terminar? ¿Qué nos enseña la tortuga?",
+      "Practiquen la «respiración de tortuga»: inhalar lento, exhalar lento."
+    ],
+    "para_los_mas_pequenos": "Que todos imiten a la tortuga caminando despacio.",
+    "para_los_mayores": "Que piensen en situaciones donde necesitan paciencia.",
+    "cita_biblica": {
+      "referencia": "Gálatas 5, 22",
+      "mensaje": "El fruto del Espíritu es amor, alegría, paz, paciencia..."
+    },
+    "mensaje_final": "Con paciencia, todo sale mejor."
+  },
+  {
+    "id": "08-053",
+    "modulo": 8,
+    "titulo": "El Más Pequeño",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender el valor de la humildad que Jesús enseña.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que los discípulos discutían sobre quién era el más importante, y Jesús puso a un niño en medio.",
+      "Lee lo que dijo Jesús: «El que se hace pequeño como este niño es el más grande».",
+      "Pregunta: ¿Qué significa ser humilde? No creerse mejor que nadie, reconocer los errores.",
+      "Conversen sobre ejemplos de humildad en la escuela o la casa.",
+      "Terminen pidiendo a Jesús un corazón humilde."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «Jesús quiere que no presumamos y que ayudemos».",
+    "para_los_mayores": "Que comparen la humildad con la vida de un santo que conozcan.",
+    "cita_biblica": {
+      "referencia": "Mateo 18, 4",
+      "mensaje": "El que se haga pequeño como este niño, ese es el más grande en el Reino."
+    },
+    "mensaje_final": "Ser humilde me hace grande ante Dios."
+  },
+  {
+    "id": "08-054",
+    "modulo": 8,
+    "titulo": "Manos al Servicio",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Animar al servicio con un canto de acción.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto con movimiento: «Mis manos son para servir, mis pies para caminar, mi boca para alabar, mi corazón para amar».",
+      "Agreguen un gesto para cada parte del cuerpo.",
+      "Canten cada vez más rápido.",
+      "Cada niño dice un servicio que puede hacer esta semana.",
+      "Terminen con un aplauso para Jesús, que vino a servir."
+    ],
+    "para_los_mas_pequenos": "Que hagan los gestos mientras cantas.",
+    "para_los_mayores": "Que agreguen una estrofa sobre servir en la parroquia.",
+    "cita_biblica": {
+      "referencia": "Marcos 10, 45",
+      "mensaje": "Jesús no vino a ser servido, sino a servir."
+    },
+    "mensaje_final": "Sirvo con todo mi cuerpo."
+  },
+  {
+    "id": "08-055",
+    "modulo": 8,
+    "titulo": "Ángeles Secretos",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Practicar la bondad de forma discreta durante la semana.",
+    "materiales": [
+      "Papelitos con los nombres de los niños",
+      "Una bolsa"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño saca un papelito con el nombre de un compañero, sin decirlo.",
+      "Durante el encuentro (o la semana), será su «ángel secreto» y hará gestos amables por él sin que lo descubra.",
+      "Den ideas: ayudarle, dejarle un dibujo, decirle algo bonito, rezar por él.",
+      "Al final, cada uno intenta adivinar quién fue su ángel.",
+      "Conversen: ¿Cómo se sintieron al hacer y recibir el bien en secreto?"
+    ],
+    "para_los_mas_pequenos": "Hazlo solo durante el encuentro y con tu ayuda.",
+    "para_los_mayores": "Que escriban una oración diaria por su compañero.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 3-4",
+      "mensaje": "Cuando ayudes, que no sepa tu mano izquierda lo que hace la derecha."
+    },
+    "mensaje_final": "Hago el bien sin esperar nada."
+  },
+  {
+    "id": "08-056",
+    "modulo": 8,
+    "titulo": "Las Obras de Misericordia",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer las obras de misericordia como forma concreta de amar.",
+    "materiales": [
+      "Tarjetas con las obras (dar de comer, dar de beber, vestir, visitar enfermos, enseñar, consolar, perdonar)",
+      "Cartulina",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Jesús nos pide amar con obras concretas.",
+      "Reparte las tarjetas en grupos.",
+      "Cada grupo dibuja un ejemplo actual de su obra de misericordia.",
+      "Armen un mural con todas las obras.",
+      "Elijan una obra para practicar como grupo este mes."
+    ],
+    "para_los_mas_pequenos": "Que dibujen una sola obra con tu ayuda.",
+    "para_los_mayores": "Que investiguen las catorce obras (corporales y espirituales).",
+    "cita_biblica": {
+      "referencia": "Mateo 25, 35",
+      "mensaje": "Tuve hambre y me dieron de comer; tuve sed y me dieron de beber."
+    },
+    "mensaje_final": "Amo con obras, como Jesús pide."
+  },
+  {
+    "id": "08-057",
+    "modulo": 8,
+    "titulo": "Valientes por el Bien",
+    "tipo": "Rompehielos",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que se necesita valor para hacer el bien.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que se pongan en posición de «superhéroes» del bien.",
+      "Lee situaciones: «Alguien se burla de un compañero», «Encuentras una billetera».",
+      "Los niños dicen en voz alta qué haría un valiente del bien.",
+      "Por cada buena respuesta, todos gritan: «¡Valiente por Jesús!».",
+      "Recuerda que la verdadera valentía es hacer lo correcto."
+    ],
+    "para_los_mas_pequenos": "Usa situaciones sencillas con dibujos.",
+    "para_los_mayores": "Que compartan una vez en que fueron valientes.",
+    "cita_biblica": {
+      "referencia": "Josué 1, 9",
+      "mensaje": "Sé fuerte y valiente, porque el Señor tu Dios está contigo."
+    },
+    "mensaje_final": "Soy valiente para hacer el bien."
+  },
+  {
+    "id": "08-058",
+    "modulo": 8,
+    "titulo": "Mi Responsabilidad",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a cumplir con las propias tareas como respuesta a Dios.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores",
+      "Stickers"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué cosas son mi responsabilidad? Tareas, ordenar, cuidar a la mascota.",
+      "Cada niño hace una tabla con cinco responsabilidades para la semana.",
+      "Decoren la tabla con dibujos.",
+      "Explica que cumplir lo que nos toca también es amar a Dios y a la familia.",
+      "Pongan un sticker cada día que cumplan."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo dos responsabilidades.",
+    "para_los_mayores": "Que agreguen una responsabilidad en la parroquia o el barrio.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 23",
+      "mensaje": "Todo lo que hagan, háganlo de corazón, como para el Señor."
+    },
+    "mensaje_final": "Hago mis tareas con amor para Dios."
+  },
+  {
+    "id": "08-059",
+    "modulo": 8,
+    "titulo": "La Alegría Cristiana",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Descubrir que la alegría verdadera viene de saber que Dios nos ama.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Qué nos pone alegres? ¿Esa alegría dura siempre?",
+      "Explica que la alegría de Jesús es más profunda: viene de sabernos amados por Dios.",
+      "Enseña un canto alegre con palmas: «Estoy alegre porque Dios me ama».",
+      "Bailen en ronda.",
+      "Cada niño dice algo que lo hace feliz por estar con Jesús."
+    ],
+    "para_los_mas_pequenos": "Que bailen libremente.",
+    "para_los_mayores": "Que piensen cómo llevar alegría a alguien triste.",
+    "cita_biblica": {
+      "referencia": "Nehemías 8, 10",
+      "mensaje": "La alegría del Señor es nuestra fuerza."
+    },
+    "mensaje_final": "Estoy alegre porque Dios me ama."
+  },
+  {
+    "id": "08-060",
+    "modulo": 8,
+    "titulo": "Constructores de Paz",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender a resolver conflictos de manera pacífica.",
+    "materiales": [
+      "Bloques o cajas",
+      "Tarjetas con conflictos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee un conflicto: «Dos niños quieren el mismo columpio».",
+      "Los niños proponen soluciones pacíficas: turnarse, compartir, jugar juntos.",
+      "Por cada buena solución, ponen un bloque en una «torre de la paz».",
+      "Repite con varios conflictos.",
+      "Recen juntos por la paz en las familias y en el mundo."
+    ],
+    "para_los_mas_pequenos": "Que elijan entre dos soluciones la pacífica.",
+    "para_los_mayores": "Que creen un «rincón de la paz» para resolver problemas en el grupo.",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 9",
+      "mensaje": "Felices los que trabajan por la paz."
+    },
+    "mensaje_final": "Construyo la paz con mis acciones."
+  },
+  {
+    "id": "08-061",
+    "modulo": 8,
+    "titulo": "Cuidamos a los Más Pequeños",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a cuidar y proteger a los más pequeños y débiles.",
+    "materiales": [
+      "Un muñeco o peluche"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pasa el muñeco de mano en mano con mucho cuidado.",
+      "Pregunta: ¿Por qué lo tratamos con tanto cuidado?",
+      "Explica que Jesús amaba a los pequeños y nos pide cuidarlos.",
+      "Conversen: ¿Cómo podemos cuidar a hermanitos, primos o compañeros menores?",
+      "Terminen con una oración por los niños que necesitan protección."
+    ],
+    "para_los_mas_pequenos": "Que abracen el peluche y digan «Te cuido».",
+    "para_los_mayores": "Que piensen cómo dar buen ejemplo a los más pequeños.",
+    "cita_biblica": {
+      "referencia": "Mateo 18, 10",
+      "mensaje": "Cuiden de no despreciar a ninguno de estos pequeños."
+    },
+    "mensaje_final": "Cuido a los más pequeños como Jesús."
+  },
+  {
+    "id": "08-062",
+    "modulo": 8,
+    "titulo": "Bondad que se Contagia",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Descubrir que un acto de bondad genera otros.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Un niño hace algo bueno por otro (le presta un lápiz).",
+      "Ese niño, contento, hace algo bueno por otro (le ayuda con la mochila).",
+      "La cadena de bondad sigue hasta que todos participaron.",
+      "Pregunta: ¿Cómo empezó todo? ¡Con un solo gesto!",
+      "Elijan un gesto para empezar una cadena de bondad esta semana."
+    ],
+    "para_los_mas_pequenos": "Que pasen un abrazo de uno en uno.",
+    "para_los_mayores": "Que escriban la cadena en una hoja como historia.",
+    "cita_biblica": {
+      "referencia": "Gálatas 6, 9",
+      "mensaje": "No nos cansemos de hacer el bien."
+    },
+    "mensaje_final": "Mi bondad puede empezar una cadena."
+  },
+  {
+    "id": "08-063",
+    "modulo": 8,
+    "titulo": "Pido Ayuda a Jesús",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Pedir a Jesús ayuda para vivir los valores cristianos.",
+    "materiales": [
+      "Tarjetas con valores (paciencia, verdad, perdón, generosidad)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca las tarjetas en el centro.",
+      "Cada niño toma la tarjeta del valor que más necesita.",
+      "Reza en voz alta: «Jesús, ayúdame a tener...» y nombra el valor.",
+      "El grupo responde: «Señor, ayúdalo».",
+      "Terminen rezando juntos un Padre Nuestro."
+    ],
+    "para_los_mas_pequenos": "Que elijan una tarjeta y repitan contigo la oración.",
+    "para_los_mayores": "Que escriban un plan para practicar ese valor.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 5",
+      "mensaje": "Jesús dijo: Sin mí no pueden hacer nada."
+    },
+    "mensaje_final": "Con Jesús puedo ser mejor."
+  },
+  {
+    "id": "08-064",
+    "modulo": 8,
+    "titulo": "El Semáforo de las Decisiones",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender a detenerse, pensar y elegir lo que agrada a Dios.",
+    "materiales": [
+      "Círculos rojo, amarillo y verde"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica: rojo = detente, amarillo = piensa qué haría Jesús, verde = actúa con amor.",
+      "Lee una situación: «Tu amigo te pide que le dejes copiar».",
+      "Los niños muestran el rojo, luego el amarillo (piensan en voz alta) y el verde (dicen qué harían).",
+      "Repite con varias situaciones.",
+      "Conversen: ¿Cuándo nos olvidamos del amarillo?"
+    ],
+    "para_los_mas_pequenos": "Usa solo rojo y verde con situaciones simples.",
+    "para_los_mayores": "Que propongan situaciones difíciles para los demás.",
+    "cita_biblica": {
+      "referencia": "Proverbios 3, 6",
+      "mensaje": "Busca la voluntad de Dios en todo lo que hagas y Él te guiará."
+    },
+    "mensaje_final": "Pienso antes de actuar."
+  },
+  {
+    "id": "08-065",
+    "modulo": 8,
+    "titulo": "La Generosidad de la Viuda",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar la generosidad que da desde el corazón.",
+    "materiales": [
+      "Monedas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda la historia de la viuda pobre que dio dos moneditas en el templo.",
+      "Reparte dos monedas a cada niño.",
+      "Pregunta: ¿Qué puedes dar a Dios y a los demás que no cuesta dinero?",
+      "Cada niño «entrega» sus monedas diciendo lo que dará: tiempo, sonrisas, ayuda.",
+      "Explica que Dios mira el corazón, no la cantidad."
+    ],
+    "para_los_mas_pequenos": "Que digan «Doy mi ayuda» al entregar la moneda.",
+    "para_los_mayores": "Que piensen cómo dar algo que les cueste un poco.",
+    "cita_biblica": {
+      "referencia": "2 Corintios 9, 7",
+      "mensaje": "Que cada uno dé lo que decidió en su corazón, sin tristeza."
+    },
+    "mensaje_final": "Doy con el corazón."
+  },
+  {
+    "id": "08-066",
+    "modulo": 8,
+    "titulo": "Escudo de Valores",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Elegir los valores cristianos que queremos vivir.",
+    "materiales": [
+      "Escudos de cartulina",
+      "Lápices de colores",
+      "Stickers"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que los valores nos protegen como un escudo.",
+      "Cada niño divide su escudo en cuatro partes.",
+      "En cada parte dibuja o escribe un valor: verdad, amor, perdón, generosidad.",
+      "Decoren el escudo con colores y una cruz en el centro.",
+      "Presenten sus escudos y explique cada uno por qué eligió esos valores."
+    ],
+    "para_los_mas_pequenos": "Que decoren un escudo con valores ya escritos.",
+    "para_los_mayores": "Que agreguen un versículo bíblico como lema.",
+    "cita_biblica": {
+      "referencia": "Efesios 6, 16",
+      "mensaje": "Tomen el escudo de la fe."
+    },
+    "mensaje_final": "Mis valores me protegen."
+  },
+  {
+    "id": "08-067",
+    "modulo": 8,
+    "titulo": "Dios Ama al que Da",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Ofrecer a Dios lo que somos y tenemos.",
+    "materiales": [
+      "Una canasta"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la canasta en el centro.",
+      "Cada niño se acerca y «deposita» con un gesto algo que ofrece a Dios: su sonrisa, sus manos, su tiempo.",
+      "Al hacerlo, dice: «Señor, te ofrezco...».",
+      "Todos responden: «Recíbelo, Señor».",
+      "Terminen con una oración de ofrecimiento."
+    ],
+    "para_los_mas_pequenos": "Que hagan el gesto de dar en silencio.",
+    "para_los_mayores": "Que piensen qué ofrenda concreta harán esta semana.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 1",
+      "mensaje": "Ofrezcan su vida como ofrenda viva, agradable a Dios."
+    },
+    "mensaje_final": "Le ofrezco a Dios lo que soy."
+  },
+  {
+    "id": "08-068",
+    "modulo": 8,
+    "titulo": "El Reto de la Semana",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprometerse con un valor concreto para practicar en la semana.",
+    "materiales": [
+      "Tarjetas con retos (decir tres gracias al día, ayudar sin que me pidan, no quejarme)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Mezcla las tarjetas y que cada niño saque una.",
+      "Lee el reto en voz alta y todos aplauden.",
+      "Cada uno explica cómo lo cumplirá.",
+      "Formen parejas para recordarse el reto durante la semana.",
+      "En el próximo encuentro, compartan cómo les fue."
+    ],
+    "para_los_mas_pequenos": "Usa retos sencillos con dibujos.",
+    "para_los_mayores": "Que inventen retos nuevos para el grupo.",
+    "cita_biblica": {
+      "referencia": "Santiago 1, 22",
+      "mensaje": "Pongan en práctica la Palabra y no se limiten a escucharla."
+    },
+    "mensaje_final": "Practico lo que aprendo."
+  },
+  {
+    "id": "08-069",
+    "modulo": 8,
+    "titulo": "Canción del Amor Verdadero",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Conocer las características del amor según San Pablo.",
+    "materiales": [
+      "Hoja con frases de 1 Corintios 13 en lenguaje sencillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee despacio: «El amor es paciente, es amable, no tiene envidia, no presume...».",
+      "Divide al grupo para que cada parte se encargue de una frase.",
+      "Pongan ritmo de palmas o una melodía sencilla.",
+      "Canten todas las frases como un gran canto del amor.",
+      "Pregunta: ¿Qué frase te cuesta más vivir?"
+    ],
+    "para_los_mas_pequenos": "Que repitan «El amor es paciente, el amor es bueno».",
+    "para_los_mayores": "Que reemplacen «amor» por su nombre y vean si es verdad.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 13, 4",
+      "mensaje": "El amor es paciente, el amor es bondadoso."
+    },
+    "mensaje_final": "El amor verdadero es paciente y bueno."
+  },
+  {
+    "id": "08-070",
+    "modulo": 8,
+    "titulo": "Gracias a Quienes nos Sirven",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Reconocer y agradecer el trabajo de las personas que nos sirven cada día.",
+    "materiales": [
+      "Objetos sencillos para representar oficios (escoba, gorra, libro, maletín)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Quiénes trabajan para que nuestra vida sea mejor? Barrenderos, choferes, maestras, cocineras, médicos.",
+      "Algunos niños representan esos oficios haciendo su trabajo con mímica.",
+      "Los demás pasan frente a cada uno y le dicen: «Gracias por tu trabajo, Dios te bendiga».",
+      "Cambien los papeles para que todos agradezcan y sean agradecidos.",
+      "Elijan a una persona real a quien agradecerán esta semana."
+    ],
+    "para_los_mas_pequenos": "Que agradezcan con un aplauso y una sonrisa.",
+    "para_los_mayores": "Que preparen tarjetas de gracias para el personal de la parroquia o la escuela.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 17",
+      "mensaje": "Todo lo que hagan, háganlo dando gracias a Dios."
+    },
+    "mensaje_final": "Agradezco a quienes trabajan por mí."
+  }
+]
