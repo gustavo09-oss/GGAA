@@ -1,0 +1,2601 @@
+[
+  {
+    "id": "07-001",
+    "modulo": 7,
+    "titulo": "Siete Regalos de Jesús",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que los sacramentos son siete regalos de Jesús para darnos su vida y su amor.",
+    "materiales": [
+      "Siete cajas o bolsas de regalo",
+      "Tarjetas con el nombre de cada sacramento"
+    ],
+    "preparacion": "Coloca dentro de cada caja una tarjeta con un sacramento y un dibujo sencillo.",
+    "pasos": [
+      "Muestra las siete cajas y pregunta: ¿Qué sentimos cuando recibimos un regalo?",
+      "Explica que Jesús nos dejó siete regalos especiales llamados sacramentos.",
+      "Por turnos, un niño abre una caja y lee o muestra la tarjeta.",
+      "Explica en una frase qué regalo es: «El Bautismo nos hace hijos de Dios».",
+      "Terminen dando gracias a Jesús por sus siete regalos."
+    ],
+    "para_los_mas_pequenos": "Que abran las cajas y tú nombras cada sacramento.",
+    "para_los_mayores": "Que digan en qué momento de la vida se recibe cada uno.",
+    "cita_biblica": {
+      "referencia": "Santiago 1, 17",
+      "mensaje": "Todo regalo bueno viene de lo alto, de Dios Padre."
+    },
+    "mensaje_final": "Los sacramentos son regalos del amor de Jesús."
+  },
+  {
+    "id": "07-002",
+    "modulo": 7,
+    "titulo": "Signos que se Ven, Gracia que No se Ve",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que cada sacramento tiene un signo visible que nos da una gracia invisible.",
+    "materiales": [
+      "Objetos o dibujos: agua, aceite, pan, vino, anillos, manos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra un abrazo y pregunta: ¿Se ve el cariño? No, pero el abrazo lo muestra.",
+      "Explica que en los sacramentos hay signos que vemos y Dios nos da su gracia que no vemos.",
+      "Muestra un objeto y los niños adivinan a qué sacramento pertenece.",
+      "Escriban juntos en una tabla: signo / sacramento / regalo de Dios.",
+      "Conversen: ¿Por qué Jesús usa cosas sencillas como el agua y el pan?"
+    ],
+    "para_los_mas_pequenos": "Que asocien solo agua con Bautismo y pan con Eucaristía.",
+    "para_los_mayores": "Que completen la tabla de los siete sacramentos solos.",
+    "cita_biblica": {
+      "referencia": "Juan 1, 16",
+      "mensaje": "De su plenitud todos hemos recibido gracia sobre gracia."
+    },
+    "mensaje_final": "Dios me da su gracia por medio de signos sencillos."
+  },
+  {
+    "id": "07-003",
+    "modulo": 7,
+    "titulo": "Las Tres Familias de Sacramentos",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Clasificar los sacramentos en iniciación, sanación y servicio.",
+    "materiales": [
+      "Tres aros o cuerdas en el suelo",
+      "Tarjetas con los siete sacramentos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica las tres «familias»: iniciación (Bautismo, Confirmación, Eucaristía), sanación (Reconciliación y Unción de los enfermos) y servicio (Orden sacerdotal y Matrimonio).",
+      "Coloca tres aros en el suelo, uno por familia.",
+      "Reparte las tarjetas; a tu señal, cada niño corre a poner su tarjeta en el aro correcto.",
+      "Revisen juntos y corrijan si hace falta.",
+      "Repitan mezclando las tarjetas para hacerlo más rápido."
+    ],
+    "para_los_mas_pequenos": "Usa solo la familia de iniciación con dibujos.",
+    "para_los_mayores": "Que expliquen por qué cada sacramento está en su familia.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 12, 4",
+      "mensaje": "Hay diversos dones, pero el Espíritu es el mismo."
+    },
+    "mensaje_final": "Jesús me acompaña en toda mi vida con sus sacramentos."
+  },
+  {
+    "id": "07-004",
+    "modulo": 7,
+    "titulo": "El Camino de la Vida con Jesús",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que los sacramentos acompañan cada etapa de la vida.",
+    "materiales": [
+      "Una tira larga de papel",
+      "Lápices de colores",
+      "Stickers o recortes"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño dibuja en la tira un camino que va de bebé a adulto.",
+      "En el camino, dibujan los sacramentos: Bautismo (bebé), Primera Comunión (niño), Confirmación (joven), Matrimonio u Orden (adulto).",
+      "Agreguen la Reconciliación y la Eucaristía como «estaciones» que se repiten muchas veces.",
+      "Compartan sus caminos.",
+      "Conversen: ¿En qué parte del camino estamos ahora?"
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo su Bautismo y su Primera Comunión.",
+    "para_los_mayores": "Que escriban la fecha de su Bautismo y la de su Primera Comunión.",
+    "cita_biblica": {
+      "referencia": "Salmo 23, 4",
+      "mensaje": "Aunque camine por valles oscuros, no temo, porque tú vas conmigo."
+    },
+    "mensaje_final": "Jesús camina conmigo toda la vida."
+  },
+  {
+    "id": "07-005",
+    "modulo": 7,
+    "titulo": "Memoria de los Sacramentos",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 16 niños",
+    "objetivo": "Repasar los siete sacramentos y sus signos con un juego de memoria.",
+    "materiales": [
+      "Pares de tarjetas: nombre del sacramento y su signo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca las tarjetas boca abajo.",
+      "Por turnos, cada niño da vuelta dos tarjetas buscando unir el sacramento con su signo.",
+      "Si acierta, explica brevemente el sacramento y se queda con el par.",
+      "Si no, las vuelve a poner boca abajo.",
+      "Terminen nombrando juntos los siete sacramentos."
+    ],
+    "para_los_mas_pequenos": "Usa solo tres o cuatro pares con dibujos grandes.",
+    "para_los_mayores": "Que agreguen una tercera tarjeta: quién celebra el sacramento.",
+    "cita_biblica": {
+      "referencia": "Lucas 22, 19",
+      "mensaje": "Jesús dijo: Hagan esto en memoria mía."
+    },
+    "mensaje_final": "Conozco los regalos que Jesús me dejó."
+  },
+  {
+    "id": "07-006",
+    "modulo": 7,
+    "titulo": "La Canción de los Siete",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Memorizar los siete sacramentos con una canción.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Usa una melodía conocida y enseña la letra: «Bautismo, Confirmación, Eucaristía y Reconciliación...».",
+      "Sigue: «Unción de los enfermos, Orden y Matrimonio: ¡siete regalos de Dios!».",
+      "Agrega un gesto para cada sacramento: agua que cae, mano en la frente, manos como plato, abrazo.",
+      "Canten varias veces cada vez más rápido.",
+      "Terminen contando con los dedos: ¡siete!"
+    ],
+    "para_los_mas_pequenos": "Que hagan solo los gestos mientras cantas.",
+    "para_los_mayores": "Que canten el orden correcto sin ayuda.",
+    "cita_biblica": {
+      "referencia": "Salmo 96, 1",
+      "mensaje": "Canten al Señor un canto nuevo."
+    },
+    "mensaje_final": "Canto feliz los regalos de Jesús."
+  },
+  {
+    "id": "07-007",
+    "modulo": 7,
+    "titulo": "¿Quién Celebra el Sacramento?",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer quiénes son los ministros de cada sacramento.",
+    "materiales": [
+      "Tarjetas: sacerdote, obispo, los novios, diácono"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en cada sacramento alguien actúa en nombre de Jesús.",
+      "Di un sacramento y los niños levantan la tarjeta del ministro que lo celebra.",
+      "Explica las respuestas: en el Matrimonio, los novios se dan el sacramento ante el sacerdote o diácono; la Confirmación la celebra normalmente el obispo.",
+      "Conversen sobre la importancia de los sacerdotes en la Iglesia.",
+      "Recen por los sacerdotes de su parroquia."
+    ],
+    "para_los_mas_pequenos": "Que solo reconozcan al sacerdote y al obispo en imágenes.",
+    "para_los_mayores": "Que expliquen qué sacramentos puede celebrar un diácono.",
+    "cita_biblica": {
+      "referencia": "Hebreos 5, 1",
+      "mensaje": "Todo sacerdote es elegido para servir a los demás en las cosas de Dios."
+    },
+    "mensaje_final": "Jesús actúa por medio de sus ministros."
+  },
+  {
+    "id": "07-008",
+    "modulo": 7,
+    "titulo": "La Fuente de la Gracia",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que la gracia es la vida de Dios en nosotros.",
+    "materiales": [
+      "Una planta pequeña",
+      "Un vaso de agua"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la planta y pregunta: ¿Qué necesita para vivir? Agua, luz, cuidado.",
+      "Riega la planta y explica que nuestra alma también necesita «agua»: la gracia de Dios.",
+      "Explica que los sacramentos son como fuentes donde Jesús nos da esa agua.",
+      "Pregunta: ¿Qué pasaría si dejáramos de regar la planta?",
+      "Conversen: por eso vamos a Misa y nos confesamos, para mantener viva la vida de Dios."
+    ],
+    "para_los_mas_pequenos": "Que rieguen la planta por turnos y digan «Gracias, Jesús».",
+    "para_los_mayores": "Que escriban en un papel cómo cuidan la vida de Dios en ellos.",
+    "cita_biblica": {
+      "referencia": "Juan 4, 14",
+      "mensaje": "Jesús dijo: El agua que yo daré se convertirá en manantial de vida."
+    },
+    "mensaje_final": "Los sacramentos riegan mi alma."
+  },
+  {
+    "id": "07-009",
+    "modulo": 7,
+    "titulo": "El Árbol de los Sacramentos",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Representar a la Iglesia como un árbol que da los frutos de los sacramentos.",
+    "materiales": [
+      "Papel kraft con un árbol dibujado",
+      "Siete frutos de papel",
+      "Lápices de colores",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Iglesia es como un árbol plantado por Jesús.",
+      "Reparte los siete frutos para que los decoren en grupos.",
+      "Escriban en cada fruto el nombre de un sacramento y dibujen su signo.",
+      "Peguen los frutos en el árbol.",
+      "Cuelguen el árbol en el salón para recordarlos durante el año."
+    ],
+    "para_los_mas_pequenos": "Que coloreen frutos con el dibujo ya hecho.",
+    "para_los_mayores": "Que agreguen raíces con la palabra «Jesús».",
+    "cita_biblica": {
+      "referencia": "Juan 15, 16",
+      "mensaje": "Jesús dijo: Los elegí para que den fruto."
+    },
+    "mensaje_final": "En la Iglesia, Jesús me da sus regalos."
+  },
+  {
+    "id": "07-010",
+    "modulo": 7,
+    "titulo": "Adivina el Sacramento",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar los sacramentos con mímica al inicio del encuentro.",
+    "materiales": [
+      "Papelitos con los nombres de los sacramentos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos equipos.",
+      "Un niño saca un papelito y representa el sacramento con mímica: echar agua, ponerse un anillo, partir el pan.",
+      "Su equipo adivina en un minuto.",
+      "Si aciertan, ganan un punto y dicen qué regalo nos da ese sacramento.",
+      "Al final, aplaudan a ambos equipos."
+    ],
+    "para_los_mas_pequenos": "Haz tú la mímica para que todos adivinen.",
+    "para_los_mayores": "Que representen en parejas o tríos.",
+    "cita_biblica": {
+      "referencia": "Efesios 1, 3",
+      "mensaje": "Bendito sea Dios, que nos ha bendecido con toda clase de bendiciones."
+    },
+    "mensaje_final": "Jesús me bendice en los sacramentos."
+  },
+  {
+    "id": "07-011",
+    "modulo": 7,
+    "titulo": "Gracias por los Sacramentos",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Agradecer a Jesús por los sacramentos que ya recibimos y los que recibiremos.",
+    "materiales": [
+      "Siete velas de papel o tarjetas con los sacramentos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca las siete tarjetas en círculo.",
+      "Cada niño se acerca a una tarjeta y dice: «Gracias, Jesús, por el regalo de...».",
+      "El grupo responde: «¡Te damos gracias, Señor!».",
+      "Pide que recen especialmente por su Primera Comunión.",
+      "Terminen con un Padre Nuestro."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Gracias, Jesús» frente a cada tarjeta.",
+    "para_los_mayores": "Que recen por alguien que pronto recibirá un sacramento.",
+    "cita_biblica": {
+      "referencia": "Salmo 103, 2",
+      "mensaje": "Bendice, alma mía, al Señor, y no olvides sus beneficios."
+    },
+    "mensaje_final": "Gracias, Jesús, por tus regalos."
+  },
+  {
+    "id": "07-012",
+    "modulo": 7,
+    "titulo": "Pasaporte Sacramental",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Registrar los sacramentos recibidos y los que se esperan recibir.",
+    "materiales": [
+      "Hojas dobladas como librito",
+      "Lápices de colores",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño arma un «pasaporte» con varias hojas dobladas.",
+      "En la portada escriben su nombre y dibujan su rostro.",
+      "En cada página, un sacramento: la fecha si ya lo recibieron o «¡Pronto!» si no.",
+      "Agreguen un sello dibujado en cada página recibida.",
+      "Llévenlo a casa para completarlo con ayuda de la familia."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo dos páginas: Bautismo y Primera Comunión.",
+    "para_los_mayores": "Que pidan a la familia la parroquia y la fecha de su Bautismo.",
+    "cita_biblica": {
+      "referencia": "Filipenses 3, 20",
+      "mensaje": "Somos ciudadanos del cielo."
+    },
+    "mensaje_final": "Mi camino con Jesús es una aventura."
+  },
+  {
+    "id": "07-013",
+    "modulo": 7,
+    "titulo": "El Día de mi Bautismo",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que en el Bautismo Dios nos hizo sus hijos.",
+    "materiales": [
+      "Fotos del Bautismo de los niños (pedidas con anticipación) o un dibujo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que muestren su foto o cuenten lo que saben de su Bautismo.",
+      "Pregunta: ¿Dónde fue? ¿Quiénes estaban? ¿Quiénes son tus padrinos?",
+      "Explica que ese día Dios dijo: «Tú eres mi hijo amado».",
+      "Cada niño dice: «Soy hijo de Dios desde mi Bautismo».",
+      "Terminen con un aplauso de alegría y una oración por los padrinos."
+    ],
+    "para_los_mas_pequenos": "Que digan solo quiénes estaban en su Bautismo.",
+    "para_los_mayores": "Que averigüen la fecha de su Bautismo para celebrarla cada año.",
+    "cita_biblica": {
+      "referencia": "1 Juan 3, 1",
+      "mensaje": "Miren cuánto nos ama el Padre: nos llama hijos de Dios, ¡y lo somos!"
+    },
+    "mensaje_final": "Desde mi Bautismo soy hijo de Dios."
+  },
+  {
+    "id": "07-014",
+    "modulo": 7,
+    "titulo": "Gotitas de Agua Viva",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender que el agua del Bautismo nos da vida nueva.",
+    "materiales": [
+      "Gotas de papel azul con palabras (hijo de Dios, vida nueva, Iglesia, perdón)"
+    ],
+    "preparacion": "Esconde las gotas por el salón.",
+    "pasos": [
+      "Explica que en el Bautismo el agua es signo de la vida nueva que Dios nos da.",
+      "Los niños buscan las gotas escondidas.",
+      "Cada gota encontrada se lee en voz alta.",
+      "Peguen todas las gotas formando una gran fuente en la pared.",
+      "Conversen sobre cada regalo del Bautismo."
+    ],
+    "para_los_mas_pequenos": "Que busquen gotas sin palabras y tú las nombras.",
+    "para_los_mayores": "Que expliquen qué significa cada palabra.",
+    "cita_biblica": {
+      "referencia": "Ezequiel 36, 25",
+      "mensaje": "Derramaré sobre ustedes agua pura y quedarán limpios."
+    },
+    "mensaje_final": "El agua del Bautismo me dio vida nueva."
+  },
+  {
+    "id": "07-015",
+    "modulo": 7,
+    "titulo": "La Vela de mi Bautismo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar que en el Bautismo recibimos la luz de Cristo.",
+    "materiales": [
+      "Tubos de papel higiénico o cartulina",
+      "Papel amarillo y naranja",
+      "Pegamento",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el Bautismo los papás reciben una vela encendida del cirio pascual, que representa a Jesús resucitado.",
+      "Cada niño decora un tubo como vela con su nombre.",
+      "Peguen arriba una llama de papel.",
+      "Escriban: «Jesús es mi luz».",
+      "Conversen: ¿Cómo podemos hacer brillar esa luz en casa y en la escuela?"
+    ],
+    "para_los_mas_pequenos": "Que decoren una vela ya armada.",
+    "para_los_mayores": "Que escriban tres formas de ser luz para otros.",
+    "cita_biblica": {
+      "referencia": "Juan 8, 12",
+      "mensaje": "Jesús dijo: Yo soy la luz del mundo."
+    },
+    "mensaje_final": "Llevo la luz de Jesús."
+  },
+  {
+    "id": "07-016",
+    "modulo": 7,
+    "titulo": "La Vestidura Blanca",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que la vestidura blanca significa que somos nuevas criaturas en Cristo.",
+    "materiales": [
+      "Siluetas de vestidura en papel blanco",
+      "Lápices de colores",
+      "Brillantina o stickers (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el Bautismo nos ponen una vestidura blanca como signo de que estamos limpios y revestidos de Cristo.",
+      "Cada niño decora el borde de su vestidura con cruces, corazones o palomas.",
+      "En el centro escriben su nombre.",
+      "Cuelguen todas las vestiduras juntas como una gran familia de bautizados.",
+      "Conversen: ¿Cómo cuidamos ese corazón limpio? Con la oración y la confesión."
+    ],
+    "para_los_mas_pequenos": "Que peguen stickers en una vestidura ya recortada.",
+    "para_los_mayores": "Que escriban una promesa para cuidar su vida de hijos de Dios.",
+    "cita_biblica": {
+      "referencia": "Gálatas 3, 27",
+      "mensaje": "Todos los que fueron bautizados se revistieron de Cristo."
+    },
+    "mensaje_final": "Estoy revestido de Cristo."
+  },
+  {
+    "id": "07-017",
+    "modulo": 7,
+    "titulo": "Los Signos del Bautismo",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer los signos del Bautismo y su significado.",
+    "materiales": [
+      "Objetos o dibujos: agua, aceite (crisma), vela, vestidura blanca, señal de la cruz"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca los signos sobre una mesa.",
+      "Lee una pista: «Es signo de la luz de Cristo» o «Nos limpia y nos da vida nueva».",
+      "Un niño toma el signo correcto y lo muestra.",
+      "Explica brevemente el significado de cada signo.",
+      "Repasen todos juntos en el orden en que aparecen en la celebración."
+    ],
+    "para_los_mas_pequenos": "Usa solo agua, vela y vestidura.",
+    "para_los_mayores": "Que pongan los signos en orden según la celebración del Bautismo.",
+    "cita_biblica": {
+      "referencia": "Hechos 2, 38",
+      "mensaje": "Bautícense en el nombre de Jesucristo y recibirán el don del Espíritu Santo."
+    },
+    "mensaje_final": "Cada signo del Bautismo me habla del amor de Dios."
+  },
+  {
+    "id": "07-018",
+    "modulo": 7,
+    "titulo": "Teatro de un Bautismo",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Conocer las partes principales de la celebración del Bautismo.",
+    "materiales": [
+      "Un muñeco",
+      "Una tela blanca",
+      "Una vela de papel",
+      "Un recipiente vacío"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Reparte papeles: sacerdote, papás, padrinos, bebé (muñeco) y comunidad.",
+      "El sacerdote recibe a la familia en la puerta y pregunta: «¿Qué nombre han elegido?».",
+      "Hace la señal de la cruz en la frente del bebé; los papás y padrinos también.",
+      "Simulen el momento del agua (sin agua real sobre el muñeco), la vestidura blanca y la vela.",
+      "Toda la comunidad aplaude y da la bienvenida al nuevo hijo de Dios."
+    ],
+    "para_los_mas_pequenos": "Que sean la comunidad que aplaude y canta.",
+    "para_los_mayores": "Que el sacerdote diga las preguntas a los papás y padrinos sobre la fe.",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 19",
+      "mensaje": "Bauticen en el nombre del Padre y del Hijo y del Espíritu Santo."
+    },
+    "mensaje_final": "En el Bautismo, la Iglesia me recibe con alegría."
+  },
+  {
+    "id": "07-019",
+    "modulo": 7,
+    "titulo": "Mi Nombre Escrito en el Cielo",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que en el Bautismo Dios nos llama por nuestro nombre.",
+    "materiales": [
+      "Estrellas de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la primera pregunta del Bautismo es: «¿Qué nombre han elegido?».",
+      "Cuenta que Dios nos conoce por nuestro nombre y lo guarda en su corazón.",
+      "Cada niño escribe su nombre en una estrella con su mejor letra.",
+      "Peguen las estrellas en el techo o en un cielo de papel.",
+      "Lean juntos la frase de Jesús sobre los nombres escritos en el cielo."
+    ],
+    "para_los_mas_pequenos": "Escribe tú el nombre y que ellos decoren la estrella.",
+    "para_los_mayores": "Que busquen el significado de su nombre.",
+    "cita_biblica": {
+      "referencia": "Lucas 10, 20",
+      "mensaje": "Alégrense porque sus nombres están escritos en el cielo."
+    },
+    "mensaje_final": "Dios guarda mi nombre en su corazón."
+  },
+  {
+    "id": "07-020",
+    "modulo": 7,
+    "titulo": "Los Padrinos que me Acompañan",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar a los padrinos y agradecerles su misión de acompañarnos en la fe.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Sobres"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que los padrinos prometieron ayudar a los papás a educarnos en la fe.",
+      "Cada niño hace una tarjeta para sus padrinos.",
+      "Dibujan algo que hacen juntos y escriben «Gracias por acompañarme en la fe».",
+      "Guarden la tarjeta en un sobre para entregarla.",
+      "Recen juntos por todos los padrinos."
+    ],
+    "para_los_mas_pequenos": "Que hagan un dibujo y tú escribes el mensaje.",
+    "para_los_mayores": "Que agreguen una pregunta sobre la fe para hacerle a su padrino.",
+    "cita_biblica": {
+      "referencia": "Proverbios 22, 6",
+      "mensaje": "Educa al niño en el camino que debe seguir."
+    },
+    "mensaje_final": "Mis padrinos me ayudan a crecer en la fe."
+  },
+  {
+    "id": "07-021",
+    "modulo": 7,
+    "titulo": "Bienvenido a la Familia de Dios",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender que el Bautismo nos hace miembros de la Iglesia, la gran familia de Dios.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo grande tomados de las manos.",
+      "Un niño entra al centro como «recién bautizado».",
+      "Todos dicen: «¡Bienvenido a la familia de Dios, [nombre]!» y abren el círculo para que entre.",
+      "Repitan con varios niños.",
+      "Explica que la Iglesia es nuestra familia y que nos alegramos con cada nuevo bautizado."
+    ],
+    "para_los_mas_pequenos": "Que entren todos al centro al mismo tiempo.",
+    "para_los_mayores": "Que el grupo diga a cada uno un regalo que trae a la familia.",
+    "cita_biblica": {
+      "referencia": "Efesios 2, 19",
+      "mensaje": "Ya no son extranjeros, sino miembros de la familia de Dios."
+    },
+    "mensaje_final": "Soy parte de la familia de Dios."
+  },
+  {
+    "id": "07-022",
+    "modulo": 7,
+    "titulo": "Renuncio y Creo",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Renovar las promesas del Bautismo con palabras sencillas.",
+    "materiales": [
+      "Una vela de papel o imagen de Jesús"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el Bautismo nuestros papás y padrinos dijeron «sí, renuncio» al mal y «sí, creo» en Dios por nosotros.",
+      "Haz preguntas sencillas: «¿Renuncian al mal y a todo lo que nos aleja de Dios?». Los niños responden: «Sí, renuncio».",
+      "Luego: «¿Creen en Dios Padre, en Jesús su Hijo y en el Espíritu Santo?». Responden: «Sí, creo».",
+      "Terminen con: «Esta es nuestra fe, la fe de la Iglesia».",
+      "Recen juntos el Gloria."
+    ],
+    "para_los_mas_pequenos": "Que respondan solo «Sí, creo».",
+    "para_los_mayores": "Que expliquen qué significa renunciar al mal en su vida diaria.",
+    "cita_biblica": {
+      "referencia": "Romanos 6, 4",
+      "mensaje": "Por el Bautismo, vivimos una vida nueva."
+    },
+    "mensaje_final": "Sí, creo en Dios."
+  },
+  {
+    "id": "07-023",
+    "modulo": 7,
+    "titulo": "El Agua que Limpia",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que el Bautismo nos limpia del pecado original.",
+    "materiales": [
+      "Un vaso con agua limpia",
+      "Un poco de tierra"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una mano con tierra y luego lávala con el agua.",
+      "Explica que todos nacemos con una «manchita» llamada pecado original, que nos separa de Dios.",
+      "Explica que el Bautismo nos limpia de esa mancha y nos llena de la vida de Dios.",
+      "Pregunta: ¿Cómo se siente estar limpio?",
+      "Terminen dando gracias por el Bautismo."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «El Bautismo nos hace amigos de Dios».",
+    "para_los_mayores": "Que pregunten qué pasa si después pecamos: Jesús nos da la confesión.",
+    "cita_biblica": {
+      "referencia": "Hechos 22, 16",
+      "mensaje": "Levántate, recibe el Bautismo y queda limpio."
+    },
+    "mensaje_final": "El Bautismo me hizo nuevo."
+  },
+  {
+    "id": "07-024",
+    "modulo": 7,
+    "titulo": "Ungidos como Reyes",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que en el Bautismo somos ungidos para ser sacerdotes, profetas y reyes con Cristo.",
+    "materiales": [
+      "Coronas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el Bautismo nos ungen con un aceite perfumado llamado crisma.",
+      "Cuenta que en la Biblia se ungía a los reyes, sacerdotes y profetas.",
+      "Juega a «Reyes que sirven»: cada niño se pone una corona y hace una acción de servicio.",
+      "Luego son «profetas» que dicen algo bueno de Jesús, y «sacerdotes» que rezan por alguien.",
+      "Explica: ¡con el Bautismo somos parte del pueblo de Dios!"
+    ],
+    "para_los_mas_pequenos": "Que se pongan la corona y den un abrazo.",
+    "para_los_mayores": "Que expliquen cada misión con ejemplos de su vida.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 2, 9",
+      "mensaje": "Ustedes son linaje elegido, sacerdocio real, pueblo de Dios."
+    },
+    "mensaje_final": "Soy hijo del Rey y sirvo con amor."
+  },
+  {
+    "id": "07-025",
+    "modulo": 7,
+    "titulo": "La Pila Bautismal de mi Parroquia",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el lugar donde fuimos bautizados y sus signos.",
+    "materiales": [
+      "Hojas con preguntas",
+      "Lápices (visita a la iglesia o fotos)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Si es posible, visiten la pila bautismal de la parroquia; si no, muestra fotos.",
+      "Entrega una hoja con preguntas: ¿De qué está hecha? ¿Dónde está el cirio pascual? ¿Qué forma tiene?",
+      "En equipos, busquen las respuestas observando.",
+      "Compartan lo que encontraron.",
+      "Terminen haciendo la señal de la cruz frente a la pila bautismal."
+    ],
+    "para_los_mas_pequenos": "Que la miren y digan qué ven, sin hoja.",
+    "para_los_mayores": "Que dibujen la pila y escriban qué significa cada parte.",
+    "cita_biblica": {
+      "referencia": "Juan 3, 5",
+      "mensaje": "Jesús dijo: El que no nace del agua y del Espíritu no puede entrar en el Reino de Dios."
+    },
+    "mensaje_final": "Allí comenzó mi vida de hijo de Dios."
+  },
+  {
+    "id": "07-026",
+    "modulo": 7,
+    "titulo": "Juan Bautiza en el Jordán",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Relacionar el Bautismo de Jesús con nuestro propio Bautismo.",
+    "materiales": [
+      "Una tela azul",
+      "Una paloma de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda cómo Jesús fue bautizado por Juan en el río Jordán.",
+      "Representen la escena con un Jesús, un Juan y una paloma.",
+      "Cuando la voz del Padre diga «Este es mi Hijo amado», cambia la frase por el nombre de cada niño: «[Nombre] es mi hijo amado».",
+      "Cada niño pasa por el «río» y escucha su frase.",
+      "Conversen sobre cómo se sintieron al escucharla."
+    ],
+    "para_los_mas_pequenos": "Que pasen por el río tomados de tu mano.",
+    "para_los_mayores": "Que comparen qué es igual y qué es diferente entre el Bautismo de Jesús y el nuestro.",
+    "cita_biblica": {
+      "referencia": "Marcos 1, 11",
+      "mensaje": "Se oyó una voz del cielo: Tú eres mi Hijo amado."
+    },
+    "mensaje_final": "Dios me dice: tú eres mi hijo amado."
+  },
+  {
+    "id": "07-027",
+    "modulo": 7,
+    "titulo": "Canción del Agua y la Luz",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Celebrar el Bautismo con un canto alegre.",
+    "materiales": [
+      "Cintas azules y amarillas (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto sencillo: «Con el agua y con la luz, soy hijo de Dios por Jesús».",
+      "Los niños con cintas azules son el agua y los de amarillas, la luz.",
+      "Cuando se canta «agua», bailan los azules; cuando se canta «luz», los amarillos.",
+      "Al final, todos bailan juntos.",
+      "Terminen gritando: «¡Soy hijo de Dios!»."
+    ],
+    "para_los_mas_pequenos": "Que muevan las cintas libremente.",
+    "para_los_mayores": "Que inventen una estrofa con otro signo del Bautismo.",
+    "cita_biblica": {
+      "referencia": "Isaías 12, 3",
+      "mensaje": "Sacarán agua con alegría de las fuentes de la salvación."
+    },
+    "mensaje_final": "Canto feliz porque estoy bautizado."
+  },
+  {
+    "id": "07-028",
+    "modulo": 7,
+    "titulo": "Celebro mi Cumpleaños de Bautismo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar el día del Bautismo como un cumpleaños de fe.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Stickers"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que además del cumpleaños, podemos celebrar el día de nuestro Bautismo.",
+      "Cada niño hace una tarjeta de «Feliz cumple-Bautismo» para sí mismo.",
+      "Dejan un espacio para escribir la fecha que averiguarán en casa.",
+      "Decoren la tarjeta con velas, agua, palomas y cruces.",
+      "Propón que ese día recen en familia y enciendan una vela."
+    ],
+    "para_los_mas_pequenos": "Que decoren una tarjeta con su nombre ya escrito.",
+    "para_los_mayores": "Que preparen una pequeña oración para leer ese día.",
+    "cita_biblica": {
+      "referencia": "Salmo 118, 24",
+      "mensaje": "Este es el día que hizo el Señor."
+    },
+    "mensaje_final": "Celebro el día en que me hice hijo de Dios."
+  },
+  {
+    "id": "07-029",
+    "modulo": 7,
+    "titulo": "La Señal en mi Frente",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Recordar que en el Bautismo nos marcaron con la señal de la cruz.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el Bautismo el sacerdote, los papás y los padrinos hicieron una cruz en nuestra frente.",
+      "En parejas, cada niño traza suavemente una pequeña cruz en la frente de su compañero diciendo: «Eres de Jesús».",
+      "El compañero responde: «Amén».",
+      "Cambien los papeles.",
+      "Terminen haciendo todos juntos la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que tú hagas la cruz en la frente de cada niño.",
+    "para_los_mayores": "Que expliquen por qué la cruz es el signo de los cristianos.",
+    "cita_biblica": {
+      "referencia": "Gálatas 6, 17",
+      "mensaje": "Llevo en mi cuerpo las marcas de Jesús."
+    },
+    "mensaje_final": "Llevo la cruz de Jesús en mi frente."
+  },
+  {
+    "id": "07-030",
+    "modulo": 7,
+    "titulo": "Sumergidos en el Amor",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que «bautizar» significa sumergir en el amor de Dios.",
+    "materiales": [
+      "Un recipiente con agua",
+      "Una esponja seca"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la esponja seca y luego sumérgela en el agua.",
+      "Pregunta: ¿Qué pasó con la esponja? Se llenó de agua por todas partes.",
+      "Explica que «bautizar» significa «sumergir»: en el Bautismo nos llenamos de la vida de Dios.",
+      "Conversen: ¿Cómo se nota que estamos llenos de Dios? En el amor, la alegría, la bondad.",
+      "Exprime la esponja y explica que ese amor es para compartirlo."
+    ],
+    "para_los_mas_pequenos": "Que toquen la esponja seca y mojada.",
+    "para_los_mayores": "Que piensen cómo «comparten» el amor de Dios con otros.",
+    "cita_biblica": {
+      "referencia": "Romanos 5, 5",
+      "mensaje": "El amor de Dios se ha derramado en nuestros corazones."
+    },
+    "mensaje_final": "Estoy lleno del amor de Dios."
+  },
+  {
+    "id": "07-031",
+    "modulo": 7,
+    "titulo": "Promesas que Cuido",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que vivir como bautizados se nota en acciones concretas.",
+    "materiales": [
+      "Tarjetas con acciones (rezar, mentir, ayudar, pelear, compartir, perdonar)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Marca dos lados del salón: «Vivo como hijo de Dios» y «Me alejo de Dios».",
+      "Muestra una tarjeta y los niños corren al lado correcto.",
+      "Conversen sobre las acciones difíciles.",
+      "Cada niño elige una acción buena para vivir esta semana.",
+      "Terminen con una oración pidiendo fuerza para vivir el Bautismo."
+    ],
+    "para_los_mas_pequenos": "Usa tarjetas con dibujos muy claros.",
+    "para_los_mayores": "Que inventen nuevas situaciones para el juego.",
+    "cita_biblica": {
+      "referencia": "Efesios 5, 8",
+      "mensaje": "Ahora son luz en el Señor; vivan como hijos de la luz."
+    },
+    "mensaje_final": "Vivo como hijo de Dios."
+  },
+  {
+    "id": "07-032",
+    "modulo": 7,
+    "titulo": "Padres y Padrinos Responden",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer el compromiso de los papás y padrinos en el Bautismo.",
+    "materiales": [
+      "Un muñeco",
+      "Una tarjeta con las preguntas del sacerdote"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Reparte papeles: sacerdote, papá, mamá, padrino y madrina.",
+      "El sacerdote pregunta: «¿Saben que se comprometen a educarlo en la fe?». Responden: «Sí, lo sabemos».",
+      "Pregunta a los padrinos: «¿Están dispuestos a ayudar a los padres en esta tarea?». Responden: «Sí, estamos dispuestos».",
+      "El resto del grupo observa y luego cambian los papeles.",
+      "Conversen: ¿Cómo nos ayudan hoy nuestros papás y padrinos en la fe?"
+    ],
+    "para_los_mas_pequenos": "Que respondan todos juntos «Sí».",
+    "para_los_mayores": "Que escriban qué les dirían a sus papás para agradecerles.",
+    "cita_biblica": {
+      "referencia": "Deuteronomio 6, 6-7",
+      "mensaje": "Estas palabras las enseñarás a tus hijos."
+    },
+    "mensaje_final": "Mi familia me enseña a amar a Dios."
+  },
+  {
+    "id": "07-033",
+    "modulo": 7,
+    "titulo": "Dios Siempre Espera",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que Dios nos ama siempre y espera con alegría que volvamos a Él.",
+    "materiales": [
+      "Una imagen de Jesús con los brazos abiertos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la imagen y pregunta: ¿Qué nos dice Jesús con sus brazos abiertos?",
+      "Explica que cuando hacemos algo malo nos alejamos de Dios, pero Él nunca deja de amarnos.",
+      "Cuenta que Jesús nos dejó un sacramento especial para volver: la Reconciliación o confesión.",
+      "Cada niño se acerca a la imagen y dice: «Jesús, gracias por esperarme».",
+      "Terminen con un abrazo grupal como signo del abrazo de Dios."
+    ],
+    "para_los_mas_pequenos": "Que solo abracen la imagen o hagan el gesto de los brazos abiertos.",
+    "para_los_mayores": "Que recuerden una vez en que pidieron perdón y cómo se sintieron.",
+    "cita_biblica": {
+      "referencia": "Isaías 1, 18",
+      "mensaje": "Aunque sus pecados sean rojos como la sangre, quedarán blancos como la nieve."
+    },
+    "mensaje_final": "Dios siempre me espera con los brazos abiertos."
+  },
+  {
+    "id": "07-034",
+    "modulo": 7,
+    "titulo": "¿Qué es el Pecado?",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que el pecado es elegir el mal y alejarse del amor de Dios y de los demás.",
+    "materiales": [
+      "Una cuerda",
+      "Tarjetas con acciones"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Un niño sostiene una punta de la cuerda (Dios) y otro la otra punta (nosotros).",
+      "Lee una tarjeta de acción mala (mentir, pegar, burlarse): el niño da un paso atrás y la cuerda se estira.",
+      "Lee una acción buena o «pedir perdón»: el niño se acerca de nuevo.",
+      "Explica que el pecado nos aleja, pero el perdón nos vuelve a unir.",
+      "Conversen: Dios nunca suelta su punta de la cuerda."
+    ],
+    "para_los_mas_pequenos": "Que caminen hacia atrás o adelante según la carita triste o feliz.",
+    "para_los_mayores": "Que expliquen la diferencia entre un error sin querer y un pecado.",
+    "cita_biblica": {
+      "referencia": "Isaías 59, 2",
+      "mensaje": "Sus pecados los separaron de Dios."
+    },
+    "mensaje_final": "El pecado me aleja, el perdón me acerca."
+  },
+  {
+    "id": "07-035",
+    "modulo": 7,
+    "titulo": "La Mochila Pesada",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que la confesión nos libera del peso de nuestros pecados.",
+    "materiales": [
+      "Una mochila",
+      "Piedras o libros"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a un voluntario que se ponga la mochila vacía y camine.",
+      "Agrega piedras una por una nombrando faltas comunes (sin acusar a nadie): mentiras, peleas, desobediencia.",
+      "Pregunta: ¿Cómo se siente ahora? ¿Puede saltar y jugar igual?",
+      "Saca todas las piedras y explica que eso hace Jesús en la confesión.",
+      "Que el niño salte feliz con la mochila liviana."
+    ],
+    "para_los_mas_pequenos": "Que todos ayuden a sacar las piedras.",
+    "para_los_mayores": "Que piensen qué «piedras» quieren dejar en su primera confesión (en silencio).",
+    "cita_biblica": {
+      "referencia": "Mateo 11, 28",
+      "mensaje": "Jesús dijo: Vengan a mí los que están cansados y agobiados, y yo los aliviaré."
+    },
+    "mensaje_final": "Jesús me quita el peso del pecado."
+  },
+  {
+    "id": "07-036",
+    "modulo": 7,
+    "titulo": "Los Cinco Pasos de la Confesión",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Aprender los cinco pasos para una buena confesión.",
+    "materiales": [
+      "Cinco carteles: Examen de conciencia, Arrepentimiento, Propósito de enmienda, Decir los pecados, Cumplir la penitencia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica cada paso con palabras sencillas.",
+      "Coloca los carteles desordenados en el suelo.",
+      "En equipos, los niños ordenan los pasos correctamente lo más rápido posible.",
+      "Revisen juntos y expliquen cada paso con un ejemplo.",
+      "Repitan el juego tapando un cartel para ver si recuerdan cuál falta."
+    ],
+    "para_los_mas_pequenos": "Usa tres pasos sencillos: pensar, decir, cumplir.",
+    "para_los_mayores": "Que escriban qué significa cada paso con sus palabras.",
+    "cita_biblica": {
+      "referencia": "1 Juan 1, 9",
+      "mensaje": "Si confesamos nuestros pecados, Dios es fiel y nos perdona."
+    },
+    "mensaje_final": "Me preparo bien para recibir el perdón."
+  },
+  {
+    "id": "07-037",
+    "modulo": 7,
+    "titulo": "El Espejo del Corazón",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a hacer un examen de conciencia sencillo.",
+    "materiales": [
+      "Un espejo pequeño",
+      "Una hoja con preguntas sencillas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pasa el espejo y pregunta: ¿Para qué sirve un espejo? Para ver cómo estamos.",
+      "Explica que el examen de conciencia es como mirarnos en el espejo del amor de Dios.",
+      "Lee preguntas despacio, en silencio: ¿Recé a Dios? ¿Obedecí en casa? ¿Dije la verdad? ¿Traté bien a los demás?",
+      "Cada niño piensa en silencio, sin decir nada en voz alta.",
+      "Terminen con una oración: «Jesús, ayúdame a ver mi corazón con tu luz»."
+    ],
+    "para_los_mas_pequenos": "Usa solo tres preguntas con dibujos.",
+    "para_los_mayores": "Que lleven la hoja a casa para usarla antes de confesarse.",
+    "cita_biblica": {
+      "referencia": "Salmo 139, 23",
+      "mensaje": "Examíname, Señor, y conoce mi corazón."
+    },
+    "mensaje_final": "Miro mi corazón con los ojos de Dios."
+  },
+  {
+    "id": "07-038",
+    "modulo": 7,
+    "titulo": "Acto de Contrición con Gestos",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Memorizar una oración de arrepentimiento.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña el acto de contrición que usa tu parroquia, frase por frase.",
+      "Agrega gestos: mano en el corazón (me arrepiento), manos juntas (te pido perdón), brazos abiertos (con tu ayuda).",
+      "Repítanlo varias veces con gestos.",
+      "Luego recítenlo con una melodía sencilla.",
+      "Anímalos a rezarlo en casa cada noche."
+    ],
+    "para_los_mas_pequenos": "Enseña una versión corta: «Jesús, perdóname; te amo y no quiero pecar más».",
+    "para_los_mayores": "Que lo recen sin gestos y de memoria.",
+    "cita_biblica": {
+      "referencia": "Salmo 51, 3",
+      "mensaje": "Ten piedad de mí, oh Dios, por tu bondad."
+    },
+    "mensaje_final": "Jesús, me arrepiento y te amo."
+  },
+  {
+    "id": "07-039",
+    "modulo": 7,
+    "titulo": "Ensayo para Encontrarme con el Padre",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 15 niños",
+    "objetivo": "Practicar con tranquilidad cómo se desarrolla la confesión.",
+    "materiales": [
+      "Dos sillas",
+      "Una tarjeta con el diálogo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que es solo un ensayo: nadie dirá pecados reales.",
+      "Coloca dos sillas como en un confesionario; tú haces de sacerdote.",
+      "Un niño practica: hace la señal de la cruz y dice: «Padre, esta es mi primera confesión».",
+      "Dice un ejemplo inventado («Me peleé con mi hermano») y escucha el consejo y la penitencia.",
+      "Reza el acto de contrición y se despide: «Gracias, Padre». Repite con otros niños."
+    ],
+    "para_los_mas_pequenos": "Que practiquen solo el saludo y la despedida.",
+    "para_los_mayores": "Que practiquen cómo explicar si no entienden algo al sacerdote.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 23",
+      "mensaje": "Jesús dijo: A quienes perdonen los pecados, les quedarán perdonados."
+    },
+    "mensaje_final": "No tengo miedo, Jesús me espera en la confesión."
+  },
+  {
+    "id": "07-040",
+    "modulo": 7,
+    "titulo": "El Secreto del Confesionario",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Saber que el sacerdote nunca puede contar lo que escucha en la confesión.",
+    "materiales": [
+      "Una caja con candado o cinta"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la caja cerrada y pregunta: ¿Qué guardamos en una caja con llave?",
+      "Explica que lo que decimos en la confesión queda guardado para siempre: el sacerdote no puede contarlo a nadie, nunca.",
+      "Explica que esto se llama «secreto de confesión» y es sagrado.",
+      "Pregunta: ¿Cómo nos ayuda saber esto?",
+      "Terminen con una oración por los sacerdotes que nos perdonan en nombre de Jesús."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «Lo que le dices al Padre se lo dices a Jesús y queda en secreto».",
+    "para_los_mayores": "Que expliquen por qué el sacerdote perdona en nombre de Jesús.",
+    "cita_biblica": {
+      "referencia": "Miqueas 7, 19",
+      "mensaje": "Dios arrojará nuestros pecados al fondo del mar."
+    },
+    "mensaje_final": "En la confesión puedo hablar con confianza."
+  },
+  {
+    "id": "07-041",
+    "modulo": 7,
+    "titulo": "Corazón Limpio",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Representar cómo el perdón de Dios limpia nuestro corazón.",
+    "materiales": [
+      "Corazones de papel blanco",
+      "Marcadores lavables o lápiz",
+      "Borrador",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un corazón blanco a cada niño.",
+      "Pide que dibujen manchitas con lápiz (sin escribir pecados), como signo de las faltas.",
+      "Explica que en la confesión Jesús borra todo.",
+      "Borren las manchas con el borrador y decoren el corazón con colores alegres.",
+      "Escriban: «Jesús limpia mi corazón»."
+    ],
+    "para_los_mas_pequenos": "Que pinten un corazón y peguen stickers de alegría.",
+    "para_los_mayores": "Que escriban un propósito de enmienda en el reverso.",
+    "cita_biblica": {
+      "referencia": "Salmo 51, 12",
+      "mensaje": "Crea en mí, oh Dios, un corazón puro."
+    },
+    "mensaje_final": "Jesús limpia mi corazón."
+  },
+  {
+    "id": "07-042",
+    "modulo": 7,
+    "titulo": "La Pizarra Borrada",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Comprender que cuando Dios perdona, olvida el pecado.",
+    "materiales": [
+      "Una pizarra o papel y lápiz",
+      "Borrador"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Dibuja garabatos en la pizarra mientras dices: «Esto es como los errores».",
+      "Pregunta: ¿Se puede limpiar? Pide a un voluntario que borre todo.",
+      "Explica que en la confesión Dios borra nuestros pecados y no los vuelve a recordar.",
+      "Jueguen: cada niño dibuja un garabato y otro lo borra diciendo «¡Dios perdona!».",
+      "Terminen con la pizarra limpia y escriban: «Dios me ama»."
+    ],
+    "para_los_mas_pequenos": "Que borren y aplaudan con alegría.",
+    "para_los_mayores": "Que expliquen la diferencia entre olvidar y perdonar.",
+    "cita_biblica": {
+      "referencia": "Hebreos 8, 12",
+      "mensaje": "Dios dice: No me acordaré más de sus pecados."
+    },
+    "mensaje_final": "Dios borra mis pecados para siempre."
+  },
+  {
+    "id": "07-043",
+    "modulo": 7,
+    "titulo": "Me Arrepiento de Corazón",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a expresar el arrepentimiento sincero a Dios.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que arrepentirse es sentir pena por haber ofendido a Dios y querer cambiar.",
+      "Invita a los niños a cerrar los ojos y pensar en algo que quieren mejorar.",
+      "Guía una oración: «Jesús, siento haberte ofendido. Con tu ayuda, quiero cambiar».",
+      "Cada niño la repite en voz baja.",
+      "Terminen con: «Gracias, Jesús, por tu perdón»."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Perdón, Jesús» con la mano en el corazón.",
+    "para_los_mayores": "Que escriban su propio acto de arrepentimiento.",
+    "cita_biblica": {
+      "referencia": "Joel 2, 13",
+      "mensaje": "Vuelvan a Dios de todo corazón, porque Él es bueno y misericordioso."
+    },
+    "mensaje_final": "Me arrepiento y vuelvo a Dios."
+  },
+  {
+    "id": "07-044",
+    "modulo": 7,
+    "titulo": "El Propósito que Cumplo",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que después del perdón nos esforzamos por mejorar.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el propósito de enmienda es decidir cambiar con la ayuda de Dios.",
+      "Cada niño dibuja una escalera de cinco escalones.",
+      "En cada escalón escribe un pequeño paso para mejorar algo: «Saludar a mi hermano», «Ordenar mi cuarto».",
+      "Arriba de la escalera dibujan un corazón: el amor de Jesús.",
+      "Llévenla a casa para marcar los escalones logrados."
+    ],
+    "para_los_mas_pequenos": "Que dibujen un solo paso con tu ayuda.",
+    "para_los_mayores": "Que pongan una fecha para revisar su avance.",
+    "cita_biblica": {
+      "referencia": "Filipenses 4, 13",
+      "mensaje": "Todo lo puedo en Cristo que me fortalece."
+    },
+    "mensaje_final": "Con Jesús, puedo mejorar cada día."
+  },
+  {
+    "id": "07-045",
+    "modulo": 7,
+    "titulo": "Jesús Dio el Poder de Perdonar",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer cómo Jesús resucitado dio a los apóstoles el poder de perdonar los pecados.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús resucitado se apareció a los apóstoles, sopló sobre ellos y les dio el Espíritu Santo para perdonar.",
+      "Un niño hace de Jesús y otros de apóstoles reunidos con miedo.",
+      "Jesús entra, dice «La paz esté con ustedes» y sopla suavemente sobre ellos.",
+      "Lee la frase de Jesús sobre el perdón.",
+      "Explica que hoy los sacerdotes continúan esa misión."
+    ],
+    "para_los_mas_pequenos": "Que todos sean apóstoles que reciben el soplo.",
+    "para_los_mayores": "Que expliquen por qué nos confesamos con un sacerdote.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 22-23",
+      "mensaje": "Jesús sopló sobre ellos y dijo: Reciban el Espíritu Santo; a quienes perdonen los pecados, les quedan perdonados."
+    },
+    "mensaje_final": "Jesús perdona por medio del sacerdote."
+  },
+  {
+    "id": "07-046",
+    "modulo": 7,
+    "titulo": "¿Lo Siento o Te Perdono?",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Practicar con alegría las palabras que reconcilian.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos filas, una frente a la otra.",
+      "Una fila dice «Lo siento» con un gesto; la otra responde «Te perdono» con un abrazo o un choque de manos.",
+      "Cambien de compañero y de papeles.",
+      "Pregunta: ¿Qué es más difícil, pedir perdón o perdonar?",
+      "Explica que Dios nos enseña las dos cosas."
+    ],
+    "para_los_mas_pequenos": "Que lo hagan en parejas con tu ayuda.",
+    "para_los_mayores": "Que inventen otras palabras que ayuden a reconciliarse.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 32",
+      "mensaje": "Sean buenos y compasivos, perdonándose unos a otros."
+    },
+    "mensaje_final": "Pedir perdón y perdonar me hace libre."
+  },
+  {
+    "id": "07-047",
+    "modulo": 7,
+    "titulo": "La Ropa Sucia y la Ropa Limpia",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Comprender que la confesión nos devuelve la gracia, como ropa limpia.",
+    "materiales": [
+      "Camisetas o telas sucias y limpias (o dibujos)",
+      "Dos canastas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca en una canasta telas manchadas (con pintura o dibujos de manchas).",
+      "Explica que el pecado «mancha» el alma, como la ropa.",
+      "Los niños llevan cada tela sucia a una «lavadora» (caja) y sacan una tela limpia.",
+      "Cada vez dicen: «Jesús me limpia».",
+      "Conversen: ¿Cada cuánto lavamos la ropa? ¡También nos confesamos con frecuencia!"
+    ],
+    "para_los_mas_pequenos": "Que lleven las telas tomados de la mano.",
+    "para_los_mayores": "Que expliquen por qué es bueno confesarse a menudo.",
+    "cita_biblica": {
+      "referencia": "Isaías 1, 18",
+      "mensaje": "Aunque sus pecados sean como la grana, quedarán blancos como la nieve."
+    },
+    "mensaje_final": "La confesión me deja limpio por dentro."
+  },
+  {
+    "id": "07-048",
+    "modulo": 7,
+    "titulo": "Perdón, Señor, Ten Piedad",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender un canto de perdón que se usa también en la Misa.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que al inicio de la Misa pedimos perdón diciendo «Señor, ten piedad».",
+      "Enseña el canto con la melodía de tu parroquia.",
+      "Dividan al grupo: unos cantan «Señor, ten piedad» y otros responden.",
+      "Agreguen el gesto de golpearse suavemente el pecho.",
+      "Conversen: pedir perdón nos prepara para encontrarnos con Jesús."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Señor, ten piedad».",
+    "para_los_mayores": "Que expliquen en qué momento de la Misa se canta.",
+    "cita_biblica": {
+      "referencia": "Mateo 20, 30",
+      "mensaje": "Dos ciegos gritaban: ¡Señor, ten compasión de nosotros!"
+    },
+    "mensaje_final": "Señor, ten piedad de mí."
+  },
+  {
+    "id": "07-049",
+    "modulo": 7,
+    "titulo": "Sin Miedo a Confesarme",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Superar el miedo o la vergüenza ante la primera confesión.",
+    "materiales": [
+      "Papelitos",
+      "Una caja"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta con cariño: ¿Qué sienten cuando piensan en su primera confesión?",
+      "Cada niño escribe o dibuja un miedo (sin pecados) y lo pone en la caja.",
+      "Lee algunos miedos en voz alta sin decir de quién son y respóndelos con tranquilidad.",
+      "Explica que el sacerdote está para ayudar y que Jesús se alegra mucho cuando nos confesamos.",
+      "Terminen rompiendo los papelitos como signo de que el miedo se va."
+    ],
+    "para_los_mas_pequenos": "Que digan cómo se sienten con caritas dibujadas.",
+    "para_los_mayores": "Que escriban una pregunta que quieran hacerle al sacerdote.",
+    "cita_biblica": {
+      "referencia": "Josué 1, 9",
+      "mensaje": "No tengas miedo ni te desanimes, porque el Señor está contigo."
+    },
+    "mensaje_final": "Jesús me espera con alegría en la confesión."
+  },
+  {
+    "id": "07-050",
+    "modulo": 7,
+    "titulo": "La Penitencia, un Regalo para Jesús",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que cumplir la penitencia es una respuesta de amor.",
+    "materiales": [
+      "Tarjetas con ejemplos de penitencia (rezar un Padre Nuestro, ayudar en casa)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que después de la confesión el sacerdote nos da una penitencia: una oración o una buena acción.",
+      "Muestra las tarjetas y explica que no es un castigo, sino un regalo de amor que le damos a Jesús.",
+      "Cada niño elige una tarjeta.",
+      "Juntos, hagan la penitencia de las tarjetas de oración ahí mismo.",
+      "Conversen: ¿Cuándo es mejor cumplir la penitencia? ¡Lo antes posible!"
+    ],
+    "para_los_mas_pequenos": "Que recen juntos un Padre Nuestro como ejemplo.",
+    "para_los_mayores": "Que propongan buenas acciones que reparen el daño hecho.",
+    "cita_biblica": {
+      "referencia": "Lucas 19, 8",
+      "mensaje": "Zaqueo dijo: Si he quitado algo a alguien, le devuelvo cuatro veces más."
+    },
+    "mensaje_final": "Respondo al perdón con amor."
+  },
+  {
+    "id": "07-051",
+    "modulo": 7,
+    "titulo": "Reconciliados con Todos",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que la confesión nos reconcilia con Dios y con la comunidad.",
+    "materiales": [
+      "Una cuerda o lana larga"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo tomados de una cuerda.",
+      "Pide a un niño que suelte la cuerda y dé un paso atrás: el círculo se rompe.",
+      "Explica que el pecado también afecta a los demás, no solo a nosotros.",
+      "El niño vuelve a tomar la cuerda y todos dicen: «¡Bienvenido!».",
+      "Explica que la confesión nos une otra vez con Dios y con la Iglesia."
+    ],
+    "para_los_mas_pequenos": "Que todos suelten y vuelvan a tomar la cuerda a la vez.",
+    "para_los_mayores": "Que piensen cómo un pecado puede dañar a la familia o al grupo.",
+    "cita_biblica": {
+      "referencia": "2 Corintios 5, 20",
+      "mensaje": "Les pedimos en nombre de Cristo: reconcíliense con Dios."
+    },
+    "mensaje_final": "El perdón me une a Dios y a los demás."
+  },
+  {
+    "id": "07-052",
+    "modulo": 7,
+    "titulo": "Mi Hoja de Examen de Conciencia",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Preparar una guía personal para el examen de conciencia antes de la confesión.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores",
+      "Lista de preguntas guía"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una hoja dividida en tres partes: «Con Dios», «Con los demás», «Conmigo mismo».",
+      "Con tu ayuda, escriben en cada parte dos o tres preguntas sencillas.",
+      "Decoren la hoja con símbolos de perdón: corazón, cruz, paloma.",
+      "Expliquen que la usarán en casa, en privado, antes de confesarse.",
+      "Recen pidiendo luz al Espíritu Santo."
+    ],
+    "para_los_mas_pequenos": "Usa una hoja con dibujos ya preparados para colorear.",
+    "para_los_mayores": "Que basen sus preguntas en los mandamientos.",
+    "cita_biblica": {
+      "referencia": "Lamentaciones 3, 40",
+      "mensaje": "Examinemos nuestros caminos y volvamos al Señor."
+    },
+    "mensaje_final": "Me preparo con calma para confesarme."
+  },
+  {
+    "id": "07-053",
+    "modulo": 7,
+    "titulo": "El Día de mi Primera Confesión",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Prepararse espiritualmente para la primera confesión con una oración de confianza.",
+    "materiales": [
+      "Una vela de papel",
+      "Una imagen de Jesús"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la imagen de Jesús en el centro.",
+      "Explica que pronto vivirán su primera confesión, un encuentro de amor con Jesús.",
+      "Reza en voz alta: «Jesús, dame valor para confesarme y un corazón sincero».",
+      "Cada niño se acerca a la imagen y dice: «Jesús, quiero tu perdón».",
+      "Terminen cantando un canto de confianza."
+    ],
+    "para_los_mas_pequenos": "Que digan juntos «Jesús, te quiero».",
+    "para_los_mayores": "Que escriban una carta a Jesús antes de su primera confesión.",
+    "cita_biblica": {
+      "referencia": "Salmo 32, 5",
+      "mensaje": "Te confesé mi pecado y tú perdonaste mi culpa."
+    },
+    "mensaje_final": "Me acerco a Jesús con confianza."
+  },
+  {
+    "id": "07-054",
+    "modulo": 7,
+    "titulo": "La Fiesta del Perdón",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Celebrar con alegría el perdón de Dios.",
+    "materiales": [
+      "Cintas o pañuelos de colores",
+      "Música alegre (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que Dios se alegra muchísimo cuando alguien vuelve a Él.",
+      "Enseña un canto alegre: «¡Jesús me perdonó, mi corazón cantó!».",
+      "Bailen agitando las cintas.",
+      "En cada estrofa, un niño dice por qué está feliz de recibir el perdón.",
+      "Terminen con un gran aplauso para Jesús."
+    ],
+    "para_los_mas_pequenos": "Que bailen libremente con las cintas.",
+    "para_los_mayores": "Que inventen una estrofa nueva del canto.",
+    "cita_biblica": {
+      "referencia": "Sofonías 3, 17",
+      "mensaje": "El Señor se alegra por ti y hace fiesta con cantos de alegría."
+    },
+    "mensaje_final": "El perdón de Jesús me llena de alegría."
+  },
+  {
+    "id": "07-055",
+    "modulo": 7,
+    "titulo": "Jesús, Pan de Vida",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Descubrir que Jesús se nos da como alimento para el alma.",
+    "materiales": [
+      "Panes de papel con palabras (amor, fuerza, alegría, paz, perdón, vida)"
+    ],
+    "preparacion": "Esconde los panes de papel por el salón.",
+    "pasos": [
+      "Pregunta: ¿Qué pasa si no comemos? Nos debilitamos.",
+      "Explica que el alma también necesita alimento, y Jesús dijo: «Yo soy el pan de vida».",
+      "Los niños buscan los panes escondidos.",
+      "Cada pan encontrado se lee: es un regalo que Jesús nos da en la Eucaristía.",
+      "Peguen los panes alrededor de un cáliz dibujado en la pared."
+    ],
+    "para_los_mas_pequenos": "Que busquen panes sin palabras y tú los nombras.",
+    "para_los_mayores": "Que expliquen cómo cada regalo los ayuda en su vida.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 35",
+      "mensaje": "Jesús dijo: Yo soy el pan de vida; el que viene a mí no tendrá hambre."
+    },
+    "mensaje_final": "Jesús es el alimento de mi alma."
+  },
+  {
+    "id": "07-056",
+    "modulo": 7,
+    "titulo": "El Banquete del Amor",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "5 a 20 niños",
+    "objetivo": "Comprender que en la Misa Jesús nos invita a su mesa y, en la Eucaristía, se nos da Él mismo para quedarse con nosotros.",
+    "materiales": [
+      "Mantel o tela blanca",
+      "Tarjetas de cartulina",
+      "Lápices de colores",
+      "Una cruz pequeña"
+    ],
+    "preparacion": "Coloca la tela blanca sobre una mesa con la cruz al centro y una tarjeta en blanco para cada niño.",
+    "pasos": [
+      "Pregunta: ¿Alguna vez te invitaron a una fiesta muy especial? ¿Cómo te sentiste al recibir la invitación?",
+      "Explica que Jesús también nos invita a una mesa: el altar. En la Misa, el pan y el vino se convierten en el Cuerpo y la Sangre de Jesús.",
+      "Entrega una tarjeta a cada niño para que escriba su nombre y dibuje su rostro alegre.",
+      "Uno por uno, los niños colocan su tarjeta alrededor de la cruz mientras el grupo dice: «¡Jesús te invita, [nombre]!».",
+      "Observen juntos la mesa llena: nadie queda fuera. Conversen sobre cómo pueden prepararse para recibir a Jesús en su Primera Comunión."
+    ],
+    "para_los_mas_pequenos": "En lugar de escribir, que pinten su mano en la tarjeta y la catequista escriba el nombre.",
+    "para_los_mayores": "Que escriban en el reverso una frase para Jesús: «Jesús, quiero recibirte porque...».",
+    "cita_biblica": {
+      "referencia": "Juan 6, 35",
+      "mensaje": "Jesús dijo: Yo soy el pan que da vida. Quien viene a mí no tendrá hambre."
+    },
+    "mensaje_final": "Jesús me invita a su mesa porque me ama."
+  },
+  {
+    "id": "07-057",
+    "modulo": 7,
+    "titulo": "Está Aquí de Verdad",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que en la Eucaristía Jesús está presente de verdad, aunque se vea como pan.",
+    "materiales": [
+      "Un regalo envuelto",
+      "Una imagen de la hostia en la custodia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el regalo envuelto: por fuera vemos papel, pero adentro hay algo valioso.",
+      "Explica que en la Misa, por las palabras del sacerdote y el poder del Espíritu Santo, el pan y el vino se convierten en el Cuerpo y la Sangre de Jesús.",
+      "Aclara: se sigue viendo como pan, pero ya no es pan, es Jesús vivo.",
+      "Pregunta: ¿Cómo tratamos algo tan valioso? Con respeto, amor y silencio.",
+      "Terminen diciendo juntos: «Creo, Jesús, que estás aquí de verdad»."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «En la hostia está Jesús, aunque no lo veamos».",
+    "para_los_mayores": "Que lean Juan 6, 51 y expliquen qué quiso decir Jesús.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 55",
+      "mensaje": "Jesús dijo: Mi carne es verdadera comida y mi sangre es verdadera bebida."
+    },
+    "mensaje_final": "Jesús está de verdad en la Eucaristía."
+  },
+  {
+    "id": "07-058",
+    "modulo": 7,
+    "titulo": "Del Trigo al Altar",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Conocer el camino del pan desde el campo hasta el altar, donde se convierte en Jesús.",
+    "materiales": [
+      "Espigas de papel",
+      "Un plato o patena de cartón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Unos niños son semillas que crecen como trigo con la lluvia y el sol.",
+      "Otros son agricultores que cosechan y molinos que muelen el trigo.",
+      "Otros amasan la harina y hornean el pan, que llevan al altar en la patena.",
+      "Explica que en la Misa ofrecemos el pan, «fruto de la tierra y del trabajo del hombre», y Jesús lo convierte en su Cuerpo.",
+      "Conversen: también podemos ofrecer a Jesús nuestro trabajo y nuestro día."
+    ],
+    "para_los_mas_pequenos": "Que todos sean trigo que crece y se mece.",
+    "para_los_mayores": "Que aprendan la frase del ofertorio de la Misa.",
+    "cita_biblica": {
+      "referencia": "Salmo 104, 14-15",
+      "mensaje": "Dios hace brotar el pan de la tierra para alimentar al ser humano."
+    },
+    "mensaje_final": "Ofrezco a Jesús mi vida, como el pan del altar."
+  },
+  {
+    "id": "07-059",
+    "modulo": 7,
+    "titulo": "Mi Cáliz y mi Patena",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer los vasos sagrados donde Jesús se hace presente en la Misa.",
+    "materiales": [
+      "Vasos de plástico",
+      "Platos de cartón pequeños",
+      "Papel dorado o amarillo",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el cáliz es la copa donde se consagra el vino y la patena es el plato donde se coloca la hostia.",
+      "Cada niño decora un vaso como cáliz con papel dorado.",
+      "Decoren el plato como patena.",
+      "Dibujen una cruz en la patena y una espiga en el cáliz.",
+      "Recuerda que solo los sacerdotes usan los vasos sagrados en el altar; estos son para recordar en casa."
+    ],
+    "para_los_mas_pequenos": "Que decoren un cáliz ya recortado en papel.",
+    "para_los_mayores": "Que escriban debajo el nombre de cada objeto y para qué sirve.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 10, 16",
+      "mensaje": "El cáliz de bendición y el pan que partimos nos unen a Cristo."
+    },
+    "mensaje_final": "En el altar, Jesús se hace presente por amor."
+  },
+  {
+    "id": "07-060",
+    "modulo": 7,
+    "titulo": "Ensayo: Cómo Recibir a Jesús",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Practicar con respeto cómo recibir la Comunión el día de la Primera Comunión.",
+    "materiales": [
+      "Círculos de papel blanco (solo para practicar, no son hostias)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Aclara que es solo un ensayo y que el círculo de papel no es Jesús.",
+      "Practiquen caminar en fila, en silencio y con las manos juntas.",
+      "Explica las dos formas permitidas: en la boca, o en la mano izquierda sobre la derecha, llevándola enseguida a la boca con la mano derecha, delante del ministro.",
+      "El ministro dice «El Cuerpo de Cristo» y el niño responde «Amén».",
+      "Practiquen volver al lugar y arrodillarse o sentarse a dar gracias en silencio."
+    ],
+    "para_los_mas_pequenos": "Que practiquen solo caminar en fila y decir «Amén».",
+    "para_los_mayores": "Que expliquen qué significa decir «Amén» ante el Cuerpo de Cristo.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 11, 23-24",
+      "mensaje": "Jesús tomó el pan, dio gracias y dijo: Esto es mi Cuerpo."
+    },
+    "mensaje_final": "Recibo a Jesús con amor y respeto."
+  },
+  {
+    "id": "07-061",
+    "modulo": 7,
+    "titulo": "Mi «Amén» a Jesús",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender que al decir «Amén» en la Comunión decimos «sí, creo».",
+    "materiales": [
+      "Tarjetas con frases verdaderas y falsas sobre Jesús"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que «Amén» significa «sí, así es, lo creo».",
+      "Lee una frase: «Jesús está en la Eucaristía». Si es verdad, todos se levantan y dicen «¡Amén!».",
+      "Si la frase es falsa («Jesús no nos quiere»), se quedan sentados en silencio.",
+      "Alterna frases verdaderas y falsas.",
+      "Terminen practicando el «Amén» de la Comunión con voz clara y respetuosa."
+    ],
+    "para_los_mas_pequenos": "Usa solo frases verdaderas y que todos digan «Amén».",
+    "para_los_mayores": "Que inventen frases verdaderas sobre la Eucaristía.",
+    "cita_biblica": {
+      "referencia": "2 Corintios 1, 20",
+      "mensaje": "Por medio de Jesús decimos «Amén» para gloria de Dios."
+    },
+    "mensaje_final": "Con mi «Amén» le digo a Jesús: creo en ti."
+  },
+  {
+    "id": "07-062",
+    "modulo": 7,
+    "titulo": "Una Palabra Tuya Bastará",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Preparar el corazón para comulgar con la oración que decimos antes de la Comunión.",
+    "materiales": [
+      "Una imagen de la hostia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda la historia del centurión que dijo a Jesús: «Basta que digas una palabra».",
+      "Enseña la oración de la Misa: «Señor, no soy digno de que entres en mi casa, pero una palabra tuya bastará para sanarme».",
+      "Expliquen juntos: mi «casa» es mi corazón.",
+      "Recen la oración varias veces con la mano en el pecho.",
+      "Terminen en silencio imaginando a Jesús entrando en su corazón."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Señor, no soy digno».",
+    "para_los_mayores": "Que expliquen por qué decimos que no somos dignos y aun así Jesús viene.",
+    "cita_biblica": {
+      "referencia": "Mateo 8, 8",
+      "mensaje": "Señor, no soy digno de que entres en mi casa; di una palabra y quedaré sano."
+    },
+    "mensaje_final": "Jesús viene a la casa de mi corazón."
+  },
+  {
+    "id": "07-063",
+    "modulo": 7,
+    "titulo": "Una Hora de Espera",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el ayuno eucarístico como preparación para recibir a Jesús.",
+    "materiales": [
+      "Un reloj de cartón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: Cuando esperamos a alguien importante, ¿qué hacemos? Preparamos todo.",
+      "Explica que antes de comulgar no comemos ni bebemos nada durante una hora, excepto agua o medicinas.",
+      "Muestra el reloj y cuenten cuánto tiempo antes de la Misa deben comer para cumplir el ayuno.",
+      "Conversen: el ayuno nos ayuda a desear a Jesús y prepararnos.",
+      "Recuerden también otra preparación importante: confesarse antes de la Primera Comunión."
+    ],
+    "para_los_mas_pequenos": "Simplifica: «Antes de recibir a Jesús esperamos un ratito sin comer».",
+    "para_los_mayores": "Que hagan un plan para el domingo con el horario de la Misa y del desayuno.",
+    "cita_biblica": {
+      "referencia": "Salmo 42, 2-3",
+      "mensaje": "Como el ciervo desea el agua, así mi alma te desea a ti, Dios mío."
+    },
+    "mensaje_final": "Preparo mi cuerpo y mi alma para Jesús."
+  },
+  {
+    "id": "07-064",
+    "modulo": 7,
+    "titulo": "Visita a Jesús en el Sagrario",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a visitar a Jesús en el Sagrario y saludarlo con amor.",
+    "materiales": [
+      "Visita a la capilla o iglesia (o una imagen del Sagrario)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Visiten la iglesia en silencio y en fila.",
+      "Muestra el Sagrario y la lamparita encendida que indica que Jesús está allí.",
+      "Enseña a hacer la genuflexión: tocar el suelo con la rodilla derecha mirando al Sagrario.",
+      "Siéntense o arrodíllense y cada uno saluda a Jesús en silencio.",
+      "Terminen con una oración corta: «Jesús, te amo; gracias por quedarte con nosotros»."
+    ],
+    "para_los_mas_pequenos": "Que hagan una inclinación de cabeza si la genuflexión les cuesta.",
+    "para_los_mayores": "Que se propongan visitar a Jesús en el Sagrario una vez por semana.",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 20",
+      "mensaje": "Jesús dijo: Yo estoy con ustedes todos los días."
+    },
+    "mensaje_final": "Jesús me espera en el Sagrario."
+  },
+  {
+    "id": "07-065",
+    "modulo": 7,
+    "titulo": "La Lamparita del Sagrario",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar que la lámpara encendida indica que Jesús está presente en el Sagrario.",
+    "materiales": [
+      "Vasos de papel",
+      "Papel de seda rojo",
+      "Papel amarillo",
+      "Pegamento",
+      "Hilo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que junto al Sagrario siempre hay una lámpara encendida, generalmente roja.",
+      "Cada niño decora un vaso con papel de seda rojo como la lamparita.",
+      "Peguen una llama de papel amarillo arriba.",
+      "Átenle un hilo para colgarla en casa.",
+      "Conversen: cuando veamos esa lámpara, sabemos que Jesús está allí y lo saludamos."
+    ],
+    "para_los_mas_pequenos": "Que peguen papel rojo en un vaso ya preparado.",
+    "para_los_mayores": "Que escriban en la lámpara una oración corta para Jesús.",
+    "cita_biblica": {
+      "referencia": "Éxodo 27, 20",
+      "mensaje": "Que la lámpara arda siempre delante del Señor."
+    },
+    "mensaje_final": "Mi corazón es una lámpara encendida para Jesús."
+  },
+  {
+    "id": "07-066",
+    "modulo": 7,
+    "titulo": "Comunión Espiritual",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a desear a Jesús con el corazón cuando no podemos comulgar.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que hay momentos en que no podemos recibir la Comunión, pero podemos desear a Jesús con el corazón.",
+      "Esto se llama «comunión espiritual».",
+      "Enseña una oración: «Jesús, creo que estás en la Eucaristía; te amo y te deseo. Ven a mi corazón».",
+      "Recen todos juntos en silencio.",
+      "Anímalos a rezarla en cada Misa mientras se preparan para su Primera Comunión."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Jesús, ven a mi corazón».",
+    "para_los_mayores": "Que la escriban en una tarjeta para llevarla a Misa.",
+    "cita_biblica": {
+      "referencia": "Apocalipsis 3, 20",
+      "mensaje": "Jesús dice: Estoy a la puerta y llamo; si alguien me abre, entraré."
+    },
+    "mensaje_final": "Aunque aún no comulgue, Jesús viene a mi corazón."
+  },
+  {
+    "id": "07-067",
+    "modulo": 7,
+    "titulo": "Después de Comulgar, Hablo con Jesús",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender a dar gracias a Jesús después de recibirlo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que después de comulgar, Jesús está dentro de nosotros y es el mejor momento para hablarle.",
+      "Enseña tres pasos sencillos: «Te adoro», «Gracias», «Te pido por...».",
+      "Practiquen en silencio con los ojos cerrados durante un minuto.",
+      "Que cada uno comparta, si quiere, qué le diría a Jesús.",
+      "Terminen con un «Amén» juntos."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Jesús, te quiero; gracias».",
+    "para_los_mayores": "Que escriban su oración de acción de gracias.",
+    "cita_biblica": {
+      "referencia": "Salmo 116, 12-13",
+      "mensaje": "¿Cómo pagaré al Señor todo el bien que me ha hecho? Alzaré la copa de salvación."
+    },
+    "mensaje_final": "Hablo con Jesús cuando viene a mí."
+  },
+  {
+    "id": "07-068",
+    "modulo": 7,
+    "titulo": "Invitación a mi Primera Comunión",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Preparar con alegría la invitación para la familia a la Primera Comunión.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Stickers",
+      "Lazos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Primera Comunión es una fiesta de toda la familia y la comunidad.",
+      "Cada niño diseña una tarjeta de invitación.",
+      "Incluyan dibujos: cáliz, hostia, espigas, uvas, palomas.",
+      "Escriban: «Te invito a acompañarme a recibir a Jesús por primera vez».",
+      "Dejen espacio para la fecha y la parroquia."
+    ],
+    "para_los_mas_pequenos": "Que decoren una invitación ya impresa.",
+    "para_los_mayores": "Que escriban una frase bíblica en la invitación.",
+    "cita_biblica": {
+      "referencia": "Salmo 34, 9",
+      "mensaje": "Gusten y vean qué bueno es el Señor."
+    },
+    "mensaje_final": "Invito a todos a mi fiesta con Jesús."
+  },
+  {
+    "id": "07-069",
+    "modulo": 7,
+    "titulo": "Cuenta Regresiva para Recibir a Jesús",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Prepararse día a día para la Primera Comunión con pequeños gestos.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Stickers"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño dibuja un camino con casillas, una por cada día que falta.",
+      "En cada casilla escriben una preparación: rezar, ayudar, perdonar, leer el Evangelio.",
+      "Al final del camino dibujan un cáliz y una hostia.",
+      "Explica que cada día marcarán una casilla con un sticker.",
+      "Recen juntos pidiendo un corazón preparado."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo siete casillas con dibujos.",
+    "para_los_mayores": "Que agreguen una oración diferente para cada semana.",
+    "cita_biblica": {
+      "referencia": "Salmo 27, 4",
+      "mensaje": "Una cosa pido al Señor: habitar en su casa todos los días."
+    },
+    "mensaje_final": "Cada día preparo mi corazón para Jesús."
+  },
+  {
+    "id": "07-070",
+    "modulo": 7,
+    "titulo": "Canto para Recibir a Jesús",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender un canto de comunión para el día de la Primera Comunión.",
+    "materiales": [
+      "Hoja con la letra del canto elegido por la parroquia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Elige con anticipación el canto de comunión que se usará en la celebración.",
+      "Lee la letra y explica las palabras difíciles.",
+      "Enséñalo por partes, repitiendo cada frase.",
+      "Agreguen gestos suaves que ayuden a recordar.",
+      "Cántenlo completo con alegría y reverencia."
+    ],
+    "para_los_mas_pequenos": "Que aprendan solo el estribillo.",
+    "para_los_mayores": "Que un grupo cante la estrofa y el resto el estribillo.",
+    "cita_biblica": {
+      "referencia": "Salmo 100, 2",
+      "mensaje": "Sirvan al Señor con alegría; vengan a Él con cantos."
+    },
+    "mensaje_final": "Canto con alegría porque Jesús viene a mí."
+  },
+  {
+    "id": "07-071",
+    "modulo": 7,
+    "titulo": "Llegó el Gran Día",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Vivir por adelantado los momentos de la Primera Comunión para llegar tranquilos y felices.",
+    "materiales": [
+      "Sillas en filas como bancos",
+      "Círculos de papel (solo para practicar)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Organiza el salón como una iglesia.",
+      "Representen la llegada: saludar a Jesús en el Sagrario, sentarse en silencio.",
+      "Practiquen las respuestas de la Misa y la procesión de comunión.",
+      "Practiquen el regreso al lugar y la acción de gracias.",
+      "Conversen: ¿Qué es lo más importante de ese día? Recibir a Jesús, no la ropa ni la fiesta."
+    ],
+    "para_los_mas_pequenos": "Que practiquen solo la procesión con las manos juntas.",
+    "para_los_mayores": "Que preparen la lectura o las peticiones que dirán en la Misa.",
+    "cita_biblica": {
+      "referencia": "Lucas 19, 6",
+      "mensaje": "Zaqueo bajó enseguida y recibió a Jesús lleno de alegría."
+    },
+    "mensaje_final": "El día más importante es cuando recibo a Jesús."
+  },
+  {
+    "id": "07-072",
+    "modulo": 7,
+    "titulo": "Pan Partido, Pan Compartido",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que quien recibe a Jesús aprende a compartir con los demás.",
+    "materiales": [
+      "Un pan de papel grande",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que Jesús partió el pan para darse a todos.",
+      "Parte el pan de papel en tantos pedazos como niños.",
+      "Cada niño escribe en su pedazo algo que puede compartir: tiempo, juguetes, ayuda.",
+      "Vuelvan a unir los pedazos formando el pan completo.",
+      "Explica que la Eucaristía nos une como hermanos y nos hace generosos."
+    ],
+    "para_los_mas_pequenos": "Que dibujen en su pedazo y lo peguen.",
+    "para_los_mayores": "Que organicen un gesto solidario como grupo para el día de su Primera Comunión.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 10, 17",
+      "mensaje": "Aunque somos muchos, formamos un solo cuerpo, porque compartimos un mismo pan."
+    },
+    "mensaje_final": "Recibo a Jesús para compartir su amor."
+  },
+  {
+    "id": "07-073",
+    "modulo": 7,
+    "titulo": "Jesús en mi Corazón",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Expresar el deseo de recibir a Jesús en el corazón.",
+    "materiales": [
+      "Corazones de cartulina roja",
+      "Círculos de papel blanco",
+      "Lápices de colores",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un corazón a cada niño.",
+      "Peguen en el centro un círculo blanco con una cruz dibujada, como signo de la hostia.",
+      "Alrededor escriban: «Jesús, vive en mi corazón».",
+      "Decoren el borde con rayos y estrellas.",
+      "Recen juntos la oración de comunión espiritual."
+    ],
+    "para_los_mas_pequenos": "Que peguen el círculo y coloreen el corazón.",
+    "para_los_mayores": "Que escriban en el reverso lo que harán para cuidar a Jesús en su corazón.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 56",
+      "mensaje": "Jesús dijo: El que come mi carne y bebe mi sangre permanece en mí y yo en él."
+    },
+    "mensaje_final": "Jesús quiere vivir en mi corazón."
+  },
+  {
+    "id": "07-074",
+    "modulo": 7,
+    "titulo": "La Custodia Brillante",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer la custodia, donde se expone la Eucaristía para adorar a Jesús.",
+    "materiales": [
+      "Platos de papel",
+      "Papel dorado o amarillo",
+      "Círculos blancos",
+      "Palitos",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una imagen de la custodia y explica que en ella se coloca la hostia consagrada para adorar a Jesús.",
+      "Recorten rayos de papel dorado y péguenlos alrededor del plato.",
+      "Peguen un círculo blanco en el centro.",
+      "Agreguen un palito como base.",
+      "Conversen: ¿Qué hacemos frente a Jesús en la custodia? Lo adoramos en silencio."
+    ],
+    "para_los_mas_pequenos": "Que peguen rayos en un plato ya preparado.",
+    "para_los_mayores": "Que escriban en los rayos palabras de adoración.",
+    "cita_biblica": {
+      "referencia": "Juan 1, 14",
+      "mensaje": "La Palabra se hizo carne y habitó entre nosotros, y vimos su gloria."
+    },
+    "mensaje_final": "Adoro a Jesús presente en la Eucaristía."
+  },
+  {
+    "id": "07-075",
+    "modulo": 7,
+    "titulo": "Adoración en Silencio",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Vivir un momento de adoración a Jesús en la Eucaristía.",
+    "materiales": [
+      "Una imagen de la custodia o visita al Santísimo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que adorar es reconocer que Jesús es Dios y amarlo en silencio.",
+      "Pide a los niños que se arrodillen o se sienten derechos.",
+      "Guía con frases cortas separadas por silencio: «Jesús, te adoro», «Jesús, te amo», «Jesús, confío en ti».",
+      "Quédense un minuto en silencio total.",
+      "Terminen con una canción suave de adoración."
+    ],
+    "para_los_mas_pequenos": "Que hagan silencio pocos segundos entre cada frase.",
+    "para_los_mayores": "Que escriban qué sintieron en la adoración.",
+    "cita_biblica": {
+      "referencia": "Salmo 95, 6",
+      "mensaje": "Vengan, adoremos y arrodillémonos ante el Señor."
+    },
+    "mensaje_final": "Adoro a Jesús en silencio y con amor."
+  },
+  {
+    "id": "07-076",
+    "modulo": 7,
+    "titulo": "La Procesión de la Comunión",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Aprender a caminar con respeto y en orden hacia la Comunión.",
+    "materiales": [
+      "Una cinta para marcar el pasillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Misa caminamos en fila hacia el altar, como el pueblo de Dios que va al encuentro de Jesús.",
+      "Practiquen la fila con un juego: cuando digas «¡Procesión!», caminan despacio con las manos juntas.",
+      "Cuando digas «¡Recreo!», pueden moverse libremente.",
+      "Alterna las consignas y felicita a quienes caminan con más respeto.",
+      "Conversen: ¿Por qué caminamos en silencio hacia Jesús?"
+    ],
+    "para_los_mas_pequenos": "Que caminen tomados de la mano detrás de ti.",
+    "para_los_mayores": "Que expliquen qué pensamientos pueden tener mientras esperan su turno.",
+    "cita_biblica": {
+      "referencia": "Salmo 122, 1",
+      "mensaje": "¡Qué alegría cuando me dijeron: vamos a la casa del Señor!"
+    },
+    "mensaje_final": "Camino con alegría hacia Jesús."
+  },
+  {
+    "id": "07-077",
+    "modulo": 7,
+    "titulo": "Mi Familia Reza por Mi Primera Comunión",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Involucrar a la familia en la preparación espiritual de la Primera Comunión.",
+    "materiales": [
+      "Tarjetas con una oración para la familia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega a cada niño una tarjeta con una oración breve: «Jesús, prepara el corazón de [nombre] para recibirte».",
+      "Lean juntos la oración en el grupo.",
+      "Cada niño escribe su nombre en la tarjeta.",
+      "Explica que la llevarán a casa para rezarla en familia cada noche.",
+      "Terminen rezando juntos por todas las familias del grupo."
+    ],
+    "para_los_mas_pequenos": "Que decoren la tarjeta y tú escribes el nombre.",
+    "para_los_mayores": "Que agreguen una petición propia para su familia.",
+    "cita_biblica": {
+      "referencia": "Hechos 16, 31",
+      "mensaje": "Cree en el Señor Jesús y te salvarás tú y tu familia."
+    },
+    "mensaje_final": "Mi familia me acompaña hacia Jesús."
+  },
+  {
+    "id": "07-078",
+    "modulo": 7,
+    "titulo": "¿Qué Siento al Pensar en Jesús Eucaristía?",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Compartir emociones y expectativas sobre la Primera Comunión.",
+    "materiales": [
+      "Tarjetas con caritas (alegría, nervios, emoción, curiosidad)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca las tarjetas en el centro del círculo.",
+      "Cada niño elige la carita que muestra lo que siente al pensar en su Primera Comunión.",
+      "Comparte por qué eligió esa carita.",
+      "Responde a los nervios con palabras de tranquilidad.",
+      "Terminen diciendo juntos: «¡Jesús, te esperamos!»."
+    ],
+    "para_los_mas_pequenos": "Que solo elijan la carita y la muestren.",
+    "para_los_mayores": "Que digan qué le quieren decir a Jesús ese día.",
+    "cita_biblica": {
+      "referencia": "Salmo 63, 2",
+      "mensaje": "Oh Dios, tú eres mi Dios; desde la aurora te busco."
+    },
+    "mensaje_final": "Mi corazón espera a Jesús con alegría."
+  },
+  {
+    "id": "07-079",
+    "modulo": 7,
+    "titulo": "Gracias por la Eucaristía",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Agradecer con un canto el regalo de la Eucaristía.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que «Eucaristía» significa «acción de gracias».",
+      "Enseña un canto sencillo: «Gracias, Jesús, por darte a mí, gracias, Jesús, por quedarte aquí».",
+      "Canten con palmas suaves.",
+      "En cada repetición, un niño agrega una razón para dar gracias.",
+      "Terminen en silencio con las manos juntas."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «¡Gracias, Jesús!».",
+    "para_los_mayores": "Que escriban una estrofa nueva del canto.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 11, 26",
+      "mensaje": "Cada vez que comen este pan y beben este cáliz, anuncian la muerte del Señor hasta que vuelva."
+    },
+    "mensaje_final": "La Eucaristía es acción de gracias."
+  },
+  {
+    "id": "07-080",
+    "modulo": 7,
+    "titulo": "Preparo el Altar de mi Corazón",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Relacionar la preparación del altar con la preparación del corazón.",
+    "materiales": [
+      "Una mesa",
+      "Mantel blanco",
+      "Velas de papel",
+      "Flores de papel",
+      "Una cruz"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que antes de la Misa se prepara el altar con mucho cuidado.",
+      "Varios niños hacen de sacristanes y colocan el mantel, las velas, las flores y la cruz.",
+      "Por cada objeto, explica qué preparación del corazón representa: mantel (corazón limpio), velas (fe), flores (buenas obras).",
+      "Al final, todos contemplan el altar preparado.",
+      "Conversen: ¿Cómo preparo mi corazón para Jesús?"
+    ],
+    "para_los_mas_pequenos": "Que lleven los objetos de dos en dos con tu ayuda.",
+    "para_los_mayores": "Que nombren otros objetos del altar y su significado.",
+    "cita_biblica": {
+      "referencia": "Salmo 51, 12",
+      "mensaje": "Crea en mí, oh Dios, un corazón limpio."
+    },
+    "mensaje_final": "Preparo mi corazón como un altar para Jesús."
+  },
+  {
+    "id": "07-081",
+    "modulo": 7,
+    "titulo": "Quiz de la Primera Comunión",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar lo aprendido sobre la Eucaristía y la Primera Comunión.",
+    "materiales": [
+      "Tarjetas con preguntas",
+      "Dos campanas o tapas para tocar"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos equipos.",
+      "Haz una pregunta: «¿Qué significa Eucaristía?», «¿Cuánto tiempo de ayuno hacemos?».",
+      "El primer equipo en tocar la campana responde.",
+      "Si acierta, gana un punto; si no, responde el otro equipo.",
+      "Terminen con una oración de gracias por todo lo aprendido."
+    ],
+    "para_los_mas_pequenos": "Haz preguntas de sí o no con dibujos.",
+    "para_los_mayores": "Que ellos preparen preguntas para el otro equipo.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 3, 15",
+      "mensaje": "Estén siempre preparados para explicar su esperanza."
+    },
+    "mensaje_final": "Conozco y amo a Jesús Eucaristía."
+  },
+  {
+    "id": "07-082",
+    "modulo": 7,
+    "titulo": "Te Adoro, Jesús Escondido",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Aprender un canto de adoración a Jesús presente en la Eucaristía.",
+    "materiales": [
+      "Hoja con la letra de un canto de adoración conocido en la parroquia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que muchos santos escribieron cantos para adorar a Jesús en la Eucaristía.",
+      "Lee la letra despacio y explica las palabras.",
+      "Enséñala con una melodía suave.",
+      "Cántenla de rodillas o sentados en silencio.",
+      "Pregunta: ¿Qué palabra del canto les gustó más?"
+    ],
+    "para_los_mas_pequenos": "Que canten solo una frase corta repetida.",
+    "para_los_mayores": "Que escriban una estrofa propia de adoración.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 28",
+      "mensaje": "Tomás dijo: ¡Señor mío y Dios mío!"
+    },
+    "mensaje_final": "Te adoro, Jesús, presente en la Eucaristía."
+  },
+  {
+    "id": "07-083",
+    "modulo": 7,
+    "titulo": "Los Siete Dones del Espíritu",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer los dones del Espíritu Santo que se reciben en plenitud en la Confirmación.",
+    "materiales": [
+      "Siete tarjetas con los dones: sabiduría, entendimiento, consejo, fortaleza, ciencia, piedad, temor de Dios"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Confirmación el obispo unge con el crisma y el Espíritu Santo nos fortalece con sus dones.",
+      "Coloca las tarjetas boca abajo.",
+      "Cada niño da vuelta una tarjeta y el grupo piensa un ejemplo de ese don en la vida diaria.",
+      "Por ejemplo: fortaleza es tener valor para decir la verdad.",
+      "Recen juntos: «Ven, Espíritu Santo, llena mi corazón»."
+    ],
+    "para_los_mas_pequenos": "Usa solo tres dones con dibujos.",
+    "para_los_mayores": "Que elijan el don que más necesitan y expliquen por qué.",
+    "cita_biblica": {
+      "referencia": "Isaías 11, 2",
+      "mensaje": "Sobre él reposará el Espíritu del Señor: espíritu de sabiduría y de fortaleza."
+    },
+    "mensaje_final": "El Espíritu Santo me regala sus dones."
+  },
+  {
+    "id": "07-084",
+    "modulo": 7,
+    "titulo": "Sellados con el Espíritu",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que la Confirmación nos marca como testigos de Jesús.",
+    "materiales": [
+      "Una paloma de papel",
+      "Llamas de papel rojo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Confirmación el obispo dice: «Recibe por esta señal el don del Espíritu Santo».",
+      "Cuenta que el Espíritu Santo dio a los apóstoles valor para anunciar a Jesús sin miedo, y nos da ese mismo valor.",
+      "Entrega una llama de papel a cada niño.",
+      "Cada uno dice: «Espíritu Santo, dame valor para...» y coloca su llama junto a la paloma.",
+      "Terminen rezando juntos el Gloria."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Espíritu Santo, ayúdame».",
+    "para_los_mayores": "Que averigüen cuándo se recibe la Confirmación en su parroquia.",
+    "cita_biblica": {
+      "referencia": "Efesios 1, 13",
+      "mensaje": "Fueron sellados con el Espíritu Santo prometido."
+    },
+    "mensaje_final": "El Espíritu Santo me hace testigo de Jesús."
+  },
+  {
+    "id": "07-085",
+    "modulo": 7,
+    "titulo": "Visitamos a los Enfermos",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer el sacramento de la Unción de los enfermos y el cuidado de la Iglesia por los que sufren.",
+    "materiales": [
+      "Una manta",
+      "Un frasco pequeño (simbólico)",
+      "Tarjetas de ánimo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que cuando alguien está muy enfermo o es anciano, el sacerdote lo visita y lo unge con aceite para darle fuerza y paz.",
+      "Un niño hace de enfermo acostado; otro de sacerdote; otros de familia.",
+      "El sacerdote reza y hace la señal de la cruz con el «aceite» en la frente y las manos del enfermo.",
+      "La familia entrega tarjetas de ánimo y acompaña con oración.",
+      "Conversen: ¿Cómo podemos acompañar a un enfermo de nuestra familia?"
+    ],
+    "para_los_mas_pequenos": "Que hagan tarjetas de ánimo para un enfermo.",
+    "para_los_mayores": "Que escriban una oración por los enfermos de la parroquia.",
+    "cita_biblica": {
+      "referencia": "Santiago 5, 14",
+      "mensaje": "¿Alguno está enfermo? Llame a los presbíteros para que recen por él y lo unjan con aceite."
+    },
+    "mensaje_final": "La Iglesia cuida a los enfermos con amor."
+  },
+  {
+    "id": "07-086",
+    "modulo": 7,
+    "titulo": "El Aceite que Consuela",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Jesús sigue sanando y consolando por medio de la Unción.",
+    "materiales": [
+      "Un frasco de crema o aceite (para oler)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pasa el frasco para que los niños lo huelan y toquen un poquito en sus manos.",
+      "Pregunta: ¿Para qué se usa el aceite? Para suavizar, curar, dar fuerza.",
+      "Explica que en la Unción de los enfermos el aceite bendecido es signo de la fuerza y la paz que Jesús da.",
+      "Recuerda cómo Jesús se acercaba a los enfermos y los tocaba con cariño.",
+      "Recen por una persona enferma que conozcan."
+    ],
+    "para_los_mas_pequenos": "Que digan el nombre de un enfermo por quien rezar.",
+    "para_los_mayores": "Que comparen la Unción con los milagros de sanación de Jesús.",
+    "cita_biblica": {
+      "referencia": "Marcos 6, 13",
+      "mensaje": "Los apóstoles ungían con aceite a muchos enfermos y los sanaban."
+    },
+    "mensaje_final": "Jesús consuela a los enfermos."
+  },
+  {
+    "id": "07-087",
+    "modulo": 7,
+    "titulo": "El Sacerdote, Amigo de Jesús",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer el sacramento del Orden y valorar la vocación sacerdotal.",
+    "materiales": [
+      "Una estola de papel o tela"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que algunos hombres son llamados por Jesús para ser sacerdotes y servir a la Iglesia.",
+      "Representen un día del sacerdote: celebra la Misa, bautiza, confiesa, visita enfermos, juega con los niños.",
+      "Un niño se pone la estola y hace cada acción; los demás adivinan qué es.",
+      "Conversen: el sacerdote presta su voz y sus manos a Jesús.",
+      "Recen juntos por su párroco y por las vocaciones."
+    ],
+    "para_los_mas_pequenos": "Que imiten acciones sencillas: bendecir, saludar, rezar.",
+    "para_los_mayores": "Que preparen preguntas para entrevistar al párroco.",
+    "cita_biblica": {
+      "referencia": "Lucas 10, 2",
+      "mensaje": "La cosecha es mucha y los trabajadores pocos; pidan al dueño que envíe trabajadores."
+    },
+    "mensaje_final": "Rezo por los sacerdotes."
+  },
+  {
+    "id": "07-088",
+    "modulo": 7,
+    "titulo": "Gracias, Padre",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Agradecer a los sacerdotes su servicio en la comunidad.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Sobres"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta algo de lo que hace el párroco por la comunidad.",
+      "Cada niño hace una tarjeta de agradecimiento.",
+      "Dibujan al sacerdote celebrando la Misa o bautizando.",
+      "Escriben: «Gracias, Padre, por traernos a Jesús».",
+      "Entreguen juntos las tarjetas al párroco."
+    ],
+    "para_los_mas_pequenos": "Que hagan un dibujo y tú escribes el mensaje.",
+    "para_los_mayores": "Que agreguen una oración por él en la tarjeta.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 12-13",
+      "mensaje": "Aprecien a quienes trabajan entre ustedes y los guían en el Señor."
+    },
+    "mensaje_final": "Agradezco a quienes me traen a Jesús."
+  },
+  {
+    "id": "07-089",
+    "modulo": 7,
+    "titulo": "Canción de la Familia que Ama",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Conocer el sacramento del Matrimonio como alianza de amor bendecida por Dios.",
+    "materiales": [
+      "Dos anillos de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra los anillos y explica que en el Matrimonio un hombre y una mujer se prometen amor para siempre ante Dios.",
+      "Explica que de ese amor nace la familia.",
+      "Enseña un canto sencillo: «Dios bendice a la familia, Dios bendice el amor».",
+      "Canten con gestos: corazón con las manos, abrazos.",
+      "Recen por los papás y por todas las familias del grupo."
+    ],
+    "para_los_mas_pequenos": "Que hagan el gesto del corazón mientras cantas.",
+    "para_los_mayores": "Que pregunten a sus papás o abuelos cuándo se casaron.",
+    "cita_biblica": {
+      "referencia": "Mateo 19, 6",
+      "mensaje": "Lo que Dios ha unido, que no lo separe el hombre."
+    },
+    "mensaje_final": "Dios bendice a mi familia."
+  },
+  {
+    "id": "07-090",
+    "modulo": 7,
+    "titulo": "Bendición para mis Papás",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Rezar por los papás y las familias, agradeciendo su amor.",
+    "materiales": [
+      "Corazones de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un corazón a cada niño para escribir el nombre de las personas que lo cuidan.",
+      "Explica que cada familia es diferente y que Dios bendice a todas.",
+      "Cada niño dice: «Señor, bendice a...» y coloca su corazón en el centro.",
+      "Todos responden: «Amén».",
+      "Terminen rezando juntos un Padre Nuestro por las familias."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Dios, cuida a mi familia».",
+    "para_los_mayores": "Que escriban en el reverso una forma de demostrar su amor en casa.",
+    "cita_biblica": {
+      "referencia": "Efesios 3, 14-15",
+      "mensaje": "Me arrodillo ante el Padre, de quien recibe su nombre toda familia."
+    },
+    "mensaje_final": "Rezo por las personas que me cuidan."
+  }
+]

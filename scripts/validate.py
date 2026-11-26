@@ -37,6 +37,30 @@ PROIBIDOS = re.compile(
     r"rico epulón|hombre rico y lázaro|viñador|trabajadores de la viña|casa sobre la roca)", re.I)
 
 
+# Trechos bíblicos que são parábolas (reservadas ao bônus): livro -> [(cap, v_ini, v_fim)]
+PARABOLAS = {
+    "mateo": [(7, 24, 27), (13, 1, 52), (18, 12, 14), (18, 23, 35), (20, 1, 16), (21, 28, 46),
+              (22, 1, 14), (25, 1, 30)],
+    "marcos": [(4, 1, 34), (12, 1, 12)],
+    "lucas": [(6, 47, 49), (8, 4, 18), (10, 25, 37), (12, 13, 21), (13, 18, 21), (14, 7, 24),
+              (15, 1, 32), (16, 1, 9), (16, 19, 31), (18, 1, 14), (19, 11, 27), (20, 9, 19)],
+    "juan": [(10, 1, 18)],
+}
+
+
+def ref_parabola(ref):
+    m = re.match(r"\s*(\w+)\s+(\d+),\s*(\d+)(?:-(\d+))?", norm_ref(ref))
+    if not m:
+        return False
+    libro, cap, v1 = m.group(1), int(m.group(2)), int(m.group(3))
+    v2 = int(m.group(4) or v1)
+    return any(c == cap and not (v2 < a or v1 > b) for c, a, b in PARABOLAS.get(libro, []))
+
+
+def norm_ref(s):
+    return unicodedata.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode()
+
+
 def norm(s):
     s = unicodedata.normalize("NFKD", s.lower()).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9 ]", "", s).strip()
@@ -86,6 +110,8 @@ def main():
         cb = d["cita_biblica"]
         if not cb.get("referencia") or not cb.get("mensaje"):
             erros.append(f"{did}: cita bíblica incompleta")
+        elif ref_parabola(cb["referencia"]):
+            erros.append(f"{did}: cita dentro de uma parábola: {cb['referencia']}")
         elif len(cb["mensaje"]) > 160:
             avisos.append(f"{did}: paráfrase longa ({len(cb['mensaje'])} car.)")
         t = texto(d)
