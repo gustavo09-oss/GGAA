@@ -6,3 +6,5 @@ output/muestra.pdf
 output/capas.pdf
 output/capas_comparativo.png
 __pycache__/
+node_modules/
+video/out/
