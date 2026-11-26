@@ -1,0 +1,19 @@
+{
+  "semanas": [
+    {
+      "n": 1,
+      "tema": "Bienvenidos: Dios nos ama",
+      "objetivo": "Que cada niño se sienta acogido en el grupo y descubra que Dios lo conoce por su nombre y lo ama.",
+      "cita": {"referencia": "Isaías 43, 1", "mensaje": "Dios te dice: «Te llamé por tu nombre. Tú eres mío y te quiero mucho»."},
+      "bloques": [
+        {"momento": "Bienvenida y oración inicial", "min": 5, "ids": ["01-009"], "nota": "Recibe a cada niño en la puerta y llámalo por su nombre. Los nuevos se sientan a tu lado."},
+        {"momento": "Rompehielos", "min": 10, "ids": ["01-001"], "nota": "Empieza tú la ronda diciendo tu nombre con alegría, para que nadie sienta vergüenza."},
+        {"momento": "Dinámica central", "min": 25, "ids": ["01-010"], "nota": "Mientras trabajan, pasa por cada lugar y repite: «Dios te hizo único». Guarda 5 minutos para que muestren su tarjeta."},
+        {"momento": "Reflexión y conversación", "min": 10, "ids": ["01-018"], "nota": "Cierra la conversación leyendo juntos Isaías 43, 1 y preguntando: ¿Cómo se siente que Dios sepa tu nombre?"},
+        {"momento": "Cierre y oración", "min": 10, "ids": ["11-003", "11-001"], "nota": "Primero eligen el compromiso de la semana; después, todos en círculo, piden la bendición de Dios."}
+      ],
+      "compromiso": "Esta semana, saluda a alguien de tu familia por su nombre y dile: «Dios te ama». Después cuéntanos cómo reaccionó.",
+      "nota_catequista": "El primer encuentro marca todo el año. Más que enseñar mucho, importa que cada niño se vaya sintiéndose querido. Si puedes, aprende todos los nombres antes del segundo encuentro."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "parabolas": [
+    {
+      "n": 11,
+      "titulo": "El Hijo Pródigo",
+      "referencia": "Lucas 15, 11-32",
+      "historia": [
+        "Había una vez un papá muy bueno que tenía dos hijos. Un día, el hijo menor le dijo: —Papá, dame ya la parte de tus cosas que me toca. Me quiero ir de la casa.",
+        "Al papá le dolió el corazón, pero lo dejó ir. El muchacho se fue a un país muy lejano y allí gastó todo su dinero en fiestas y caprichos. Tenía muchos amigos… mientras tenía dinero.",
+        "Pero el dinero se acabó, y además llegó una época de hambre a ese país. Nadie lo ayudaba. Tuvo que trabajar cuidando cerdos, y tenía tanta hambre que hasta quería comer lo que comían los cerdos.",
+        "Entonces se quedó pensando: —En la casa de mi papá, hasta los trabajadores tienen pan de sobra, ¡y yo aquí con hambre! Voy a volver y le diré: «Papá, me porté mal con Dios y contigo. Ya no merezco ser tu hijo. Trátame como a uno de tus trabajadores». Y se puso en camino.",
+        "Su papá lo esperaba. Todos los días miraba el camino. Cuando lo vio a lo lejos, sintió una gran ternura, corrió hacia él, lo abrazó fuerte y lo llenó de besos. —Papá, me porté mal… ya no merezco ser tu hijo —dijo el muchacho.",
+        "Pero el papá no lo dejó terminar. Llamó a sus trabajadores: —¡Rápido! Traigan la mejor ropa, un anillo y unas sandalias. ¡Hagamos una gran fiesta! Mi hijo estaba perdido y lo hemos encontrado.",
+        "El hermano mayor volvía del campo y escuchó la música. Cuando supo lo que pasaba, se enojó mucho y no quiso entrar. Entonces el papá salió a buscarlo a él también: —Hijo, tú siempre estás conmigo, y todo lo mío es tuyo. Pero teníamos que alegrarnos, porque tu hermano estaba perdido y volvió a casa.",
+        "Jesús contó esta historia para que sepamos cómo es Dios: un Papá que nunca deja de esperarnos y que siempre nos recibe con los brazos abiertos."
+      ],
+      "ensenanza": "Dios es un Papá que nos ama siempre, aunque nos equivoquemos. Cuando le pedimos perdón, Él corre a abrazarnos y hace fiesta. También nos invita a alegrarnos cuando otros vuelven a Él.",
+      "preguntas": [
+        "¿Qué hizo el papá cuando vio a su hijo a lo lejos? ¿Por qué crees que corrió?",
+        "¿Cómo se sintió el hermano mayor? ¿Alguna vez te has sentido así?",
+        "¿Qué podemos hacer cuando nos equivocamos y queremos volver a estar cerca de Dios?"
+      ],
+      "actividad": {
+        "titulo": "El camino de vuelta a casa",
+        "tipo": "Juego",
+        "minutos": 10,
+        "materiales": ["Hojas de papel", "cinta adhesiva", "un corazón de papel"],
+        "pasos": [
+          "Pega en el suelo un camino de hojas, de una pared a la otra. Al final coloca el corazón de papel: es la casa del papá.",
+          "Un niño hace de hijo y empieza lejos; otro hace de papá y espera junto al corazón.",
+          "Por cada hoja que avanza, el hijo dice algo que puede hacer para pedir perdón o arreglar las cosas.",
+          "Cuando el papá lo ve llegar, corre a su encuentro y lo abraza. ¡Todo el grupo aplaude como en una fiesta!"
+        ]
+      },
+      "oracion": "Querido Papá Dios, gracias porque siempre me esperas. Cuando me equivoco, dame valor para volver a ti. Y ayúdame a alegrarme cuando otros vuelven también. Amén."
+    }
+  ]
+}

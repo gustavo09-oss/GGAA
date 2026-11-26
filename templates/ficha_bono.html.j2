@@ -1,0 +1,71 @@
+{# Ficha do Bono 3 (mesmo layout da ficha principal). Recebe: d, sec (seção litúrgica), page_no #}
+<section class="page ficha lit-{{ sec.color }}" id="d-{{ d.id }}">
+  <div class="deco-corner icon">{{ icons.estrellas }}</div>
+  <div class="page-inner">
+    <div class="ficha-head">
+      <span class="mod-name">Fechas litúrgicas · <b>{{ sec.nombre }}</b></span>
+      <span class="ficha-id">Nº {{ d.id }}</span>
+    </div>
+
+    <div class="ficha-title-row">
+      <div class="type-badge icon">{{ icons[tipo_slug(d.tipo)] }}</div>
+      <h1 class="ficha-title">{{ d.titulo }}</h1>
+    </div>
+
+    <div class="chips">
+      <span class="chip"><span class="icon">{{ icons[tipo_slug(d.tipo)] }}</span>{{ d.tipo }}</span>
+      <span class="chip edad edad-{{ edad_slug(d.edad) }}">{{ edad_label(d.edad) }}</span>
+      <span class="chip"><span class="icon">{{ icons.reloj }}</span>{{ d.duracion_min }} min</span>
+      <span class="chip"><span class="icon">{{ icons.ninos }}</span>{{ d.participantes|nb }}</span>
+    </div>
+
+    <div class="row-2">
+      <div class="box objetivo">
+        <h3><span class="icon">{{ icons.objetivo }}</span>Objetivo</h3>
+        <p>{{ d.objetivo|nb }}</p>
+        {% if d.preparacion %}
+        <p class="prep"><b>Antes de empezar:</b> {{ d.preparacion|nb }}</p>
+        {% endif %}
+      </div>
+      <div class="box materiales">
+        <h3><span class="icon">{{ icons.materiales }}</span>Materiales</h3>
+        <ul>
+          {% for m in d.materiales %}
+          <li class="{{ 'sin' if m|lower == 'sin materiales' }}">{{ m|nb }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="pasos">
+      <h3>Paso a paso</h3>
+      <ol>
+        {% for p in d.pasos %}
+        <li><span class="num">{{ loop.index }}</span><span class="txt">{{ p|nb }}</span></li>
+        {% endfor %}
+      </ol>
+    </div>
+
+    <div class="box adapt">
+      <h3><span class="icon">{{ icons.adapt }}</span>Adaptaciones</h3>
+      <div class="col">
+        <h4>Para los más pequeños (4–6 años)</h4>
+        <p>{{ d.para_los_mas_pequenos|nb }}</p>
+      </div>
+      <div class="col">
+        <h4>Para los mayores (9–12 años)</h4>
+        <p>{{ d.para_los_mayores|nb }}</p>
+      </div>
+    </div>
+
+    <div class="notas-wrap"><div class="notas"><span class="lbl">Mis notas</span>{% for i in range(9) %}<div class="ln"></div>{% endfor %}</div></div>
+
+    <div class="mensaje">
+      <div class="ilus icon">{{ ilus[sec.ilus] }}</div>
+      <div class="label">Mensaje para llevar a casa</div>
+      <div class="frase">{{ d.mensaje_final|nb }}</div>
+      <div class="cita"><b>{{ d.cita_biblica.referencia }}</b> — {{ d.cita_biblica.mensaje|nb }}</div>
+    </div>
+  </div>
+  <div class="page-footer"><span class="brand">Fechas Litúrgicas</span><span>{{ page_no }}</span></div>
+</section>

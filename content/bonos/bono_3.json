@@ -1,0 +1,30 @@
+{
+  "secciones": [
+    {
+      "slug": "adviento", "nombre": "Adviento", "color": "morado", "color_nombre": "morado",
+      "ilus": "paloma", "imagen": "bono3_adviento.png", "cuantas": 8,
+      "fechas": "28 de noviembre al 24 de diciembre de 2027",
+      "texto": "Adviento quiere decir «llegada». Son las cuatro semanas antes de la Navidad, en las que preparamos el corazón para recibir a Jesús. Es un tiempo de espera alegre, como cuando esperamos a un amigo muy querido.",
+      "dinamicas": [
+        {
+          "id": "AD-01", "titulo": "Cuatro Velas para Esperar a Jesús", "tipo": "Manualidad", "edad": "Todas",
+          "duracion_min": 20, "participantes": "4 a 20 niños",
+          "objetivo": "Comprender que el Adviento es un tiempo de espera alegre y que cada vela de la corona nos acerca a la Navidad.",
+          "materiales": ["Un plato de cartón por niño", "Tiras de papel verde", "Rectángulos de cartulina: 3 morados y 1 rosado por niño", "Llamitas de papel amarillo", "Pegamento y tijeras"],
+          "preparacion": "Recorta con anticipación las velas y las llamitas, para que cada niño tenga su juego completo.",
+          "pasos": [
+            "Pregunta: ¿Qué se siente esperar algo muy bonito, como un cumpleaños?",
+            "Explica que en Adviento esperamos la Navidad, el cumpleaños de Jesús, y que dura cuatro semanas.",
+            "Cada niño pega las tiras verdes alrededor del plato y coloca las cuatro velas de cartulina. La rosada va en tercer lugar.",
+            "Peguen juntos la primera llamita mientras dicen: «Ven, Señor Jesús».",
+            "Invítalos a llevar la corona a casa y a pegar una llamita nueva cada domingo de Adviento."
+          ],
+          "para_los_mas_pequenos": "Entrégales las velas ya recortadas y ayúdalos a pegarlas en su lugar.",
+          "para_los_mayores": "Que escriban en cada vela una palabra: esperanza, paz, alegría y amor.",
+          "cita_biblica": {"referencia": "Isaías 9, 1", "mensaje": "La gente que caminaba a oscuras vio una luz muy grande."},
+          "mensaje_final": "Cada semana de Adviento encendemos una luz más para esperar a Jesús."
+        }
+      ]
+    }
+  ]
+}

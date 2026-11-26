@@ -7,3 +7,6 @@ output/capas.pdf
 output/capas_comparativo.png
 __pycache__/
 catequesis-viva-site.zip
+output/*.html
+output/bonos/*_png/
+output/bonos/Muestra_Bonos.pdf

@@ -1,0 +1,179 @@
+{# Macros dos bônus. Globais: icons, ilus, img_slot(nome) -> Markup ou '' #}
+
+{% macro footer(n, marca='Catequesis Viva') -%}
+<div class="page-footer"><span class="brand">{{ marca }}</span><span>{{ n }}</span></div>
+{%- endmacro %}
+
+{# ---------------------------------------------------------------- Capa #}
+{% macro capa(b) %}
+{% set img = img_slot(b.imagen) %}
+<section class="page capa-bono bono-{{ b.n }}" id="capa">
+  <div class="frame-costura"></div>
+  <div class="aro" style="width:2.4in;height:2.4in;left:-0.9in;top:2.2in"></div>
+  <div class="aro" style="width:1.6in;height:1.6in;right:-0.5in;top:5.6in"></div>
+  <div class="pontos" style="width:16px;height:16px;left:0.75in;top:1.2in"></div>
+  <div class="pontos" style="width:10px;height:10px;left:1.05in;top:1.55in;opacity:.6"></div>
+  <div class="pontos" style="width:14px;height:14px;right:0.8in;top:1.35in"></div>
+  <div class="pontos" style="width:9px;height:9px;right:1.15in;top:1.05in;opacity:.6"></div>
+  <div class="pontos" style="width:12px;height:12px;left:0.7in;bottom:1.4in;opacity:.7"></div>
+  <div class="pontos" style="width:12px;height:12px;right:0.72in;bottom:1.55in;opacity:.7"></div>
+  <div class="selo">BONO {{ b.n }}</div>
+  <div class="centro">
+    {% if img %}
+    <div class="arco">{{ img }}</div>
+    {% else %}
+    <div class="estrela icon" style="left:0.15in;top:0.35in">{{ icons.estrellas }}</div>
+    <div class="estrela icon" style="right:0.2in;bottom:0.45in;transform:rotate(18deg)">{{ icons.estrellas }}</div>
+    <div class="medalhao">
+      {% if b.icono == 'liturgia' %}<div class="ic liturgia"><i style="background:#8E6BAE"></i><i style="background:#D6A445"></i><i style="background:#7FA27B"></i><i style="background:#C9584B"></i></div>{% else %}<div class="ic icon">{{ icons[b.icono] }}</div>{% endif %}
+      <div class="num">{{ b.numero }}</div>
+      <div class="unid">{{ b.unidad }}</div>
+    </div>
+    {% endif %}
+  </div>
+  <div class="texto">
+    <h1 class="titulo">{{ b.titulo_html | safe }}</h1>
+    <div class="divisor"></div>
+    <div class="sub">{{ b.subtitulo }}</div>
+  </div>
+  <div class="marca">Catequesis Viva · +500 Dinámicas para Niños</div>
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Bono 1: semana (2 páginas) #}
+{% macro semana(s, n1, n2) %}
+<section class="page bono-1" id="sem-{{ s.n }}">
+  <div class="page-inner">
+    <div class="bhead"><span>Ruta de Encuentros · Semana {{ s.n }} de 12</span><span class="r">60 min</span></div>
+    <h1 class="btitle">{{ s.tema }}</h1>
+    <div class="sem-top">
+      <div class="obj"><h3>Objetivo de la semana</h3><p>{{ s.objetivo|nb }}</p></div>
+      <div class="cita-box"><div class="ref">{{ s.cita.referencia }}</div><div class="par">{{ s.cita.mensaje|nb }}</div></div>
+    </div>
+    <div class="roteiro">
+      <h2>Tu encuentro paso a paso <small>las dinámicas están en el libro principal</small></h2>
+      {% for b in s.bloques %}
+      <div class="bloco">
+        <div class="min">{{ b.min }}'<small>MIN</small></div>
+        <div class="body">
+          <div class="mom">{{ b.momento }}</div>
+          {% for d in b.dinamicas %}
+          <span class="din"><span class="icon">{{ icons[tipo_slug(d.tipo)] }}</span><span class="id">Nº {{ d.id }}</span> {{ d.titulo }} <span class="pg">· pág. {{ d.pagina }}</span></span>
+          {% endfor %}
+          <p class="nota">{{ b.nota|nb }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {{ footer(n1, 'Ruta de Encuentros') }}
+</section>
+<section class="page bono-1">
+  <div class="page-inner">
+    <div class="bhead"><span>Semana {{ s.n }} · {{ s.tema }}</span><span class="r">Preparación</span></div>
+    <div style="height:14px"></div>
+    <div class="mat-box">
+      <h3><span class="icon">{{ icons.materiales }}</span>Materiales de la semana</h3>
+      <ul>
+        {% for m in s.materiales %}<li><span>{{ m.texto|nb }} <small>({{ m.ids|join(', ') }})</small></span></li>{% endfor %}
+      </ul>
+    </div>
+    <div class="duo">
+      <div class="card-c comp"><h3>Compromiso para la semana</h3><p>{{ s.compromiso|nb }}</p></div>
+      <div class="card-c tip"><h3>Nota para la catequista</h3><p>{{ s.nota_catequista|nb }}</p></div>
+    </div>
+    <div class="lineas"><span class="lbl">Mis notas del encuentro</span>{% for i in range(16) %}<div class="ln"></div>{% endfor %}</div>
+  </div>
+  {{ footer(n2, 'Ruta de Encuentros') }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Bono 2: parábola (2 páginas) #}
+{% macro parabola(p, total, n1, n2) %}
+<section class="page bono-2" id="par-{{ p.n }}">
+  <div class="page-inner">
+    <div class="bhead"><span>Parábola {{ p.n }} de {{ total }}</span><span class="r">{{ p.referencia }}</span></div>
+    <h1 class="btitle">{{ p.titulo }}</h1>
+    <div class="bsub">Lee la historia en voz alta, despacio y con cariño.</div>
+    <div class="historia">
+      {% for par in p.historia %}<p>{{ par|nb }}</p>{% endfor %}
+    </div>
+  </div>
+  {{ footer(n1, '30 Parábolas para Niños') }}
+</section>
+<section class="page bono-2">
+  <div class="page-inner">
+    <div class="bhead"><span>{{ p.titulo }}</span><span class="r">Para conversar</span></div>
+    <div style="height:14px"></div>
+    <div class="ensena"><h3>¿Qué nos enseña Jesús?</h3><p>{{ p.ensenanza|nb }}</p></div>
+    <div class="preg"><h3>Para conversar con los niños</h3>
+      <ol>{% for q in p.preguntas %}<li><span>{{ q|nb }}</span></li>{% endfor %}</ol>
+    </div>
+    <div class="act">
+      <h3><span class="icon">{{ icons[tipo_slug(p.actividad.tipo)] }}</span>Actividad rápida: {{ p.actividad.titulo }}</h3>
+      <div class="meta">{{ p.actividad.minutos }} min · {{ p.actividad.materiales|join(', ') }}</div>
+      <ol>{% for s in p.actividad.pasos %}<li>{{ s|nb }}</li>{% endfor %}</ol>
+    </div>
+    <div class="oracion-box"><h3>Oramos juntos</h3><p>{{ p.oracion|nb }}</p></div>
+    <div class="lineas" style="margin-top:14px"><span class="lbl">Mis notas</span>{% for i in range(8) %}<div class="ln"></div>{% endfor %}</div>
+  </div>
+  {{ footer(n2, '30 Parábolas para Niños') }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Bono 3: divisória litúrgica #}
+{% macro div_lit(s) %}
+{% set img = img_slot(s.imagen) %}
+<section class="page div-lit lit-{{ s.color }}" id="sec-{{ s.slug }}">
+  <div class="faixa-top"></div>
+  <div class="borda"></div>
+  <div class="conteudo">
+    <div class="kick">Tiempo litúrgico</div>
+    <h1>{{ s.nombre }}</h1>
+    {% if img %}<div class="img-slot">{{ img }}</div>{% else %}
+    <div class="roda"><div class="c1"></div><div class="c2"></div><div class="c3">{{ s.cuantas }}</div>
+      <span class="s" style="left:-30px;top:30px"></span><span class="s" style="right:-26px;bottom:44px;opacity:.6"></span><span class="s" style="right:-8px;top:-14px;width:9px;height:9px"></span></div>
+    {% endif %}
+    <p class="texto-div">{{ s.texto|nb }}</p>
+    <div class="cor"><i></i>Color litúrgico: {{ s.color_nombre }}</div>
+    <div class="cuantas">{{ s.cuantas }} dinámicas · {{ s.fechas }}</div>
+  </div>
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Bono 4: oração básica #}
+{% macro oracion_basica(o, n) %}
+<section class="page bono-4" id="or-{{ o.slug }}">
+  <div class="page-inner">
+    <div class="bhead"><span>Oraciones básicas</span><span class="r">{{ o.num }} de 8</span></div>
+    <h1 class="btitle">{{ o.titulo }}</h1>
+    <p class="intro-or">{{ o.explicacion|nb }}</p>
+    <div class="rezo"><p>{% for l in o.texto %}{{ l }}{% if not loop.last %}<br>{% endif %}{% endfor %}</p></div>
+    <table class="gestos">
+      <tr><th>Cuando decimos…</th><th>Queremos decir…</th><th>Gesto</th></tr>
+      {% for g in o.partes %}<tr><td>{{ g.frase }}</td><td>{{ g.significa|nb }}</td><td>{{ g.gesto|nb }}</td></tr>{% endfor %}
+    </table>
+  </div>
+  {{ footer(n, 'Guía de Oración') }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Bono 4: orações por módulo (2 módulos por página) #}
+{% macro oraciones_modulos(mods, n) %}
+<section class="page bono-4">
+  <div class="page-inner">
+    <div class="bhead"><span>Oraciones para cada encuentro</span><span class="r">Módulos {{ mods|map(attribute='n')|join(' y ') }}</span></div>
+    <div style="height:14px"></div>
+    {% for m in mods %}
+    <div class="mod-or mod-{{ m.n }}" style="--m:var(--c);--m-dark:var(--c-dark)">
+      <h2><span class="n">{{ m.n }}</span>{{ m.titulo }}</h2>
+      <div class="or-grid">
+        {% for t in m.apertura %}<div class="or-card"><div class="k">Para empezar · {{ loop.index }}</div><p>{{ t|nb }}</p></div>{% endfor %}
+        {% for t in m.cierre %}<div class="or-card cierre"><div class="k">Para terminar · {{ loop.index }}</div><p>{{ t|nb }}</p></div>{% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {{ footer(n, 'Guía de Oración') }}
+</section>
+{% endmacro %}

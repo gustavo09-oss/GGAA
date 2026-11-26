@@ -1,0 +1,27 @@
+{
+  "basicas": [
+    {
+      "num": 2, "slug": "padre-nuestro", "titulo": "Padre Nuestro",
+      "explicacion": "Es la oración que Jesús mismo enseñó a sus amigos cuando le pidieron: «Señor, enséñanos a orar» (Lucas 11, 1). Por eso la rezan los cristianos de todo el mundo. En ella llamamos a Dios «Papá» y le pedimos lo que más necesitamos.",
+      "texto": ["Padre nuestro, que estás en el cielo,", "santificado sea tu Nombre;", "venga a nosotros tu reino;", "hágase tu voluntad en la tierra como en el cielo.", "Danos hoy nuestro pan de cada día;", "perdona nuestras ofensas,", "como también nosotros perdonamos a los que nos ofenden;", "no nos dejes caer en la tentación,", "y líbranos del mal. Amén."],
+      "partes": [
+        {"frase": "Padre nuestro, que estás en el cielo", "significa": "Dios es nuestro Papá, y el de todos. Nos escucha siempre.", "gesto": "Manos abiertas hacia arriba"},
+        {"frase": "santificado sea tu Nombre", "significa": "Queremos que todos respeten y amen el nombre de Dios.", "gesto": "Manos sobre el corazón"},
+        {"frase": "venga a nosotros tu reino", "significa": "Que el amor de Dios llegue a todas partes.", "gesto": "Brazos que llaman hacia uno"},
+        {"frase": "hágase tu voluntad en la tierra como en el cielo", "significa": "Queremos hacer lo que Dios quiere, porque Él sabe lo que es bueno.", "gesto": "Señalar el cielo y luego el suelo"},
+        {"frase": "Danos hoy nuestro pan de cada día", "significa": "Le pedimos lo que necesitamos hoy: comida, casa y cariño, para nosotros y para todos.", "gesto": "Manos juntas como un cuenco"},
+        {"frase": "perdona nuestras ofensas, como también nosotros perdonamos…", "significa": "Dios nos perdona, y nosotros también perdonamos a los demás.", "gesto": "Mano en el pecho; luego darla al compañero"},
+        {"frase": "no nos dejes caer en la tentación, y líbranos del mal", "significa": "Le pedimos fuerza para elegir siempre el bien.", "gesto": "Brazos cruzados como un escudo"},
+        {"frase": "Amén", "significa": "«Así sea». ¡Creemos lo que dijimos!", "gesto": "Manos juntas"}
+      ]
+    }
+  ],
+  "modulos": [
+    {"n": 1, "titulo": "Rompehielos y Bienvenida",
+     "apertura": ["Jesús, gracias por reunirnos hoy. Aquí estamos con nuestros nombres y nuestras alegrías. Quédate con nosotros. Amén.", "Señor, abre mis ojos para ver a mis amigos, mis oídos para escucharlos y mi corazón para quererlos. Amén."],
+     "cierre": ["Gracias, Jesús, por mis compañeros. Cuida a cada uno en su casa esta semana. Amén.", "Dios Padre, tú nos conoces por nuestro nombre. Bendícenos al volver a casa. En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén."]},
+    {"n": 2, "titulo": "Dios Creador y la Creación",
+     "apertura": ["Dios bueno, tú hiciste el sol, el mar y las estrellas. Gracias porque también me hiciste a mí. Amén.", "Señor, enséñanos hoy a mirar tu creación con ojos de asombro y a cuidarla con amor. Amén."],
+     "cierre": ["Gracias, Dios, por todo lo que creaste. Ayúdame a cuidar las plantas, los animales y a las personas. Amén.", "Todo lo que hiciste es muy bueno, Señor. ¡Gloria a ti por tu creación! Amén."]}
+  ]
+}
