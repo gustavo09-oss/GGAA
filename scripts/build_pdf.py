@@ -105,6 +105,18 @@ def build_sample():
     render_pdf(html, "muestra", png_pages=[], scale=2)
 
 
+def build_check(mods):
+    """Renderiza as fichas dos módulos indicados e reporta overflow."""
+    env = make_env()
+    ficha = env.get_template("ficha.html.j2")
+    pages = []
+    for m in mods:
+        for d in json.loads((ROOT / f"content/modulo_{m:02d}.json").read_text(encoding="utf-8")):
+            pages.append(ficha.render(d=d, mod={"titulo": MODULOS[m]}, page_no=len(pages) + 1))
+    html = env.get_template("base.html.j2").render(body="\n".join(pages), title="Check")
+    return render_pdf(html, "check")
+
+
 def build_covers():
     env = make_env()
     html_body = env.get_template("capas.html.j2").render(
@@ -121,9 +133,12 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--sample", action="store_true")
     ap.add_argument("--covers", action="store_true")
+    ap.add_argument("--check", nargs="+", type=int)
     a = ap.parse_args()
     if a.sample:
         build_sample()
+    elif a.check:
+        build_check(a.check)
     elif a.covers:
         build_covers()
     else:

@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "01-001",
+    "modulo": 1,
+    "titulo": "La Pelota de los Nombres",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Aprender los nombres de todos y descubrir que cada uno es importante para Dios y para el grupo.",
+    "materiales": [
+      "Una pelota blanda o un bollito de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo con todos los niños de pie.",
+      "Di tu nombre y algo que te gusta, y lanza la pelota a un niño.",
+      "Quien recibe la pelota dice su nombre y lo que le gusta, y la lanza a otro compañero.",
+      "En la segunda ronda, quien lanza debe decir el nombre de quien la recibe.",
+      "Termina diciendo: «Dios conoce el nombre de cada uno de ustedes y los ama»."
+    ],
+    "para_los_mas_pequenos": "Rueden la pelota por el suelo en lugar de lanzarla.",
+    "para_los_mayores": "Agreguen una tercera ronda: decir el nombre y lo que le gusta a quien recibe.",
+    "cita_biblica": {
+      "referencia": "Isaías 43, 1",
+      "mensaje": "Dios dice: Te llamé por tu nombre, tú eres mío."
+    },
+    "mensaje_final": "Dios sabe mi nombre y me ama."
+  },
+  {
+    "id": "01-002",
+    "modulo": 1,
+    "titulo": "El Tren de la Amistad",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Crear un ambiente alegre de bienvenida y ayudar a que los niños se integren al grupo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Haz de «locomotora» y recorre el salón diciendo «¡Chu, chu!».",
+      "Detente frente a un niño, salúdalo con alegría y pregúntale su nombre.",
+      "El niño dice su nombre, todos lo repiten aplaudiendo y él se suma al tren tomándote de los hombros.",
+      "Ahora el último vagón elige al siguiente niño, y así hasta que todos estén en el tren.",
+      "Al final, den una vuelta completa al salón cantando «¡Somos amigos de Jesús!»."
+    ],
+    "para_los_mas_pequenos": "Avancen despacio y en línea recta para que nadie se tropiece.",
+    "para_los_mayores": "Que cada nuevo vagón diga también su comida favorita.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 14",
+      "mensaje": "Jesús dijo: Ustedes son mis amigos."
+    },
+    "mensaje_final": "En el tren de Jesús hay lugar para todos."
+  },
+  {
+    "id": "01-003",
+    "modulo": 1,
+    "titulo": "¿Quién Tiene la Estrella?",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Divertirse juntos y aprender a mirarse con atención y cariño.",
+    "materiales": [
+      "Una estrella de cartulina pequeña"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y elige a uno para que salga un momento del salón.",
+      "Entrega la estrella a otro niño, que la esconde en sus manos o en su espalda.",
+      "Llama al que salió: debe adivinar quién tiene la estrella observando las caras.",
+      "Cuando la encuentre, quien la tenía dice su nombre y algo que lo hace brillar.",
+      "Explica que cada uno es una estrella que Dios puso en el grupo."
+    ],
+    "para_los_mas_pequenos": "Den pistas como «frío» o «caliente» para ayudar a encontrarla.",
+    "para_los_mayores": "Que el que adivina tenga solo tres intentos.",
+    "cita_biblica": {
+      "referencia": "Mateo 5, 14",
+      "mensaje": "Jesús dijo: Ustedes son la luz del mundo."
+    },
+    "mensaje_final": "Soy una estrella que brilla para Jesús."
+  },
+  {
+    "id": "01-004",
+    "modulo": 1,
+    "titulo": "Mi Nombre Bonito",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar el propio nombre como un regalo de Dios y presentarse al grupo.",
+    "materiales": [
+      "Hojas de papel",
+      "Lápices de colores",
+      "Pegatinas o recortes de revista"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una hoja a cada niño y pide que escriban su nombre con letras grandes.",
+      "Invítalos a decorar las letras con colores, flores, estrellas y corazones.",
+      "Mientras trabajan, pregunta: ¿Quién eligió tu nombre? ¿Sabes qué significa?",
+      "Cada niño muestra su nombre al grupo y todos responden: «¡Qué bonito es tu nombre!».",
+      "Peguen los nombres en una pared para tener la «casa» del grupo."
+    ],
+    "para_los_mas_pequenos": "Escribe tú el nombre con lápiz suave para que ellos lo repasen y decoren.",
+    "para_los_mayores": "Que investiguen en casa el significado de su nombre y lo cuenten el próximo encuentro.",
+    "cita_biblica": {
+      "referencia": "Isaías 49, 16",
+      "mensaje": "Dios dice: Te llevo escrito en la palma de mis manos."
+    },
+    "mensaje_final": "Mi nombre está escrito en el corazón de Dios."
+  },
+  {
+    "id": "01-005",
+    "modulo": 1,
+    "titulo": "Saludos de Colores",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Romper la timidez y aprender distintas formas de saludar con cariño.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que caminen libremente por el salón.",
+      "Cuando digas un color, cada uno busca a alguien que tenga algo de ese color.",
+      "Indica cómo saludarse: con la mano, con el codo, con una sonrisa o con un «¡Dios te bendiga!».",
+      "Repite con varios colores y diferentes saludos.",
+      "Termina con todos en círculo diciendo juntos: «¡Bienvenidos!»."
+    ],
+    "para_los_mas_pequenos": "Usa colores muy visibles y saluda tú primero para que imiten.",
+    "para_los_mayores": "Que al saludarse se digan su nombre y su día de cumpleaños.",
+    "cita_biblica": {
+      "referencia": "Romanos 15, 7",
+      "mensaje": "Recíbanse unos a otros con cariño, como Jesús los recibió."
+    },
+    "mensaje_final": "Saludar con alegría es una forma de amar."
+  },
+  {
+    "id": "01-006",
+    "modulo": 1,
+    "titulo": "La Telaraña del Grupo",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 20 niños",
+    "objetivo": "Descubrir que todos estamos unidos como comunidad y que cada uno es necesario.",
+    "materiales": [
+      "Un ovillo de lana o hilo grueso"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a todos en círculo; toma el ovillo y sujeta la punta.",
+      "Di tu nombre y algo que te hace feliz, y lanza el ovillo a un niño sin soltar la punta.",
+      "Cada niño se presenta, sujeta el hilo y lanza el ovillo a otro compañero.",
+      "Cuando todos tengan el hilo, observen la red que formaron.",
+      "Pide que uno suelte su hilo y pregunta: ¿Qué pasó con la red? Expliquen que todos somos necesarios."
+    ],
+    "para_los_mas_pequenos": "Haz rodar el ovillo y ayuda a sostener el hilo.",
+    "para_los_mayores": "En la segunda vuelta, desenreden la red diciendo algo bueno del compañero a quien devuelven el ovillo.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 12, 27",
+      "mensaje": "Ustedes son el cuerpo de Cristo y cada uno es una parte importante."
+    },
+    "mensaje_final": "En el grupo de Jesús, yo soy importante."
+  },
+  {
+    "id": "01-007",
+    "modulo": 1,
+    "titulo": "Canción del Hola, Hola",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Iniciar el encuentro con alegría, aprendiendo los nombres a través del canto.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña una melodía sencilla: «Hola, hola, ¿cómo estás? Hola, hola, ¿cómo te va?».",
+      "Canta mirando a un niño y luego di: «¿Cómo te llamas?».",
+      "El niño responde y todos cantan: «Hola, [nombre], Jesús te ama».",
+      "Repite con cada niño acompañando con palmas.",
+      "Cierren cantando todos juntos: «¡Hola, amigos, Jesús está aquí!»."
+    ],
+    "para_los_mas_pequenos": "Que digan su nombre con un movimiento divertido que todos imitan.",
+    "para_los_mayores": "Que un niño dirija el canto y elija a quién saludar.",
+    "cita_biblica": {
+      "referencia": "Salmo 100, 2",
+      "mensaje": "Sirvan al Señor con alegría y vengan a Él cantando."
+    },
+    "mensaje_final": "Jesús se alegra cuando estamos juntos."
+  },
+  {
+    "id": "01-008",
+    "modulo": 1,
+    "titulo": "Encuentra tu Pareja",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Formar parejas y conocer mejor a un compañero del grupo.",
+    "materiales": [
+      "Tarjetas con dibujos repetidos de dos en dos (sol, pez, flor, corazón, estrella...)"
+    ],
+    "preparacion": "Prepara tantas tarjetas como niños, con cada dibujo repetido dos veces.",
+    "pasos": [
+      "Entrega una tarjeta a cada niño sin que los demás la vean.",
+      "A tu señal, cada uno busca a quien tiene el mismo dibujo, sin hablar, solo con gestos.",
+      "Cuando encuentren a su pareja, se sientan juntos y se cuentan su nombre, su edad y su juego favorito.",
+      "Cada pareja presenta a su compañero ante el grupo.",
+      "Recuerda que Jesús enviaba a sus discípulos de dos en dos para ayudarse."
+    ],
+    "para_los_mas_pequenos": "Usa solo tres o cuatro dibujos muy sencillos y colores fuertes.",
+    "para_los_mayores": "Que la pareja descubra tres cosas que tienen en común.",
+    "cita_biblica": {
+      "referencia": "Marcos 6, 7",
+      "mensaje": "Jesús llamó a los Doce y los envió de dos en dos."
+    },
+    "mensaje_final": "Con un amigo al lado, todo es más fácil."
+  },
+  {
+    "id": "01-009",
+    "modulo": 1,
+    "titulo": "El Abrazo de Bienvenida",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Acoger a los niños nuevos y pedir juntos la bendición de Dios para el grupo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Invita a los niños a formar un círculo tomados de las manos.",
+      "Pide a los niños nuevos que pasen al centro y digan su nombre.",
+      "Todos extienden sus manos hacia ellos y repiten contigo: «Jesús, bendice a [nombre] y a nuestro grupo».",
+      "Cada niño nuevo vuelve al círculo y todos aplauden con alegría.",
+      "Terminen haciendo juntos la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Haz que los pequeños solo extiendan las manos mientras tú dices la oración.",
+    "para_los_mayores": "Que un niño del grupo invente una oración corta por los nuevos.",
+    "cita_biblica": {
+      "referencia": "Números 6, 24",
+      "mensaje": "Que el Señor te bendiga y te cuide."
+    },
+    "mensaje_final": "Dios me bendice y me cuida."
+  },
+  {
+    "id": "01-010",
+    "modulo": 1,
+    "titulo": "Mi Tarjeta de Presentación",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Expresar quién soy y descubrir que Dios me hizo único y especial.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una cartulina del tamaño de media hoja a cada niño.",
+      "Pide que dibujen su rostro y escriban su nombre, su edad y tres cosas que les gustan.",
+      "Agreguen una frase: «Dios me hizo especial porque...».",
+      "En parejas, intercambien las tarjetas y lean la del compañero.",
+      "Cada uno presenta la tarjeta de su pareja al grupo."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo su cara y su comida o juego favorito.",
+    "para_los_mayores": "Agreguen un talento que puedan poner al servicio del grupo.",
+    "cita_biblica": {
+      "referencia": "Salmo 139, 14",
+      "mensaje": "Te doy gracias, Señor, porque me hiciste maravilloso."
+    },
+    "mensaje_final": "Soy una obra maravillosa de Dios."
+  },
+  {
+    "id": "01-011",
+    "modulo": 1,
+    "titulo": "Si Te Gusta, Cámbiate",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Descubrir gustos en común y crear confianza en el grupo.",
+    "materiales": [
+      "Sillas o cojines (uno menos que el número de niños)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y quédate de pie en el centro.",
+      "Di una frase como «Cámbiese de lugar quien tenga un hermano».",
+      "Todos los que cumplan esa frase cambian de silla rápidamente, y tú también buscas una.",
+      "Quien quede de pie dice su nombre y propone la siguiente frase.",
+      "Al final, comenta qué cosas descubrieron que tienen en común."
+    ],
+    "para_los_mas_pequenos": "Usa frases fáciles de ver: «quien tenga zapatos negros» o «quien lleve algo rojo».",
+    "para_los_mayores": "Incluyan frases sobre la fe: «quien sepa rezar el Padre Nuestro».",
+    "cita_biblica": {
+      "referencia": "Hechos 2, 46",
+      "mensaje": "Los primeros cristianos se reunían con alegría y sencillez de corazón."
+    },
+    "mensaje_final": "Juntos somos una familia alegre."
+  },
+  {
+    "id": "01-012",
+    "modulo": 1,
+    "titulo": "La Caja de las Sorpresas",
+    "tipo": "Rompehielos",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "5 a 20 niños",
+    "objetivo": "Animar a cada niño a hablar de sí mismo en un clima de confianza.",
+    "materiales": [
+      "Una caja",
+      "Papelitos con preguntas sencillas"
+    ],
+    "preparacion": "Escribe en papelitos preguntas como «¿Cuál es tu animal favorito?» o «¿Qué te hace reír?» y ponlos en la caja.",
+    "pasos": [
+      "Pasen la caja de mano en mano mientras cantan o aplauden.",
+      "Cuando digas «¡Alto!», quien tiene la caja saca un papelito.",
+      "Lee la pregunta en voz alta y el niño responde diciendo primero su nombre.",
+      "Continúen hasta que todos hayan participado.",
+      "Concluye: «Dios se alegra con todo lo que nos gusta y nos hace felices»."
+    ],
+    "para_los_mas_pequenos": "Lee tú las preguntas y acepta respuestas con un dibujo en el aire o un gesto.",
+    "para_los_mayores": "Que cada niño agregue una pregunta nueva a la caja para la próxima vez.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 5, 7",
+      "mensaje": "Pongan en Dios todas sus preocupaciones, porque Él cuida de ustedes."
+    },
+    "mensaje_final": "Dios quiere conocer todo lo que hay en mi corazón."
+  },
+  {
+    "id": "01-013",
+    "modulo": 1,
+    "titulo": "Las Estatuas Alegres",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Liberar energía al inicio del encuentro y crear un ambiente de juego y alegría.",
+    "materiales": [
+      "Música alegre (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que bailen o se muevan libremente mientras suena la música o mientras aplaudes.",
+      "Al parar la música, todos se quedan quietos como estatuas.",
+      "Di una emoción: «¡Estatuas alegres!», «¡Estatuas que rezan!», «¡Estatuas que saludan!».",
+      "Los niños cambian su postura según la emoción.",
+      "Termina con la «estatua de un abrazo» en parejas."
+    ],
+    "para_los_mas_pequenos": "Haz tú las posturas primero para que las imiten.",
+    "para_los_mayores": "Que un niño proponga las emociones y elija la estatua más creativa.",
+    "cita_biblica": {
+      "referencia": "Eclesiastés 3, 4",
+      "mensaje": "Hay un tiempo para reír y un tiempo para bailar."
+    },
+    "mensaje_final": "Con Jesús, mi corazón está alegre."
+  },
+  {
+    "id": "01-014",
+    "modulo": 1,
+    "titulo": "El Ovillo de las Preguntas",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "5 a 20 niños",
+    "objetivo": "Conocer más a los compañeros a través de preguntas sencillas y divertidas.",
+    "materiales": [
+      "Un ovillo de lana",
+      "Papelitos con preguntas",
+      "Cinta adhesiva"
+    ],
+    "preparacion": "Enrolla el ovillo escondiendo dentro papelitos con preguntas cada cierto tramo.",
+    "pasos": [
+      "Sienta a los niños en círculo y da el ovillo al primero.",
+      "El niño desenrolla la lana hasta encontrar un papelito.",
+      "Lee la pregunta y la responde diciendo antes su nombre.",
+      "Pasa el ovillo al compañero de la derecha, que sigue desenrollando.",
+      "Al final, comenta lo que más les sorprendió de sus compañeros."
+    ],
+    "para_los_mas_pequenos": "Usa preguntas con dibujos y lee tú en voz alta.",
+    "para_los_mayores": "Que el niño haga su pregunta a otro compañero en vez de responderla él.",
+    "cita_biblica": {
+      "referencia": "Proverbios 17, 17",
+      "mensaje": "El verdadero amigo ama en todo momento."
+    },
+    "mensaje_final": "Conocer a los demás me ayuda a quererlos más."
+  },
+  {
+    "id": "01-015",
+    "modulo": 1,
+    "titulo": "Mi Mano, Tu Mano",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Simbolizar la unión del grupo y el deseo de caminar juntos con Jesús.",
+    "materiales": [
+      "Papel kraft o cartulina grande",
+      "Pintura lavable o lápices de colores",
+      "Toallitas húmedas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Extiende el papel grande sobre la mesa o el suelo.",
+      "Cada niño dibuja el contorno de su mano o la estampa con pintura.",
+      "Escriben su nombre dentro de la mano.",
+      "En el centro, escribe con letras grandes: «Somos amigos de Jesús».",
+      "Cuelguen el mural en el salón y bendíganlo juntos con una oración breve."
+    ],
+    "para_los_mas_pequenos": "Ayúdales a pintar la mano y límpialas enseguida con toallitas.",
+    "para_los_mayores": "Que escriban en cada dedo una cualidad que traen al grupo.",
+    "cita_biblica": {
+      "referencia": "Eclesiastés 4, 9",
+      "mensaje": "Dos son mejores que uno, porque se ayudan entre sí."
+    },
+    "mensaje_final": "Juntos y de la mano, caminamos con Jesús."
+  },
+  {
+    "id": "01-016",
+    "modulo": 1,
+    "titulo": "Pasa la Sonrisa",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Contagiar alegría y empezar el encuentro con una actitud positiva.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo, todos con cara seria.",
+      "Tú comienzas: sonríe al niño de tu derecha y di su nombre.",
+      "Él «recibe» la sonrisa, se la pone y la pasa al siguiente diciendo su nombre.",
+      "Quien se ría antes de tiempo, ¡pasa la sonrisa con una carcajada!",
+      "Explica: la alegría de Jesús se contagia cuando la compartimos."
+    ],
+    "para_los_mas_pequenos": "Permite que se rían libremente; lo importante es pasar la sonrisa.",
+    "para_los_mayores": "Pasen la sonrisa en ambos sentidos al mismo tiempo para hacerlo más difícil.",
+    "cita_biblica": {
+      "referencia": "Filipenses 4, 4",
+      "mensaje": "Estén siempre alegres en el Señor."
+    },
+    "mensaje_final": "Mi sonrisa puede alegrar a otros."
+  },
+  {
+    "id": "01-017",
+    "modulo": 1,
+    "titulo": "Adivina Quién Soy",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Expresarse con el cuerpo y conocer los gustos de los compañeros.",
+    "materiales": [
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un papelito a cada niño para que escriba o dibuje su actividad favorita.",
+      "Recoge los papelitos y mézclalos.",
+      "Un niño saca uno y representa la actividad con mímica, sin hablar.",
+      "El grupo adivina la actividad y luego a quién pertenece el papelito.",
+      "El dueño se presenta y cuenta por qué le gusta esa actividad."
+    ],
+    "para_los_mas_pequenos": "Da tú ejemplos de mímica y deja que adivinen todos juntos.",
+    "para_los_mayores": "Que representen la actividad en parejas, sin palabras.",
+    "cita_biblica": {
+      "referencia": "Salmo 139, 1",
+      "mensaje": "Señor, tú me conoces muy bien."
+    },
+    "mensaje_final": "Jesús me conoce y le gusta lo que me hace feliz."
+  },
+  {
+    "id": "01-018",
+    "modulo": 1,
+    "titulo": "¿Qué Trajiste Hoy?",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Compartir cómo llegan al encuentro y ponerlo en manos de Dios.",
+    "materiales": [
+      "Una canasta o caja",
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo con la canasta en el centro.",
+      "Pregunta: ¿Cómo llegas hoy? ¿Contento, cansado, preocupado, emocionado?",
+      "Cada niño escribe o dibuja en un papelito cómo se siente y lo coloca en la canasta.",
+      "Quien quiera, comparte en voz alta lo que escribió.",
+      "Levanten juntos la canasta y ofrezcan a Jesús todo lo que traen en el corazón."
+    ],
+    "para_los_mas_pequenos": "Usa caritas dibujadas (feliz, triste, cansado) para que elijan una.",
+    "para_los_mayores": "Que piensen también qué quieren aprender o vivir en este encuentro.",
+    "cita_biblica": {
+      "referencia": "Mateo 11, 28",
+      "mensaje": "Jesús dijo: Vengan a mí los que están cansados y yo los aliviaré."
+    },
+    "mensaje_final": "Jesús me recibe tal como llego."
+  },
+  {
+    "id": "01-019",
+    "modulo": 1,
+    "titulo": "El Semáforo de la Amistad",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Divertirse siguiendo consignas y aprender a esperar el turno con respeto.",
+    "materiales": [
+      "Tres círculos de cartulina: rojo, amarillo y verde"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el círculo verde: todos caminan por el salón saludando a los compañeros.",
+      "Muestra el amarillo: caminan despacio y dicen su nombre a quien encuentren.",
+      "Muestra el rojo: todos se detienen y dan la mano al que esté más cerca.",
+      "Cambia los colores cada vez más rápido.",
+      "Al final, comenten: ¿Qué nos ayuda a ser buenos amigos? Escuchar, esperar, respetar."
+    ],
+    "para_los_mas_pequenos": "Usa solo verde y rojo al principio.",
+    "para_los_mayores": "Agrega un color nuevo (azul) con una consigna creada por ellos.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 14",
+      "mensaje": "Por encima de todo, vístanse de amor, que nos une a todos."
+    },
+    "mensaje_final": "Respetar a los demás es una forma de amar."
+  },
+  {
+    "id": "01-020",
+    "modulo": 1,
+    "titulo": "Las Burbujas del Saludo",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Crear un ambiente festivo de bienvenida y aprender los nombres del grupo.",
+    "materiales": [
+      "Frasco de burbujas de jabón (o globos inflados)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en un círculo amplio.",
+      "Sopla burbujas hacia un niño y di: «¡Bienvenido, [nombre]!».",
+      "El niño intenta reventar una burbuja y dice su nombre en voz alta.",
+      "Continúa hasta que todos hayan sido saludados.",
+      "Explica que el amor de Dios nos rodea como estas burbujas, por todos lados."
+    ],
+    "para_los_mas_pequenos": "Que todos revienten burbujas juntos mientras cantan sus nombres.",
+    "para_los_mayores": "Que el niño que revienta la burbuja diga algo que le gustaría hacer este año en catequesis.",
+    "cita_biblica": {
+      "referencia": "Salmo 139, 5",
+      "mensaje": "Señor, me rodeas por todas partes con tu amor."
+    },
+    "mensaje_final": "El amor de Dios me rodea por todos lados."
+  },
+  {
+    "id": "01-021",
+    "modulo": 1,
+    "titulo": "Dos Verdades y un Invento",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocerse mejor de forma divertida y valorar la verdad entre amigos.",
+    "materiales": [
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a cada niño que escriba tres frases sobre sí mismo: dos verdaderas y una inventada.",
+      "Por turnos, cada uno lee sus tres frases en voz alta.",
+      "El grupo intenta adivinar cuál es la inventada.",
+      "El niño revela la respuesta y cuenta algo más sobre una de sus verdades.",
+      "Comenta: entre amigos de Jesús nos gusta decir la verdad, porque nos da confianza."
+    ],
+    "para_los_mas_pequenos": "Que digan dos cosas en voz alta y el grupo adivine cuál es verdad, sin escribir.",
+    "para_los_mayores": "Que las frases sean sobre su fe: su santo favorito, su oración preferida, su parroquia.",
+    "cita_biblica": {
+      "referencia": "Efesios 4, 25",
+      "mensaje": "Digan siempre la verdad, porque todos formamos un solo cuerpo."
+    },
+    "mensaje_final": "Decir la verdad hace crecer la amistad."
+  },
+  {
+    "id": "01-022",
+    "modulo": 1,
+    "titulo": "El Barco de Pedro",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "10 a 30 niños",
+    "objetivo": "Formar grupos de distintas maneras y aprender a incluir a todos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Pedro era pescador y tenía una barca en el lago.",
+      "Los niños «navegan» caminando por el salón mientras dices: «¡El barco de Pedro se mueve!».",
+      "Grita: «¡Botes salvavidas de tres!». Los niños forman grupos de tres tomándose de las manos.",
+      "Cambia el número cada vez (2, 4, 5...). En cada grupo se dicen sus nombres.",
+      "Si alguien queda solo, el grupo más cercano lo invita: ¡en la barca de Jesús nadie queda fuera!"
+    ],
+    "para_los_mas_pequenos": "Usa números pequeños (2 y 3) y cuenta con los dedos.",
+    "para_los_mayores": "Que en cada grupo descubran algo que todos tengan en común.",
+    "cita_biblica": {
+      "referencia": "Lucas 5, 3",
+      "mensaje": "Jesús subió a la barca de Pedro y desde allí enseñaba a la gente."
+    },
+    "mensaje_final": "En la barca de Jesús hay lugar para mí."
+  },
+  {
+    "id": "01-023",
+    "modulo": 1,
+    "titulo": "El Rompecabezas del Grupo",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Descubrir que cada uno es una pieza única y necesaria del grupo de catequesis.",
+    "materiales": [
+      "Cartulina grande",
+      "Tijeras",
+      "Lápices de colores"
+    ],
+    "preparacion": "Dibuja un corazón grande en la cartulina y córtalo en tantas piezas como niños.",
+    "pasos": [
+      "Entrega una pieza a cada niño sin decir qué figura forman.",
+      "Cada uno escribe su nombre en su pieza y la decora como quiera.",
+      "Por turnos, se presentan y colocan su pieza en el centro tratando de armar la figura.",
+      "Cuando el corazón esté completo, pregunta: ¿Qué pasaría si faltara una pieza?",
+      "Peguen el corazón en la pared como signo del grupo."
+    ],
+    "para_los_mas_pequenos": "Usa piezas más grandes y pocas (de 4 a 6 por grupo).",
+    "para_los_mayores": "Que escriban también un don que aportan al grupo.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 5",
+      "mensaje": "Somos muchos, pero en Cristo formamos un solo cuerpo."
+    },
+    "mensaje_final": "Sin mí, al grupo le falta una pieza."
+  },
+  {
+    "id": "01-024",
+    "modulo": 1,
+    "titulo": "Ritmo de Nombres",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Memorizar los nombres de los compañeros con ritmo y alegría.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y enseña un ritmo: dos palmadas en las piernas y dos aplausos.",
+      "Mantengan el ritmo todos juntos.",
+      "En los aplausos, el primer niño dice su nombre dos veces: «¡Ana, Ana!».",
+      "En el siguiente ciclo, todos repiten su nombre y le toca al siguiente.",
+      "Al final, intenten decir todos los nombres sin perder el ritmo."
+    ],
+    "para_los_mas_pequenos": "Haz el ritmo más lento y di los nombres junto con ellos.",
+    "para_los_mayores": "Que digan su nombre y el del anterior en cada ciclo.",
+    "cita_biblica": {
+      "referencia": "Salmo 150, 6",
+      "mensaje": "¡Todo lo que respira alabe al Señor!"
+    },
+    "mensaje_final": "Con mi voz y mis manos alabo a Dios."
+  },
+  {
+    "id": "01-025",
+    "modulo": 1,
+    "titulo": "La Silla Caliente de los Elogios",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 15 niños",
+    "objetivo": "Fortalecer la autoestima y aprender a ver lo bueno en los demás.",
+    "materiales": [
+      "Una silla"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca una silla en el centro del círculo.",
+      "Un niño se sienta en ella y los demás le dicen algo bueno que ven en él.",
+      "Cuida que todas las frases sean amables y concretas: «Me ayudas cuando...».",
+      "El niño escucha y solo responde «Gracias».",
+      "Pregunta al final: ¿Cómo te sentiste? Así nos mira Dios, viendo todo lo bueno que hay en nosotros."
+    ],
+    "para_los_mas_pequenos": "Ayuda con ejemplos: «Tienes una sonrisa bonita», «Compartes tus colores».",
+    "para_los_mayores": "Que también digan un elogio a la catequista o al grupo completo.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 11",
+      "mensaje": "Anímense unos a otros y ayúdense a crecer."
+    },
+    "mensaje_final": "Dios ve todo lo bueno que hay en mí."
+  },
+  {
+    "id": "01-026",
+    "modulo": 1,
+    "titulo": "Búsqueda de Firmas",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Interactuar con todos los compañeros y descubrir lo que cada uno sabe hacer.",
+    "materiales": [
+      "Hojas con una lista de frases",
+      "Lápices"
+    ],
+    "preparacion": "Prepara hojas con frases como «Alguien que tenga una mascota» o «Alguien que sepa una oración de memoria».",
+    "pasos": [
+      "Entrega una hoja y un lápiz a cada niño.",
+      "Explica que deben encontrar a un compañero que cumpla cada frase y pedirle su firma.",
+      "Cada compañero puede firmar solo una vez en la misma hoja.",
+      "Cuando alguien complete su hoja, grita: «¡Gracias, Señor, por mis amigos!».",
+      "Compartan las respuestas más curiosas."
+    ],
+    "para_los_mas_pequenos": "Usa dibujos en lugar de frases y que marquen con un sello o una cruz.",
+    "para_los_mayores": "Agrega frases sobre la fe: «Alguien que sepa el nombre de su santo patrono».",
+    "cita_biblica": {
+      "referencia": "Hechos 4, 32",
+      "mensaje": "Los creyentes tenían un solo corazón y una sola alma."
+    },
+    "mensaje_final": "Cada amigo es un regalo que Dios me da."
+  },
+  {
+    "id": "01-027",
+    "modulo": 1,
+    "titulo": "El Espejo Mágico",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Crear confianza en parejas y aprender a observar con atención.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma parejas mirándose de frente.",
+      "Uno es la persona y el otro es el espejo, que imita todos sus movimientos lentamente.",
+      "Después de un minuto, cambian los papeles.",
+      "Pide movimientos que expresen gestos de fe: rezar, abrazar, saludar, compartir.",
+      "Explica: cuando imitamos a Jesús, nos parecemos cada vez más a Él."
+    ],
+    "para_los_mas_pequenos": "Haz tú los movimientos y que todos sean tu espejo al mismo tiempo.",
+    "para_los_mayores": "Que el espejo adivine qué acción buena representa su compañero.",
+    "cita_biblica": {
+      "referencia": "Efesios 5, 1",
+      "mensaje": "Imiten a Dios como hijos queridos."
+    },
+    "mensaje_final": "Quiero parecerme a Jesús."
+  },
+  {
+    "id": "01-028",
+    "modulo": 1,
+    "titulo": "La Cajita de Mis Tesoros",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Compartir lo que es valioso para cada uno y descubrir que somos un tesoro para Dios.",
+    "materiales": [
+      "Cajas pequeñas o vasos de papel",
+      "Papel de colores",
+      "Pegamento",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una cajita a cada niño para decorarla por fuera con su nombre.",
+      "Pide que dibujen en papelitos tres cosas o personas que son un tesoro para ellos.",
+      "Guardan los dibujos en la cajita.",
+      "Por turnos, muestran uno de sus tesoros al grupo y explican por qué es importante.",
+      "Concluye: para Dios, cada uno de ustedes es su tesoro más grande."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo un tesoro y lo cuenten con tu ayuda.",
+    "para_los_mayores": "Agreguen un papelito con un tesoro de la fe: la Biblia, la oración, la Misa.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 21",
+      "mensaje": "Jesús dijo: Donde está tu tesoro, allí está tu corazón."
+    },
+    "mensaje_final": "Soy un tesoro para Dios."
+  },
+  {
+    "id": "01-029",
+    "modulo": 1,
+    "titulo": "El Detective de las Pistas",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Divertirse resolviendo un misterio y conocer mejor a los compañeros.",
+    "materiales": [
+      "Papelitos",
+      "Lápices",
+      "Una caja"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño escribe tres pistas sobre sí mismo sin poner su nombre: «Tengo un perro», «Me gusta el fútbol».",
+      "Recoge los papelitos en la caja.",
+      "Elige a un «detective» que saca un papelito y lee las pistas en voz alta.",
+      "El detective tiene tres intentos para adivinar de quién se trata.",
+      "Cambia de detective en cada ronda hasta que todos hayan sido descubiertos."
+    ],
+    "para_los_mas_pequenos": "Lee tú las pistas y que todo el grupo adivine.",
+    "para_los_mayores": "Que las pistas sean más difíciles, sin dar detalles físicos.",
+    "cita_biblica": {
+      "referencia": "Juan 10, 14",
+      "mensaje": "Jesús dijo: Yo conozco a los míos y los míos me conocen."
+    },
+    "mensaje_final": "Jesús me conoce mejor que nadie."
+  },
+  {
+    "id": "01-030",
+    "modulo": 1,
+    "titulo": "La Lluvia de Aplausos",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Animar al grupo y aprender a celebrar a cada compañero.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña cómo hacer lluvia con las manos: un dedo, dos dedos, toda la mano, y luego zapateo para el trueno.",
+      "Hagan juntos la «tormenta de aplausos» subiendo y bajando la intensidad.",
+      "Di el nombre de un niño y todos le regalan una lluvia de aplausos.",
+      "Sigue con varios niños, sobre todo los nuevos.",
+      "Termina con una gran lluvia para Jesús, que nos reúne."
+    ],
+    "para_los_mas_pequenos": "Hagan solo aplausos suaves y fuertes, sin pasos intermedios.",
+    "para_los_mayores": "Que un niño dirija la tormenta con gestos, sin hablar.",
+    "cita_biblica": {
+      "referencia": "Salmo 47, 2",
+      "mensaje": "Pueblos todos, aplaudan y aclamen a Dios con alegría."
+    },
+    "mensaje_final": "Mi grupo celebra que estoy aquí."
+  },
+  {
+    "id": "01-031",
+    "modulo": 1,
+    "titulo": "Cuento con Mi Nombre",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Presentarse de manera creativa y escuchar con atención a los demás.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y empieza un cuento: «Había una vez un grupo de amigos de Jesús...».",
+      "Cada niño continúa la historia con una frase que incluya su nombre y algo que le gusta.",
+      "Ejemplo: «Y llegó Lucía, que amaba pintar, y dibujó un arcoíris para todos».",
+      "Cuando todos hayan participado, cierra el cuento con un final feliz.",
+      "Si quieren, representen la historia con mímica."
+    ],
+    "para_los_mas_pequenos": "Que solo digan su nombre y un animal, y tú armas el cuento con lo que dicen.",
+    "para_los_mayores": "Que el cuento incluya un desafío que el grupo resuelve con ayuda de Jesús.",
+    "cita_biblica": {
+      "referencia": "Juan 15, 12",
+      "mensaje": "Jesús dijo: Ámense unos a otros como yo los he amado."
+    },
+    "mensaje_final": "Mi historia es parte de la historia de Jesús."
+  },
+  {
+    "id": "01-032",
+    "modulo": 1,
+    "titulo": "Rueda de Bendiciones",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a pedir la bendición de Dios para los compañeros.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo de pie y tomados de la mano.",
+      "Explica que bendecir es desear el bien de Dios para alguien.",
+      "Cada niño pone la mano en el hombro del compañero de la derecha y dice: «[Nombre], que Dios te bendiga».",
+      "El compañero responde: «Amén, gracias» y continúa con el siguiente.",
+      "Cuando la rueda termine, hagan todos juntos la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que solo digan el nombre y tú completas la bendición.",
+    "para_los_mayores": "Que agreguen un deseo concreto: «...y te ayude en tu examen», «...y cuide a tu familia».",
+    "cita_biblica": {
+      "referencia": "Números 6, 25",
+      "mensaje": "Que el Señor te mire con cariño y te dé su paz."
+    },
+    "mensaje_final": "Puedo bendecir a los demás."
+  },
+  {
+    "id": "01-033",
+    "modulo": 1,
+    "titulo": "El Globo Viajero",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Trabajar en equipo y aprender los nombres de los compañeros.",
+    "materiales": [
+      "Un globo inflado"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo y lanza el globo hacia arriba.",
+      "Los niños deben evitar que el globo toque el suelo, golpeándolo suavemente.",
+      "Antes de tocar el globo, cada niño debe decir su nombre en voz alta.",
+      "Cuenten juntos cuántos toques logran sin que caiga.",
+      "Comenta: cuando nos ayudamos, logramos mucho más."
+    ],
+    "para_los_mas_pequenos": "Que digan su nombre solo cuando les toque y sin prisa.",
+    "para_los_mayores": "Que digan el nombre del compañero al que le pasan el globo.",
+    "cita_biblica": {
+      "referencia": "Gálatas 6, 2",
+      "mensaje": "Ayúdense unos a otros a llevar sus cargas."
+    },
+    "mensaje_final": "Juntos, llegamos más lejos."
+  },
+  {
+    "id": "01-034",
+    "modulo": 1,
+    "titulo": "Así Soy Yo",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Reconocer las propias cualidades como regalos de Dios.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores",
+      "Un espejo pequeño"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pasa el espejo por el círculo; cada niño se mira y dice: «Dios me hizo a mí».",
+      "Entrega una hoja para que dibujen su autorretrato.",
+      "Alrededor del dibujo, escriban o dibujen tres cosas que saben hacer bien.",
+      "Cada niño presenta su dibujo y el grupo dice: «¡Gracias, Dios, por [nombre]!».",
+      "Guarden los dibujos para hacer un álbum del grupo."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo su cara y una cosa que les guste hacer.",
+    "para_los_mayores": "Agreguen algo que quieren mejorar con la ayuda de Jesús.",
+    "cita_biblica": {
+      "referencia": "Génesis 1, 27",
+      "mensaje": "Dios creó al ser humano a su imagen y semejanza."
+    },
+    "mensaje_final": "Soy imagen de Dios."
+  },
+  {
+    "id": "01-035",
+    "modulo": 1,
+    "titulo": "Coro de Animales",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Divertirse y formar grupos de manera sencilla y alegre.",
+    "materiales": [
+      "Papelitos con nombres de animales"
+    ],
+    "preparacion": "Prepara papelitos con 3 o 4 animales repetidos (perro, gato, oveja, pato).",
+    "pasos": [
+      "Entrega un papelito a cada niño sin que los demás lo vean.",
+      "Con los ojos cerrados, cada uno imita el sonido de su animal.",
+      "Deben encontrar a los de su mismo animal solo escuchando.",
+      "Cada grupo de animales canta una frase sencilla con su sonido: «¡Dios me creó, guau, guau!».",
+      "Terminen con un gran coro de todos los animales alabando a Dios."
+    ],
+    "para_los_mas_pequenos": "Que mantengan los ojos abiertos y tú les ayudes a encontrarse.",
+    "para_los_mayores": "Que cada grupo invente una estrofa nueva para el coro.",
+    "cita_biblica": {
+      "referencia": "Salmo 148, 10",
+      "mensaje": "Animales salvajes y domésticos, alaben al Señor."
+    },
+    "mensaje_final": "Toda la creación canta a Dios."
+  },
+  {
+    "id": "01-036",
+    "modulo": 1,
+    "titulo": "La Ventanita de la Semana",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Compartir algo bueno de la semana y aprender a dar gracias.",
+    "materiales": [
+      "Una hoja con una ventana dibujada (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y forma una «ventana» con tus manos.",
+      "Mira por la ventana y cuenta algo bueno que te pasó en la semana.",
+      "Pasa la «ventana» de manos al siguiente niño para que comparta.",
+      "Después de cada relato, el grupo dice: «¡Gracias, Señor!».",
+      "Termina con una oración breve dando gracias por todo lo compartido."
+    ],
+    "para_los_mas_pequenos": "Acepta respuestas muy sencillas: «Jugué con mi hermano».",
+    "para_los_mayores": "Que compartan también algo difícil y lo pongan en manos de Dios.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 18",
+      "mensaje": "Den gracias a Dios en toda ocasión."
+    },
+    "mensaje_final": "Cada semana tengo algo para agradecer."
+  },
+  {
+    "id": "01-037",
+    "modulo": 1,
+    "titulo": "El Gran Nudo Humano",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 14 niños",
+    "objetivo": "Resolver un desafío en equipo con paciencia y cooperación.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo cerrado de pie, hombro con hombro.",
+      "Cada niño extiende la mano derecha y toma la mano de alguien que no esté a su lado.",
+      "Luego extiende la izquierda y toma la de otro compañero diferente.",
+      "Sin soltarse, deben desenredarse hasta volver a formar un círculo.",
+      "Conversen: ¿Qué les ayudó? Escuchar, tener paciencia, no empujar."
+    ],
+    "para_los_mas_pequenos": "Hagan el nudo en grupos pequeños de cuatro y con tu ayuda.",
+    "para_los_mayores": "Intenten resolverlo sin hablar, solo con gestos.",
+    "cita_biblica": {
+      "referencia": "Filipenses 2, 2",
+      "mensaje": "Tengan un mismo amor y un mismo sentir."
+    },
+    "mensaje_final": "Con paciencia y amor, resolvemos todo juntos."
+  },
+  {
+    "id": "01-038",
+    "modulo": 1,
+    "titulo": "El Paracaídas de Colores",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "8 a 25 niños",
+    "objetivo": "Vivir la alegría de jugar en grupo y aprender los nombres de todos.",
+    "materiales": [
+      "Una sábana grande o tela de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que sostengan la tela por los bordes formando un círculo.",
+      "Muevan la tela arriba y abajo al mismo tiempo, como olas.",
+      "Di dos nombres: esos niños deben cruzar por debajo de la tela e intercambiar lugares mientras está arriba.",
+      "Repite hasta que todos hayan cruzado.",
+      "Terminen sentándose sobre el borde de la tela como una gran carpa de amigos."
+    ],
+    "para_los_mas_pequenos": "Que crucen gateando y con la tela bien alta.",
+    "para_los_mayores": "Que crucen tres o cuatro niños a la vez y se saluden por el camino.",
+    "cita_biblica": {
+      "referencia": "Salmo 133, 1",
+      "mensaje": "¡Qué bueno y agradable es que los hermanos vivan unidos!"
+    },
+    "mensaje_final": "Es bueno vivir unidos como hermanos."
+  },
+  {
+    "id": "01-039",
+    "modulo": 1,
+    "titulo": "Mi Escudo de Familia",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Presentar a su familia y valorarla como un regalo de Dios.",
+    "materiales": [
+      "Hojas con un escudo dibujado",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una hoja con un escudo dividido en cuatro partes.",
+      "En la primera parte, dibujan a su familia; en la segunda, un lugar donde son felices.",
+      "En la tercera, algo que hacen juntos; en la cuarta, una oración o símbolo de fe.",
+      "Cada niño presenta su escudo al grupo.",
+      "Recen juntos por todas las familias del grupo."
+    ],
+    "para_los_mas_pequenos": "Que dibujen solo a su familia en un escudo sin divisiones.",
+    "para_los_mayores": "Que escriban un lema para su familia, como «Con Dios todo es posible».",
+    "cita_biblica": {
+      "referencia": "Josué 24, 15",
+      "mensaje": "Mi familia y yo serviremos al Señor."
+    },
+    "mensaje_final": "Mi familia es un regalo de Dios."
+  },
+  {
+    "id": "01-040",
+    "modulo": 1,
+    "titulo": "La Canasta de Frutas",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "10 a 30 niños",
+    "objetivo": "Moverse y divertirse en grupo, creando un clima de amistad.",
+    "materiales": [
+      "Sillas o cojines (uno menos que el número de niños)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo y asigna a cada uno una fruta: manzana, plátano o naranja.",
+      "Desde el centro, di el nombre de una fruta: esos niños cambian de lugar.",
+      "Tú intentas sentarte; quien quede de pie dice su nombre y llama a otra fruta.",
+      "Si alguien dice «¡Canasta de frutas!», todos cambian de lugar.",
+      "Concluye: como frutas distintas en una canasta, somos diferentes pero juntos formamos un grupo bonito."
+    ],
+    "para_los_mas_pequenos": "Usa solo dos frutas y muestra un dibujo de cada una.",
+    "para_los_mayores": "Que al quedar de pie digan también un fruto bueno de su vida: paciencia, alegría, bondad.",
+    "cita_biblica": {
+      "referencia": "Gálatas 5, 22",
+      "mensaje": "El Espíritu Santo da frutos de amor, alegría y paz."
+    },
+    "mensaje_final": "Doy buenos frutos cuando amo."
+  }
+]
