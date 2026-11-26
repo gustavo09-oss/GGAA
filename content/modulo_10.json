@@ -1,0 +1,873 @@
+[
+  {
+    "id": "10-001",
+    "modulo": 10,
+    "titulo": "El Gran Concurso de la Fe",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar cualquier tema con un concurso de preguntas en equipos.",
+    "materiales": [
+      "Tarjetas con preguntas del tema",
+      "Dos campanas o tapas de olla",
+      "Una pizarra para los puntos"
+    ],
+    "preparacion": "Prepara entre 15 y 20 preguntas del tema que quieres repasar.",
+    "pasos": [
+      "Forma dos o tres equipos y elige un nombre para cada uno.",
+      "Haz una pregunta en voz alta; el primer equipo en tocar la campana responde.",
+      "Si acierta, gana un punto; si no, el otro equipo puede responder.",
+      "Incluye preguntas de «doble punto» para mantener la emoción.",
+      "Al final, celebren a todos los equipos y repasen las respuestas difíciles."
+    ],
+    "para_los_mas_pequenos": "Usa preguntas de sí o no y acepta respuestas con dibujos.",
+    "para_los_mayores": "Que cada equipo prepare tres preguntas para los demás.",
+    "cita_biblica": {
+      "referencia": "Proverbios 1, 5",
+      "mensaje": "El sabio escucha y aumenta su saber."
+    },
+    "mensaje_final": "Aprender sobre Dios es una aventura."
+  },
+  {
+    "id": "10-002",
+    "modulo": 10,
+    "titulo": "Bingo de Repaso",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Repasar palabras clave de un tema con un bingo.",
+    "materiales": [
+      "Cartones con 9 palabras del tema",
+      "Fichas o botones",
+      "Tarjetas con definiciones"
+    ],
+    "preparacion": "Prepara cartones combinando de forma distinta las palabras clave del tema.",
+    "pasos": [
+      "Entrega un cartón y fichas a cada niño.",
+      "Lee una definición o pista: «Es el sacramento que nos hace hijos de Dios».",
+      "Quien tenga la palabra (Bautismo) coloca una ficha.",
+      "El primero en completar una línea grita «¡Bingo!» y explica sus palabras.",
+      "Continúen hasta llenar el cartón."
+    ],
+    "para_los_mas_pequenos": "Usa dibujos en lugar de palabras y di el nombre directamente.",
+    "para_los_mayores": "Que ellos inventen las pistas para el siguiente juego.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 11",
+      "mensaje": "Guardo tu palabra en mi corazón."
+    },
+    "mensaje_final": "Guardo en mi corazón lo que aprendo."
+  },
+  {
+    "id": "10-003",
+    "modulo": 10,
+    "titulo": "Memoria de Parejas",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 16 niños",
+    "objetivo": "Repasar conceptos uniendo parejas de tarjetas.",
+    "materiales": [
+      "Pares de tarjetas (palabra y dibujo, personaje y acción, pregunta y respuesta)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Mezcla las tarjetas y colócalas boca abajo.",
+      "Por turnos, cada niño da vuelta dos tarjetas.",
+      "Si forman pareja, explica la relación y se las queda.",
+      "Si no, las vuelve a poner boca abajo.",
+      "Gana quien encuentre más parejas, pero todos celebran lo aprendido."
+    ],
+    "para_los_mas_pequenos": "Usa pocas parejas con dibujos grandes.",
+    "para_los_mayores": "Que preparen ellos las tarjetas del próximo juego.",
+    "cita_biblica": {
+      "referencia": "Deuteronomio 6, 6",
+      "mensaje": "Que estas palabras queden grabadas en tu corazón."
+    },
+    "mensaje_final": "Recuerdo lo que Dios me enseña."
+  },
+  {
+    "id": "10-004",
+    "modulo": 10,
+    "titulo": "Sopa de Letras Bíblica",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Repasar el vocabulario de un tema buscando palabras.",
+    "materiales": [
+      "Hojas con una sopa de letras del tema",
+      "Lápices de colores"
+    ],
+    "preparacion": "Prepara una sopa de letras con 8 a 10 palabras del tema.",
+    "pasos": [
+      "Entrega una sopa de letras a cada niño o pareja.",
+      "Lee la lista de palabras a encontrar.",
+      "Los niños las buscan y las colorean.",
+      "Al terminar, cada uno elige una palabra y explica qué significa.",
+      "Usen las palabras para formar una oración juntos."
+    ],
+    "para_los_mas_pequenos": "Usa una sopa de letras de 6 x 6 con palabras cortas.",
+    "para_los_mayores": "Que creen su propia sopa de letras para un compañero.",
+    "cita_biblica": {
+      "referencia": "Josué 1, 8",
+      "mensaje": "Medita la Palabra de día y de noche."
+    },
+    "mensaje_final": "Cada palabra me acerca a Dios."
+  },
+  {
+    "id": "10-005",
+    "modulo": 10,
+    "titulo": "Crucigrama de la Fe",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Repasar contenidos con un crucigrama.",
+    "materiales": [
+      "Hojas con un crucigrama del tema",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un crucigrama a cada niño o pareja.",
+      "Lee las pistas en voz alta si es necesario.",
+      "Los niños completan las palabras.",
+      "Revisen juntos las respuestas.",
+      "Pide que elijan la pista más difícil y la expliquen."
+    ],
+    "para_los_mas_pequenos": "Haz el crucigrama en grupo en la pizarra.",
+    "para_los_mayores": "Que inventen sus propias pistas.",
+    "cita_biblica": {
+      "referencia": "2 Timoteo 3, 14",
+      "mensaje": "Permanece firme en lo que aprendiste."
+    },
+    "mensaje_final": "Lo que aprendo me hace crecer en la fe."
+  },
+  {
+    "id": "10-006",
+    "modulo": 10,
+    "titulo": "La Papa Caliente de Preguntas",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar de manera rápida y divertida.",
+    "materiales": [
+      "Una pelota o bollito de papel",
+      "Preguntas del tema"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Pasen la pelota rápido mientras cantan o aplauden.",
+      "Cuando digas «¡Alto!», quien tiene la pelota responde una pregunta.",
+      "Si no sabe, puede pedir ayuda a un amigo.",
+      "Sigan hasta que todos hayan respondido al menos una vez."
+    ],
+    "para_los_mas_pequenos": "Usa preguntas muy sencillas o de elegir entre dos opciones.",
+    "para_los_mayores": "Que quien responde haga la siguiente pregunta.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 16",
+      "mensaje": "Que la palabra de Cristo habite en ustedes con toda su riqueza."
+    },
+    "mensaje_final": "Me divierto aprendiendo de Jesús."
+  },
+  {
+    "id": "10-007",
+    "modulo": 10,
+    "titulo": "Verdadero o Falso Saltarín",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar ideas clave distinguiendo lo verdadero de lo falso.",
+    "materiales": [
+      "Una cinta en el suelo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pega una cinta en el suelo: a un lado «Verdadero», al otro «Falso».",
+      "Los niños se paran sobre la cinta.",
+      "Lee una frase del tema; saltan al lado que creen correcto.",
+      "Explica la respuesta correcta después de cada frase.",
+      "Termina con una frase que todos sepan: «Dios me ama» (¡Verdadero!)."
+    ],
+    "para_los_mas_pequenos": "Usa frases muy claras y repítelas.",
+    "para_los_mayores": "Que ellos inventen frases falsas que suenen verdaderas.",
+    "cita_biblica": {
+      "referencia": "Juan 8, 32",
+      "mensaje": "Conocerán la verdad, y la verdad los hará libres."
+    },
+    "mensaje_final": "La verdad de Dios me hace libre."
+  },
+  {
+    "id": "10-008",
+    "modulo": 10,
+    "titulo": "La Ruleta del Repaso",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Repasar distintos tipos de preguntas con una ruleta.",
+    "materiales": [
+      "Un plato de cartón dividido en colores con una flecha",
+      "Tarjetas de preguntas por color"
+    ],
+    "preparacion": "Cada color es un tipo de reto: pregunta, mímica, dibujo, canto.",
+    "pasos": [
+      "Explica qué significa cada color de la ruleta.",
+      "Un niño gira la flecha y realiza el reto que le toca.",
+      "Si lo logra, su equipo gana un punto.",
+      "Alternen entre equipos.",
+      "Al final, repasen las respuestas más importantes."
+    ],
+    "para_los_mas_pequenos": "Usa solo dos colores: pregunta y dibujo.",
+    "para_los_mayores": "Que agreguen un color de «reto especial» inventado por ellos.",
+    "cita_biblica": {
+      "referencia": "Proverbios 9, 9",
+      "mensaje": "Enseña al sabio y será más sabio."
+    },
+    "mensaje_final": "Cada reto me ayuda a aprender."
+  },
+  {
+    "id": "10-009",
+    "modulo": 10,
+    "titulo": "Tres en Línea de la Fe",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Repasar respondiendo preguntas para ganar casillas.",
+    "materiales": [
+      "Un tablero de tres por tres dibujado",
+      "Cruces y círculos de papel",
+      "Preguntas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos equipos: cruces y círculos.",
+      "Para colocar su ficha, el equipo debe responder bien una pregunta.",
+      "Si se equivoca, pierde el turno.",
+      "Gana el equipo que forme una línea de tres.",
+      "Jueguen varias rondas cambiando las preguntas."
+    ],
+    "para_los_mas_pequenos": "Que respondan en grupo con ayuda.",
+    "para_los_mayores": "Que cada casilla tenga una pregunta distinta escrita debajo.",
+    "cita_biblica": {
+      "referencia": "Proverbios 2, 6",
+      "mensaje": "Es el Señor quien da la sabiduría."
+    },
+    "mensaje_final": "Dios me da sabiduría."
+  },
+  {
+    "id": "10-010",
+    "modulo": 10,
+    "titulo": "Escaleras de la Fe",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 16 niños",
+    "objetivo": "Repasar avanzando en un tablero con buenas acciones y preguntas.",
+    "materiales": [
+      "Tablero de casillas dibujado con escaleras",
+      "Un dado",
+      "Fichas"
+    ],
+    "preparacion": "Algunas casillas tienen escaleras que suben (buenas acciones) y otras resbalones que bajan.",
+    "pasos": [
+      "Cada jugador lanza el dado y avanza.",
+      "Si cae en una escalera, lee la buena acción y sube.",
+      "Si cae en un resbalón, responde una pregunta para no bajar.",
+      "Gana quien llegue al cielo, en la última casilla.",
+      "Conversen: las buenas acciones nos acercan a Dios."
+    ],
+    "para_los_mas_pequenos": "Juega en equipos con un adulto que lea.",
+    "para_los_mayores": "Que diseñen su propio tablero con el tema estudiado.",
+    "cita_biblica": {
+      "referencia": "Filipenses 3, 14",
+      "mensaje": "Corro hacia la meta para alcanzar el premio del cielo."
+    },
+    "mensaje_final": "Cada paso bueno me acerca a Dios."
+  },
+  {
+    "id": "10-011",
+    "modulo": 10,
+    "titulo": "Dibuja y Adivina",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar personajes y conceptos dibujando.",
+    "materiales": [
+      "Pizarra o papel grande",
+      "Marcadores",
+      "Tarjetas con palabras del tema"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en dos equipos.",
+      "Un niño toma una tarjeta y dibuja la palabra sin hablar ni escribir letras.",
+      "Su equipo tiene un minuto para adivinar.",
+      "Si aciertan, ganan un punto y explican la palabra.",
+      "Alternen hasta que todos hayan dibujado."
+    ],
+    "para_los_mas_pequenos": "Que dibujen palabras muy concretas: pan, cruz, barca.",
+    "para_los_mayores": "Que dibujen conceptos más difíciles: perdón, fe, paz.",
+    "cita_biblica": {
+      "referencia": "Salmo 111, 2",
+      "mensaje": "Grandes son las obras del Señor; las estudian los que las aman."
+    },
+    "mensaje_final": "Recuerdo las maravillas de Dios."
+  },
+  {
+    "id": "10-012",
+    "modulo": 10,
+    "titulo": "El Rosco de la A a la Z",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Repasar vocabulario de fe con letras del abecedario.",
+    "materiales": [
+      "Lista de pistas por letra (A: Arca, B: Bautismo...)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que cada pista corresponde a una palabra que empieza con una letra.",
+      "Lee la pista: «Con la B: sacramento que nos hace hijos de Dios».",
+      "El niño o equipo responde; si no sabe, dice «paso» y sigue otra letra.",
+      "Vuelvan a las letras pendientes al final.",
+      "Celebren cuántas letras lograron completar."
+    ],
+    "para_los_mas_pequenos": "Usa solo diez letras con pistas fáciles.",
+    "para_los_mayores": "Que preparen ellos las pistas de algunas letras.",
+    "cita_biblica": {
+      "referencia": "Apocalipsis 1, 8",
+      "mensaje": "Dios dice: Yo soy el Alfa y la Omega."
+    },
+    "mensaje_final": "De la A a la Z, Dios está conmigo."
+  },
+  {
+    "id": "10-013",
+    "modulo": 10,
+    "titulo": "¡Basta! Cristiano",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Repasar categorías de fe con rapidez.",
+    "materiales": [
+      "Hojas con columnas (santo, lugar bíblico, oración, personaje, objeto de la iglesia)",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una hoja a cada niño con las columnas.",
+      "Di una letra al azar.",
+      "Los niños escriben una palabra que empiece con esa letra en cada columna.",
+      "El primero en terminar grita «¡Basta!» y todos dejan de escribir.",
+      "Revisen y den puntos por respuestas correctas y originales."
+    ],
+    "para_los_mas_pequenos": "Que jueguen en parejas con un mayor.",
+    "para_los_mayores": "Que agreguen una columna nueva.",
+    "cita_biblica": {
+      "referencia": "Proverbios 4, 7",
+      "mensaje": "Lo principal es la sabiduría: adquiérela."
+    },
+    "mensaje_final": "Pienso rápido en las cosas de Dios."
+  },
+  {
+    "id": "10-014",
+    "modulo": 10,
+    "titulo": "La Palabra Escondida",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Adivinar palabras clave de un tema letra por letra.",
+    "materiales": [
+      "Pizarra o papel",
+      "Marcador"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Dibuja una raya por cada letra de una palabra del tema.",
+      "Los niños dicen letras por turnos.",
+      "Si la letra está, la escribes en su lugar; si no, dibujas una parte de una flor.",
+      "Deben adivinar antes de que la flor esté completa.",
+      "Quien adivina explica la palabra."
+    ],
+    "para_los_mas_pequenos": "Usa palabras cortas y da pistas con dibujos.",
+    "para_los_mayores": "Que un niño elija la palabra y dirija el juego.",
+    "cita_biblica": {
+      "referencia": "Proverbios 2, 4-5",
+      "mensaje": "Si buscas la sabiduría como un tesoro escondido, encontrarás el conocimiento de Dios."
+    },
+    "mensaje_final": "Descubro tesoros en mi fe."
+  },
+  {
+    "id": "10-015",
+    "modulo": 10,
+    "titulo": "La Torre de Preguntas",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 16 niños",
+    "objetivo": "Repasar respondiendo preguntas mientras se construye una torre.",
+    "materiales": [
+      "Bloques de madera o cajas pequeñas con números",
+      "Tarjetas numeradas de preguntas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Arma una torre con los bloques numerados.",
+      "Cada niño saca un bloque con cuidado.",
+      "Responde la pregunta que corresponde al número.",
+      "Coloca el bloque arriba de la torre.",
+      "El juego sigue hasta que la torre se caiga; ¡todos ríen y repasan!"
+    ],
+    "para_los_mas_pequenos": "Que saquen bloques de una torre baja con tu ayuda.",
+    "para_los_mayores": "Que escriban preguntas nuevas en los bloques.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 3, 11",
+      "mensaje": "Nadie puede poner otro cimiento que el ya puesto, que es Jesucristo."
+    },
+    "mensaje_final": "Construyo mi fe sobre Jesús."
+  },
+  {
+    "id": "10-016",
+    "modulo": 10,
+    "titulo": "Globos con Sorpresa",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar con preguntas escondidas en globos.",
+    "materiales": [
+      "Globos",
+      "Papelitos con preguntas"
+    ],
+    "preparacion": "Mete un papelito con una pregunta en cada globo antes de inflarlo.",
+    "pasos": [
+      "Reparte un globo a cada niño o lanza varios al aire.",
+      "A tu señal, cada niño revienta su globo (sentándose sobre él o apretándolo).",
+      "Lee la pregunta y la responde.",
+      "Si no sabe, el grupo lo ayuda.",
+      "Recojan los restos de globos juntos al terminar."
+    ],
+    "para_los_mas_pequenos": "Revienta tú los globos y lee las preguntas.",
+    "para_los_mayores": "Que respondan y expliquen con un ejemplo de su vida.",
+    "cita_biblica": {
+      "referencia": "Salmo 34, 12",
+      "mensaje": "Vengan, niños, escúchenme, y les enseñaré a amar a Dios."
+    },
+    "mensaje_final": "Aprender con alegría es un regalo."
+  },
+  {
+    "id": "10-017",
+    "modulo": 10,
+    "titulo": "Búsqueda del Tesoro",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 25,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar un tema siguiendo pistas hasta un tesoro.",
+    "materiales": [
+      "Tarjetas con pistas y preguntas",
+      "Un «tesoro» (cofre con una Biblia, estampas o caramelos)"
+    ],
+    "preparacion": "Esconde las pistas por el salón o el patio; cada una lleva a la siguiente.",
+    "pasos": [
+      "Forma equipos y entrega la primera pista.",
+      "Para encontrar la siguiente pista, deben responder correctamente la pregunta.",
+      "Sigan el recorrido hasta encontrar el tesoro.",
+      "Abran el cofre y compartan lo que encontraron.",
+      "Explica que el mayor tesoro es conocer a Jesús."
+    ],
+    "para_los_mas_pequenos": "Que recorran en grupo con un adulto guía.",
+    "para_los_mayores": "Que cada equipo prepare una pista para el otro.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 21",
+      "mensaje": "Donde está tu tesoro, allí está tu corazón."
+    },
+    "mensaje_final": "Jesús es mi mayor tesoro."
+  },
+  {
+    "id": "10-018",
+    "modulo": 10,
+    "titulo": "Relevos de la Fe",
+    "tipo": "Rompehielos",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "10 a 30 niños",
+    "objetivo": "Repasar con una carrera de relevos en equipos.",
+    "materiales": [
+      "Tarjetas con preguntas",
+      "Dos canastas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma dos filas y coloca una canasta con preguntas al frente de cada una.",
+      "El primero de cada fila camina rápido (sin correr) a la canasta, saca una pregunta y la responde en voz alta.",
+      "Si acierta, vuelve y toca la mano del siguiente.",
+      "Gana el equipo que termine primero con todas las respuestas correctas.",
+      "Al final, repasen las preguntas más difíciles."
+    ],
+    "para_los_mas_pequenos": "Que caminen tomados de la mano de un compañero mayor.",
+    "para_los_mayores": "Que el equipo tenga que explicar cada respuesta.",
+    "cita_biblica": {
+      "referencia": "Hebreos 12, 1",
+      "mensaje": "Corramos con constancia la carrera que tenemos por delante."
+    },
+    "mensaje_final": "Corro con alegría hacia Jesús."
+  },
+  {
+    "id": "10-019",
+    "modulo": 10,
+    "titulo": "El Noticiero Bíblico",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Repasar una historia bíblica contándola como una noticia.",
+    "materiales": [
+      "Una caja como televisor",
+      "Un micrófono de juguete o de cartón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en equipos de periodistas.",
+      "Cada equipo elige una historia del tema estudiado.",
+      "Preparan una noticia con presentador, reportero y entrevistado.",
+      "Presentan su noticia dentro del «televisor».",
+      "El grupo comenta qué aprendió de cada noticia."
+    ],
+    "para_los_mas_pequenos": "Que sean el público que aplaude y hace preguntas.",
+    "para_los_mayores": "Que agreguen un «último momento» con una enseñanza.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 10",
+      "mensaje": "Les traigo una buena noticia, que será de gran alegría."
+    },
+    "mensaje_final": "Las historias de Dios son buenas noticias."
+  },
+  {
+    "id": "10-020",
+    "modulo": 10,
+    "titulo": "Entrevista a un Personaje",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Repasar a los personajes bíblicos o santos entrevistándolos.",
+    "materiales": [
+      "Un micrófono de cartón",
+      "Tarjetas con personajes"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Un niño elige un personaje sin decirlo.",
+      "Los demás le hacen preguntas como periodistas: «¿Dónde vivías?», «¿Qué te pasó?».",
+      "El niño responde como si fuera el personaje.",
+      "El grupo adivina quién es.",
+      "Repitan con otros personajes."
+    ],
+    "para_los_mas_pequenos": "Que el personaje sea conocido y tú hagas las preguntas.",
+    "para_los_mayores": "Que preparen preguntas profundas: «¿Qué aprendiste de Dios?».",
+    "cita_biblica": {
+      "referencia": "Hebreos 13, 7",
+      "mensaje": "Acuérdense de quienes les anunciaron la Palabra e imiten su fe."
+    },
+    "mensaje_final": "Los personajes de la fe me enseñan a confiar."
+  },
+  {
+    "id": "10-021",
+    "modulo": 10,
+    "titulo": "Estatuas Bíblicas",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "8 a 30 niños",
+    "objetivo": "Repasar escenas importantes formando cuadros vivos inmóviles.",
+    "materiales": [
+      "Papelitos con escenas del tema",
+      "Telas o accesorios sencillos (opcional)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma grupos de cuatro o cinco niños y entrega a cada uno una escena en secreto.",
+      "Cada grupo tiene tres minutos para preparar una «foto» de la escena: todos quietos como estatuas.",
+      "Cuando digas «¡Foto!», el grupo se congela en su posición.",
+      "Los demás grupos caminan alrededor, observan y adivinan la escena.",
+      "Al acertar, las «estatuas» cobran vida y cuentan qué pasó en esa historia."
+    ],
+    "para_los_mas_pequenos": "Que formen una sola estatua grande todos juntos, guiados por ti.",
+    "para_los_mayores": "Que preparen tres «fotos» seguidas: inicio, medio y final de la historia.",
+    "cita_biblica": {
+      "referencia": "Salmo 145, 4",
+      "mensaje": "Una generación cuenta a la otra tus obras."
+    },
+    "mensaje_final": "Cuento las obras de Dios con todo mi cuerpo."
+  },
+  {
+    "id": "10-022",
+    "modulo": 10,
+    "titulo": "Canción del Repaso",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Resumir lo aprendido en una canción.",
+    "materiales": [
+      "Hoja y lápiz"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Elige una melodía muy conocida por el grupo.",
+      "Pide a los niños que digan las ideas más importantes del tema.",
+      "Entre todos, armen una letra nueva con esas ideas.",
+      "Ensayen y canten la canción con gestos.",
+      "Graben o anoten la canción para cantarla otra vez."
+    ],
+    "para_los_mas_pequenos": "Que repitan el estribillo que tú inventas.",
+    "para_los_mayores": "Que escriban una estrofa por cada idea principal.",
+    "cita_biblica": {
+      "referencia": "Salmo 98, 1",
+      "mensaje": "Canten al Señor un canto nuevo, porque ha hecho maravillas."
+    },
+    "mensaje_final": "Canto lo que aprendo de Dios."
+  },
+  {
+    "id": "10-023",
+    "modulo": 10,
+    "titulo": "Ritmo de Preguntas",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar con ritmo de palmas.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un ritmo: dos palmas en las piernas, dos aplausos.",
+      "Mantengan el ritmo mientras haces una pregunta en los aplausos.",
+      "El niño señalado responde siguiendo el ritmo.",
+      "Si se pierde el ritmo, todos empiezan de nuevo riendo.",
+      "Aumenta poco a poco la velocidad."
+    ],
+    "para_los_mas_pequenos": "Haz el ritmo lento y preguntas de una palabra.",
+    "para_los_mayores": "Que respondan con una frase completa sin perder el ritmo.",
+    "cita_biblica": {
+      "referencia": "Salmo 47, 2",
+      "mensaje": "Aplaudan todos los pueblos, aclamen a Dios con alegría."
+    },
+    "mensaje_final": "Aprendo con alegría y ritmo."
+  },
+  {
+    "id": "10-024",
+    "modulo": 10,
+    "titulo": "Mi Propio Juego de Memoria",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Elaborar un juego de memoria con lo aprendido para jugar en casa.",
+    "materiales": [
+      "Cartulina",
+      "Tijeras de punta redonda",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño recorta 12 tarjetas del mismo tamaño.",
+      "Dibujan seis imágenes del tema, cada una dos veces.",
+      "Decoren el reverso de todas las tarjetas igual.",
+      "Jueguen en parejas con sus juegos.",
+      "Llévenlo a casa para jugar en familia."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo cuatro parejas.",
+    "para_los_mayores": "Que hagan parejas de palabra y definición.",
+    "cita_biblica": {
+      "referencia": "Deuteronomio 6, 7",
+      "mensaje": "Repite estas palabras a tus hijos, en casa y en el camino."
+    },
+    "mensaje_final": "Comparto lo que aprendo con mi familia."
+  },
+  {
+    "id": "10-025",
+    "modulo": 10,
+    "titulo": "El Mural del Tema",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 25,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Resumir un tema en un mural colectivo.",
+    "materiales": [
+      "Papel kraft grande",
+      "Lápices de colores",
+      "Revistas",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Escribe el nombre del tema en el centro del papel.",
+      "Divide al grupo en equipos, cada uno con una idea del tema.",
+      "Cada equipo dibuja o pega imágenes sobre su idea.",
+      "Presenten el mural explicando cada parte.",
+      "Cuélguenlo en la parroquia para que otros aprendan."
+    ],
+    "para_los_mas_pequenos": "Que peguen recortes ya preparados.",
+    "para_los_mayores": "Que agreguen frases bíblicas a cada parte.",
+    "cita_biblica": {
+      "referencia": "Habacuc 2, 2",
+      "mensaje": "Escribe la visión con claridad para que todos la lean."
+    },
+    "mensaje_final": "Lo que aprendo, lo comparto."
+  },
+  {
+    "id": "10-026",
+    "modulo": 10,
+    "titulo": "La Red de lo Aprendido",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "8 a 20 niños",
+    "objetivo": "Repasar uniendo ideas con un ovillo.",
+    "materiales": [
+      "Un ovillo de lana"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma un círculo; el primer niño dice algo que aprendió y lanza el ovillo sin soltar la punta.",
+      "Quien lo recibe dice otra cosa aprendida y lo lanza a otro.",
+      "Al final se forma una red de ideas.",
+      "Para desenredar, cada uno devuelve el ovillo diciendo algo que aplicará en su vida.",
+      "Conversen: todo lo que aprendemos está conectado."
+    ],
+    "para_los_mas_pequenos": "Haz rodar el ovillo y acepta respuestas de una palabra.",
+    "para_los_mayores": "Que conecten su idea con la del compañero anterior.",
+    "cita_biblica": {
+      "referencia": "Colosenses 2, 2",
+      "mensaje": "Que estén unidos en el amor y comprendan el misterio de Dios."
+    },
+    "mensaje_final": "Todo lo que aprendo me une a Jesús."
+  },
+  {
+    "id": "10-027",
+    "modulo": 10,
+    "titulo": "Lo que Más me Gustó",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Expresar lo aprendido y lo que más tocó el corazón.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que cierren los ojos y recuerden lo que vieron en este tema.",
+      "Cada niño dibuja lo que más le gustó.",
+      "Debajo escriben una frase: «Aprendí que...».",
+      "Compartan en círculo.",
+      "Guarden los dibujos en una carpeta del grupo."
+    ],
+    "para_los_mas_pequenos": "Que solo dibujen y digan una palabra.",
+    "para_los_mayores": "Que escriban también cómo lo vivirán esta semana.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 19",
+      "mensaje": "María guardaba todo en su corazón y lo meditaba."
+    },
+    "mensaje_final": "Guardo en mi corazón lo que aprendí."
+  },
+  {
+    "id": "10-028",
+    "modulo": 10,
+    "titulo": "La Pregunta que me Quedó",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Dar espacio a las dudas y preguntas sobre la fe.",
+    "materiales": [
+      "Papelitos",
+      "Una caja de preguntas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que tener preguntas es bueno: así aprendemos más.",
+      "Cada niño escribe una pregunta sobre el tema (puede ser anónima).",
+      "Coloquen las preguntas en la caja.",
+      "Lee y responde algunas en el momento; guarda las difíciles para investigar juntos.",
+      "Agradece por las preguntas y recen pidiendo sabiduría."
+    ],
+    "para_los_mas_pequenos": "Que hagan su pregunta en voz alta.",
+    "para_los_mayores": "Que investiguen la respuesta en la Biblia o el Catecismo con tu ayuda.",
+    "cita_biblica": {
+      "referencia": "Mateo 7, 7",
+      "mensaje": "Busquen y encontrarán."
+    },
+    "mensaje_final": "Puedo preguntar para conocer más a Dios."
+  },
+  {
+    "id": "10-029",
+    "modulo": 10,
+    "titulo": "Oración con lo Aprendido",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Convertir lo aprendido en oración.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que cada niño diga una cosa que aprendió.",
+      "Transformen cada idea en oración: «Aprendí que Jesús perdona» → «Gracias, Jesús, porque me perdonas».",
+      "Cada niño dice su oración.",
+      "El grupo responde: «¡Gracias, Señor!».",
+      "Terminen con un Padre Nuestro."
+    ],
+    "para_los_mas_pequenos": "Ayuda a cada niño a transformar su idea.",
+    "para_los_mayores": "Que escriban su oración en una tarjeta.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 12",
+      "mensaje": "Bendito eres, Señor; enséñame tus mandatos."
+    },
+    "mensaje_final": "Lo que aprendo se vuelve oración."
+  },
+  {
+    "id": "10-030",
+    "modulo": 10,
+    "titulo": "Medallas de Fe",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Celebrar el esfuerzo de aprender y pedir a Dios fidelidad.",
+    "materiales": [
+      "Círculos de cartulina dorada",
+      "Lana"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Felicita al grupo por todo lo que aprendieron.",
+      "Entrega a cada niño una medalla de cartulina para que escriba su nombre.",
+      "Al colgarla en su cuello, di: «[Nombre], sigue creciendo en la fe».",
+      "El niño responde: «Con la ayuda de Dios».",
+      "Recen juntos pidiendo seguir aprendiendo y amando a Jesús."
+    ],
+    "para_los_mas_pequenos": "Que decoren su medalla con stickers.",
+    "para_los_mayores": "Que escriban en el reverso lo que quieren aprender después.",
+    "cita_biblica": {
+      "referencia": "2 Timoteo 4, 7",
+      "mensaje": "He corrido hasta la meta y he conservado la fe."
+    },
+    "mensaje_final": "Con la ayuda de Dios, sigo creciendo en la fe."
+  }
+]
