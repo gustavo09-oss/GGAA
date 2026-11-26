@@ -1,6 +1,8 @@
 output/*.html
 output/*_png/
-output/muestra.pdf
-__pycache__/
-output/capas.pdf
+output/revision/
 output/check.pdf
+output/muestra.pdf
+output/capas.pdf
+output/capas_comparativo.png
+__pycache__/

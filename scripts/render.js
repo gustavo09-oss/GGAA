@@ -29,7 +29,7 @@ const fs = require('fs');
   console.log(JSON.stringify(report));
 
   if (output && output !== '-') {
-    await page.pdf({ path: output, format: 'Letter', printBackground: true, preferCSSPageSize: true, tagged: true, outline: true });
+    await page.pdf({ path: output, format: 'Letter', printBackground: true, preferCSSPageSize: true, tagged: false, outline: true });
   }
 
   if (opt.png) {

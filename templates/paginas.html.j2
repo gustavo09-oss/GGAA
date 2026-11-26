@@ -1,0 +1,169 @@
+{# Macros das páginas não-ficha. Variáveis globais: icons, ilus, mods, page_of #}
+
+{% macro footer(n) -%}
+<div class="page-footer"><span class="brand">Catequesis Viva</span><span>{{ n }}</span></div>
+{%- endmacro %}
+
+{# ---------------------------------------------------------------- Carta #}
+{% macro carta(n) %}
+<section class="page carta" id="carta">
+  <div class="page-inner">
+    <div class="papel">
+      <div class="saludo">Querida catequista:</div>
+      <div class="prose">
+        <p>Si tienes este material en tus manos, es porque cada semana dedicas tiempo, cariño y mucha paciencia a un grupo de niños que Dios puso en tu camino. Tal vez lo haces después del trabajo, entre las tareas de la casa o con el corazón un poco cansado. <b>Queremos decirte gracias.</b> Lo que haces es grande, aunque muchas veces nadie lo vea.</p>
+        <p>Sabemos lo que es llegar al sábado sin saber qué actividad preparar, buscar ideas a última hora o sentir que los niños se distraen. Por eso creamos <b>Catequesis Viva</b>: más de quinientas dinámicas listas para usar, con materiales sencillos, pasos claros y adaptaciones para cada edad.</p>
+        <p>Aquí encontrarás juegos, manualidades, cantos, oraciones y pequeñas obras de teatro pensadas especialmente para niños que se preparan para su Primera Comunión, pero útiles para todo el camino de la catequesis infantil. Cada página es un encuentro posible: ábrela, prepara lo necesario en pocos minutos y deja que el Espíritu Santo haga el resto.</p>
+        <p>Nuestro deseo es que tus encuentros sean más livianos y más alegres, y que tus niños salgan de cada uno un poquito más cerca de Jesús. Y que tú también, al prepararlos, sientas que Él camina contigo.</p>
+        <p>Con cariño y una oración por ti y por tu grupo,</p>
+      </div>
+      <div class="firma">El equipo de Catequesis Viva<small>«Dejen que los niños vengan a mí» (Marcos 10, 14)</small></div>
+      <div class="ilus-carta icon">{{ ilus.corazon }}</div>
+    </div>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Cómo usar #}
+{% macro como_usar(n) %}
+<section class="page" id="como-usar">
+  <div class="page-inner">
+    <div class="pg-kicker">Antes de empezar</div>
+    <h1 class="pg-title">Cómo usar este material</h1>
+    <hr class="pg-rule">
+    <div class="usar-grid">
+      <div class="usar-card"><h3>Encuentra rápido</h3><p>Busca por tema en el <a href="#indice"><b>Índice</b></a> (cada módulo tiene su color) o por tipo de actividad en el <a href="#indice-tipo"><b>Índice por tipo</b></a> al final. Todos los títulos son enlaces: tócalos y vas directo a la página.</p></div>
+      <div class="usar-card"><h3>Lee la ficha en 1 minuto</h3><p>Cada dinámica ocupa una página: objetivo, materiales con casillas para marcar, pasos numerados, adaptaciones por edad y un mensaje para llevar a casa con su cita bíblica.</p></div>
+      <div class="usar-card"><h3>Usa los sellos de edad</h3><p><b>Todas</b> funciona de 4 a 12 años. <b>5+</b> es desde 5 años. <b>7+</b> pide leer y escribir un poco. Si tu grupo es mixto, usa las adaptaciones «Para los más pequeños» y «Para los mayores».</p></div>
+      <div class="usar-card"><h3>Materiales de casa</h3><p>Casi todo se hace con papel, lápices de colores, cartulina, lana, cajas y globos. Prepara una «caja de catequesis» con estos básicos y siempre estarás lista.</p></div>
+    </div>
+    <div class="plan">
+      <h3>Tu encuentro de 60 minutos, armado en 5 pasos</h3>
+      <div class="plan-row"><div class="plan-min" style="background:#E2B45A">10'</div><p><b>Apertura.</b> Una dinámica del Módulo 1 (Rompehielos) para recibir a los niños y crear un clima alegre.</p></div>
+      <div class="plan-row"><div class="plan-min" style="background:#8DB8D6">10'</div><p><b>Tema del día.</b> Cuenta la historia o explica el tema con la Biblia en la mano (Módulos 2 a 9).</p></div>
+      <div class="plan-row"><div class="plan-min" style="background:#8FAE8B">20'</div><p><b>Dinámica central.</b> Un juego, una manualidad o un teatro del mismo módulo para vivir lo aprendido.</p></div>
+      <div class="plan-row"><div class="plan-min" style="background:#A99BC9">10'</div><p><b>Oración o repaso.</b> Una dinámica de oración (Módulo 6) o un juego de repaso (Módulo 10).</p></div>
+      <div class="plan-row"><div class="plan-min" style="background:#D9896C">10'</div><p><b>Cierre.</b> Una dinámica corta del Módulo 11, el compromiso de la semana y la bendición final.</p></div>
+    </div>
+    <p class="nota">Consejo para imprimir: las fichas tienen fondo claro para ahorrar tinta. Puedes imprimir solo las páginas que vas a usar, o en blanco y negro: todo sigue siendo legible. Este material es para tu uso personal y el de tu grupo de catequesis.</p>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Leyenda #}
+{% macro leyenda(n, tipos_desc) %}
+<section class="page" id="leyenda">
+  <div class="page-inner">
+    <div class="pg-kicker">Para leer las fichas</div>
+    <h1 class="pg-title">Leyenda</h1>
+    <hr class="pg-rule">
+    <div class="ley-sub" style="margin-top:0">Tipos de dinámica</div>
+    <div class="leyenda-grid">
+      {% for t, desc in tipos_desc %}
+      <div class="ley-item"><span class="icon">{{ icons[tipo_slug(t)] }}</span><div><h3>{{ t }}</h3><p>{{ desc }}</p></div></div>
+      {% endfor %}
+    </div>
+    <div class="ley-sub">Sellos de edad</div>
+    <div class="edades-row">
+      <div class="edad-card todas"><h3>Todas las edades</h3><p>Funciona con niños de 4 a 12 años. No exige leer ni escribir.</p></div>
+      <div class="edad-card cinco"><h3>Desde 5 años</h3><p>Pide un poco más de atención, coordinación o memoria.</p></div>
+      <div class="edad-card siete"><h3>Desde 7 años</h3><p>Exige lectura y escritura básica. Ideal para Primera Comunión.</p></div>
+    </div>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Índice de módulos #}
+{% macro indice(n, mods, extras) %}
+<section class="page" id="indice">
+  <div class="page-inner">
+    <div class="pg-kicker">Contenido</div>
+    <h1 class="pg-title">Índice</h1>
+    <hr class="pg-rule">
+    {% for m in mods %}
+    <a href="#mod-{{ m.n }}" class="idx-mod mod-{{ m.n }}">
+      <span class="num">{{ m.n }}</span>
+      <span class="t">{{ m.titulo }}<small>{{ m.total }} dinámicas</small></span>
+      <span class="pg">{{ m.page }}</span>
+    </a>
+    {% endfor %}
+    <div style="margin-top:8px">
+      {% for label, anchor, pg in extras %}
+      <a href="#{{ anchor }}" class="idx-extra"><span>{{ label }}</span><span>{{ pg }}</span></a>
+      {% endfor %}
+    </div>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Índice em colunas #}
+{% macro indice_cols(n, cols, title, kicker, anchor) %}
+<section class="page" {% if anchor %}id="{{ anchor }}"{% endif %}>
+  <div class="page-inner">
+    <div class="pg-kicker">{{ kicker }}</div>
+    <h1 class="pg-title" style="font-size:24pt">{{ title }}</h1>
+    <hr class="pg-rule" style="margin:8px 0 4px">
+    <div class="idx-cols">
+      {% for col in cols %}
+      <div class="idx-col clip">
+        {% for it in col %}
+          {% if it.kind == 'h' %}
+          <div class="idx-h {{ it.cls }}">{% if it.icon %}<span class="icon">{{ icons[it.icon] }}</span>{% endif %}{{ it.text }}</div>
+          {% else %}
+          <a href="#d-{{ it.id }}" class="idx-e mod-{{ it.mod }}">{% if it.dot %}<span class="m"></span>{% endif %}<span class="tt">{{ it.text }}</span><span class="dots"></span><span class="pp">{{ it.page }}</span></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Divisória #}
+{% macro divisoria(m) %}
+<section class="page divisoria mod-{{ m.n }}" id="mod-{{ m.n }}">
+  <div class="faixa-top"></div>
+  <div class="borda"></div>
+  <div class="conteudo">
+    <div class="mod-num">Módulo</div>
+    <div class="big-num">{{ m.n }}</div>
+    <h1>{{ m.titulo }}</h1>
+    <div class="ilus-div icon">{{ ilus['modulo_%02d' % m.n] }}</div>
+    <div class="cita">«{{ m.frase }}»<small>{{ m.ref }}</small></div>
+    <div class="cuantas">{{ m.total }} dinámicas · páginas {{ m.page + 1 }} a {{ m.page + m.total }}</div>
+  </div>
+</section>
+{% endmacro %}
+
+{# ---------------------------------------------------------------- Página final #}
+{% macro final(n) %}
+<section class="page final" id="final">
+  <div class="page-inner">
+    <div class="oracion">
+      <h2>Oración de la catequista</h2>
+      <p>Señor Jesús, tú que abrazaste a los niños y los bendijiste,<br>
+      gracias por confiarme a estos pequeños que tanto amas.<br>
+      Dame un corazón paciente para escucharlos,<br>
+      palabras sencillas para hablarles de ti<br>
+      y alegría para que descubran lo bueno que es tu amor.<br>
+      Cuando me sienta cansada, sé tú mi descanso;<br>
+      cuando no sepa qué hacer, sé tú mi luz.<br>
+      Que en cada encuentro siembre una semilla<br>
+      y que tú la hagas crecer en su tiempo.<br>
+      María, Madre y primera catequista, acompáñame. Amén.</p>
+    </div>
+    <p class="cierre">Gracias por usar <b>Catequesis Viva</b>. Que cada página te ayude a preparar encuentros llenos de vida, y que tus niños lleguen a su Primera Comunión con el corazón dispuesto y feliz. Dios bendiga tu servicio.</p>
+    <div class="favs">
+      <h3>Mis dinámicas favoritas</h3>
+      {% for i in range(12) %}<div class="linha"><span>Nº</span><span>pág.</span></div>{% endfor %}
+    </div>
+  </div>
+  {{ footer(n) }}
+</section>
+{% endmacro %}
