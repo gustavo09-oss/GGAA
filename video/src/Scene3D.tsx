@@ -409,8 +409,24 @@ const World: React.FC<{ f: number; v: Version }> = ({ f, v }) => {
       )}
       {f >= 668 && (() => {
         const s = spring(f, 668, 1.5, 0.35);
-        const pos = [0.6, 2.72, 1.4];
-        return <PriceSeal tex={tex.price} position={pos as any} rotation={[0, (1 - Math.min(1, s)) * Math.PI * 4 + Math.sin(f * 0.06) * 0.2, 0.15]} scale={Math.max(0.001, s) * 0.46} />;
+        const mv = easeInOut(prog(f, 716, 726));
+        const pos = [lerp(0.45, 0.6, mv), lerp(2.25, 2.72, mv), 1.4];
+        const hit = bell(f, 686, 714, 6);
+        const pulse = 1 + Math.sin(f * 0.26) * 0.06;
+        const sc = Math.max(0.001, s) * 0.46 * (pulse + hit * 0.22);
+        const burst = prog(f, 686, 704);
+        return (
+          <group>
+            <Rays f={f * 4} opacity={0.45 * Math.min(1, s)} position={[pos[0], pos[1], pos[2] - 0.15]} scale={0.24 + hit * 0.06} />
+            {burst > 0 && burst < 1 && (
+              <sprite position={[pos[0], pos[1], pos[2] + 0.1]} scale={[0.9 + burst * 2.2, 0.9 + burst * 2.2, 1]}>
+                <spriteMaterial map={tex.ring} color={C.mostarda} transparent opacity={1 - burst} blending={THREE.AdditiveBlending} depthWrite={false} toneMapped={false} />
+              </sprite>
+            )}
+            <PriceSeal tex={tex.price} position={pos as any} rotation={[0, (1 - Math.min(1, s)) * Math.PI * 4 + Math.sin(f * 0.06) * 0.2, 0.15 + Math.sin(f * 0.13) * 0.06]} scale={sc} />
+            <Sparkles f={f} center={pos} spread={[1.3, 1.3, 0.6]} n={16} opacity={Math.min(1, s)} />
+          </group>
+        );
       })()}
       {f >= 784 && (() => {
         const s = easeOutBack(prog(f, 784, 800), 2.2);

@@ -119,7 +119,7 @@ jobs.push({
 <circle cx="300" cy="300" r="222" fill="#FBF7F1" stroke="#4A3A2E" stroke-width="7"/>
 <circle cx="300" cy="300" r="200" fill="none" stroke="#C9AE8C" stroke-width="5" stroke-dasharray="14 12"/></svg>
 <div class="f" style="position:absolute;left:0;right:0;top:150px;text-align:center;font-weight:600;font-size:56px;letter-spacing:8px;color:#7A6656">${cfg.priceLabel[lang]}</div>
-<div class="f" style="position:absolute;left:0;right:0;top:${300 - pfs * 0.42}px;text-align:center;font-weight:700;font-size:${pfs}px;line-height:1;color:#D9896C;white-space:nowrap">${price}</div>
+<div class="f" style="position:absolute;left:0;right:0;top:${300 - pfs * 0.42}px;text-align:center;font-weight:700;font-size:${pfs}px;line-height:1;color:#D9896C;white-space:nowrap;-webkit-text-stroke:7px #4A3A2E;paint-order:stroke fill;text-shadow:0 7px 0 #4A3A2E">${price}</div>
 </div>` });
 
 // rótulo do botão

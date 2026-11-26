@@ -1,5 +1,11 @@
 {
-  "price": "USD 7",
-  "priceLabel": { "es": "SOLO", "pt": "SÓ" },
-  "button": { "es": "Más información", "pt": "Saiba mais" }
+  "price": "USD 5",
+  "priceLabel": {
+    "es": "SOLO",
+    "pt": "SÓ"
+  },
+  "button": {
+    "es": "Más información",
+    "pt": "Saiba mais"
+  }
 }
