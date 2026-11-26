@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "06-001",
+    "modulo": 6,
+    "titulo": "Rezar es Hablar con un Amigo",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que rezar es conversar con Dios, que nos escucha y nos ama.",
+    "materiales": [
+      "Dos vasos de papel unidos con un hilo (teléfono casero)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Cómo hablas con tu mejor amigo? ¿Qué le cuentas?",
+      "Muestra el teléfono de vasos y conversa con un niño por él.",
+      "Explica que rezar es hablar con Dios, y que no necesitamos teléfono: Él siempre nos escucha.",
+      "Invita a cada niño a decirle a Dios una frase corta, como a un amigo.",
+      "Terminen diciendo juntos: «Dios, gracias por escucharme siempre»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Hola, Dios, te quiero».",
+    "para_los_mayores": "Que piensen en tres cosas que podrían contarle a Dios hoy.",
+    "cita_biblica": {
+      "referencia": "Jeremías 33, 3",
+      "mensaje": "Dios dice: Llámame y yo te responderé."
+    },
+    "mensaje_final": "Dios siempre me escucha."
+  },
+  {
+    "id": "06-002",
+    "modulo": 6,
+    "titulo": "En el Nombre del Padre",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender a hacer bien la señal de la cruz y comprender su significado.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra despacio la señal de la cruz: frente (Padre), pecho (Hijo), hombro izquierdo y derecho (Espíritu Santo).",
+      "Explica que así decimos que creemos en Dios Padre, Hijo y Espíritu Santo.",
+      "Juega a «más lento, más rápido»: hagan la señal a distintas velocidades, siempre con respeto.",
+      "Luego juega al «espejo»: un niño la hace y los demás lo imitan.",
+      "Terminen haciéndola juntos con calma y diciendo «Amén»."
+    ],
+    "para_los_mas_pequenos": "Toma suavemente la mano de cada niño para guiarle el movimiento.",
+    "para_los_mayores": "Que expliquen cuándo hacemos la señal de la cruz durante el día.",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 19",
+      "mensaje": "Bauticen en el nombre del Padre, del Hijo y del Espíritu Santo."
+    },
+    "mensaje_final": "Con la señal de la cruz digo que soy de Dios."
+  },
+  {
+    "id": "06-003",
+    "modulo": 6,
+    "titulo": "La Cruz que Llevo en Mí",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar la señal de la cruz con una tarjeta para usar en casa.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Dibuja una silueta de niño en la cartulina para cada participante.",
+      "Marquen con círculos de colores los cuatro puntos de la señal de la cruz: frente, pecho y hombros.",
+      "Escriban al lado de cada punto: Padre, Hijo, Espíritu Santo, Amén.",
+      "Practiquen la señal de la cruz tocando los puntos del dibujo.",
+      "Llévenla a casa para enseñarla a la familia."
+    ],
+    "para_los_mas_pequenos": "Que peguen círculos de colores en un dibujo ya hecho.",
+    "para_los_mayores": "Que agreguen cuándo se persignan: al despertar, al comer, al salir de casa.",
+    "cita_biblica": {
+      "referencia": "Gálatas 6, 14",
+      "mensaje": "Mi orgullo es la cruz de nuestro Señor Jesucristo."
+    },
+    "mensaje_final": "Me persigno con amor."
+  },
+  {
+    "id": "06-004",
+    "modulo": 6,
+    "titulo": "Señor, Enséñanos a Orar",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer cómo Jesús enseñó a sus discípulos el Padre Nuestro.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que los discípulos vieron a Jesús rezar y le pidieron: «Señor, enséñanos a orar».",
+      "Un niño es Jesús, sentado en un lugar tranquilo rezando; otros son los discípulos que lo observan.",
+      "Un discípulo se acerca y hace la pregunta.",
+      "Jesús responde enseñando: «Cuando recen, digan: Padre nuestro...».",
+      "Todos rezan el Padre Nuestro juntos, despacio."
+    ],
+    "para_los_mas_pequenos": "Que los pequeños repitan cada frase después de Jesús.",
+    "para_los_mayores": "Que expliquen por qué decimos «nuestro» y no «mío».",
+    "cita_biblica": {
+      "referencia": "Lucas 11, 1",
+      "mensaje": "Uno de sus discípulos le dijo: Señor, enséñanos a orar."
+    },
+    "mensaje_final": "Jesús me enseñó a rezar."
+  },
+  {
+    "id": "06-005",
+    "modulo": 6,
+    "titulo": "Padre Nuestro con las Manos",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Memorizar el Padre Nuestro con gestos que ayudan a comprenderlo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un gesto para cada frase: brazos al cielo (que estás en el cielo), manos al corazón (santificado sea tu nombre), brazos abiertos (venga tu reino).",
+      "Sigan: manos como plato (danos hoy el pan), abrazarse a sí mismos (perdona), manos que se dan (como nosotros perdonamos).",
+      "Recen despacio haciendo los gestos.",
+      "Repitan varias veces hasta que lo hagan solos.",
+      "Pueden cantarlo con una melodía conocida por la comunidad."
+    ],
+    "para_los_mas_pequenos": "Que hagan los gestos mientras tú rezas.",
+    "para_los_mayores": "Que un niño dirija la oración con los gestos.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 9",
+      "mensaje": "Jesús dijo: Ustedes recen así: Padre nuestro que estás en el cielo."
+    },
+    "mensaje_final": "Rezo el Padre Nuestro con todo mi cuerpo."
+  },
+  {
+    "id": "06-006",
+    "modulo": 6,
+    "titulo": "El Rompecabezas del Padre Nuestro",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Ordenar las frases del Padre Nuestro para memorizarlo.",
+    "materiales": [
+      "Tarjetas con las frases del Padre Nuestro (un juego por equipo)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Forma equipos de tres o cuatro niños.",
+      "Entrega a cada equipo las tarjetas desordenadas.",
+      "A tu señal, ordenan la oración sobre la mesa lo más rápido posible.",
+      "Cuando terminen, la rezan en voz alta para revisar.",
+      "Conversen sobre una frase que les llame la atención."
+    ],
+    "para_los_mas_pequenos": "Usa solo cuatro tarjetas grandes con dibujos.",
+    "para_los_mayores": "Que, después de ordenarla, la reciten sin mirar.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 10",
+      "mensaje": "Venga tu reino; hágase tu voluntad en la tierra como en el cielo."
+    },
+    "mensaje_final": "El Padre Nuestro es la oración que Jesús me regaló."
+  },
+  {
+    "id": "06-007",
+    "modulo": 6,
+    "titulo": "Danos Hoy Nuestro Pan",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que pedimos a Dios lo que necesitamos cada día para nosotros y para todos.",
+    "materiales": [
+      "Un pan de papel grande",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee la frase «Danos hoy nuestro pan de cada día».",
+      "Pregunta: ¿Qué es el «pan»? La comida, pero también el cariño, la salud, la escuela.",
+      "Cada niño escribe o dibuja en el pan de papel algo que necesita cada día.",
+      "Conversen: decimos «nuestro», así que pedimos también por los que no tienen pan.",
+      "Terminen rezando juntos esa frase del Padre Nuestro."
+    ],
+    "para_los_mas_pequenos": "Que nombren alimentos y tú agregas las otras necesidades.",
+    "para_los_mayores": "Que piensen cómo pueden compartir su «pan» con otros.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 11",
+      "mensaje": "Danos hoy el pan que necesitamos."
+    },
+    "mensaje_final": "Dios me da el pan de cada día."
+  },
+  {
+    "id": "06-008",
+    "modulo": 6,
+    "titulo": "El Saludo del Ángel",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender la primera parte del Avemaría a partir del saludo del ángel y de Isabel.",
+    "materiales": [
+      "Una imagen de la Anunciación"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la imagen y recuerda que el ángel Gabriel saludó a María: «Alégrate, llena de gracia».",
+      "Explica que el Avemaría usa las palabras del ángel y de Isabel.",
+      "Recen la primera parte frase por frase: «Dios te salve, María, llena eres de gracia...».",
+      "Los niños repiten cada frase.",
+      "Terminen rezando la oración completa juntos."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Dios te salve, María».",
+    "para_los_mayores": "Que identifiquen qué parte dijo el ángel, cuál Isabel y cuál la Iglesia.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 28",
+      "mensaje": "El ángel dijo: Alégrate, llena de gracia, el Señor está contigo."
+    },
+    "mensaje_final": "Saludo a María como el ángel."
+  },
+  {
+    "id": "06-009",
+    "modulo": 6,
+    "titulo": "Avemaría en Ronda",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Memorizar el Avemaría con un juego de ronda.",
+    "materiales": [
+      "Una flor de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Cada niño, al recibir la flor, dice la siguiente palabra o frase del Avemaría.",
+      "Pasa la flor al de al lado, que continúa la oración.",
+      "Si alguien se olvida, el grupo le ayuda en voz baja.",
+      "Al completar la oración, todos dicen juntos «Amén» y comienzan otra ronda más rápida."
+    ],
+    "para_los_mas_pequenos": "Que digan frases cortas que tú les soplas.",
+    "para_los_mayores": "Que la recen hacia atrás por frases como desafío.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 42",
+      "mensaje": "Isabel dijo: Bendita tú entre las mujeres y bendito el fruto de tu vientre."
+    },
+    "mensaje_final": "Rezo con María cada día."
+  },
+  {
+    "id": "06-010",
+    "modulo": 6,
+    "titulo": "Mi Decena de Rosario",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Hacer una decena de rosario y aprender a rezarla.",
+    "materiales": [
+      "Cordón o lana",
+      "Cuentas grandes o fideos de pasta seca",
+      "Una cruz pequeña de cartulina"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el rosario nos ayuda a rezar con María recordando la vida de Jesús.",
+      "Ensarten una cuenta para el Padre Nuestro, diez para las Avemarías y una para el Gloria.",
+      "Aten la cruz al final del cordón.",
+      "Recen juntos una decena usando el rosario que hicieron.",
+      "Anímalos a rezarla en familia."
+    ],
+    "para_los_mas_pequenos": "Que ensarten cuentas grandes con tu ayuda.",
+    "para_los_mayores": "Que aprendan un misterio para meditar mientras rezan.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 51",
+      "mensaje": "María conservaba todas estas cosas en su corazón."
+    },
+    "mensaje_final": "Con el rosario rezo junto a María."
+  },
+  {
+    "id": "06-011",
+    "modulo": 6,
+    "titulo": "Gloria al Padre",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender el Gloria como una oración de alabanza a la Santísima Trinidad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el Gloria es una oración corta para alabar a Dios Padre, Hijo y Espíritu Santo.",
+      "Enseña la oración con un gesto: brazos que suben en «Gloria», tres dedos para la Trinidad.",
+      "Recítenla con ritmo y aplausos.",
+      "Luego cántenla con una melodía sencilla.",
+      "Terminen gritando juntos: «¡Amén!»."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Gloria al Padre, al Hijo y al Espíritu Santo».",
+    "para_los_mayores": "Que expliquen qué significa «por los siglos de los siglos».",
+    "cita_biblica": {
+      "referencia": "Romanos 11, 36",
+      "mensaje": "A Dios la gloria por siempre. Amén."
+    },
+    "mensaje_final": "Alabo a Dios con el Gloria."
+  },
+  {
+    "id": "06-012",
+    "modulo": 6,
+    "titulo": "Ángel de mi Guarda, Dulce Compañía",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Memorizar la oración al Ángel de la Guarda.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que cada uno tiene un ángel de la guarda.",
+      "Enseña la oración tradicional de tu comunidad frase por frase.",
+      "Agreguen gestos: abrazarse (dulce compañía), manos juntas (no me desampares).",
+      "Repitan hasta memorizarla.",
+      "Anímalos a rezarla antes de dormir."
+    ],
+    "para_los_mas_pequenos": "Que repitan frases cortas contigo.",
+    "para_los_mayores": "Que la enseñen a un hermano o primo pequeño.",
+    "cita_biblica": {
+      "referencia": "Salmo 91, 11",
+      "mensaje": "Dios ordenó a sus ángeles que te cuiden en todos tus caminos."
+    },
+    "mensaje_final": "Mi ángel me acompaña de día y de noche."
+  },
+  {
+    "id": "06-013",
+    "modulo": 6,
+    "titulo": "Los Cuatro Tipos de Oración",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer las formas de orar: alabar, agradecer, pedir y pedir perdón.",
+    "materiales": [
+      "Cuatro carteles: ¡Qué grande eres!, Gracias, Por favor, Perdón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca los carteles en las cuatro esquinas del salón.",
+      "Explica cada tipo de oración con un ejemplo.",
+      "Lee una frase de oración, por ejemplo «Señor, ayuda a mi abuela».",
+      "Los niños corren al cartel que corresponde (Por favor).",
+      "Al final, cada niño reza una frase de cada tipo."
+    ],
+    "para_los_mas_pequenos": "Usa solo «Gracias» y «Por favor» con dibujos.",
+    "para_los_mayores": "Que escriban un ejemplo propio para cada esquina.",
+    "cita_biblica": {
+      "referencia": "Filipenses 4, 6",
+      "mensaje": "Presenten a Dios lo que necesitan con oración y acción de gracias."
+    },
+    "mensaje_final": "Puedo hablar con Dios de muchas formas."
+  },
+  {
+    "id": "06-014",
+    "modulo": 6,
+    "titulo": "¡Qué Grande Eres!",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender a alabar a Dios por quién es Él.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que alabar es decirle a Dios lo maravilloso que es.",
+      "Enseña un canto de alabanza con frases sencillas: «Eres grande, eres bueno, eres santo, mi Señor».",
+      "Los niños agregan palabras: fuerte, fiel, amoroso, creador.",
+      "Canten acompañando con aplausos y brazos arriba.",
+      "Terminen con un momento de silencio y un «Amén»."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «¡Eres grande, Señor!».",
+    "para_los_mayores": "Que escriban una lista de diez nombres o cualidades de Dios.",
+    "cita_biblica": {
+      "referencia": "Salmo 145, 3",
+      "mensaje": "Grande es el Señor y digno de toda alabanza."
+    },
+    "mensaje_final": "Alabo a Dios porque es grande y bueno."
+  },
+  {
+    "id": "06-015",
+    "modulo": 6,
+    "titulo": "El Frasco de las Gracias",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Crear el hábito de agradecer a Dios cada día.",
+    "materiales": [
+      "Frascos o vasos de plástico",
+      "Papelitos de colores",
+      "Cinta o lazo",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega un frasco a cada niño para decorarlo con su nombre y un lazo.",
+      "Pide que escriban o dibujen en papelitos tres cosas por las que dan gracias hoy.",
+      "Pongan los papelitos en el frasco.",
+      "Explica que cada día pueden agregar uno nuevo.",
+      "Cuando el frasco esté lleno, lo leerán en familia y darán gracias juntos."
+    ],
+    "para_los_mas_pequenos": "Que dibujen y tú escribes una palabra en cada papel.",
+    "para_los_mayores": "Que agreguen una gracia por alguien más, no solo por ellos.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 15",
+      "mensaje": "Sean agradecidos."
+    },
+    "mensaje_final": "Cada día tengo razones para dar gracias."
+  },
+  {
+    "id": "06-016",
+    "modulo": 6,
+    "titulo": "Oración por los Demás",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a rezar por las necesidades de otras personas.",
+    "materiales": [
+      "Papelitos",
+      "Lápices",
+      "Una canasta"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que interceder es rezar por otros, como hacía Jesús.",
+      "Cada niño escribe en un papelito el nombre de alguien que necesita oración y por qué.",
+      "Pongan los papelitos en la canasta.",
+      "Pasa la canasta: cada niño saca un papelito y reza por esa persona en voz alta.",
+      "Terminen diciendo juntos: «Señor, escucha nuestra oración»."
+    ],
+    "para_los_mas_pequenos": "Que digan el nombre en voz alta y todos respondan «Te rogamos, Señor».",
+    "para_los_mayores": "Que incluyan necesidades del mundo: la paz, los pobres, los enfermos.",
+    "cita_biblica": {
+      "referencia": "1 Timoteo 2, 1",
+      "mensaje": "Recen por todas las personas."
+    },
+    "mensaje_final": "Mi oración ayuda a otros."
+  },
+  {
+    "id": "06-017",
+    "modulo": 6,
+    "titulo": "Mi Rincón de Oración",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Preparar un lugar especial en casa para rezar.",
+    "materiales": [
+      "Cajas pequeñas de cartón",
+      "Telas o papel de colores",
+      "Imágenes religiosas pequeñas",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que tener un rincón de oración en casa nos ayuda a acordarnos de Dios.",
+      "Cada niño decora una caja pequeña como un altar en miniatura.",
+      "Peguen dentro una cruz o una imagen de Jesús o María.",
+      "Agreguen detalles: flores de papel, una velita dibujada, su nombre.",
+      "Llévenla a casa e invita a la familia a rezar allí."
+    ],
+    "para_los_mas_pequenos": "Que decoren la caja con stickers o dibujos.",
+    "para_los_mayores": "Que escriban un horario de oración en familia.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 6",
+      "mensaje": "Cuando reces, entra en tu cuarto y habla con tu Padre en secreto."
+    },
+    "mensaje_final": "En mi casa hay un lugar para Dios."
+  },
+  {
+    "id": "06-018",
+    "modulo": 6,
+    "titulo": "Bendice, Señor, Estos Alimentos",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender una oración sencilla para bendecir los alimentos.",
+    "materiales": [
+      "Un plato de plástico (simbólico)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Quién nos da la comida? Dios, por medio del trabajo de muchas personas.",
+      "Enseña una oración corta: «Bendice, Señor, estos alimentos y a quienes los prepararon; da pan a los que no tienen. Amén».",
+      "Practíquenla juntos con las manos juntas y el plato en el centro.",
+      "Hagan una ronda donde cada niño dice la oración.",
+      "Anímalos a dirigir la bendición en casa."
+    ],
+    "para_los_mas_pequenos": "Que repitan «Gracias, Dios, por la comida».",
+    "para_los_mayores": "Que inventen su propia bendición de la mesa.",
+    "cita_biblica": {
+      "referencia": "Mateo 14, 19",
+      "mensaje": "Jesús tomó los panes, miró al cielo y los bendijo."
+    },
+    "mensaje_final": "Antes de comer, doy gracias a Dios."
+  },
+  {
+    "id": "06-019",
+    "modulo": 6,
+    "titulo": "Buenas Noches, Jesús",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a terminar el día con una oración de gracias y perdón.",
+    "materiales": [
+      "Una almohada o cojín"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide a los niños que se acuesten o se recuesten como si fuera la hora de dormir.",
+      "Guía con voz suave: «Piensa en algo bueno que pasó hoy y dale gracias a Jesús».",
+      "Luego: «Piensa si hiciste algo mal y pídele perdón».",
+      "Después: «Pide por alguien que quieres».",
+      "Terminen con: «Buenas noches, Jesús, cuida mi sueño. Amén»."
+    ],
+    "para_los_mas_pequenos": "Hazlo muy corto, solo con el «gracias» y el «buenas noches».",
+    "para_los_mayores": "Que lleven a casa los tres pasos escritos en una tarjeta.",
+    "cita_biblica": {
+      "referencia": "Salmo 4, 9",
+      "mensaje": "Me acuesto en paz y enseguida me duermo, porque tú, Señor, me cuidas."
+    },
+    "mensaje_final": "Termino mi día en los brazos de Dios."
+  },
+  {
+    "id": "06-020",
+    "modulo": 6,
+    "titulo": "El Dado de la Oración",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Practicar distintas formas de oración de manera divertida.",
+    "materiales": [
+      "Un dado grande de cartón con dibujos (corazón, manos, carita feliz, persona, estrella, cruz)"
+    ],
+    "preparacion": "Arma un dado: corazón = alabanza, manos = petición, carita = gracias, persona = rezar por alguien, estrella = canto, cruz = señal de la cruz.",
+    "pasos": [
+      "Sienta a los niños en círculo y explica qué significa cada dibujo.",
+      "Cada niño lanza el dado.",
+      "Según la cara que salga, hace una oración corta de ese tipo.",
+      "El grupo responde «Amén» después de cada oración.",
+      "Sigan hasta que todos hayan participado."
+    ],
+    "para_los_mas_pequenos": "Ayúdales con una frase para completar.",
+    "para_los_mayores": "Que lancen dos veces y combinen dos tipos de oración.",
+    "cita_biblica": {
+      "referencia": "Salmo 34, 2",
+      "mensaje": "Bendeciré al Señor en todo momento."
+    },
+    "mensaje_final": "Siempre hay una forma de rezar."
+  },
+  {
+    "id": "06-021",
+    "modulo": 6,
+    "titulo": "La Mano que Reza",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Usar los cinco dedos de la mano para recordar por quiénes rezar.",
+    "materiales": [
+      "Hojas",
+      "Lápices de colores"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño dibuja el contorno de su mano.",
+      "Explica: el pulgar, el más cercano, es por la familia; el índice, que señala, por quienes nos enseñan.",
+      "Sigue: el dedo del medio, el más alto, por quienes gobiernan; el anular, el más débil, por los enfermos; el meñique, el más pequeño, por nosotros mismos.",
+      "Escriban en cada dedo por quién rezan.",
+      "Recen juntos usando la mano como guía."
+    ],
+    "para_los_mas_pequenos": "Que pinten la mano y recen con tu ayuda dedo por dedo.",
+    "para_los_mayores": "Que escriban un nombre concreto en cada dedo.",
+    "cita_biblica": {
+      "referencia": "Efesios 6, 18",
+      "mensaje": "Recen en todo momento y por todos."
+    },
+    "mensaje_final": "Mi mano me recuerda por quién rezar."
+  },
+  {
+    "id": "06-022",
+    "modulo": 6,
+    "titulo": "Hablar con Dios con mis Palabras",
+    "tipo": "Oración",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a rezar con palabras propias, de forma espontánea.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que además de las oraciones aprendidas, podemos hablar con Dios con nuestras palabras.",
+      "Da un ejemplo sencillo: «Jesús, hoy estoy feliz porque jugué con mi hermano; gracias».",
+      "Invita a cada niño a decir una oración espontánea, corta.",
+      "Después de cada una, el grupo responde «Amén».",
+      "Celebra que todos supieron hablar con Dios."
+    ],
+    "para_los_mas_pequenos": "Ofrece un inicio: «Jesús, te quiero porque...».",
+    "para_los_mayores": "Que incluyan alabanza, gracias y petición en su oración.",
+    "cita_biblica": {
+      "referencia": "Romanos 8, 26",
+      "mensaje": "El Espíritu nos ayuda a rezar."
+    },
+    "mensaje_final": "Puedo hablar con Dios con mis propias palabras."
+  },
+  {
+    "id": "06-023",
+    "modulo": 6,
+    "titulo": "Perdón, Señor",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a pedir perdón a Dios en la oración con confianza.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que pedir perdón también es una forma de rezar.",
+      "Invita a los niños a pensar en silencio si hicieron algo que no agradó a Dios.",
+      "Enseña una oración corta: «Jesús, perdóname por..., ayúdame a hacerlo mejor».",
+      "Cada uno la dice en su corazón.",
+      "Terminen recordando que Dios siempre perdona a quien se arrepiente."
+    ],
+    "para_los_mas_pequenos": "Que digan juntos «Perdón, Jesús; te quiero».",
+    "para_los_mayores": "Que relacionen esta oración con la confesión.",
+    "cita_biblica": {
+      "referencia": "1 Juan 1, 9",
+      "mensaje": "Si reconocemos nuestros pecados, Dios es fiel y nos perdona."
+    },
+    "mensaje_final": "Dios siempre me perdona."
+  },
+  {
+    "id": "06-024",
+    "modulo": 6,
+    "titulo": "Escuchar en Silencio",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que rezar también es escuchar a Dios en silencio.",
+    "materiales": [
+      "Una campanita o un vaso con una cuchara"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en una conversación hay que hablar y escuchar.",
+      "Haz sonar la campana y pide silencio hasta que el sonido desaparezca.",
+      "Repite con silencios cada vez un poco más largos.",
+      "En el último silencio, pide que imaginen a Jesús sentado a su lado.",
+      "Pregunta: ¿Qué sintieron? ¿Qué creen que les dice Jesús?"
+    ],
+    "para_los_mas_pequenos": "Que el silencio dure pocos segundos.",
+    "para_los_mayores": "Que escriban qué escucharon en su corazón.",
+    "cita_biblica": {
+      "referencia": "1 Samuel 3, 9",
+      "mensaje": "Habla, Señor, que tu siervo escucha."
+    },
+    "mensaje_final": "En silencio, escucho a Dios."
+  },
+  {
+    "id": "06-025",
+    "modulo": 6,
+    "titulo": "Rezamos con el Cuerpo",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Conocer las posturas de la oración y su significado.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que también rezamos con el cuerpo.",
+      "Muestra posturas: de pie (alegría y respeto), sentados (escuchar), de rodillas (adorar y pedir perdón), manos abiertas (recibir), manos juntas (pedir).",
+      "Di una situación y los niños toman la postura correcta: «Escuchamos el Evangelio» (de pie).",
+      "Combina varias situaciones de la Misa y de la oración en casa.",
+      "Terminen rezando una oración de rodillas."
+    ],
+    "para_los_mas_pequenos": "Usa solo tres posturas.",
+    "para_los_mayores": "Que expliquen en qué momento de la Misa usamos cada postura.",
+    "cita_biblica": {
+      "referencia": "Salmo 95, 6",
+      "mensaje": "Vengan, adoremos de rodillas al Señor que nos creó."
+    },
+    "mensaje_final": "Rezo con todo mi ser."
+  },
+  {
+    "id": "06-026",
+    "modulo": 6,
+    "titulo": "La Oración de la Familia",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Valorar la oración en familia y aprender a organizarla.",
+    "materiales": [
+      "Sillas para una «sala de casa»"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Divide al grupo en «familias» de cuatro o cinco niños.",
+      "Cada familia prepara una escena corta de oración en casa: antes de comer, antes de dormir o al salir.",
+      "Representan sus escenas ante el grupo.",
+      "Comenten lo que más les gustó de cada familia.",
+      "Cada niño propone un momento de oración para su familia real."
+    ],
+    "para_los_mas_pequenos": "Que hagan una sola escena guiada por ti.",
+    "para_los_mayores": "Que incluyan a un abuelo o un vecino en la oración.",
+    "cita_biblica": {
+      "referencia": "Mateo 18, 20",
+      "mensaje": "Donde dos o tres se reúnen en mi nombre, allí estoy yo."
+    },
+    "mensaje_final": "Mi familia reza unida."
+  },
+  {
+    "id": "06-027",
+    "modulo": 6,
+    "titulo": "Una Palabra de la Biblia para Hoy",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a rezar con la Palabra de Dios de forma sencilla.",
+    "materiales": [
+      "Una Biblia",
+      "Tarjetas con versículos cortos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee despacio un versículo, por ejemplo: «El Señor es mi pastor, nada me falta».",
+      "Léelo otra vez y pide que cada niño elija una palabra que le guste.",
+      "Cada uno dice su palabra en voz alta.",
+      "Pregunta: ¿Qué te dice Dios con esa palabra?",
+      "Terminen respondiendo a Dios con una oración corta."
+    ],
+    "para_los_mas_pequenos": "Que repitan el versículo y digan si les gusta.",
+    "para_los_mayores": "Que repitan el ejercicio en parejas con otra tarjeta.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 105",
+      "mensaje": "Tu palabra es una lámpara para mis pasos."
+    },
+    "mensaje_final": "Dios me habla en la Biblia."
+  },
+  {
+    "id": "06-028",
+    "modulo": 6,
+    "titulo": "Oraciones Cortitas",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender jaculatorias, oraciones muy cortas para rezar durante el día.",
+    "materiales": [
+      "Tarjetas con jaculatorias («Jesús, en ti confío», «Jesús, José y María, los amo», «Ángel de Dios, cuídame»)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que hay oraciones tan cortas que se pueden rezar en cualquier momento.",
+      "Muestra una tarjeta y repitan la jaculatoria juntos.",
+      "Juega al «eco»: dices la jaculatoria fuerte y los niños la repiten suave, luego al revés.",
+      "Cada niño elige su jaculatoria favorita.",
+      "Anímalos a decirla al despertar, al salir de casa y antes de un examen."
+    ],
+    "para_los_mas_pequenos": "Aprendan solo una jaculatoria.",
+    "para_los_mayores": "Que inventen una jaculatoria propia.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 17",
+      "mensaje": "Recen sin cesar."
+    },
+    "mensaje_final": "Puedo rezar en cualquier momento."
+  },
+  {
+    "id": "06-029",
+    "modulo": 6,
+    "titulo": "El Niño que Pedía con Insistencia",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que Dios quiere que le pidamos con confianza y sin cansarnos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Lee las palabras de Jesús: «Pidan y se les dará, busquen y encontrarán, llamen y se les abrirá».",
+      "Un niño hace de papá o mamá; otro, de hijo que pide algo bueno (un abrazo, ayuda con la tarea).",
+      "El hijo pide con cariño y el papá responde con alegría.",
+      "Lee: si los papás de la tierra dan cosas buenas, ¡cuánto más Dios Padre!",
+      "Cada niño dice algo bueno que quiere pedir a Dios."
+    ],
+    "para_los_mas_pequenos": "Que todos pidan juntos «Papá Dios, ayúdame».",
+    "para_los_mayores": "Que piensen por qué a veces Dios responde de otra manera a lo que pedimos.",
+    "cita_biblica": {
+      "referencia": "Mateo 7, 7",
+      "mensaje": "Pidan y se les dará; busquen y encontrarán; llamen y se les abrirá."
+    },
+    "mensaje_final": "Dios es un Padre que me da lo bueno."
+  },
+  {
+    "id": "06-030",
+    "modulo": 6,
+    "titulo": "Mis Manos Abiertas",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Ofrecer a Dios todo lo que somos con un gesto sencillo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Invita a los niños a sentarse con las manos cerradas sobre las piernas.",
+      "Explica que en las manos cerradas guardamos nuestras preocupaciones.",
+      "Despacio, abran las manos hacia arriba: entregamos a Dios lo que nos preocupa.",
+      "Reza en voz alta: «Señor, te entrego mi día, mis alegrías y mis tristezas».",
+      "Terminen con un momento de silencio y un «Amén»."
+    ],
+    "para_los_mas_pequenos": "Que imiten tu gesto sin cerrar los ojos.",
+    "para_los_mayores": "Que cada uno diga en voz baja qué pone en las manos de Dios.",
+    "cita_biblica": {
+      "referencia": "Salmo 55, 23",
+      "mensaje": "Pon tu carga en las manos del Señor y Él te sostendrá."
+    },
+    "mensaje_final": "Pongo todo en las manos de Dios."
+  },
+  {
+    "id": "06-031",
+    "modulo": 6,
+    "titulo": "Los Salmos, Cantos de Oración",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "5 a 25 niños",
+    "objetivo": "Descubrir que los Salmos son oraciones cantadas de la Biblia.",
+    "materiales": [
+      "Una Biblia",
+      "Hojas con un salmo corto en lenguaje sencillo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que los Salmos son 150 oraciones y cantos que rezaba el pueblo de Israel y también Jesús.",
+      "Lee un salmo corto, por ejemplo el Salmo 117.",
+      "Repartan las frases entre los niños.",
+      "Pongan una melodía sencilla o un ritmo y canten el salmo por turnos.",
+      "Conversen: hay salmos para la alegría, la tristeza, el miedo y el agradecimiento."
+    ],
+    "para_los_mas_pequenos": "Que canten solo el estribillo «¡Alaben al Señor!».",
+    "para_los_mayores": "Que escriban un salmo propio de cuatro líneas.",
+    "cita_biblica": {
+      "referencia": "Salmo 117, 1",
+      "mensaje": "Alaben al Señor todas las naciones."
+    },
+    "mensaje_final": "Canto a Dios con los Salmos."
+  },
+  {
+    "id": "06-032",
+    "modulo": 6,
+    "titulo": "Pasa la Oración",
+    "tipo": "Rompehielos",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Iniciar el encuentro con oración participativa y alegre.",
+    "materiales": [
+      "Un objeto pequeño (una cruz o un corazón de papel)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Pasa el objeto mientras todos cantan o aplauden.",
+      "Cuando digas «¡Alto!», quien tenga el objeto dice una frase de oración corta.",
+      "Todos responden: «Te lo pedimos, Señor» o «Gracias, Señor».",
+      "Sigan hasta que hayan rezado varios niños y terminen con la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Acepta oraciones de una sola palabra: «¡Gracias!».",
+    "para_los_mayores": "Que la frase sea por una necesidad del grupo o del barrio.",
+    "cita_biblica": {
+      "referencia": "Hechos 1, 14",
+      "mensaje": "Todos rezaban juntos con un mismo corazón."
+    },
+    "mensaje_final": "Juntos rezamos mejor."
+  },
+  {
+    "id": "06-033",
+    "modulo": 6,
+    "titulo": "La Lámpara Encendida",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Recordar que la oración mantiene encendida la luz de Dios en nuestro corazón.",
+    "materiales": [
+      "Cartulina",
+      "Papel amarillo y naranja",
+      "Pegamento",
+      "Tijeras de punta redonda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la oración es como el aceite que mantiene encendida una lámpara.",
+      "Cada niño dibuja y recorta una lámpara sencilla de cartulina.",
+      "Peguen una llama de papel amarillo y naranja.",
+      "En la lámpara escriban: «Rezo cada día».",
+      "Llévenla a casa como recordatorio de rezar."
+    ],
+    "para_los_mas_pequenos": "Que peguen la llama en una lámpara ya recortada.",
+    "para_los_mayores": "Que escriban los momentos en que rezarán durante el día.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 105",
+      "mensaje": "Tu palabra es lámpara para mis pies y luz en mi camino."
+    },
+    "mensaje_final": "La oración mantiene viva mi fe."
+  },
+  {
+    "id": "06-034",
+    "modulo": 6,
+    "titulo": "Te Ofrezco mi Día",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender a ofrecer a Dios todo el día desde la mañana.",
+    "materiales": [
+      "Un sol de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el sol y explica que cada mañana es un regalo nuevo de Dios.",
+      "Enseña una oración corta de ofrecimiento: «Jesús, te ofrezco mi día: lo que piense, diga y haga. Ayúdame a ser bueno. Amén».",
+      "Repítanla juntos de pie, con los brazos abiertos como el sol.",
+      "Pasa el sol de mano en mano y que cada niño diga qué quiere ofrecer hoy: la escuela, un juego, ayudar en casa.",
+      "Anímalos a rezarla al despertar."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Jesús, te doy mi día».",
+    "para_los_mayores": "Que escriban el ofrecimiento en una tarjeta para pegar junto a su cama.",
+    "cita_biblica": {
+      "referencia": "Salmo 118, 24",
+      "mensaje": "Este es el día que hizo el Señor: alegrémonos en él."
+    },
+    "mensaje_final": "Cada mañana le regalo mi día a Jesús."
+  },
+  {
+    "id": "06-035",
+    "modulo": 6,
+    "titulo": "Ven, Espíritu Santo",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Aprender a invocar al Espíritu Santo para que nos ayude a rezar y a hacer el bien.",
+    "materiales": [
+      "Una paloma de papel",
+      "Cintas rojas o papeles con forma de llama"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el Espíritu Santo es Dios que vive en nuestro corazón y nos ayuda a rezar.",
+      "Pasa la paloma de papel por el círculo en silencio.",
+      "Quien la recibe dice: «Ven, Espíritu Santo, ayúdame a...» (ser paciente, estudiar, perdonar).",
+      "Todos responden juntos: «¡Ven, Espíritu Santo!» levantando las cintas como llamas.",
+      "Terminen con un momento de silencio."
+    ],
+    "para_los_mas_pequenos": "Que repitan juntos «¡Ven, Espíritu Santo!».",
+    "para_los_mayores": "Que nombren dones del Espíritu Santo que quieren pedir.",
+    "cita_biblica": {
+      "referencia": "Gálatas 4, 6",
+      "mensaje": "Dios envió a nuestros corazones el Espíritu de su Hijo."
+    },
+    "mensaje_final": "El Espíritu Santo me ayuda a rezar."
+  }
+]
