@@ -8,3 +8,4 @@ output/capas_comparativo.png
 __pycache__/
 node_modules/
 video/out/
+video/out_render.log
