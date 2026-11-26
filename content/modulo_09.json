@@ -1,0 +1,867 @@
+[
+  {
+    "id": "09-001",
+    "modulo": 9,
+    "titulo": "La Iglesia Somos Todos",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Descubrir que la Iglesia no es solo un edificio, sino la familia de los que siguen a Jesús.",
+    "materiales": [
+      "Una imagen de una iglesia",
+      "Fotos o dibujos de personas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la imagen del templo y pregunta: ¿Esto es la Iglesia?",
+      "Explica que el edificio es la casa donde se reúne la Iglesia, pero la Iglesia somos las personas bautizadas.",
+      "Pide a todos que se pongan de pie y digan juntos: «¡Nosotros somos la Iglesia!».",
+      "Conversen: ¿Quiénes más forman la Iglesia? Familias, sacerdotes, religiosas, abuelos, niños.",
+      "Terminen rezando por toda la Iglesia del mundo."
+    ],
+    "para_los_mas_pequenos": "Que señalen a sus compañeros diciendo: «¡Tú eres Iglesia!».",
+    "para_los_mayores": "Que expliquen la diferencia entre «iglesia» con minúscula y «Iglesia» con mayúscula.",
+    "cita_biblica": {
+      "referencia": "1 Pedro 2, 5",
+      "mensaje": "Ustedes son piedras vivas con las que se construye la casa de Dios."
+    },
+    "mensaje_final": "Yo soy parte de la Iglesia."
+  },
+  {
+    "id": "09-002",
+    "modulo": 9,
+    "titulo": "Piedras Vivas",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Construir una iglesia con piedras que representan a cada miembro de la comunidad.",
+    "materiales": [
+      "Piedras planas o rectángulos de cartulina gris",
+      "Lápices",
+      "Pegamento",
+      "Papel grande"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que somos «piedras vivas» de la Iglesia.",
+      "Cada niño decora su piedra con su nombre y un dibujo.",
+      "Entre todos, peguen las piedras formando la silueta de una iglesia sobre el papel.",
+      "En la base, escriban «Jesús», la piedra principal.",
+      "Conversen: si falta una piedra, la Iglesia queda incompleta."
+    ],
+    "para_los_mas_pequenos": "Que peguen su piedra con su nombre ya escrito.",
+    "para_los_mayores": "Que agreguen piedras con los nombres de su familia.",
+    "cita_biblica": {
+      "referencia": "Efesios 2, 20",
+      "mensaje": "Están edificados sobre el cimiento de los apóstoles, y Cristo es la piedra principal."
+    },
+    "mensaje_final": "Soy una piedra viva de la Iglesia."
+  },
+  {
+    "id": "09-003",
+    "modulo": 9,
+    "titulo": "Tú Eres Pedro",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer cómo Jesús eligió a Pedro como cabeza de la Iglesia y a sus sucesores, los Papas.",
+    "materiales": [
+      "Una llave grande de cartón"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cuenta que Jesús preguntó a sus discípulos: «¿Quién dicen que soy yo?», y Pedro respondió: «Tú eres el Mesías, el Hijo de Dios vivo».",
+      "Representen la escena con Jesús, Pedro y los discípulos.",
+      "Jesús entrega la llave a Pedro y dice: «Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia».",
+      "Explica que hoy el Papa es el sucesor de Pedro y guía a toda la Iglesia.",
+      "Recen juntos por el Papa."
+    ],
+    "para_los_mas_pequenos": "Que todos sean discípulos y respondan juntos la pregunta de Jesús.",
+    "para_los_mayores": "Que investiguen el nombre del Papa actual y del obispo de su diócesis.",
+    "cita_biblica": {
+      "referencia": "Mateo 16, 18",
+      "mensaje": "Jesús dijo: Tú eres Pedro, y sobre esta piedra edificaré mi Iglesia."
+    },
+    "mensaje_final": "Jesús guía a su Iglesia por medio del Papa."
+  },
+  {
+    "id": "09-004",
+    "modulo": 9,
+    "titulo": "¿Quién Sirve en mi Parroquia?",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer los distintos servicios que hay en la parroquia.",
+    "materiales": [
+      "Tarjetas con dibujos: sacerdote, monaguillo, lector, coro, catequista, sacristán, ministro de la comunión"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra una tarjeta y pregunta: ¿Quién es y qué hace?",
+      "Los niños imitan la acción de cada servidor.",
+      "Jueguen a adivinar: un niño hace la mímica y los demás dicen quién es.",
+      "Pregunta: ¿En cuál servicio te gustaría ayudar algún día?",
+      "Recen por todos los que sirven en la parroquia."
+    ],
+    "para_los_mas_pequenos": "Usa solo sacerdote, coro y catequista.",
+    "para_los_mayores": "Que entrevisten a una persona que sirve en la parroquia.",
+    "cita_biblica": {
+      "referencia": "1 Corintios 12, 5",
+      "mensaje": "Hay diversos servicios, pero el Señor es el mismo."
+    },
+    "mensaje_final": "En mi parroquia todos podemos servir."
+  },
+  {
+    "id": "09-005",
+    "modulo": 9,
+    "titulo": "Recorrido por el Templo",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer los lugares importantes del templo.",
+    "materiales": [
+      "Hoja con dibujos para marcar (altar, ambón, sagrario, pila bautismal, confesionario, cruz)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Visiten el templo en silencio y en fila.",
+      "Entrega la hoja y pide que encuentren cada lugar.",
+      "Al encontrarlo, explícales brevemente para qué sirve.",
+      "Que marquen cada lugar en su hoja.",
+      "Terminen frente al Sagrario con una oración breve."
+    ],
+    "para_los_mas_pequenos": "Que te sigan en fila y señalen cada lugar.",
+    "para_los_mayores": "Que dibujen un plano del templo con los lugares marcados.",
+    "cita_biblica": {
+      "referencia": "Salmo 84, 2",
+      "mensaje": "¡Qué hermosa es tu casa, Señor!"
+    },
+    "mensaje_final": "Conozco la casa de Dios."
+  },
+  {
+    "id": "09-006",
+    "modulo": 9,
+    "titulo": "El Altar, la Mesa de Jesús",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir el altar como la mesa donde Jesús se hace presente en la Misa.",
+    "materiales": [
+      "Cajas pequeñas",
+      "Papel blanco",
+      "Velas y cruz de papel",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el altar es la mesa del sacrificio y del banquete de Jesús, por eso se trata con gran respeto.",
+      "Cada niño cubre su caja con papel blanco como mantel.",
+      "Agreguen dos velas y una cruz de papel.",
+      "Dibujen un cáliz y una patena pequeña sobre el altar.",
+      "Conversen: ¿Por qué el sacerdote besa el altar al comenzar la Misa?"
+    ],
+    "para_los_mas_pequenos": "Que peguen la cruz y las velas en un altar ya armado.",
+    "para_los_mayores": "Que escriban qué ocurre en el altar durante la Misa.",
+    "cita_biblica": {
+      "referencia": "Hebreos 13, 10",
+      "mensaje": "Nosotros tenemos un altar."
+    },
+    "mensaje_final": "En el altar, Jesús se da por amor."
+  },
+  {
+    "id": "09-007",
+    "modulo": 9,
+    "titulo": "El Ambón, Donde Dios Habla",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Comprender que en la Misa Dios nos habla por medio de las lecturas.",
+    "materiales": [
+      "Una mesa alta o atril",
+      "Una Biblia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el ambón es el lugar desde donde se proclama la Palabra de Dios.",
+      "Practiquen ser lectores: un niño se acerca al atril, lee un versículo corto y dice: «Palabra de Dios».",
+      "El grupo responde: «Te alabamos, Señor».",
+      "Para el Evangelio, todos se ponen de pie y responden: «Gloria a ti, Señor Jesús».",
+      "Conversen: ¿Por qué escuchamos en silencio?"
+    ],
+    "para_los_mas_pequenos": "Que solo practiquen las respuestas.",
+    "para_los_mayores": "Que preparen una lectura corta para leer en voz alta con buena entonación.",
+    "cita_biblica": {
+      "referencia": "Romanos 10, 17",
+      "mensaje": "La fe viene de escuchar la Palabra de Cristo."
+    },
+    "mensaje_final": "Escucho a Dios en la Misa."
+  },
+  {
+    "id": "09-008",
+    "modulo": 9,
+    "titulo": "Las Cuatro Partes de la Misa",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Conocer las partes principales de la Misa en orden.",
+    "materiales": [
+      "Cuatro carteles: Ritos iniciales, Liturgia de la Palabra, Liturgia de la Eucaristía, Ritos de conclusión",
+      "Tarjetas con momentos"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca los carteles en orden en la pared.",
+      "Reparte tarjetas: saludo, perdón, lecturas, homilía, ofrendas, consagración, comunión, bendición.",
+      "Cada niño pega su tarjeta bajo la parte correcta.",
+      "Revisen juntos el orden.",
+      "Expliquen: la Misa tiene dos grandes mesas, la de la Palabra y la de la Eucaristía."
+    ],
+    "para_los_mas_pequenos": "Que ordenen solo cuatro tarjetas con dibujos.",
+    "para_los_mayores": "Que expliquen qué hacemos en cada momento.",
+    "cita_biblica": {
+      "referencia": "Lucas 24, 32",
+      "mensaje": "¿No ardía nuestro corazón cuando nos explicaba las Escrituras?"
+    },
+    "mensaje_final": "Conozco y amo la Misa."
+  },
+  {
+    "id": "09-009",
+    "modulo": 9,
+    "titulo": "El Saludo de la Paz",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Practicar el gesto de la paz y comprender su significado.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Misa nos damos la paz antes de la comunión, como signo de que estamos reconciliados.",
+      "Practiquen: dan la mano a los compañeros de al lado diciendo «La paz esté contigo».",
+      "El otro responde: «Y contigo también».",
+      "Conversen: ¿Con quién necesito estar en paz?",
+      "Recuerda que se da la paz a quienes están cerca, sin correr por la iglesia."
+    ],
+    "para_los_mas_pequenos": "Que solo den la mano con una sonrisa.",
+    "para_los_mayores": "Que piensen cómo llevar esa paz a su casa.",
+    "cita_biblica": {
+      "referencia": "Juan 14, 27",
+      "mensaje": "Jesús dijo: La paz les dejo, mi paz les doy."
+    },
+    "mensaje_final": "Llevo la paz de Jesús."
+  },
+  {
+    "id": "09-010",
+    "modulo": 9,
+    "titulo": "Las Respuestas de la Misa",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Aprender las respuestas de la Misa para participar activamente.",
+    "materiales": [
+      "Tarjetas con frases del sacerdote y respuestas"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Di una frase del sacerdote: «El Señor esté con ustedes».",
+      "Los niños responden: «Y con tu espíritu».",
+      "Juega al «eco rápido» con varias frases: «Levantemos el corazón», «Palabra de Dios», «Pueden ir en paz».",
+      "Si alguien se equivoca, todos le ayudan.",
+      "Animalos a responder fuerte en la próxima Misa."
+    ],
+    "para_los_mas_pequenos": "Practiquen solo dos respuestas.",
+    "para_los_mayores": "Que preparen una tarjeta de respuestas para llevar a Misa.",
+    "cita_biblica": {
+      "referencia": "Salmo 34, 4",
+      "mensaje": "Glorifiquen conmigo al Señor, alabemos juntos su nombre."
+    },
+    "mensaje_final": "Participo en la Misa con mi voz."
+  },
+  {
+    "id": "09-011",
+    "modulo": 9,
+    "titulo": "Las Vestiduras del Sacerdote",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer las vestiduras que usa el sacerdote en la Misa.",
+    "materiales": [
+      "Silueta de sacerdote en papel",
+      "Papel de colores",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el sacerdote se viste de forma especial porque actúa en nombre de Jesús.",
+      "Nombra las vestiduras: alba (túnica blanca), estola (banda sobre los hombros) y casulla (vestidura de encima).",
+      "Cada niño viste la silueta pegando cada prenda de papel.",
+      "Escriban el nombre de cada vestidura.",
+      "Recen por los sacerdotes."
+    ],
+    "para_los_mas_pequenos": "Que peguen solo la casulla en una silueta.",
+    "para_los_mayores": "Que investiguen qué significa el alba blanca.",
+    "cita_biblica": {
+      "referencia": "Gálatas 3, 27",
+      "mensaje": "Los que fueron bautizados se revistieron de Cristo."
+    },
+    "mensaje_final": "El sacerdote se reviste para servir a Jesús."
+  },
+  {
+    "id": "09-012",
+    "modulo": 9,
+    "titulo": "Agua Bendita al Entrar",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Aprender el gesto del agua bendita al entrar a la iglesia y su significado.",
+    "materiales": [
+      "Un recipiente con agua (para practicar)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que al entrar a la iglesia tocamos el agua bendita y hacemos la señal de la cruz.",
+      "Cuenta que ese gesto nos recuerda nuestro Bautismo.",
+      "Cada niño moja la punta de los dedos y se persigna despacio.",
+      "Al hacerlo, dice en voz baja: «Gracias, Jesús, por mi Bautismo».",
+      "Practiquen también entrar en silencio y saludar a Jesús en el Sagrario."
+    ],
+    "para_los_mas_pequenos": "Ayúdalos a mojar los dedos y persignarse.",
+    "para_los_mayores": "Que expliquen por qué el agua bendita recuerda el Bautismo.",
+    "cita_biblica": {
+      "referencia": "Ezequiel 36, 25",
+      "mensaje": "Derramaré sobre ustedes un agua pura."
+    },
+    "mensaje_final": "Al entrar a la iglesia, recuerdo mi Bautismo."
+  },
+  {
+    "id": "09-013",
+    "modulo": 9,
+    "titulo": "¿Cómo me Porto en Misa?",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Aprender actitudes de respeto en la Misa.",
+    "materiales": [
+      "Tarjetas con conductas (hablar fuerte, rezar, jugar con el celular, cantar, correr, escuchar)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Marca dos lados: «Así sí» y «Así no».",
+      "Muestra una tarjeta y los niños corren al lado correcto.",
+      "Conversen sobre por qué cada conducta ayuda o no a encontrarnos con Jesús.",
+      "Elijan juntos tres actitudes para vivir en la próxima Misa.",
+      "Terminen con una oración: «Jesús, ayúdame a estar atento en tu Misa»."
+    ],
+    "para_los_mas_pequenos": "Usa tarjetas con dibujos muy claros.",
+    "para_los_mayores": "Que piensen cómo ayudar a un hermano pequeño a portarse bien en Misa.",
+    "cita_biblica": {
+      "referencia": "Eclesiastés 5, 1",
+      "mensaje": "Cuando vayas a la casa de Dios, acércate a escuchar."
+    },
+    "mensaje_final": "En Misa estoy atento a Jesús."
+  },
+  {
+    "id": "09-014",
+    "modulo": 9,
+    "titulo": "El Cirio que Ilumina",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 20,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Conocer el cirio pascual como signo de Cristo resucitado, luz del mundo.",
+    "materiales": [
+      "Tubos de cartón largos",
+      "Papel blanco",
+      "Papel rojo y dorado",
+      "Pegamento"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que el cirio es una vela grande que se enciende en la iglesia y representa a Jesús resucitado.",
+      "Forren el tubo con papel blanco.",
+      "Decoren con una cruz roja, las letras alfa (Α) y omega (Ω) y cinco puntos dorados.",
+      "Explica que alfa y omega significan que Jesús es el principio y el fin.",
+      "Peguen una llama de papel arriba."
+    ],
+    "para_los_mas_pequenos": "Que decoren el cirio solo con una cruz y una llama.",
+    "para_los_mayores": "Que investiguen qué significan los cinco puntos (las llagas de Jesús).",
+    "cita_biblica": {
+      "referencia": "Apocalipsis 22, 13",
+      "mensaje": "Jesús dice: Yo soy el Alfa y la Omega, el principio y el fin."
+    },
+    "mensaje_final": "Jesús resucitado es mi luz."
+  },
+  {
+    "id": "09-015",
+    "modulo": 9,
+    "titulo": "Ofrendas para el Altar",
+    "tipo": "Teatro",
+    "edad": "5+",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Comprender el momento de las ofrendas en la Misa.",
+    "materiales": [
+      "Una canasta",
+      "Pan y vino de papel",
+      "Una alcancía o caja"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Misa se llevan al altar el pan y el vino, y también se hace la colecta para las necesidades de la Iglesia y de los pobres.",
+      "Algunos niños forman la procesión de ofrendas llevando el pan, el vino y la canasta.",
+      "Otro niño hace de sacerdote y recibe las ofrendas.",
+      "Los demás ofrecen en su corazón algo de su vida: sus tareas, su familia, su alegría.",
+      "Conversen: ¿Qué le ofrezco a Jesús en cada Misa?"
+    ],
+    "para_los_mas_pequenos": "Que todos caminen en la procesión con las manos juntas.",
+    "para_los_mayores": "Que piensen por qué es importante colaborar con la colecta.",
+    "cita_biblica": {
+      "referencia": "Romanos 12, 1",
+      "mensaje": "Ofrezcan su vida como ofrenda santa."
+    },
+    "mensaje_final": "Ofrezco mi vida a Jesús en la Misa."
+  },
+  {
+    "id": "09-016",
+    "modulo": 9,
+    "titulo": "Creo en Dios",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Conocer el Credo como la profesión de fe que rezamos en la Misa.",
+    "materiales": [
+      "Tarjetas con frases del Credo"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la Misa decimos juntos lo que creemos: el Credo.",
+      "Reparte las frases principales entre los niños.",
+      "En orden, cada niño lee su frase y todos repiten.",
+      "Agreguen el gesto de inclinarse en la frase sobre la encarnación de Jesús.",
+      "Recen el Credo completo juntos."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Creo en Dios Padre, en Jesús y en el Espíritu Santo».",
+    "para_los_mayores": "Que expliquen con sus palabras una frase del Credo.",
+    "cita_biblica": {
+      "referencia": "Romanos 10, 9",
+      "mensaje": "Si crees con el corazón y lo dices con la boca, serás salvado."
+    },
+    "mensaje_final": "Creo en Dios y lo digo con alegría."
+  },
+  {
+    "id": "09-017",
+    "modulo": 9,
+    "titulo": "Una Familia de Familias",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Descubrir que la parroquia es una comunidad donde nos cuidamos unos a otros.",
+    "materiales": [
+      "Siluetas de casitas de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño dibuja su familia dentro de una casita.",
+      "Peguen todas las casitas alrededor de una iglesia dibujada.",
+      "Explica que la parroquia es una «familia de familias».",
+      "Pregunta: ¿Cómo nos ayudamos en la parroquia? Rezamos, servimos, celebramos.",
+      "Recen por todas las familias de la parroquia."
+    ],
+    "para_los_mas_pequenos": "Que peguen su casita con tu ayuda.",
+    "para_los_mayores": "Que propongan una actividad para unir a las familias del grupo.",
+    "cita_biblica": {
+      "referencia": "Hechos 2, 42",
+      "mensaje": "Eran constantes en escuchar a los apóstoles, en la comunión y en la oración."
+    },
+    "mensaje_final": "Mi parroquia es mi familia en la fe."
+  },
+  {
+    "id": "09-018",
+    "modulo": 9,
+    "titulo": "La Campanita de la Consagración",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Reconocer el momento central de la Misa con respeto.",
+    "materiales": [
+      "Una campanita"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en el momento de la consagración el sacerdote eleva el Cuerpo y la Sangre de Jesús y suena una campanita.",
+      "Practiquen: cuando suene la campanita, todos se arrodillan o inclinan la cabeza en silencio.",
+      "Mezcla otros sonidos (aplausos, palmadas) para ver si distinguen la campanita.",
+      "Al sonar, digan en silencio: «Señor mío y Dios mío».",
+      "Conversen: es el momento más importante de la Misa."
+    ],
+    "para_los_mas_pequenos": "Que solo se arrodillen al escuchar la campanita.",
+    "para_los_mayores": "Que expliquen qué sucede en la consagración.",
+    "cita_biblica": {
+      "referencia": "Juan 20, 28",
+      "mensaje": "Tomás exclamó: ¡Señor mío y Dios mío!"
+    },
+    "mensaje_final": "Adoro a Jesús cuando el sacerdote lo eleva."
+  },
+  {
+    "id": "09-019",
+    "modulo": 9,
+    "titulo": "Los Monaguillos Ayudan",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "6 a 20 niños",
+    "objetivo": "Conocer el servicio de los monaguillos y animarse a servir en el altar.",
+    "materiales": [
+      "Una campanita",
+      "Un libro",
+      "Velas de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que los monaguillos ayudan al sacerdote durante la Misa.",
+      "Asigna tareas: llevar la cruz, las velas, el libro, tocar la campanita.",
+      "Representen una pequeña procesión de entrada en orden.",
+      "El «sacerdote» agradece a cada monaguillo.",
+      "Pregunta: ¿A quién le gustaría ser monaguillo? Informa cómo hacerlo en la parroquia."
+    ],
+    "para_los_mas_pequenos": "Que caminen en procesión con velas de papel.",
+    "para_los_mayores": "Que aprendan el nombre de los objetos que usan los monaguillos.",
+    "cita_biblica": {
+      "referencia": "Salmo 100, 2",
+      "mensaje": "Sirvan al Señor con alegría."
+    },
+    "mensaje_final": "Puedo servir a Jesús en el altar."
+  },
+  {
+    "id": "09-020",
+    "modulo": 9,
+    "titulo": "Canto de Entrada",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender un canto de entrada para participar en la Misa.",
+    "materiales": [
+      "Hoja con la letra de un canto de entrada de la parroquia"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Misa empieza con un canto que nos une como comunidad.",
+      "Enseña la letra y la melodía de un canto conocido en la parroquia.",
+      "Practiquen cantándolo mientras caminan en procesión por el salón.",
+      "Agreguen palmas si el canto es alegre.",
+      "Anímalos a cantarlo fuerte en la próxima Misa."
+    ],
+    "para_los_mas_pequenos": "Que aprendan solo el estribillo.",
+    "para_los_mayores": "Que acompañen con instrumentos caseros.",
+    "cita_biblica": {
+      "referencia": "Salmo 95, 1",
+      "mensaje": "Vengan, cantemos con alegría al Señor."
+    },
+    "mensaje_final": "Canto con la comunidad en la Misa."
+  },
+  {
+    "id": "09-021",
+    "modulo": 9,
+    "titulo": "Santo, Santo, Santo",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender el canto del Santo y descubrir que en la Misa nos unimos a los ángeles.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que antes de la consagración cantamos con los ángeles: «Santo, Santo, Santo».",
+      "Cuenta que el profeta Isaías vio a los ángeles cantando así ante Dios.",
+      "Enseña el canto con la melodía de tu parroquia.",
+      "Cántenlo con las manos juntas y la mirada al frente.",
+      "Conversen: en la Misa el cielo y la tierra se unen."
+    ],
+    "para_los_mas_pequenos": "Que repitan solo «Santo, Santo, Santo».",
+    "para_los_mayores": "Que lean Isaías 6, 3 en la Biblia.",
+    "cita_biblica": {
+      "referencia": "Isaías 6, 3",
+      "mensaje": "Los ángeles cantaban: Santo, santo, santo es el Señor."
+    },
+    "mensaje_final": "En la Misa canto con los ángeles."
+  },
+  {
+    "id": "09-022",
+    "modulo": 9,
+    "titulo": "Mi Misal Infantil",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 25,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Elaborar un pequeño libro con las partes y respuestas de la Misa.",
+    "materiales": [
+      "Hojas dobladas como librito",
+      "Lápices de colores",
+      "Grapadora"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Doblen y grapen varias hojas para formar un librito.",
+      "En cada página, dibujen una parte de la Misa: entrada, perdón, lecturas, ofrendas, consagración, comunión, bendición.",
+      "Escriban la respuesta principal de cada parte.",
+      "Decoren la portada con su nombre y una cruz.",
+      "Llévenlo a la próxima Misa para seguirla."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo cuatro páginas con dibujos.",
+    "para_los_mayores": "Que agreguen las oraciones completas (Gloria, Credo, Santo).",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 105",
+      "mensaje": "Tu palabra es lámpara para mis pasos."
+    },
+    "mensaje_final": "Sigo la Misa con mi corazón y mi librito."
+  },
+  {
+    "id": "09-023",
+    "modulo": 9,
+    "titulo": "¡Aleluya! Viene el Evangelio",
+    "tipo": "Música",
+    "edad": "7+",
+    "duracion_min": 10,
+    "participantes": "5 a 30 niños",
+    "objetivo": "Aprender la aclamación antes del Evangelio y prepararse para escuchar a Jesús.",
+    "materiales": [
+      "Una Biblia o un libro de los Evangelios"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que antes del Evangelio nos ponemos de pie y cantamos «Aleluya» para recibir a Jesús que nos habla.",
+      "Enseña la aclamación con la melodía de tu parroquia.",
+      "Un niño lleva el libro en alto caminando hacia el «ambón» mientras todos cantan de pie.",
+      "Al llegar, enseña a trazar tres pequeñas cruces en la frente, los labios y el pecho diciendo «Gloria a ti, Señor».",
+      "Explica: pedimos que la Palabra esté en nuestra mente, en nuestros labios y en nuestro corazón."
+    ],
+    "para_los_mas_pequenos": "Que canten solo «¡Aleluya!» poniéndose de pie.",
+    "para_los_mayores": "Que expliquen por qué el Evangelio es tan especial en la Misa.",
+    "cita_biblica": {
+      "referencia": "Juan 6, 68",
+      "mensaje": "Pedro dijo: Señor, ¿a quién iremos? Tú tienes palabras de vida eterna."
+    },
+    "mensaje_final": "Me pongo de pie para escuchar a Jesús."
+  },
+  {
+    "id": "09-024",
+    "modulo": 9,
+    "titulo": "Escuchando la Homilía",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Aprender a escuchar la homilía y llevar un mensaje a casa.",
+    "materiales": [
+      "Hojas con tres preguntas",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que en la homilía el sacerdote explica la Palabra de Dios para nuestra vida.",
+      "Lee un Evangelio corto y haz una explicación breve como si fuera una homilía.",
+      "Entrega la hoja con preguntas: ¿De qué habló? ¿Qué frase recuerdo? ¿Qué haré esta semana?",
+      "Los niños responden y comparten.",
+      "Anímalos a usar esta hoja en la próxima Misa."
+    ],
+    "para_los_mas_pequenos": "Que digan una palabra que recuerden.",
+    "para_los_mayores": "Que compartan en casa lo que aprendieron de la homilía.",
+    "cita_biblica": {
+      "referencia": "Lucas 11, 28",
+      "mensaje": "Felices los que escuchan la Palabra de Dios y la cumplen."
+    },
+    "mensaje_final": "Llevo la Palabra de Dios a mi vida."
+  },
+  {
+    "id": "09-025",
+    "modulo": 9,
+    "titulo": "Pueden Ir en Paz",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Comprender que al terminar la Misa somos enviados a vivir lo que celebramos.",
+    "materiales": [
+      "Tarjetas con misiones (ayudar en casa, saludar a un vecino, compartir)"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Misa termina con el envío: «Pueden ir en paz».",
+      "Todos responden: «Demos gracias a Dios».",
+      "Juega a la «salida misionera»: cada niño toma una tarjeta al salir de un «templo» marcado en el suelo.",
+      "Lee su misión en voz alta.",
+      "En el próximo encuentro, cuenten cómo cumplieron su misión."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Demos gracias a Dios» al salir.",
+    "para_los_mayores": "Que inventen misiones para la familia.",
+    "cita_biblica": {
+      "referencia": "Marcos 16, 20",
+      "mensaje": "Los discípulos salieron a predicar, y el Señor los acompañaba."
+    },
+    "mensaje_final": "Salgo de Misa a vivir el amor de Jesús."
+  },
+  {
+    "id": "09-026",
+    "modulo": 9,
+    "titulo": "El Domingo en Familia",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Valorar la participación en la Misa dominical con la familia.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Con quién vas a Misa? ¿Qué es lo que más te gusta?",
+      "Explica que la Misa del domingo es el encuentro semanal de la familia de Dios.",
+      "Conversen: ¿Qué podemos hacer para no faltar? Prepararnos el sábado, despertar temprano.",
+      "Cada niño propone una idea para invitar a su familia.",
+      "Recen por las familias que no van a Misa."
+    ],
+    "para_los_mas_pequenos": "Que digan con quién van a Misa.",
+    "para_los_mayores": "Que preparen una invitación para un familiar.",
+    "cita_biblica": {
+      "referencia": "Hebreos 10, 25",
+      "mensaje": "No dejen de reunirse, como algunos acostumbran."
+    },
+    "mensaje_final": "El domingo voy a Misa con mi familia."
+  },
+  {
+    "id": "09-027",
+    "modulo": 9,
+    "titulo": "Mi Tarjeta de Misa",
+    "tipo": "Manualidad",
+    "edad": "Todas",
+    "duracion_min": 15,
+    "participantes": "4 a 20 niños",
+    "objetivo": "Crear un recordatorio de las actitudes para vivir bien la Misa.",
+    "materiales": [
+      "Cartulina",
+      "Lápices de colores",
+      "Stickers"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño hace una tarjeta con tres dibujos: oídos (escucho), boca (respondo y canto), corazón (rezo).",
+      "Escriban debajo: «En Misa escucho, respondo y rezo».",
+      "Decoren con stickers.",
+      "Plastifiquen con cinta adhesiva si es posible.",
+      "Llévenla a Misa en el bolsillo."
+    ],
+    "para_los_mas_pequenos": "Que coloreen la tarjeta ya dibujada.",
+    "para_los_mayores": "Que agreguen un espacio para escribir una frase de la homilía.",
+    "cita_biblica": {
+      "referencia": "Salmo 122, 1",
+      "mensaje": "¡Qué alegría cuando me dijeron: vamos a la casa del Señor!"
+    },
+    "mensaje_final": "Vivo la Misa con todo mi ser."
+  },
+  {
+    "id": "09-028",
+    "modulo": 9,
+    "titulo": "Oración por la Iglesia",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 10,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Rezar por el Papa, los obispos, los sacerdotes y toda la Iglesia.",
+    "materiales": [
+      "Tarjetas con intenciones"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que la Iglesia está en todo el mundo y necesita nuestra oración.",
+      "Reparte tarjetas: por el Papa, por nuestro obispo, por nuestro párroco, por los misioneros, por los catequistas.",
+      "Cada niño lee su intención y el grupo responde: «Te rogamos, óyenos».",
+      "Terminen rezando un Padre Nuestro tomados de la mano.",
+      "Propón seguir rezando estas intenciones en casa."
+    ],
+    "para_los_mas_pequenos": "Lee tú las intenciones y que respondan.",
+    "para_los_mayores": "Que escriban una intención nueva por la Iglesia.",
+    "cita_biblica": {
+      "referencia": "Efesios 6, 18",
+      "mensaje": "Recen por todos los santos, es decir, por todos los creyentes."
+    },
+    "mensaje_final": "Rezo por mi Iglesia."
+  },
+  {
+    "id": "09-029",
+    "modulo": 9,
+    "titulo": "La Iglesia en Todo el Mundo",
+    "tipo": "Juego",
+    "edad": "7+",
+    "duracion_min": 15,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Descubrir que la Iglesia es católica, es decir, universal, presente en todos los países.",
+    "materiales": [
+      "Un mapa del mundo o globo terráqueo",
+      "Stickers de cruz"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que «católica» significa «universal»: la Iglesia está en todo el mundo.",
+      "Muestra el mapa y pide que coloquen cruces en distintos países.",
+      "Aprendan a decir «Jesús te ama» en otros idiomas (inglés, portugués, italiano).",
+      "Conversen: en cada país se celebra la misma Misa, en distintos idiomas.",
+      "Recen por los cristianos de todo el mundo."
+    ],
+    "para_los_mas_pequenos": "Que pongan stickers donde tú les indiques.",
+    "para_los_mayores": "Que investiguen un santo de otro país.",
+    "cita_biblica": {
+      "referencia": "Mateo 28, 19",
+      "mensaje": "Vayan y hagan discípulos a todos los pueblos."
+    },
+    "mensaje_final": "Mi Iglesia está en todo el mundo."
+  },
+  {
+    "id": "09-030",
+    "modulo": 9,
+    "titulo": "Gracias por mi Comunidad",
+    "tipo": "Rompehielos",
+    "edad": "5+",
+    "duracion_min": 10,
+    "participantes": "6 a 25 niños",
+    "objetivo": "Agradecer a las personas que forman la comunidad parroquial.",
+    "materiales": [
+      "Una pelota blanda"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Lanza la pelota y quien la recibe dice: «Gracias a... de mi parroquia, porque...».",
+      "Pueden nombrar al sacerdote, la catequista, el coro, el sacristán.",
+      "Sigan hasta que todos hayan participado.",
+      "Terminen con una oración por toda la comunidad."
+    ],
+    "para_los_mas_pequenos": "Que digan solo el nombre o el servicio.",
+    "para_los_mayores": "Que escriban notas de gracias para esas personas.",
+    "cita_biblica": {
+      "referencia": "Filipenses 1, 3-4",
+      "mensaje": "Doy gracias a mi Dios cada vez que me acuerdo de ustedes."
+    },
+    "mensaje_final": "Mi comunidad es un regalo de Dios."
+  }
+]
