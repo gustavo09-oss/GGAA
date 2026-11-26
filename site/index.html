@@ -21,7 +21,7 @@
   --cafe:#4A3A2E; --cafe-suave:#7A6656; --cafe-fundo:#3B2F26;
   --terra:#C9704F; --terra-escuro:#A1543A; --terra-suave:#F6E1D6;
   --mostarda:#E2B45A; --mostarda-escuro:#9A7426; --mostarda-suave:#F7EBD0;
-  --salvia:#8FAE8B; --salvia-escuro:#50704C; --branco:#FFFFFF;
+  --salvia:#8FAE8B; --salvia-escuro:#50704C; --salvia-suave:#E4ECDF; --verde:#2F8A3E; --branco:#FFFFFF;
   --f-tit:"Fredoka","Trebuchet MS",sans-serif;
   --f-txt:"Nunito","Segoe UI",system-ui,sans-serif;
 }
@@ -43,7 +43,7 @@ section.bege{background:var(--bege)}
 
 /* Barra de oferta */
 .topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--terra);color:var(--branco);text-align:center;font-weight:800;font-size:14px;padding:9px 12px}
-.topbar b{background:var(--creme);color:var(--terra-escuro);border-radius:7px;padding:1px 9px;margin-left:6px;font-family:var(--f-tit);font-weight:600}
+.topbar b{background:var(--creme);color:var(--verde);border-radius:7px;padding:1px 9px;margin-left:6px;font-family:var(--f-tit);font-weight:600}
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--terra)}
 
 /* Botão */
@@ -58,7 +58,8 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .hero .col{display:grid;gap:18px;justify-items:center}
 .pill{border:2px solid var(--bege-escuro);background:var(--branco);border-radius:999px;padding:5px 16px;font-family:var(--f-tit);font-weight:500;font-size:14px;color:var(--cafe-suave)}
 .hero h1{font-size:clamp(30px,8vw,40px)}
-.hero h1 em{font-style:normal;color:var(--terra)}
+.hero h1 em{font-style:normal;display:block;font-weight:700;font-size:clamp(80px,26vw,116px);line-height:.95;letter-spacing:-.02em;color:var(--terra);text-shadow:5px 5px 0 var(--mostarda)}
+.hl500{color:var(--terra);font-weight:800}
 .hero .lead{font-size:17.5px;color:var(--cafe-suave)}
 .hero .mock{border-radius:22px;box-shadow:0 18px 36px rgba(74,58,46,.2)}
 .hero .btn{width:100%}
@@ -127,8 +128,10 @@ dialog .nav button{border:none;background:var(--creme);color:var(--cafe);border-
 .plan h3{font-size:22px}
 .plan .old{font-size:14px;color:var(--cafe-suave)}
 .plan .old s{text-decoration-color:var(--terra)}
-.plan .price{font-family:var(--f-tit);font-weight:700;font-size:52px;line-height:1;color:var(--cafe)}
-.plan .price sup{font-size:20px;vertical-align:22px;margin-right:3px}
+.plan .price{font-family:var(--f-tit);font-weight:700;font-size:68px;line-height:1;color:var(--verde);background:var(--salvia-suave);border:2px solid var(--salvia);border-radius:20px;padding:16px 10px 14px}
+.plan.prem .price{background:var(--verde);border-color:var(--verde);color:var(--branco);box-shadow:0 8px 20px rgba(47,138,62,.3)}
+.plan .price sup{font-size:22px;vertical-align:30px;margin-right:4px}
+.feat li:first-child{font-weight:800;font-size:16.5px;color:var(--terra-escuro)}
 .plan .once{font-size:13px;color:var(--cafe-suave);margin-top:-8px}
 .feat{list-style:none;margin:0;padding:0;text-align:left;display:grid}
 .feat li{display:grid;grid-template-columns:22px 1fr;gap:6px;padding:8px 0;border-bottom:1px solid var(--bege);font-size:15px}
@@ -181,7 +184,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
     <div class="recv">
       <div class="card">
         <div class="rhead"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A1543A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 5c3-1 6-1 10 1 4-2 7-2 10-1v14c-3-1-6-1-10 1-4-2-7-2-10-1z"/><path d="M12 6v14"/></svg></div><h3>Material completo en PDF</h3></div>
-        <ul class="dots"><li>510 dinámicas para la catequesis católica de niños</li><li>Separadas por sacramento, edad y tipo de actividad</li><li>Todo preparado: abres, lees y aplicas en la parroquia</li></ul>
+        <ul class="dots"><li><span><b class="hl500">+500 dinámicas</b> (510 en total) para la catequesis católica de niños</span></li><li>Separadas por sacramento, edad y tipo de actividad</li><li>Todo preparado: abres, lees y aplicas en la parroquia</li></ul>
       </div>
       <div class="card">
         <div class="rhead"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="#A1543A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="12" height="20" rx="3"/><path d="M11 18h2"/></svg></div><h3>Acceso digital para siempre</h3></div>
@@ -260,13 +263,13 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
         <div class="price"><sup>US$</sup>5</div>
         <p class="once">pago único</p>
         <ul class="feat">
-          <li>510 dinámicas para catequesis de niños</li>
+          <li>+500 dinámicas para catequesis de niños</li>
           <li>11 módulos, organizados por sacramento</li>
           <li>Objetivo, materiales, paso a paso y adaptaciones por edad</li>
           <li>Acceso digital para siempre</li>
           <li>Garantía de 7 días</li>
         </ul>
-        <a class="btn sec" href="#checkout-basico">Quiero el Básico</a>
+        <a class="btn sec" href="#checkout-basico" style="margin-top:2px">Quiero el Básico</a>
       </div>
       <div class="card plan prem">
         <span class="badge">El más elegido</span>
@@ -275,7 +278,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
         <div class="price"><sup>US$</sup>9,90</div>
         <p class="once">pago único</p>
         <ul class="feat">
-          <li>510 dinámicas para catequesis de niños</li>
+          <li>+500 dinámicas para catequesis de niños</li>
           <li>11 módulos, organizados por sacramento</li>
           <li>Objetivo, materiales, paso a paso y adaptaciones por edad</li>
           <li>Acceso digital para siempre</li>
