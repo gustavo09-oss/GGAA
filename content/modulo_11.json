@@ -1,0 +1,818 @@
+[
+  {
+    "id": "11-001",
+    "modulo": 11,
+    "titulo": "El Círculo de la Bendición",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Cerrar el encuentro pidiendo la bendición de Dios para todos.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Formen un círculo tomados de las manos.",
+      "Reza en voz alta: «Señor, bendice a cada uno de estos niños y a sus familias».",
+      "Cada niño aprieta suavemente la mano del compañero de la derecha, pasando la bendición.",
+      "Cuando la «bendición» dé la vuelta completa, todos dicen «Amén».",
+      "Terminen con la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que solo se tomen de las manos mientras tú rezas.",
+    "para_los_mayores": "Que un niño diga la bendición final.",
+    "cita_biblica": {
+      "referencia": "Números 6, 24-26",
+      "mensaje": "Que el Señor te bendiga, te cuide y te dé su paz."
+    },
+    "mensaje_final": "Me voy a casa bendecido por Dios."
+  },
+  {
+    "id": "11-002",
+    "modulo": 11,
+    "titulo": "Una Palabra para Llevar",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Resumir el encuentro en una sola palabra.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Pide que piensen en una palabra que resuma lo vivido hoy.",
+      "Cada niño dice su palabra en voz alta.",
+      "Repite todas las palabras como una pequeña oración.",
+      "Terminen con «Gracias, Señor, por este encuentro»."
+    ],
+    "para_los_mas_pequenos": "Acepta palabras sencillas: «Jesús», «feliz».",
+    "para_los_mayores": "Que expliquen por qué eligieron su palabra.",
+    "cita_biblica": {
+      "referencia": "Lucas 2, 19",
+      "mensaje": "María guardaba todas estas cosas en su corazón."
+    },
+    "mensaje_final": "Me llevo a Jesús en mi corazón."
+  },
+  {
+    "id": "11-003",
+    "modulo": 11,
+    "titulo": "El Compromiso de la Semana",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Elegir una acción concreta para vivir lo aprendido.",
+    "materiales": [
+      "Papelitos",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda brevemente el tema del día.",
+      "Cada niño escribe un compromiso concreto para la semana.",
+      "Lo dobla y lo guarda en su bolsillo.",
+      "Recen juntos: «Jesús, ayúdame a cumplir lo que te prometo».",
+      "En el próximo encuentro, quien quiera cuenta cómo le fue."
+    ],
+    "para_los_mas_pequenos": "Que digan su compromiso en voz alta con tu ayuda.",
+    "para_los_mayores": "Que escriban también cuándo y con quién lo cumplirán.",
+    "cita_biblica": {
+      "referencia": "Santiago 1, 22",
+      "mensaje": "Pongan en práctica la Palabra."
+    },
+    "mensaje_final": "Vivo lo que aprendo."
+  },
+  {
+    "id": "11-004",
+    "modulo": 11,
+    "titulo": "Gracias, Señor, por Hoy",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Agradecer a Dios por el encuentro.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide un momento de silencio.",
+      "Invita a cada niño a decir: «Gracias, Señor, por...».",
+      "El grupo responde: «¡Gracias, Señor!».",
+      "Terminen con la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «¡Gracias, Señor!».",
+    "para_los_mayores": "Que agradezcan por un compañero en particular.",
+    "cita_biblica": {
+      "referencia": "Salmo 136, 1",
+      "mensaje": "Den gracias al Señor, porque es bueno."
+    },
+    "mensaje_final": "Doy gracias a Dios por este día."
+  },
+  {
+    "id": "11-005",
+    "modulo": 11,
+    "titulo": "La Vela de la Despedida",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Terminar el encuentro con un momento de oración tranquila.",
+    "materiales": [
+      "Una vela de papel o una linterna"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la vela en el centro y pide silencio.",
+      "Explica que Jesús es la luz que nos acompaña a casa.",
+      "Reza: «Jesús, luz del mundo, acompáñanos en el camino».",
+      "Cada niño pasa frente a la vela y hace una inclinación de cabeza.",
+      "«Apaga» la vela diciendo: «La luz ahora va en nuestro corazón»."
+    ],
+    "para_los_mas_pequenos": "Que miren la luz en silencio unos segundos.",
+    "para_los_mayores": "Que digan una forma de ser luz en casa.",
+    "cita_biblica": {
+      "referencia": "Juan 8, 12",
+      "mensaje": "Jesús dijo: El que me sigue tendrá la luz de la vida."
+    },
+    "mensaje_final": "La luz de Jesús va conmigo."
+  },
+  {
+    "id": "11-006",
+    "modulo": 11,
+    "titulo": "Abrazo de Paz",
+    "tipo": "Rompehielos",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Despedirse con un gesto de paz y amistad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Formen un círculo.",
+      "Cada niño da un abrazo o la mano a los compañeros de al lado diciendo: «La paz de Jesús».",
+      "Terminen con un gran abrazo grupal.",
+      "Digan juntos: «¡Hasta la próxima, amigos de Jesús!»."
+    ],
+    "para_los_mas_pequenos": "Que den la mano si no quieren abrazar.",
+    "para_los_mayores": "Que se despidan con una frase de ánimo para la semana.",
+    "cita_biblica": {
+      "referencia": "Juan 14, 27",
+      "mensaje": "Jesús dijo: Mi paz les doy."
+    },
+    "mensaje_final": "Me despido con la paz de Jesús."
+  },
+  {
+    "id": "11-007",
+    "modulo": 11,
+    "titulo": "Padre Nuestro de las Manos Unidas",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Cerrar el encuentro con la oración que Jesús nos enseñó.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Formen un círculo y tómense de las manos.",
+      "Recen juntos el Padre Nuestro, despacio.",
+      "Al decir «Amén», levanten las manos unidas.",
+      "Terminen con un aplauso para Dios."
+    ],
+    "para_los_mas_pequenos": "Que repitan cada frase después de ti.",
+    "para_los_mayores": "Que un niño dirija la oración.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 9",
+      "mensaje": "Ustedes recen así: Padre nuestro que estás en el cielo."
+    },
+    "mensaje_final": "Rezo como Jesús me enseñó."
+  },
+  {
+    "id": "11-008",
+    "modulo": 11,
+    "titulo": "Avemaría de Despedida",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Poner el día y la semana en manos de María.",
+    "materiales": [
+      "Una imagen de la Virgen María"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Coloca la imagen en el centro.",
+      "Pide que cada niño piense en alguien por quien quiere rezar.",
+      "Recen juntos un Avemaría.",
+      "Terminen con: «María, cuida a nuestras familias»."
+    ],
+    "para_los_mas_pequenos": "Que repitan la oración frase por frase.",
+    "para_los_mayores": "Que digan en voz alta por quién rezan.",
+    "cita_biblica": {
+      "referencia": "Lucas 1, 28",
+      "mensaje": "Alégrate, llena de gracia, el Señor está contigo."
+    },
+    "mensaje_final": "María me acompaña toda la semana."
+  },
+  {
+    "id": "11-009",
+    "modulo": 11,
+    "titulo": "La Canción del Adiós",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Despedirse con alegría y una canción.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto corto: «Adiós, amigos, Jesús nos acompaña; adiós, amigos, nos vemos otra vez».",
+      "Canten moviendo las manos para despedirse.",
+      "Repitan una vez más con palmas.",
+      "Terminen con un «¡Amén!» gritado con alegría."
+    ],
+    "para_los_mas_pequenos": "Que muevan las manos mientras cantas.",
+    "para_los_mayores": "Que agreguen el nombre de cada niño en una estrofa.",
+    "cita_biblica": {
+      "referencia": "Salmo 121, 8",
+      "mensaje": "El Señor te cuida al salir y al entrar, ahora y siempre."
+    },
+    "mensaje_final": "Jesús va conmigo a todas partes."
+  },
+  {
+    "id": "11-010",
+    "modulo": 11,
+    "titulo": "El Termómetro del Encuentro",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Expresar cómo se vivió el encuentro.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica: brazos abajo significa «no me gustó», a la mitad «más o menos», arriba «¡me encantó!».",
+      "Pregunta: ¿Cómo estuvo el encuentro de hoy?",
+      "Todos levantan los brazos según su respuesta.",
+      "Pregunta a algunos qué fue lo que más les gustó.",
+      "Terminen dando gracias a Dios."
+    ],
+    "para_los_mas_pequenos": "Que muestren una carita con la mano.",
+    "para_los_mayores": "Que propongan una idea para el próximo encuentro.",
+    "cita_biblica": {
+      "referencia": "Salmo 133, 1",
+      "mensaje": "¡Qué bueno es estar juntos como hermanos!"
+    },
+    "mensaje_final": "Me gusta encontrarme con Jesús y mis amigos."
+  },
+  {
+    "id": "11-011",
+    "modulo": 11,
+    "titulo": "La Bendición en la Frente",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Despedir a cada niño con una bendición personal.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Los niños forman una fila.",
+      "Haz una pequeña cruz en la frente de cada uno diciendo: «[Nombre], Dios te bendice».",
+      "Cada niño responde: «Amén».",
+      "Al final, todos hacen la señal de la cruz juntos."
+    ],
+    "para_los_mas_pequenos": "Toma de la mano a los más tímidos.",
+    "para_los_mayores": "Que ellos se bendigan entre sí en parejas.",
+    "cita_biblica": {
+      "referencia": "Salmo 115, 15",
+      "mensaje": "Que el Señor, que hizo el cielo y la tierra, los bendiga."
+    },
+    "mensaje_final": "Dios me bendice por mi nombre."
+  },
+  {
+    "id": "11-012",
+    "modulo": 11,
+    "titulo": "Estrella de la Semana",
+    "tipo": "Manualidad",
+    "edad": "5+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Llevar a casa un recordatorio del encuentro.",
+    "materiales": [
+      "Estrellas de papel",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una estrella a cada niño.",
+      "Escriben o dibujan lo más importante que aprendieron hoy.",
+      "Explica que la pegarán en su cuarto para recordarlo.",
+      "Terminen con una oración breve."
+    ],
+    "para_los_mas_pequenos": "Que dibujen un corazón o una cruz.",
+    "para_los_mayores": "Que escriban un versículo del día.",
+    "cita_biblica": {
+      "referencia": "Daniel 12, 3",
+      "mensaje": "Los que enseñan el bien brillarán como estrellas."
+    },
+    "mensaje_final": "Brillo con lo que aprendo."
+  },
+  {
+    "id": "11-013",
+    "modulo": 11,
+    "titulo": "Un Minuto con Jesús",
+    "tipo": "Reflexión",
+    "edad": "7+",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Vivir un breve momento de silencio con Jesús antes de irse.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que se sienten cómodos y cierren los ojos.",
+      "Di: «Durante un minuto, cuéntale a Jesús lo que viviste hoy».",
+      "Guarden silencio total por un minuto.",
+      "Termina con: «Gracias, Jesús, por escucharme»."
+    ],
+    "para_los_mas_pequenos": "Que el silencio dure 20 segundos.",
+    "para_los_mayores": "Que escriban luego una frase de lo que le dijeron.",
+    "cita_biblica": {
+      "referencia": "Mateo 6, 6",
+      "mensaje": "Habla con tu Padre en lo secreto."
+    },
+    "mensaje_final": "Jesús siempre tiene un minuto para mí."
+  },
+  {
+    "id": "11-014",
+    "modulo": 11,
+    "titulo": "Rezamos los Unos por los Otros",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Despedirse rezando por un compañero.",
+    "materiales": [
+      "Papelitos con los nombres de los niños",
+      "Una bolsa"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Cada niño saca un papelito con el nombre de un compañero.",
+      "Explica que durante la semana rezará por esa persona.",
+      "Recen juntos ahora: «Jesús, cuida a mi compañero».",
+      "Guarden el papelito en el bolsillo."
+    ],
+    "para_los_mas_pequenos": "Saca tú los nombres y díselos en voz baja.",
+    "para_los_mayores": "Que en el próximo encuentro le cuenten que rezaron por él.",
+    "cita_biblica": {
+      "referencia": "Santiago 5, 16",
+      "mensaje": "Recen unos por otros."
+    },
+    "mensaje_final": "Rezo por mis amigos."
+  },
+  {
+    "id": "11-015",
+    "modulo": 11,
+    "titulo": "Ángel de la Guarda, Acompáñame",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Encomendarse al ángel de la guarda para el camino a casa.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Recuerda que cada uno tiene un ángel que lo cuida.",
+      "Recen juntos la oración del Ángel de la Guarda.",
+      "Pide que se despidan diciendo: «Mi ángel me acompaña»."
+    ],
+    "para_los_mas_pequenos": "Que repitan la oración frase por frase.",
+    "para_los_mayores": "Que la recen solos sin ayuda.",
+    "cita_biblica": {
+      "referencia": "Salmo 91, 11",
+      "mensaje": "Dios manda a sus ángeles para que te cuiden en tus caminos."
+    },
+    "mensaje_final": "Mi ángel me acompaña a casa."
+  },
+  {
+    "id": "11-016",
+    "modulo": 11,
+    "titulo": "El Aplauso para Jesús",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Terminar el encuentro con alegría y alabanza.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Explica que vamos a dar un gran aplauso a Jesús por estar con nosotros.",
+      "Empiecen con aplausos suaves y vayan aumentando.",
+      "Al llegar al más fuerte, todos gritan: «¡Gloria a Dios!».",
+      "Terminen con silencio y la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que aplaudan libremente.",
+    "para_los_mayores": "Que inventen un ritmo especial de aplausos.",
+    "cita_biblica": {
+      "referencia": "Salmo 47, 2",
+      "mensaje": "Aplaudan, pueblos todos; aclamen a Dios con gritos de alegría."
+    },
+    "mensaje_final": "¡Gloria a Dios por este día!"
+  },
+  {
+    "id": "11-017",
+    "modulo": 11,
+    "titulo": "La Mochila del Encuentro",
+    "tipo": "Reflexión",
+    "edad": "5+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Elegir qué «guardar» del encuentro para llevar a casa.",
+    "materiales": [
+      "Una mochila"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra la mochila y pregunta: ¿Qué guardamos hoy en nuestra mochila del corazón?",
+      "Cada niño hace el gesto de guardar algo y dice qué es: «Guardo el perdón», «Guardo una canción».",
+      "Cierra la mochila y di: «Todo esto va con nosotros».",
+      "Terminen con una oración breve."
+    ],
+    "para_los_mas_pequenos": "Que digan una sola palabra.",
+    "para_los_mayores": "Que agreguen qué dejarán fuera de la mochila (enojo, pereza).",
+    "cita_biblica": {
+      "referencia": "Proverbios 4, 23",
+      "mensaje": "Cuida tu corazón, porque de él brota la vida."
+    },
+    "mensaje_final": "Llevo en mi corazón lo bueno de hoy."
+  },
+  {
+    "id": "11-018",
+    "modulo": 11,
+    "titulo": "Envío Misionero",
+    "tipo": "Teatro",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Despedirse con la conciencia de ser enviados a llevar a Jesús.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Todos se ponen de pie mirando hacia la puerta.",
+      "Di como el sacerdote: «Vayan a llevar la alegría de Jesús».",
+      "Todos responden: «¡Demos gracias a Dios!».",
+      "Salgan en fila caminando como misioneros, saludando con la mano."
+    ],
+    "para_los_mas_pequenos": "Que salgan tomados de la mano.",
+    "para_los_mayores": "Que digan a quién llevarán a Jesús esta semana.",
+    "cita_biblica": {
+      "referencia": "Marcos 16, 15",
+      "mensaje": "Vayan por todo el mundo y anuncien la Buena Noticia."
+    },
+    "mensaje_final": "Soy misionero de Jesús."
+  },
+  {
+    "id": "11-019",
+    "modulo": 11,
+    "titulo": "El Gloria de Cierre",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Terminar alabando a la Santísima Trinidad.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que se pongan de pie.",
+      "Recen juntos el Gloria con los brazos en alto.",
+      "Terminen con una reverencia y la señal de la cruz."
+    ],
+    "para_los_mas_pequenos": "Que repitan contigo cada frase.",
+    "para_los_mayores": "Que lo canten con una melodía.",
+    "cita_biblica": {
+      "referencia": "Romanos 11, 36",
+      "mensaje": "A Dios la gloria por siempre."
+    },
+    "mensaje_final": "Gloria a Dios, que me ama."
+  },
+  {
+    "id": "11-020",
+    "modulo": 11,
+    "titulo": "Corazón que Pasa",
+    "tipo": "Juego",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Despedirse diciendo algo bueno de un compañero.",
+    "materiales": [
+      "Un corazón de papel"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Sienta a los niños en círculo.",
+      "Pasa el corazón al compañero de la derecha diciendo algo bueno de él.",
+      "Sigan hasta que el corazón vuelva a ti.",
+      "Terminen con un aplauso para todos."
+    ],
+    "para_los_mas_pequenos": "Ayúdales con frases sencillas: «Eres buen amigo».",
+    "para_los_mayores": "Que digan algo que vieron hoy en el encuentro.",
+    "cita_biblica": {
+      "referencia": "1 Tesalonicenses 5, 11",
+      "mensaje": "Anímense y ayúdense unos a otros."
+    },
+    "mensaje_final": "Mis palabras alegran a los demás."
+  },
+  {
+    "id": "11-021",
+    "modulo": 11,
+    "titulo": "Mi Oración Escrita",
+    "tipo": "Manualidad",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Escribir una oración breve como cierre personal.",
+    "materiales": [
+      "Tarjetas pequeñas",
+      "Lápices"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Entrega una tarjeta a cada niño.",
+      "Pide que escriban una oración de una o dos frases para Jesús.",
+      "Pueden decorarla con un pequeño dibujo.",
+      "Quien quiera, la lee en voz alta.",
+      "Llévenla a casa para rezarla antes de dormir."
+    ],
+    "para_los_mas_pequenos": "Que dibujen y tú escribes «Te quiero, Jesús».",
+    "para_los_mayores": "Que incluyan una gracia y una petición.",
+    "cita_biblica": {
+      "referencia": "Salmo 141, 2",
+      "mensaje": "Que mi oración suba a ti como incienso."
+    },
+    "mensaje_final": "Mi oración es un regalo para Jesús."
+  },
+  {
+    "id": "11-022",
+    "modulo": 11,
+    "titulo": "Canto de Bendición",
+    "tipo": "Música",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Despedirse cantando una bendición.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Enseña un canto breve: «Que Dios te bendiga, que Dios te guarde, que Dios te dé su paz».",
+      "Cántenlo mirándose unos a otros.",
+      "Hagan un gesto de bendición con las manos extendidas."
+    ],
+    "para_los_mas_pequenos": "Que hagan solo el gesto mientras cantas.",
+    "para_los_mayores": "Que lo canten en canon, en dos grupos.",
+    "cita_biblica": {
+      "referencia": "Números 6, 24",
+      "mensaje": "El Señor te bendiga y te guarde."
+    },
+    "mensaje_final": "Dios me bendice y me guarda."
+  },
+  {
+    "id": "11-023",
+    "modulo": 11,
+    "titulo": "Semáforo de Salida",
+    "tipo": "Juego",
+    "edad": "5+",
+    "duracion_min": 5,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Repasar en un minuto las ideas principales antes de salir.",
+    "materiales": [
+      "Círculos rojo, amarillo y verde"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Muestra el rojo: cada uno piensa en algo que debe dejar (una mala actitud).",
+      "Muestra el amarillo: piensan en algo que aprendieron.",
+      "Muestra el verde: dicen algo que harán esta semana.",
+      "Salgan en orden con el «semáforo verde»."
+    ],
+    "para_los_mas_pequenos": "Usa solo el verde y que digan algo bueno que harán.",
+    "para_los_mayores": "Que compartan sus respuestas en voz alta.",
+    "cita_biblica": {
+      "referencia": "Salmo 119, 59",
+      "mensaje": "Pensé en mis caminos y volví mis pasos hacia ti."
+    },
+    "mensaje_final": "Salgo listo para hacer el bien."
+  },
+  {
+    "id": "11-024",
+    "modulo": 11,
+    "titulo": "Jaculatoria del Camino",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Llevar una oración corta para repetir durante la semana.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Elige una jaculatoria: «Jesús, en ti confío».",
+      "Repítanla juntos tres veces, cada vez más suave.",
+      "Pide que la digan al despertar y antes de dormir toda la semana."
+    ],
+    "para_los_mas_pequenos": "Que la repitan contigo una vez.",
+    "para_los_mayores": "Que elijan su propia jaculatoria.",
+    "cita_biblica": {
+      "referencia": "Salmo 56, 4",
+      "mensaje": "Cuando tengo miedo, confío en ti."
+    },
+    "mensaje_final": "Jesús, en ti confío."
+  },
+  {
+    "id": "11-025",
+    "modulo": 11,
+    "titulo": "Las Manos que Ayudan",
+    "tipo": "Reflexión",
+    "edad": "Todas",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Comprometer las manos para hacer el bien en la semana.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que miren sus manos.",
+      "Pregunta: ¿A quién ayudarán estas manos esta semana?",
+      "Cada niño dice una idea.",
+      "Junten todas las manos en el centro y digan: «¡Manos al servicio de Jesús!»."
+    ],
+    "para_los_mas_pequenos": "Que solo junten las manos en el centro.",
+    "para_los_mayores": "Que digan una acción concreta y a quién.",
+    "cita_biblica": {
+      "referencia": "Gálatas 5, 13",
+      "mensaje": "Sírvanse unos a otros por amor."
+    },
+    "mensaje_final": "Mis manos ayudan a los demás."
+  },
+  {
+    "id": "11-026",
+    "modulo": 11,
+    "titulo": "El Último Aleluya",
+    "tipo": "Música",
+    "edad": "5+",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Despedirse con un grito de alegría cristiana.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Agáchense todos en cuclillas.",
+      "Empiecen a decir «Aleluya» bajito y vayan subiendo lentamente.",
+      "Al llegar de pie, salten y griten: «¡Aleluya!».",
+      "Terminen con un aplauso."
+    ],
+    "para_los_mas_pequenos": "Hazlo despacio para que todos sigan el ritmo.",
+    "para_los_mayores": "Que un niño dirija el ejercicio.",
+    "cita_biblica": {
+      "referencia": "Salmo 150, 6",
+      "mensaje": "¡Todo lo que respira alabe al Señor! ¡Aleluya!"
+    },
+    "mensaje_final": "Mi corazón canta ¡Aleluya!"
+  },
+  {
+    "id": "11-027",
+    "modulo": 11,
+    "titulo": "Mi Casa Bendecida",
+    "tipo": "Oración",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "4 a 25 niños",
+    "objetivo": "Llevar la bendición de Dios a cada familia.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide que cada niño piense en su familia.",
+      "Extiendan las manos hacia la puerta, como enviando una bendición a sus casas.",
+      "Reza: «Señor, bendice a todas nuestras familias y llénalas de tu amor».",
+      "Todos responden: «Amén»."
+    ],
+    "para_los_mas_pequenos": "Que extiendan las manos mientras tú rezas.",
+    "para_los_mayores": "Que nombren a su familia en voz baja.",
+    "cita_biblica": {
+      "referencia": "Hechos 16, 31",
+      "mensaje": "Cree en el Señor Jesús y serás salvo tú y tu familia."
+    },
+    "mensaje_final": "Llevo la bendición de Dios a mi casa."
+  },
+  {
+    "id": "11-028",
+    "modulo": 11,
+    "titulo": "Cadena de Gracias Final",
+    "tipo": "Rompehielos",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "6 a 30 niños",
+    "objetivo": "Agradecer a los compañeros antes de irse.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Formen un círculo.",
+      "Cada niño agradece al compañero de la izquierda por algo de hoy.",
+      "Sigan hasta completar la vuelta.",
+      "Terminen con un «¡Gracias, Señor, por mis amigos!»."
+    ],
+    "para_los_mas_pequenos": "Que digan solo «Gracias, amigo».",
+    "para_los_mayores": "Que agradezcan algo concreto que el compañero hizo.",
+    "cita_biblica": {
+      "referencia": "Colosenses 3, 15",
+      "mensaje": "Sean agradecidos."
+    },
+    "mensaje_final": "Agradezco a mis amigos."
+  },
+  {
+    "id": "11-029",
+    "modulo": 11,
+    "titulo": "Silencio y Señal de la Cruz",
+    "tipo": "Oración",
+    "edad": "Todas",
+    "duracion_min": 3,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Terminar con un gesto sencillo de fe y recogimiento.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pide silencio total.",
+      "Cuenta lentamente hasta cinco mientras todos respiran profundo.",
+      "Hagan juntos la señal de la cruz, despacio y con atención.",
+      "Terminen con un «Amén» suave."
+    ],
+    "para_los_mas_pequenos": "Que hagan la señal de la cruz guiados por tu mano.",
+    "para_los_mayores": "Que expliquen qué dicen con la señal de la cruz.",
+    "cita_biblica": {
+      "referencia": "Salmo 46, 11",
+      "mensaje": "Quédense quietos y reconozcan que yo soy Dios."
+    },
+    "mensaje_final": "Termino todo en el nombre de Dios."
+  },
+  {
+    "id": "11-030",
+    "modulo": 11,
+    "titulo": "Nos Vemos en la Misa",
+    "tipo": "Teatro",
+    "edad": "7+",
+    "duracion_min": 5,
+    "participantes": "4 a 30 niños",
+    "objetivo": "Invitar a los niños a encontrarse en la Misa del domingo.",
+    "materiales": [
+      "Sin materiales"
+    ],
+    "preparacion": "",
+    "pasos": [
+      "Pregunta: ¿Dónde nos encontramos los cristianos cada domingo?",
+      "Representen un breve diálogo: «¿Vienes a Misa?», «¡Sí, con mi familia!».",
+      "Cada niño invita a un compañero con esa frase.",
+      "Terminen diciendo juntos: «¡Nos vemos en la Misa!»."
+    ],
+    "para_los_mas_pequenos": "Que repitan juntos la frase final.",
+    "para_los_mayores": "Que digan a qué hora y en qué parroquia irán.",
+    "cita_biblica": {
+      "referencia": "Hebreos 10, 25",
+      "mensaje": "No dejemos de reunirnos."
+    },
+    "mensaje_final": "El domingo me encuentro con Jesús en la Misa."
+  }
+]
