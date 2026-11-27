@@ -9,11 +9,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap">
-<!--
-  LINKS DE CHECKOUT: troque os dois href pelos links da Hotmart/Kiwify.
-    #checkout-basico   -> plano Básico (US$ 5)
-    #checkout-premium  -> plano Premium (US$ 9,90)
--->
+<!-- Meta Pixel -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init','1767794271186485');fbq('track','PageView');
+</script>
 <style>
 /* Layout: uma coluna estreita (estilo página de vendas mobile), seções alternando creme e bege. Paleta do PDF. */
 :root{
@@ -160,6 +160,8 @@ footer{background:var(--cafe-fundo);color:var(--bege-medio);text-align:center;pa
 footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--creme);font-size:18px;margin-bottom:4px}
 @media (max-width:380px){.grid2{grid-template-columns:minmax(0,1fr)}.guar{grid-template-columns:1fr;justify-items:center;text-align:center}}
 </style>
+
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=1767794271186485&amp;ev=PageView&amp;noscript=1"></noscript>
 </head>
 <body>
 <div class="topbar">Oferta de lanzamiento <b>desde US$ 5</b></div>
@@ -268,7 +270,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
           <li>Acceso digital para siempre</li>
           <li>Garantía de 7 días</li>
         </ul>
-        <a class="btn sec" href="#checkout-basico" style="margin-top:2px">Quiero el Básico</a>
+        <a class="btn sec checkout" href="https://pay.cakto.com.br/gdd4wr9_1377723" data-valor="5" data-nombre="Plan Básico" style="margin-top:2px">Quiero el Básico</a>
       </div>
       <div class="card plan prem">
         <span class="badge">El más elegido</span>
@@ -287,7 +289,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
           <li class="bn2">Bono 3: Dinámicas para Fechas Litúrgicas</li>
           <li class="bn2">Bono 4: Guía de Oración para Cada Encuentro</li>
         </ul>
-        <a class="btn" href="#checkout-premium">Quiero el Premium</a>
+        <a class="btn checkout" href="https://pay.cakto.com.br/33my7mg_1377724" data-valor="9.90" data-nombre="Plan Premium">Quiero el Premium</a>
       </div>
     </div>
   </div>
@@ -334,6 +336,13 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
 </footer>
 
 <script>
+(function(){
+  // Checkout: evento do pixel + repassa UTMs do anúncio para a Cakto
+  document.querySelectorAll('a.checkout').forEach(function(a){
+    if(location.search){var u=new URL(a.href);new URLSearchParams(location.search).forEach(function(v,k){u.searchParams.set(k,v)});a.href=u.toString();}
+    a.addEventListener('click',function(){if(window.fbq)fbq('track','InitiateCheckout',{value:parseFloat(a.dataset.valor),currency:'USD',content_name:a.dataset.nombre});});
+  });
+})();
 (function(){
   var d=document.getElementById('zoom'),b=document.getElementById('ver');
   if(!d||!d.showModal||!b)return;
