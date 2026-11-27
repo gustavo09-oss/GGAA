@@ -340,7 +340,7 @@ footer b{display:block;font-family:var(--f-tit);font-weight:600;color:var(--crem
   // Checkout: evento do pixel + repassa UTMs do anúncio para a Cakto
   document.querySelectorAll('a.checkout').forEach(function(a){
     if(location.search){var u=new URL(a.href);new URLSearchParams(location.search).forEach(function(v,k){u.searchParams.set(k,v)});a.href=u.toString();}
-    a.addEventListener('click',function(){if(window.fbq)fbq('track','InitiateCheckout',{value:parseFloat(a.dataset.valor),currency:'USD',content_name:a.dataset.nombre});});
+    a.addEventListener('click',function(){if(window.fbq)fbq('track','AddToCart',{value:parseFloat(a.dataset.valor),currency:'USD',content_name:a.dataset.nombre});});
   });
 })();
 (function(){
